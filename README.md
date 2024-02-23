@@ -117,14 +117,14 @@ If you have a new data source that you'd like to contribute or see added to the 
 
 If the data of interest is in a PDF table, please also share. We will mark it with an additional tag and consider scraping it. 
 
-## 🪪 License 
+<!-- ## 🪪 License  -->
 
 
 <!-- ## Disclaimer
 
 This project is provided "as-is" with no warranties or guarantees. Use it at your own risk. The maintainers and contributors are not responsible for any damages or liabilities related to the use, modification, or distribution of this project. -->
 
-## 🙏 Acknoweldgements
+## 🙏 Acknowledgments
 
 We acknowledge the support of the Bill and Melinda Gates Foundation. 
 
