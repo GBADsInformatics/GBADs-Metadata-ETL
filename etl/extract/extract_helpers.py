@@ -1,0 +1,119 @@
+import requests
+import pandas as pd
+import json
+import csv
+import boto3
+import sys
+import datetime
+
+class s3Helpers:
+
+    @staticmethod
+    def create_resource(path_auth): 
+
+        """ 
+        Takes path to authentification info (txt file) and creates boto3 resource 
+        """
+
+        # Open auth access key 
+        f = open(path_auth, "r")
+        for line in f: 
+            if 'aws_access_key_id' in line:
+                mykey = line.rstrip('\n').split('=')[1]
+            if 'aws_secret_access_key' in line: 
+                mysecretkey = line.rstrip('\n').split('=')[1]
+
+        s3 = boto3.resource(
+            service_name='s3',
+            region_name='ca-central-1',
+            aws_access_key_id=mykey,
+            aws_secret_access_key=mysecretkey
+        )
+
+        return(s3)
+
+    @staticmethod    
+    def get_all_buckets(s3):
+        for bucket in s3.buckets.all():
+            print(bucket.name) 
+
+    @staticmethod
+    def get_all_objects(s3, bucket_name, out_path):
+
+        """
+        For a given bucket, get all objects 
+        Returns object size, key, and date that it was last modified 
+        """
+
+        bucket = s3.Bucket(bucket_name)
+
+        data = {}
+
+        for obj in bucket.objects.all():
+
+            if obj.size > 0:
+
+                name = obj.key[4:-4]
+                date = obj.last_modified
+                date = str(datetime.date(date))
+                contentUrl = '%s/%s' % ('https://gbads-eth.s3.ca-central-1.amazonaws.com', obj.key)
+                data[name] = {'size': obj.size, 'contentUrl': contentUrl, 'lastModified': date}
+
+        with open(out_path, 'w') as f:
+            json.dump(data, f, indent=2)
+
+
+class GBADsAPI: 
+
+    @staticmethod
+    def get_content_size(url):
+
+        r = requests.get(url)
+        content_size = len(r.content)
+        
+        return(content_size)
+
+    @staticmethod
+    def construct_api_call(table_name): 
+
+        base_url = 'https://gbadske.org/api/GBADsPublicQuery/'
+        query = '?fields=*&query=&format=html'
+        url = '%s%s%s' % (base_url, table_name, query)
+
+        return(url)
+
+    @staticmethod
+    def test_call(url): 
+
+        r = requests.get(url)
+        if r.status_code == 404:
+            return(0)
+        else: 
+            return(1)
+
+    @staticmethod
+    def make_call(url): 
+
+        with requests.Session() as s:
+            download = s.get(url)
+
+            decoded_content = download.content.decode('utf-8')
+
+            cr = csv.reader(decoded_content.splitlines(), delimiter=',')
+            my_list = list(cr)
+
+        return(my_list)
+
+    @staticmethod
+    def get_eth_tbls():
+            
+        eth_tbl_url = 'http://gbadske.org/api/GBADsTables/public?format=text'
+        
+        tbls = GBADsAPI.make_call(eth_tbl_url)
+        
+        tbls = pd.Series(tbls[0])
+
+        # Get a list of all tables that start with Eth region
+        eth_tbls = tbls[tbls.str.contains('eth_region')]
+
+        return(eth_tbls)
