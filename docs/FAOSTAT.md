@@ -46,7 +46,3 @@ The fenix services Metadata link provides complete metadata information in json 
 ## Information from datasets 
 
 In addition to the metadata, we need a list of species that are provided in the data, the countries that they are provided for, and the years that data are available for. 
-
-### Format of datasets
-
-### Harmonizing country names 
