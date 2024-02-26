@@ -12,6 +12,18 @@ FAO_RAW_DIR = '../../data/raw/faostat/'
 
 def get_metadata(domain_code, lang='en', outdir = FAO_RAW_DIR):
 
+    """
+    Get metadata for a specified domain code and save it as a JSON file.
+
+    Parameters:
+        domain_code (str): The code representing the domain code from FAOSTAT.
+        lang (str, optional): Language code for the metadata (default is 'en'). Not entirely sure which languages are actually supported.
+        outdir (str, optional): The directory path to save the file (default is FAO_RAW_DIR).
+
+    Returns:
+        None
+    """
+
     url = '{}/{}/metadata/{}'.format(FAO_URL,lang,domain_code)
     time = datetime.today().strftime('%Y%m%d')
     outfile_path = '{}{}_{}_metadata.json'.format(outdir, time, domain_code)
@@ -29,6 +41,16 @@ def get_metadata(domain_code, lang='en', outdir = FAO_RAW_DIR):
 
 def get_db_dump(outdir = FAO_RAW_DIR):
 
+    """
+    Get database description from FAOSTAT and save it as a JSON file.
+
+    Parameters:
+        outdir (str, optional): The directory path to save the file (default is FAO_RAW_DIR).
+
+    Returns:
+        None
+    """
+
     time = datetime.today().strftime('%y%m%d')
     outfile_path = '{}{}_dump.json'.format(outdir, time)
 
@@ -43,6 +65,16 @@ def get_db_dump(outdir = FAO_RAW_DIR):
         json.dump(data, json_file)
 
 def get_areagroup(outdir = FAO_RAW_DIR, lang = 'en'):
+    """
+    Get area group codes used by FAOSTAT and save them as a json file.
+
+    Parameters:
+        lang (str, optional): Language code for the metadata (default is 'en'). Not entirely sure which languages are actually supported.
+        outdir (str, optional): The directory path to save the file (default is FAO_RAW_DIR).
+
+    Returns:
+        None
+    """
 
     url = '{}/{}/definitions/types/areagroup'.format(FAO_URL,lang)
     
@@ -59,6 +91,17 @@ def get_areagroup(outdir = FAO_RAW_DIR, lang = 'en'):
         json.dump(data, json_file)    
 
 def get_itemcodes(domain_code, lang = 'en', outdir = FAO_RAW_DIR):
+    """
+    Get item codes for a specified domain code and save them in a JSON file.
+
+    Parameters:
+        domain_code (str): The code representing the domain code from FAOSTAT.
+        lang (str, optional): Language code for the metadata (default is 'en'). Not entirely sure which languages are actually supported.
+        outdir (str, optional): The directory path to save the file (default is FAO_RAW_DIR).
+
+    Returns:
+        None
+    """
 
     url = '{}/{}/definitions/domain/{}/item'.format(FAO_URL, lang, domain_code)
 
@@ -77,6 +120,19 @@ def get_itemcodes(domain_code, lang = 'en', outdir = FAO_RAW_DIR):
     
 
 def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_RAW_DIR):  
+    """
+    Get data for a specified domain and area code, and save it as a JSON or csv file.
+
+    Parameters:
+        domain_code (str): The code representing the domain code from FAOSTAT.
+        area_code (str): The code representing the area of interest from FAOSTAT. Use the get_areagroup function to find all area codes.
+        format (str, optional): Format of outfile (default is csv). Accepted values include json or csv.
+        lang (str, optional): Language code for the metadata (default is 'en'). Not entirely sure which languages are actually supported.
+        outdir (str, optional): The directory path to save the file (default is FAO_RAW_DIR).
+
+    Returns:
+        None
+    """
 
     if format not in ['json','csv']:
         print('Invalid format: {}. Accepted formats for outfile include csv or json.')
