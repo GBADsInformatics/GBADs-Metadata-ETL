@@ -53,7 +53,7 @@ def get_db_dump(outdir = FAO_RAW_DIR):
         None
     """
 
-    time = datetime.today().strftime('%y%m%d')
+    time = datetime.today().strftime('%Y%m%d')
     outfile_path = '{}{}_dump.json'.format(outdir, time)
 
     try:
@@ -82,7 +82,7 @@ def get_areagroup(outdir = FAO_RAW_DIR, lang = 'en'):
 
     url = '{}/{}/definitions/types/areagroup'.format(FAO_URL,lang)
     
-    time = datetime.today().strftime('%y%m%d')
+    time = datetime.today().strftime('Y%m%d')
     outfile_path = '{}{}_areacodes.json'.format(outdir, time)
 
     try:
@@ -111,7 +111,7 @@ def get_itemcodes(domain_code, lang = 'en', outdir = FAO_RAW_DIR):
 
     url = '{}/{}/definitions/domain/{}/item'.format(FAO_URL, lang, domain_code)
 
-    time = datetime.today().strftime('%y%m%d')
+    time = datetime.today().strftime('%Y%m%d')
     outfile_path = '{}{}_{}_itemcodes.json'.format(outdir, time, domain_code)
 
     try:
@@ -148,7 +148,7 @@ def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_R
 
     url = '{}/{}/data/{}?area={}'.format(FAO_URL, lang, domain_code, area_code)
     
-    time = datetime.today().strftime('%y%m%d')
+    time = datetime.today().strftime('%Y%m%d')
     outfile_path = '{}{}_{}_{}.{}'.format(time, lang, domain_code, area_code, format)
 
     try:
