@@ -8,7 +8,7 @@ import csv
 FAO_URL     = 'https://fenixservices.fao.org/faostat/api/v1/'
 FAO_CODES   = ['QCL','GLE']
 FAO_DUMP    = 'https://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json'
-FAO_RAW_DIR = '../../data/raw/faostat/'
+FAO_RAW_DIR = '../data/raw/faostat/'
 
 def get_metadata(domain_code, lang='en', outdir = FAO_RAW_DIR):
 
@@ -38,6 +38,8 @@ def get_metadata(domain_code, lang='en', outdir = FAO_RAW_DIR):
     with open(outfile_path, 'w') as json_file:
         json.dump(data, json_file)
     
+    print('Metadata from url: {} downloaded and saved in {}'.format(url, outfile_path))
+    
 
 def get_db_dump(outdir = FAO_RAW_DIR):
 
@@ -63,6 +65,8 @@ def get_db_dump(outdir = FAO_RAW_DIR):
 
     with open(outfile_path, 'w') as json_file:
         json.dump(data, json_file)
+    
+    print('FAOSTAT database dump successfully downloaded from: {}'.format(FAO_DUMP))
 
 def get_areagroup(outdir = FAO_RAW_DIR, lang = 'en'):
     """
@@ -88,7 +92,9 @@ def get_areagroup(outdir = FAO_RAW_DIR, lang = 'en'):
         print('Error getting db dump:', e)
 
     with open(outfile_path, 'w') as json_file:
-        json.dump(data, json_file)    
+        json.dump(data, json_file)   
+
+    print('Area groups downloaded from: {}'.format(url)) 
 
 def get_itemcodes(domain_code, lang = 'en', outdir = FAO_RAW_DIR):
     """
@@ -117,6 +123,8 @@ def get_itemcodes(domain_code, lang = 'en', outdir = FAO_RAW_DIR):
 
     with open(outfile_path, 'w') as json_file:
         json.dump(data, json_file)  
+    
+    print('Item codes for {} downloaded from {}'.format(domain_code, url))
     
 
 def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_RAW_DIR):  
