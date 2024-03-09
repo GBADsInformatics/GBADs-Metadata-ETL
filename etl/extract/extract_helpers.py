@@ -6,6 +6,8 @@ import boto3
 import sys
 import datetime
 
+GEO_TBLS = "https://gbadske.org/api/GBADsPublicQuery/un_geo_codes?fields=*&query=&format=text"
+
 class s3Helpers:
 
     @staticmethod

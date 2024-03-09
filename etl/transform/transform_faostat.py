@@ -3,35 +3,43 @@ import json
 from datetime import datetime
 import csv
 import sys
+from validations import validate_metadata as vm
+from pydantic import ValidationError
+from validators import url
+
+FAO_QCL_S3 = "https://gbads-tables.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_faostat.csv"
+FAO_GLE_S3 = "https://gbads-tables.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_faostat.csv"
+FAO_GLE_GBADS_API = "https://gbadske.org/api/GBADsPublicQuery/livestock_countries_population_unfccc?fields=year,population,country,species,flag&query=&format=text"
+FAO_QCL_GBADS_API = "https://gbadske.org/api/GBADsPublicQuery/livestock_countries_population_faostat?fields=year,population,iso3,country,species,flag&query=&format=text"
+FAO_GLE_TBL = "livestock_countries_population_unfccc"
+FAO_QCL_TBL = "livestock_countries_population_faostat"
 
 def load_from_json(json_file_path):
-
+    # This should probably go in another module as a general-use function
     with open(json_file_path, 'r') as file:
         dataset = json.load(file)
 
     return dataset
 
-def struct_dump(db_dump, domain_code):
+def struct_DataDownload(db_dump, domain_code):
 
     datasets = db_dump.get('Datasets', {}).get('Dataset', [])
 
     for dataset in datasets: 
         if dataset['DatasetCode'] == domain_code:
-            distribution = {
+            DataDownload = {
                 'name': dataset['DatasetName'],
-                'domainCode': dataset['DatasetCode'],
                 'contentUrl': dataset['FileLocation'],
                 'size': dataset['FileSize'],
                 'encodingFormat': dataset['FileType']
             }
-            return(distribution)
+            return(DataDownload)
 
 def struct_metadata(metadata, domain_code):
 
     metadata_fields = metadata.get('data', {})
 
     metadata_filtered = {}
-
 
     for i in metadata_fields:
         if 'metadata_text' in i:
@@ -55,8 +63,19 @@ def struct_metadata(metadata, domain_code):
 
     return(out_metadata, organization)
 
-#df = load_from_json('../../data/raw/faostat/20240226_dump.json')
-#distribution = struct_dump(df, 'QCL')
+df = load_from_json('../../data/raw/faostat/20240226_dump.json')
+DataDownload_QCL = struct_DataDownload(df, 'QCL')
+DataDownload_GLE = struct_DataDownload(df, 'GLE')
 
-#df = load_from_json('../../data/raw/faostat/20240226_GLE_metadata.json')
-#struct_metadata(df, 'GLE')
+try:
+    # Create instances of models
+    dataset = vm.DataDownload(**DataDownload_GLE)
+    print(dataset)
+except ValidationError as e:
+    print(e)
+
+
+# df = load_from_json('../../data/raw/faostat/20240226_GLE_metadata.json')
+# metadata_GLE = struct_metadata(df, 'GLE')
+# print(metadata_GLE)
+# print(distribution_GLE)
