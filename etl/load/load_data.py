@@ -11,7 +11,7 @@ def read_db_config(filename='config.ini', section='database'):
         parser.read(filename)
     else:
         try:
-            filename='../app/core/config.ini'
+            filename='./load/config.ini'
             parser = configparser.ConfigParser()
             parser.read(filename)
         except: 
@@ -34,9 +34,9 @@ def load_country(data, driver):
             print(d)
             query = (
                 """
-                MERGE (a:Country {name: $Name})
-                a.ISO2 = CASE WHEN $iso2 IS NOT NULL THEN $iso2 ELSE a.ISO2 END
-                a.alternativeName = CASE WHEN $alternativeName IS NOT NULL THEN $alternativeName ELSE a.alternativeName END
+                MERGE (a:Country {name: $name})
+                SET a.ISO2 = CASE WHEN $iso2 IS NOT NULL THEN $iso2 ELSE a.ISO2 END
+                SET a.alternativeName = CASE WHEN $alternativeName IS NOT NULL THEN $alternativeName ELSE a.alternativeName END
                 SET a.ISO3 = $iso3
                 """
             )

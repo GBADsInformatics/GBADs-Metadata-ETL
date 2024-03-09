@@ -3,7 +3,7 @@ import json
 import sys 
 from datetime import datetime
 from extract import extract_helpers as eh
-from load import load
+from load import load_data, database
 from transform.validations import validate_metadata as vm
 
 data_dir = '../data/'
@@ -45,3 +45,5 @@ if errors > 1:
     sys.exit(-1)
 
 # Load
+driver = database.get_db_driver()
+load_data.load_country(df_dict, driver)
