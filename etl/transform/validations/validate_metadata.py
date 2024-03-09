@@ -4,6 +4,20 @@ from validators import url
 import sys
 import requests
 
+def validate_url(value:str) -> str:
+    # First check in valid url
+    if url(value) == 'False':
+        raise ValueError("Validation Failed: Invalid URL")
+        sys.exit(-1)
+    # Now check url response status
+    try:
+        response = requests.head(value)
+        response.raise_for_status()
+    except requests.RequestException as e:
+        raise ValueError("Validation Failed: Could not download data from URL")
+        sys.exit(-1)
+    return(value)
+
 class Dataset(BaseModel):
     name: str
     description: str
@@ -25,10 +39,8 @@ class Organization(BaseModel):
     url: str
 
     @validator("url", pre=True)
-    def validate_url(cls, value:str) -> str:
-        if not url(value):
-            return("Unknown")
-        return(value)
+    def validate_org_url(cls, value:str) -> str:
+        return(validate_url(value))
 
 class DataDownload(BaseModel):
     # Should we also be testing against a controlled vocab? 
@@ -38,19 +50,8 @@ class DataDownload(BaseModel):
     encodingFormat: str
 
     @validator("contentUrl", pre=True)
-    def validate_url(cls, value:str) -> str:
-        # First check in valid url
-        if url(value) == 'False':
-            raise ValueError("Validation Failed: Invalid URL")
-            sys.exit(-1)
-        # Now check url response status
-        try:
-            response = requests.head(value)
-            response.raise_for_status()
-        except requests.RequestException as e:
-            raise ValueError("Validation Failed: Could not download data from URL")
-            sys.exit(-1)
-        return(value)
+    def validate_content_url(cls, value:str) -> str:
+        return(validate_url(value))
 
     # @validator("size", pre=True)
     # def validate_size(cls, value:str) -> str:
