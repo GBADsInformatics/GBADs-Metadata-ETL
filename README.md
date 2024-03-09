@@ -89,6 +89,11 @@ Therefore, each data source has a unique directory in the `data/` directory.
 
 FIXME add more info about actual schema validation
 
+### Nodes
+
+DataDownload: https://schema.org/DataDownload
+
+
 ## 🔎 Example Queries
 
 This repository is linked to the [GBADs-Metadata-API](https://github.com/GBADsInformatics/GBADs-Metadata-API) repository, which provides queries, tools, and tests to query the graph database.

@@ -7,11 +7,14 @@ There are 3 sources of livestock population data from FAOSTAT:
 Domain: Production/Crops and livestock products
 Elements: Stocks
 URL: https://www.fao.org/faostat/en/#data/QCL
+* This data source is available at: "https://gbads-tables.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_faostat.csv"
 
 Domain: Climate Change: Agrifood system emissions/Emissions from Livestock
 Elements: Stocks
 FAO SOURCE: FAO TIER 1
 URL: https://www.fao.org/faostat/en/#data/GLE
+* This data source is available at: "https://gbads-tables.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_faostat.csv"
+* "https://gbadske.org/api/GBADsPublicQuery/livestock_countries_population_unfccc?fields=year,population,country,species,flag&query=&format=text"
 
 Domain: Climate Change: Agrifood system emissions/Emissions from Livestock
 Elements: Stocks
@@ -46,3 +49,7 @@ The fenix services Metadata link provides complete metadata information in json 
 ## Information from datasets 
 
 In addition to the metadata, we need a list of species that are provided in the data, the countries that they are provided for, and the years that data are available for. 
+
+## Other useful links: 
+
+https://www.fao.org/statistics/caliper/tools/download/en
