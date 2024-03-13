@@ -8,7 +8,7 @@ import csv
 FAO_URL     = 'https://fenixservices.fao.org/faostat/api/v1/'
 FAO_CODES   = ['QCL','GLE']
 FAO_DUMP    = 'https://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json'
-FAO_RAW_DIR = '../data/raw/faostat/'
+FAO_RAW_DIR = 'data/raw/faostat/'
 
 def get_metadata(domain_code, lang='en', outdir = FAO_RAW_DIR):
 
@@ -125,7 +125,34 @@ def get_itemcodes(domain_code, lang = 'en', outdir = FAO_RAW_DIR):
         json.dump(data, json_file)  
     
     print('Item codes for {} downloaded from {}'.format(domain_code, url))
+
+def get_all_country_codes(lang = 'en'):
+
+    """
+    Get area country codes in the World (Country Group Code = 5000) used by FAOSTAT and return them as a list.
+
+    Parameters:
+        lang (str, optional): Language code for the metadata (default is 'en'). Not entirely sure which languages are actually supported.
+
+    Returns:
+        country_codes (list): A list of country codes contained in country group world (5000)
+    """
+
+    url = '{}/{}/definitions/types/areagroup'.format(FAO_URL,lang)
+
+    try:
+        resp = requests.get(url)
+        data = resp.json()
+    except requests.exceptions.RequestException as e: 
+        print('Error getting db dump:', e)
+
+    df = pd.DataFrame(data['data'])
+    dff = df.loc[df['Country Group Code'] == '5000']
+    country_codes = dff['Country Code'].reset_index(drop=True)
+
+    country_codes = country_codes.to_list()
     
+    return(country_codes)
 
 def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_RAW_DIR):  
     """
@@ -148,8 +175,10 @@ def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_R
 
     url = '{}/{}/data/{}?area={}'.format(FAO_URL, lang, domain_code, area_code)
     
+    print(url)
+
     time = datetime.today().strftime('%Y%m%d')
-    outfile_path = '{}{}_{}_{}.{}'.format(time, lang, domain_code, area_code, format)
+    outfile_path = '{}_{}_{}_{}.{}'.format(time, lang, domain_code, area_code, format)
 
     try:
         resp = requests.get(url)
