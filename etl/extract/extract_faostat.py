@@ -178,19 +178,26 @@ def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_R
     print(url)
 
     time = datetime.today().strftime('%Y%m%d')
-    outfile_path = '{}_{}_{}_{}.{}'.format(time, lang, domain_code, area_code, format)
+    outfile_path = '{}{}_{}_{}_{}.{}'.format(outdir, time, lang, domain_code, area_code, format)
 
     try:
         resp = requests.get(url)
         data = resp.content
+        # Data comes back in type bytes, so need to convert it to something sensible
+        data = json.loads(data)
     except requests.exceptions.RequestException as e: 
         print('Error getting data:', e)
         sys.exit()
     
+    df = pd.DataFrame(data['data'])
+
     if format == 'csv':
 
-        with open(outfile_path, 'wb') as csv_file:
-            csv_file.write(data)
+        # Change to pandas df
+
+        df = pd.DataFrame(data['data'])
+        
+        df.to_csv(outfile_path, index = False)
 
     if format == 'json':
 
