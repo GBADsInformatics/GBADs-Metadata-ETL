@@ -14,7 +14,7 @@ def get_cat_yr(df):
 
     return(df.groupby(['Item'])['Year'].unique().apply(list).reset_index())
 
-def filter_element_qcl(df, elements = ['Stocks', 'Milk Animals']):
+def filter_element_qcl(df, elements = ['Stocks', 'Milk Animals','Laying']):
     """
     Filter the FAOSTAT QCL dataset to filter dataset by elements.
 
@@ -25,10 +25,15 @@ def filter_element_qcl(df, elements = ['Stocks', 'Milk Animals']):
     Returns:
         dff (pandas DataFrame): A DataFrame filtered based on the elements given.
     """
+    try:
+        
+        dff = df.loc[df['Element'].isin(elements)] 
+        return(dff)
+    
+    except KeyError as e:
 
-    dff = df.loc[df['Element'].isin(elements)] 
+        print('Error filtering dataset %s' % e)
 
-    return(dff)
 
 def get_metadata(domain_code, lang='en', outdir = FAO_RAW_DIR):
 
@@ -181,7 +186,7 @@ def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_R
     Parameters:
         domain_code (str): The code representing the domain code from FAOSTAT.
         area_code (str): The code representing the area of interest from FAOSTAT. Use the get_areagroup function to find all area codes.
-        format (str, optional): Format of outfile (default is csv). Accepted values include json or csv.
+        format (str, optional): Format of outfile (default is csv). Accepted values include json , csv or none.
         lang (str, optional): Language code for the metadata (default is 'en'). Not entirely sure which languages are actually supported.
         outdir (str, optional): The directory path to save the file (default is FAO_RAW_DIR).
 
@@ -189,7 +194,7 @@ def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_R
         None
     """
 
-    if format not in ['json','csv']:
+    if format not in ['json','csv','None']:
         print('Invalid format: {}. Accepted formats for outfile include csv or json.')
         sys.exit()
 
@@ -224,31 +229,37 @@ def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_R
         with open(outfile_path, 'w') as json_file:
             json.dump(data, json_file) 
         
+    if format == 'None':
+
+        df = pd.DataFrame(data['data'])
+        return(df)
+
     print('FAOSTAT data with domain code {} and area code {} downloaded in {}'.format(domain_code, area_code, outdir))
 
 if __name__ == "__main__":
 
+    fao_code = sys.argv[1]
+
     # Get data from FAOSTAT 
     country_codes = get_all_country_codes()
 
-    #for i in country_codes:
+    for i in country_codes:
 
-        # ex_fao.get_data('QCL',i, outdir='../data/raw/faostat/data/')
+        df = get_data(fao_code,i, format = 'None')
 
-    for i in country_codes: 
+        print('Data fetched for %s %s' % (fao_code, i))
 
-        path = '../../data/raw/faostat/data/20240313_en_QCL_%s.csv' % i
+        path = '../../data/raw/faostat/data/20240313_en_%s_%s.csv' % (fao_code, i)
 
         try:
-            df = pd.read_csv(path)
 
             dff = filter_element_qcl(df)
             
-            outfile = '../../data/raw/faostat/data/20240313_en_QCL_%s_filtered.csv' % i
+            outfile = '../../data/raw/faostat/data/20240313_en_%s_%s_filtered.csv' % (fao_code, i)
 
             dff.to_csv(outfile, index = False)
 
             print('Dataset filtered: %s' % path)
         
-        except pd.errors.EmptyDataError:
-            print('Dataset could not be loaded: %s' % path)
+        except Exception as e:
+            print('Dataset %s could not be loaded due to %s' % (path, e))
