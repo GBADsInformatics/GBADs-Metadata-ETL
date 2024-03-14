@@ -1,0 +1,993 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1961,1961,An,600000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1962,1962,An,600000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1963,1963,An,600000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1964,1964,An,600000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1965,1965,An,600000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1966,1966,An,602000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1967,1967,An,709000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1968,1968,An,691000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1969,1969,An,612000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1970,1970,An,621000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1971,1971,An,787000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1972,1972,An,720000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1973,1973,An,730000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1974,1974,An,740000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1975,1975,An,790000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1976,1976,An,790000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1977,1977,An,748000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1978,1978,An,745000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1979,1979,An,713000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1980,1980,An,685000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1981,1981,An,662000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1982,1982,An,639000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1983,1983,An,616000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1984,1984,An,593000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1985,1985,An,570000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1986,1986,An,547000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1987,1987,An,524000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1988,1988,An,500000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1989,1989,An,500000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1990,1990,An,500000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1991,1991,An,500000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1992,1992,An,500000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1993,1993,An,500000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1994,1994,An,500000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1995,1995,An,500000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1996,1996,An,500000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1997,1997,An,500000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1998,1998,An,500000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,1999,1999,An,500000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2000,2000,An,550000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2001,2001,An,575000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2002,2002,An,590000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2003,2003,An,615000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2004,2004,An,625000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2005,2005,An,640000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2006,2006,An,685000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2007,2007,An,714500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2008,2008,An,715000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2009,2009,An,715300.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2010,2010,An,715800.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2011,2011,An,716000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2012,2012,An,717500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2013,2013,An,718000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2014,2014,An,718000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2015,2015,An,718487.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2016,2016,An,719710.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2017,2017,An,720640.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2018,2018,An,721214.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2019,2019,An,719436.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2020,2020,An,717651.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2021,2021,An,717202.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1107,Asses,2022,2022,An,716753.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1961,1961,No,39300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1962,1962,No,39300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1963,1963,No,39300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1964,1964,No,39300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1965,1965,No,39300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1966,1966,No,40000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1967,1967,No,40000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1968,1968,No,40000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1969,1969,No,40000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1970,1970,No,40700.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1971,1971,No,40700.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1972,1972,No,40700.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1973,1973,No,41400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1974,1974,No,41400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1975,1975,No,41500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1976,1976,No,42300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1977,1977,No,43000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1978,1978,No,43700.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1979,1979,No,44400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1980,1980,No,45100.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1981,1981,No,45800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1982,1982,No,46500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1983,1983,No,47200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1984,1984,No,48000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1985,1985,No,48000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1986,1986,No,48000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1987,1987,No,48000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1988,1988,No,48000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1989,1989,No,47558.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1990,1990,No,47900.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1991,1991,No,48000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1992,1992,No,48000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1993,1993,No,48000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1994,1994,No,49000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1995,1995,No,50000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1996,1996,No,50000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1997,1997,No,53000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1998,1998,No,58000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,1999,1999,No,63000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2000,2000,No,64000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2001,2001,No,46000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2002,2002,No,45000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2003,2003,No,50000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2004,2004,No,86000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2005,2005,No,126000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2006,2006,No,129000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2007,2007,No,161000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2008,2008,No,163000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2009,2009,No,166000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2010,2010,No,170000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2011,2011,No,170700.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2012,2012,No,170000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2013,2013,No,168000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2014,2014,No,170000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2015,2015,No,170000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2016,2016,No,162000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2017,2017,No,158000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2018,2018,No,156338.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2019,2019,No,167549.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2020,2020,No,166519.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2021,2021,No,167245.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5114,Stocks,1181,Bees,2022,2022,No,168026.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1961,1961,An,221000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1962,1962,An,221000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1963,1963,An,224000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1964,1964,An,225000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1965,1965,An,230000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1966,1966,An,250000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1967,1967,An,236000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1968,1968,An,225000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1969,1969,An,223000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1970,1970,An,222000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1971,1971,An,229000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1972,1972,An,230000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1973,1973,An,220000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1974,1974,An,220000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1975,1975,An,183000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1976,1976,An,180000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1977,1977,An,163000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1978,1978,An,163000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1979,1979,An,168000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1980,1980,An,155000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1981,1981,An,149997.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1982,1982,An,147695.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1983,1983,An,146396.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1984,1984,An,144998.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1985,1985,An,142600.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1986,1986,An,141202.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1987,1987,An,153000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1988,1988,An,161600.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1989,1989,An,169790.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1990,1990,An,231000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1991,1991,An,219000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1992,1992,An,223000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1993,1993,An,227000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1994,1994,An,226000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1995,1995,An,231000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1996,1996,An,236000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1997,1997,An,240000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1998,1998,An,243000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,1999,1999,An,246000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2000,2000,An,253000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2001,2001,An,264000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2002,2002,An,267000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2003,2003,An,350000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2004,2004,An,353211.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2005,2005,An,357011.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2006,2006,An,359000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2007,2007,An,365000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2008,2008,An,373000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2009,2009,An,383533.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2010,2010,An,403000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2011,2011,An,436000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2012,2012,An,443358.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2013,2013,An,454410.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2014,2014,An,459885.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2015,2015,An,454826.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2016,2016,An,442042.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2017,2017,An,437712.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2018,2018,An,431462.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2019,2019,An,447652.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2020,2020,An,448892.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2021,2021,An,457870.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1126,Camels,2022,2022,An,464223.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1961,1961,An,1350000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1962,1962,An,1338000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1963,1963,An,1315000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1964,1964,An,1325000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1965,1965,An,1340000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1966,1966,An,1280000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1967,1967,An,1264000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1968,1968,An,1042000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1969,1969,An,936000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1970,1970,An,893000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1971,1971,An,937000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1972,1972,An,980000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1973,1973,An,890000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1974,1974,An,980000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1975,1975,An,1030000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1976,1976,An,880000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1977,1977,An,930000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1978,1978,An,940000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1979,1979,An,946000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1980,1980,An,973000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1981,1981,An,999611.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1982,1982,An,1019642.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1983,1983,An,1037647.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1984,1984,An,1055610.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1985,1985,An,1080635.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1986,1986,An,1099603.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1987,1987,An,1119667.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1988,1988,An,1136999.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1989,1989,An,1170272.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1990,1990,An,1175272.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1991,1991,An,1116917.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1992,1992,An,1139256.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1993,1993,An,1162896.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1994,1994,An,1151076.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1995,1995,An,1174213.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1996,1996,An,1180934.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1997,1997,An,1151000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1998,1998,An,1210000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,1999,1999,An,1228000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2000,2000,An,1283000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2001,2001,An,1342000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2002,2002,An,1355000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2003,2003,An,1418000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2004,2004,An,1433213.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2005,2005,An,1447243.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2006,2006,An,1463700.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2007,2007,An,1495000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2008,2008,An,1531000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2009,2009,An,1567295.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2010,2010,An,1605000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2011,2011,An,1654000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2012,2012,An,1684367.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2013,2013,An,1721906.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2014,2014,An,1768442.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2015,2015,An,1748989.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2016,2016,An,1697277.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2017,2017,An,1671954.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2018,2018,An,1503452.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2019,2019,An,1818052.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2020,2020,An,1835801.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2021,2021,An,1872516.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,866,Cattle,2022,2022,An,1852243.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1961,1961,1000 An,2330.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1962,1962,1000 An,2340.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1963,1963,1000 An,2350.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1964,1964,1000 An,2360.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1965,1965,1000 An,2370.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1966,1966,1000 An,2380.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1967,1967,1000 An,2390.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1968,1968,1000 An,2400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1969,1969,1000 An,2410.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1970,1970,1000 An,2424.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1971,1971,1000 An,2462.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1972,1972,1000 An,2498.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1973,1973,1000 An,2538.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1974,1974,1000 An,2578.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1975,1975,1000 An,2628.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1976,1976,1000 An,2850.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1977,1977,1000 An,2681.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1978,1978,1000 An,3245.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1979,1979,1000 An,3963.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1980,1980,1000 An,4240.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1981,1981,1000 An,5349.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1982,1982,1000 An,6127.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1983,1983,1000 An,7756.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1984,1984,1000 An,10714.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1985,1985,1000 An,13036.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1986,1986,1000 An,17350.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1987,1987,1000 An,18516.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1988,1988,1000 An,23882.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1989,1989,1000 An,16111.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1990,1990,1000 An,17443.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1991,1991,1000 An,15600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1992,1992,1000 An,20400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1993,1993,1000 An,23200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1994,1994,1000 An,24400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1995,1995,1000 An,20800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1996,1996,1000 An,24800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1997,1997,1000 An,25200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1998,1998,1000 An,27300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,1999,1999,1000 An,28000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2000,2000,1000 An,29600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2001,2001,1000 An,34800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2002,2002,1000 An,34800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2003,2003,1000 An,45700.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2004,2004,1000 An,46600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2005,2005,1000 An,47500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2006,2006,1000 An,49300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2007,2007,1000 An,54000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2008,2008,1000 An,57000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2009,2009,1000 An,58000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2010,2010,1000 An,60000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2011,2011,1000 An,60000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2012,2012,1000 An,62000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2013,2013,1000 An,63000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2014,2014,1000 An,63200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2015,2015,1000 An,64252.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2016,2016,1000 An,65000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2017,2017,1000 An,65000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2018,2018,1000 An,66214.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2019,2019,1000 An,65938.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2020,2020,1000 An,70058.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2021,2021,1000 An,71118.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,1057,Chickens,2022,2022,1000 An,69758.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1961,1961,An,3024000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1962,1962,An,3094000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1963,1963,An,3126000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1964,1964,An,3199000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1965,1965,An,3227000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1966,1966,An,3139000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1967,1967,An,3203000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1968,1968,An,3091000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1969,1969,An,2666000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1970,1970,An,2647000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1971,1971,An,2818000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1972,1972,An,2554000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1973,1973,An,2526000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1974,1974,An,2770000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1975,1975,An,2889000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1976,1976,An,2806000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1977,1977,An,2836000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1978,1978,An,2871000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1979,1979,An,2855000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1980,1980,An,2898000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1981,1981,An,2811276.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1982,1982,An,2868508.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1983,1983,An,2916071.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1984,1984,An,2976402.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1985,1985,An,3008317.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1986,1986,An,3040701.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1987,1987,An,3085000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1988,1988,An,3170000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1989,1989,An,3260090.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1990,1990,An,5333000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1991,1991,An,5066000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1992,1992,An,5170000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1993,1993,An,5280000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1994,1994,An,5220000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1995,1995,An,5320000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1996,1996,An,5730000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1997,1997,An,6314000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1998,1998,An,6653000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,1999,1999,An,6840000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2000,2000,An,6918000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2001,2001,An,7246000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2002,2002,An,7318000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2003,2003,An,7707000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2004,2004,An,7785212.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2005,2005,An,7864122.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2006,2006,An,8041955.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2007,2007,An,8414000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2008,2008,An,8708000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2009,2009,An,8883315.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2010,2010,An,9016000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2011,2011,An,9106000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2012,2012,An,9158464.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2013,2013,An,9255373.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2014,2014,An,9379831.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2015,2015,An,9267273.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2016,2016,An,9081917.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2017,2017,An,9004596.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2018,2018,An,8644657.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2019,2019,An,9485903.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2020,2020,An,9562880.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2021,2021,An,10041023.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1016,Goats,2022,2022,An,10281259.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1961,1961,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1962,1962,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1963,1963,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1964,1964,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1965,1965,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1966,1966,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1967,1967,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1968,1968,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1969,1969,An,2000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1970,1970,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1971,1971,An,4000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1972,1972,An,4000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1973,1973,An,4000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1974,1974,An,4000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1975,1975,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1976,1976,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1977,1977,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1978,1978,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1979,1979,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1980,1980,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1981,1981,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1982,1982,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1983,1983,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1984,1984,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1985,1985,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1986,1986,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1987,1987,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1988,1988,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1989,1989,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1990,1990,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1991,1991,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1992,1992,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1993,1993,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1994,1994,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1995,1995,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1996,1996,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1997,1997,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1998,1998,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,1999,1999,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2000,2000,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2001,2001,An,3000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2002,2002,An,3100.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2003,2003,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2004,2004,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2005,2005,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2006,2006,An,3000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2007,2007,An,2000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2008,2008,An,1580.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2009,2009,An,1580.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2010,2010,An,1760.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2011,2011,An,1800.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2012,2012,An,1917.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2013,2013,An,1978.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2014,2014,An,2040.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2015,2015,An,1975.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2016,2016,An,1911.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2017,2017,An,1864.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2018,2018,An,1826.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2019,2019,An,1965.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2020,2020,An,1998.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2021,2021,An,2017.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1096,Horses,2022,2022,An,2036.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1961,1961,An,44200.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1962,1962,An,44200.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1963,1963,An,44800.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1964,1964,An,45000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1965,1965,An,46000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1966,1966,An,50000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1967,1967,An,47200.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1968,1968,An,45000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1969,1969,An,44600.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1970,1970,An,44400.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1971,1971,An,45800.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1972,1972,An,47400.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1973,1973,An,47400.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1974,1974,An,36600.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1975,1975,An,36600.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1976,1976,An,36600.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1977,1977,An,27600.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1978,1978,An,30000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1979,1979,An,31200.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1980,1980,An,27600.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1981,1981,An,37800.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1982,1982,An,36900.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1983,1983,An,36600.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1984,1984,An,37000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1985,1985,An,37100.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1986,1986,An,36700.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1987,1987,An,41300.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1988,1988,An,43600.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1989,1989,An,47500.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1990,1990,An,67000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1991,1991,An,64000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1992,1992,An,65000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1993,1993,An,66000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1994,1994,An,66000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1995,1995,An,67000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1996,1996,An,68000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1997,1997,An,70000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1998,1998,An,70000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,1999,1999,An,71000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2000,2000,An,73000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2001,2001,An,77000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2002,2002,An,78000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2003,2003,An,102000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2004,2004,An,103000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2005,2005,An,104000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2006,2006,An,105000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2007,2007,An,106000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2008,2008,An,109000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2009,2009,An,112000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2010,2010,An,114000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2011,2011,An,115000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2012,2012,An,116500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2013,2013,An,117500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2014,2014,An,122643.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2015,2015,An,121594.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2016,2016,An,118836.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2017,2017,An,117624.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2018,2018,An,116417.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2019,2019,An,120024.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2020,2020,An,120361.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2021,2021,An,122383.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1130,Raw milk of camel,2022,2022,An,123831.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1961,1961,An,270000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1962,1962,An,268000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1963,1963,An,263000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1964,1964,An,265000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1965,1965,An,268000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1966,1966,An,256000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1967,1967,An,253000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1968,1968,An,208000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1969,1969,An,187000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1970,1970,An,179000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1971,1971,An,187000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1972,1972,An,196000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1973,1973,An,178000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1974,1974,An,196000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1975,1975,An,206000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1976,1976,An,176000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1977,1977,An,186000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1978,1978,An,188000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1979,1979,An,189000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1980,1980,An,195000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1981,1981,An,200000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1982,1982,An,204000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1983,1983,An,208000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1984,1984,An,222000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1985,1985,An,227000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1986,1986,An,231000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1987,1987,An,235000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1988,1988,An,245978.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1989,1989,An,253603.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1990,1990,An,256103.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1991,1991,An,248603.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1992,1992,An,253575.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1993,1993,An,258600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1994,1994,An,250800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1995,1995,An,255850.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1996,1996,An,259700.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1997,1997,An,269500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1998,1998,An,280000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,1999,1999,An,294000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2000,2000,An,299000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2001,2001,An,316000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2002,2002,An,321000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2003,2003,An,347000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2004,2004,An,354000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2005,2005,An,361000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2006,2006,An,374000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2007,2007,An,414000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2008,2008,An,454000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2009,2009,An,485000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2010,2010,An,400000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2011,2011,An,405000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2012,2012,An,407000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2013,2013,An,415000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2014,2014,An,420000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2015,2015,An,406239.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2016,2016,An,396454.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2017,2017,An,391421.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2018,2018,An,358976.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2019,2019,An,419823.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2020,2020,An,423419.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2021,2021,An,430598.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,882,Raw milk of cattle,2022,2022,An,427001.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1961,1961,An,514000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1962,1962,An,526000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1963,1963,An,531000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1964,1964,An,544000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1965,1965,An,549000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1966,1966,An,534000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1967,1967,An,545000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1968,1968,An,525000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1969,1969,An,453000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1970,1970,An,450000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1971,1971,An,479000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1972,1972,An,434000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1973,1973,An,429000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1974,1974,An,471000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1975,1975,An,491000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1976,1976,An,477000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1977,1977,An,482000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1978,1978,An,488000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1979,1979,An,485000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1980,1980,An,493000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1981,1981,An,478000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1982,1982,An,488000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1983,1983,An,496000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1984,1984,An,506000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1985,1985,An,511000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1986,1986,An,517000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1987,1987,An,524000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1988,1988,An,539000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1989,1989,An,554000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1990,1990,An,907000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1991,1991,An,861000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1992,1992,An,879000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1993,1993,An,898000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1994,1994,An,887000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1995,1995,An,904000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1996,1996,An,974000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1997,1997,An,1074000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1998,1998,An,1131000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,1999,1999,An,1163000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2000,2000,An,1176000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2001,2001,An,1232000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2002,2002,An,1244000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2003,2003,An,1310000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2004,2004,An,1320000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2005,2005,An,1340000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2006,2006,An,1436000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2007,2007,An,1623000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2008,2008,An,1761000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2009,2009,An,1870000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2010,2010,An,1980000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2011,2011,An,2000000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2012,2012,An,2156000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2013,2013,An,2398000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2014,2014,An,1650928.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2015,2015,An,1635288.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2016,2016,An,1894739.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2017,2017,An,1606676.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2018,2018,An,1554916.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2019,2019,An,1679346.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2020,2020,An,1691485.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2021,2021,An,1761761.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1020,Raw milk of goats,2022,2022,An,1797369.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1961,1961,An,411000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1962,1962,An,416000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1963,1963,An,427000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1964,1964,An,430000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1965,1965,An,443000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1966,1966,An,415000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1967,1967,An,437000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1968,1968,An,419000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1969,1969,An,367000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1970,1970,An,368000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1971,1971,An,429000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1972,1972,An,398000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1973,1973,An,401000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1974,1974,An,439000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1975,1975,An,466000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1976,1976,An,451000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1977,1977,An,470000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1978,1978,An,472000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1979,1979,An,480000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1980,1980,An,502000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1981,1981,An,549000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1982,1982,An,558000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1983,1983,An,575000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1984,1984,An,577000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1985,1985,An,585000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1986,1986,An,592000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1987,1987,An,593000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1988,1988,An,612000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1989,1989,An,632000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1990,1990,An,818000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1991,1991,An,777000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1992,1992,An,792000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1993,1993,An,808000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1994,1994,An,800000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1995,1995,An,816000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1996,1996,An,853000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1997,1997,An,935000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1998,1998,An,992000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,1999,1999,An,1023000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2000,2000,An,1053000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2001,2001,An,1102000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2002,2002,An,1113000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2003,2003,An,1329000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2004,2004,An,1342000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2005,2005,An,1360000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2006,2006,An,1562200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2007,2007,An,1749600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2008,2008,An,1950000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2009,2009,An,2106100.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2010,2010,An,2200000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2011,2011,An,2500000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2012,2012,An,2830000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2013,2013,An,2922000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2014,2014,An,1754575.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2015,2015,An,1737908.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2016,2016,An,2138161.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2017,2017,An,1694460.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2018,2018,An,1639104.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2019,2019,An,1777759.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2020,2020,An,1801103.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2021,2021,An,1876144.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,982,Raw milk of sheep,2022,2022,An,1820419.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1961,1961,An,2417000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1962,1962,An,2445000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1963,1963,An,2511000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1964,1964,An,2530000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1965,1965,An,2607000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1966,1966,An,2439000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1967,1967,An,2571000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1968,1968,An,2465000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1969,1969,An,2157000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1970,1970,An,2167000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1971,1971,An,2524000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1972,1972,An,2467000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1973,1973,An,2361000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1974,1974,An,2585000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1975,1975,An,2744000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1976,1976,An,2654000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1977,1977,An,2762000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1978,1978,An,2777000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1979,1979,An,2823000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1980,1980,An,2953000.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1981,1981,An,3230452.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1982,1982,An,3285318.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1983,1983,An,3379696.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1984,1984,An,3394326.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1985,1985,An,3443392.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1986,1986,An,3483179.0,X,Figure from international organizations,Unofficial figure
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1987,1987,An,3488000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1988,1988,An,3602002.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1989,1989,An,3720200.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1990,1990,An,4810000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1991,1991,An,4568000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1992,1992,An,4659000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1993,1993,An,4755000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1994,1994,An,4707000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1995,1995,An,4802000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1996,1996,An,5020000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1997,1997,An,5500000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1998,1998,An,5836000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,1999,1999,An,6016000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2000,2000,An,6193000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2001,2001,An,6483000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2002,2002,An,6548000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2003,2003,An,7819000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2004,2004,An,7899243.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2005,2005,An,7980213.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2006,2006,An,8197024.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2007,2007,An,8589000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2008,2008,An,8889000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2009,2009,An,9087216.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2010,2010,An,9206000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2011,2011,An,9358000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2012,2012,An,9419212.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2013,2013,An,9551311.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2014,2014,An,9688145.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2015,2015,An,9571887.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2016,2016,An,9104860.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2017,2017,An,9185435.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2018,2018,An,8813076.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2019,2019,An,9717779.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2020,2020,An,9866017.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2021,2021,An,10359317.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,976,Sheep,2022,2022,An,10487333.0,I,Imputed value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1961,1961,An,1350000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1962,1962,An,1338000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1963,1963,An,1315000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1964,1964,An,1325000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1965,1965,An,1340000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1966,1966,An,1280000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1967,1967,An,1264000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1968,1968,An,1042000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1969,1969,An,936000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1970,1970,An,893000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1971,1971,An,937000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1972,1972,An,980000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1973,1973,An,890000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1974,1974,An,980000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1975,1975,An,1030000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1976,1976,An,880000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1977,1977,An,930000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1978,1978,An,940000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1979,1979,An,946000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1980,1980,An,973000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1981,1981,An,999611.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1982,1982,An,1019642.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1983,1983,An,1037647.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1984,1984,An,1055610.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1985,1985,An,1080635.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1986,1986,An,1099603.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1987,1987,An,1119667.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1988,1988,An,1136999.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1989,1989,An,1170272.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1990,1990,An,1175272.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1991,1991,An,1116917.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1992,1992,An,1139256.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1993,1993,An,1162896.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1994,1994,An,1151076.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1995,1995,An,1174213.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1996,1996,An,1180934.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1997,1997,An,1151000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1998,1998,An,1210000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,1999,1999,An,1228000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2000,2000,An,1283000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2001,2001,An,1342000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2002,2002,An,1355000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2003,2003,An,1418000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2004,2004,An,1433213.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2005,2005,An,1447243.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2006,2006,An,1463700.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2007,2007,An,1495000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2008,2008,An,1531000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2009,2009,An,1567295.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2010,2010,An,1605000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2011,2011,An,1654000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2012,2012,An,1684367.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2013,2013,An,1721906.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2014,2014,An,1768442.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2015,2015,An,1748989.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2016,2016,An,1697277.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2017,2017,An,1671954.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2018,2018,An,1503452.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2019,2019,An,1818052.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2020,2020,An,1835801.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2021,2021,An,1872516.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1746,Cattle and Buffaloes,2022,2022,An,1852243.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1961,1961,An,1239200.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1962,1962,An,1254200.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1963,1963,An,1265800.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1964,1964,An,1284000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1965,1965,An,1306000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1966,1966,An,1255000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1967,1967,An,1282200.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1968,1968,An,1197000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1969,1969,An,1051600.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1970,1970,An,1041400.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1971,1971,An,1140800.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1972,1972,An,1075400.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1973,1973,An,1055400.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1974,1974,An,1142600.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1975,1975,An,1199600.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1976,1976,An,1140600.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1977,1977,An,1165600.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1978,1978,An,1178000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1979,1979,An,1185200.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1980,1980,An,1217600.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1981,1981,An,1264800.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1982,1982,An,1286900.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1983,1983,An,1315600.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1984,1984,An,1342000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1985,1985,An,1360100.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1986,1986,An,1376700.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1987,1987,An,1393300.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1988,1988,An,1440578.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1989,1989,An,1487103.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1990,1990,An,2048103.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1991,1991,An,1950603.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1992,1992,An,1989575.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1993,1993,An,2030600.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1994,1994,An,2003800.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1995,1995,An,2042850.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1996,1996,An,2154700.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1997,1997,An,2348500.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1998,1998,An,2473000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",1999,1999,An,2551000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2000,2000,An,2601000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2001,2001,An,2727000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2002,2002,An,2756000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2003,2003,An,3088000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2004,2004,An,3119000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2005,2005,An,3165000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2006,2006,An,3477200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2007,2007,An,3892600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2008,2008,An,4274000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2009,2009,An,4573100.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2010,2010,An,4694000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2011,2011,An,5020000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2012,2012,An,5509500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2013,2013,An,5852500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2014,2014,An,3948147.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2015,2015,An,3901028.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2016,2016,An,4548190.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2017,2017,An,3810182.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2018,2018,An,3669412.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2019,2019,An,3996953.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2020,2020,An,4036368.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2021,2021,An,4190885.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5318,Milk Animals,1780,"Milk, Total",2022,2022,An,4168620.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1961,1961,1000 An,2330.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1962,1962,1000 An,2340.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1963,1963,1000 An,2350.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1964,1964,1000 An,2360.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1965,1965,1000 An,2370.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1966,1966,1000 An,2380.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1967,1967,1000 An,2390.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1968,1968,1000 An,2400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1969,1969,1000 An,2410.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1970,1970,1000 An,2424.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1971,1971,1000 An,2462.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1972,1972,1000 An,2498.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1973,1973,1000 An,2538.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1974,1974,1000 An,2578.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1975,1975,1000 An,2628.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1976,1976,1000 An,2850.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1977,1977,1000 An,2681.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1978,1978,1000 An,3245.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1979,1979,1000 An,3963.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1980,1980,1000 An,4240.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1981,1981,1000 An,5349.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1982,1982,1000 An,6127.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1983,1983,1000 An,7756.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1984,1984,1000 An,10714.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1985,1985,1000 An,13036.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1986,1986,1000 An,17350.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1987,1987,1000 An,18516.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1988,1988,1000 An,23882.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1989,1989,1000 An,16111.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1990,1990,1000 An,17443.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1991,1991,1000 An,15600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1992,1992,1000 An,20400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1993,1993,1000 An,23200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1994,1994,1000 An,24400.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1995,1995,1000 An,20800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1996,1996,1000 An,24800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1997,1997,1000 An,25200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1998,1998,1000 An,27300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,1999,1999,1000 An,28000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2000,2000,1000 An,29600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2001,2001,1000 An,34800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2002,2002,1000 An,34800.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2003,2003,1000 An,45700.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2004,2004,1000 An,46600.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2005,2005,1000 An,47500.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2006,2006,1000 An,49300.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2007,2007,1000 An,54000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2008,2008,1000 An,57000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2009,2009,1000 An,58000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2010,2010,1000 An,60000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2011,2011,1000 An,60000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2012,2012,1000 An,62000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2013,2013,1000 An,63000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2014,2014,1000 An,63200.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2015,2015,1000 An,64252.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2016,2016,1000 An,65000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2017,2017,1000 An,65000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2018,2018,1000 An,66214.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2019,2019,1000 An,65938.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2020,2020,1000 An,70058.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2021,2021,1000 An,71118.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5112,Stocks,2029,Poultry Birds,2022,2022,1000 An,69758.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1961,1961,An,5441000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1962,1962,An,5539000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1963,1963,An,5637000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1964,1964,An,5729000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1965,1965,An,5834000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1966,1966,An,5578000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1967,1967,An,5774000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1968,1968,An,5556000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1969,1969,An,4823000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1970,1970,An,4814000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1971,1971,An,5342000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1972,1972,An,5021000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1973,1973,An,4887000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1974,1974,An,5355000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1975,1975,An,5633000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1976,1976,An,5460000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1977,1977,An,5598000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1978,1978,An,5648000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1979,1979,An,5678000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1980,1980,An,5851000.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1981,1981,An,6041728.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1982,1982,An,6153826.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1983,1983,An,6295767.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1984,1984,An,6370728.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1985,1985,An,6451709.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1986,1986,An,6523880.0,X,Figure from international organizations,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1987,1987,An,6573000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1988,1988,An,6772002.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1989,1989,An,6980290.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1990,1990,An,10143000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1991,1991,An,9634000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1992,1992,An,9829000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1993,1993,An,10035000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1994,1994,An,9927000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1995,1995,An,10122000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1996,1996,An,10750000.0,E,Estimated value,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1997,1997,An,11814000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1998,1998,An,12489000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,1999,1999,An,12856000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2000,2000,An,13111000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2001,2001,An,13729000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2002,2002,An,13866000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2003,2003,An,15526000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2004,2004,An,15684455.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2005,2005,An,15844335.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2006,2006,An,16238979.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2007,2007,An,17003000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2008,2008,An,17597000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2009,2009,An,17970531.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2010,2010,An,18222000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2011,2011,An,18464000.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2012,2012,An,18577676.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2013,2013,An,18806684.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2014,2014,An,19067976.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2015,2015,An,18839160.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2016,2016,An,18186777.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2017,2017,An,18190031.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2018,2018,An,17457733.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2019,2019,An,19203682.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2020,2020,An,19428897.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2021,2021,An,20400340.0,A,Official figure,
+QCL,Crops and livestock products,249,Yemen,5111,Stocks,1749,Sheep and Goats,2022,2022,An,20768593.0,E,Estimated value,

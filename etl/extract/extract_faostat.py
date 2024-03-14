@@ -10,6 +10,26 @@ FAO_CODES   = ['QCL','GLE']
 FAO_DUMP    = 'https://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json'
 FAO_RAW_DIR = 'data/raw/faostat/'
 
+def get_cat_yr(df):
+
+    return(df.groupby(['Item'])['Year'].unique().apply(list).reset_index())
+
+def filter_element_qcl(df, elements = ['Stocks', 'Milk Animals']):
+    """
+    Filter the FAOSTAT QCL dataset to filter dataset by elements.
+
+    Parameters:
+        df (pandas DataFrame): A pandas df of data from the QCL dataset from FAOSTAT.
+        elements (list, optional): A list of elements to filter by. Default is ['Stocks','Milk Animals'].
+
+    Returns:
+        dff (pandas DataFrame): A DataFrame filtered based on the elements given.
+    """
+
+    dff = df.loc[df['Element'].isin(elements)] 
+
+    return(dff)
+
 def get_metadata(domain_code, lang='en', outdir = FAO_RAW_DIR):
 
     """
@@ -205,3 +225,30 @@ def get_data(domain_code, area_code, format = 'csv', lang = 'en', outdir = FAO_R
             json.dump(data, json_file) 
         
     print('FAOSTAT data with domain code {} and area code {} downloaded in {}'.format(domain_code, area_code, outdir))
+
+if __name__ == "__main__":
+
+    # Get data from FAOSTAT 
+    country_codes = get_all_country_codes()
+
+    #for i in country_codes:
+
+        # ex_fao.get_data('QCL',i, outdir='../data/raw/faostat/data/')
+
+    for i in country_codes: 
+
+        path = '../../data/raw/faostat/data/20240313_en_QCL_%s.csv' % i
+
+        try:
+            df = pd.read_csv(path)
+
+            dff = filter_element_qcl(df)
+            
+            outfile = '../../data/raw/faostat/data/20240313_en_QCL_%s_filtered.csv' % i
+
+            dff.to_csv(outfile, index = False)
+
+            print('Dataset filtered: %s' % path)
+        
+        except pd.errors.EmptyDataError:
+            print('Dataset could not be loaded: %s' % path)

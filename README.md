@@ -51,6 +51,7 @@ Cool examples coming soon....
 ### Directory Structure
 
 ```
+├── LICENSE
 ├── README.md
 ├── config
 ├── data
@@ -60,21 +61,49 @@ Cool examples coming soon....
 │   │   ├── faostat
 │   │   │   ├── node.csv
 │   │   │   └── relationship.csv
+│   │   ├── geo
 │   │   └── woah
 │   └── raw
 │       ├── ethiopia
 │       ├── faostat
+│       │   ├── 20240226_GLE_itemcodes.json
+│       │   ├── 20240226_GLE_metadata.json
+│       │   ├── 20240226_QCL_itemcodes.json
+│       │   ├── 20240226_QCL_metadata.json
+│       │   ├── 20240226_dump.json
+│       │   └── Y0226_areacodes.json
+│       ├── geo
+│       │   └── 20240309_geo.csv
 │       └── woah
+├── docs
+│   ├── Countries.md
+│   ├── ETHIOPIA.md
+│   ├── EuroStat.md
+│   ├── FAOSTAT.md
+│   ├── Ireland.md
+│   └── WOAH.md
 ├── etl
+│   ├── etl_country.py
+│   ├── etl_faostat.py
 │   ├── extract
-│   │   └── __init__.py
+│   │   ├── __init__.py
+│   │   ├── extract_ess.py
+│   │   ├── extract_faostat.py
+│   │   └── extract_helpers.py
 │   ├── load
-│   │   └── __init__.py
+│   │   ├── __init__.py
+│   │   ├── config.ini
+│   │   ├── database.py
+│   │   └── load_data.py
 │   └── transform
 │       ├── __init__.py
+│       ├── transform_faostat.py
 │       └── validations
+│           └── validate_metadata.py
 ├── examples
+├── graph-db-schema.png
 └── tests
+
 ```
 
 ### 📊 Data Sources

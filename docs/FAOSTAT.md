@@ -35,9 +35,10 @@ There a few ways you can get metadata from FAOSTAT:
     * https://fenixservices.fao.org/faostat/api/v1/en/dimensions/QCL/
     * Bulk downloads: https://fenixservices.fao.org/faostat/api/v1/en/bulkdownloads/QCL 
     * Metadata: https://fenixservices.fao.org/faostat/api/v1/en/metadata/QCL/
+    * Flags: https://fenixservices.fao.org/faostat/api/v1/en/definitions/types/flag
 
 The database description is useful because it provides a minimum set of metadata and the file size, number of rows, and file location. Therefore this can be used to create the distribution nodes. On the other hand, the description is not very descriptive and the topic provides an address, not actual topics. 
-
+    
 For example: 
 
 ```
@@ -49,6 +50,9 @@ The fenix services Metadata link provides complete metadata information in json 
 ## Information from datasets 
 
 In addition to the metadata, we need a list of species that are provided in the data, the countries that they are provided for, and the years that data are available for. 
+
+To get the data, I ran `extract_faostat.py` in the `etl/extract directory`. 
+I then combined all the datasets using the `combine_datasets.sh` program
 
 ## Other useful links: 
 

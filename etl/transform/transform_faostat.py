@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 import csv
 import sys
-from validations import validate_metadata as vm
+from transform.validations import validate_metadata as vm
 from pydantic import ValidationError
 from validators import url
 
@@ -63,16 +63,16 @@ def struct_metadata(metadata, domain_code):
 
     return(out_metadata, organization)
 
-df = load_from_json('../../data/raw/faostat/20240226_dump.json')
-DataDownload_QCL = struct_DataDownload(df, 'QCL')
-DataDownload_GLE = struct_DataDownload(df, 'GLE')
+# df = load_from_json('../../data/raw/faostat/20240226_dump.json')
+# DataDownload_QCL = struct_DataDownload(df, 'QCL')
+# DataDownload_GLE = struct_DataDownload(df, 'GLE')
 
-try:
-    # Create instances of models
-    dataset = vm.DataDownload(**DataDownload_GLE)
-    print(dataset)
-except ValidationError as e:
-    print(e)
+# try:
+#     # Create instances of models
+#     dataset = vm.DataDownload(**DataDownload_GLE)
+#     print(dataset)
+# except ValidationError as e:
+#     print(e)
 
 
 # df = load_from_json('../../data/raw/faostat/20240226_GLE_metadata.json')
