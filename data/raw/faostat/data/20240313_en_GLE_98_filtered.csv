@@ -1,0 +1,831 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,1992,1992,3050,FAO TIER 1,An,13440,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,1993,1993,3050,FAO TIER 1,An,12430,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,1994,1994,3050,FAO TIER 1,An,6640,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,1995,1995,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,1996,1996,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,1997,1997,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,1998,1998,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,1999,1999,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2000,2000,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2001,2001,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2002,2002,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2003,2003,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2004,2004,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2005,2005,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2006,2006,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2007,2007,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2008,2008,3050,FAO TIER 1,An,1839,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2009,2009,3050,FAO TIER 1,An,2249,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2010,2010,3050,FAO TIER 1,An,2486,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2011,2011,3050,FAO TIER 1,An,2823,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2012,2012,3050,FAO TIER 1,An,3095,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2013,2013,3050,FAO TIER 1,An,2963,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2014,2014,3050,FAO TIER 1,An,2153,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2015,2015,3050,FAO TIER 1,An,2459,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2016,2016,3050,FAO TIER 1,An,2862,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2017,2017,3050,FAO TIER 1,An,3252,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2030,2030,3050,FAO TIER 1,An,4000,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1107,Asses,2050,2050,3050,FAO TIER 1,An,4000,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,368942,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,317000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,327634,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,308336,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,283450,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,279486,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,270348,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,268284,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,254702,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,254293,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,257019,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,234472,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,238050,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,239336,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,234548,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,235537,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,219899,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,212400,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,182400,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,183700,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,181000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,166000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,176400,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,155100,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,146300,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,145100,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,136000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,130000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,110000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,102000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,237617,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,242840,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,221058,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,590055,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,272635,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,589635,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,191074,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,518708,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,185082,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,493418,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,178195,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,461645,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,171780,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,451266,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,172652,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,442911,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,170259,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,438543,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,171868,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,426570,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,184130,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,438423,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,160094,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,417113,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,209848,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,444320,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,227885,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,465935,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,231689,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,471025,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,248357,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,482905,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,231540,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,467077,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,233656,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,453555,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,234600,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,447151,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,261600,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,444314,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,262855,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,446555,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,271000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,451517,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,276000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,442432,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,264600,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,440637,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,284992,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,440092,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,298313,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,444613,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,305657,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,450757,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,278000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,414125,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,290000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,420239,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,313000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,422881,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,326000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,251196,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,223265,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,3456000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,3536000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,3020000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,627000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,4206000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,3828000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,2925000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,3881000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,1337000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,1706000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,1450000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,405000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,1436000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,1405000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,1259000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,1286000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,1241000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,1007000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,1000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,1000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,0,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,125000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,6103000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,6599000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,5723000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,6357000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,4108811,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,4840099,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,5033993,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,4485911,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,2145075,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,3070442,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,6648000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,6321000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,6503000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,6260000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,6089000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,5853000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,5851000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,5988000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,5709000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,5775000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,5610000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,6447000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,6056000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,5862000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,5758000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,5530000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,5486000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,5700000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,5040000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,4221000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,4415000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,3700000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,3000000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,3497000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,3483000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,6772189,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,7321901,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,7474007,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,7143089,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,5513281,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,5088613,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,1992,1992,3050,FAO TIER 1,An,289000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,1993,1993,3050,FAO TIER 1,An,260000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,1994,1994,3050,FAO TIER 1,An,300000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,1995,1995,3050,FAO TIER 1,An,250000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,1996,1996,3050,FAO TIER 1,An,200000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,1997,1997,3050,FAO TIER 1,An,170000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,1998,1998,3050,FAO TIER 1,An,140000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,1999,1999,3050,FAO TIER 1,An,140000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2000,2000,3050,FAO TIER 1,An,207000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2001,2001,3050,FAO TIER 1,An,187000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2002,2002,3050,FAO TIER 1,An,176000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2003,2003,3050,FAO TIER 1,An,231000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,226000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,175000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,219000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,191000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,184000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,187000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,201000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,172000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,210000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,120000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,96000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,74000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,91000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,51000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2018,2018,3050,FAO TIER 1,An,56000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2019,2019,3050,FAO TIER 1,An,52000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2020,2020,3050,FAO TIER 1,An,53000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2021,2021,3050,FAO TIER 1,An,36000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,317688,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,454736,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,113809,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,113809,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,105000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,105000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,107685,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,107685,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,106000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,107292,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,105271,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,105271,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,100000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,99544,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,84403,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,84403,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,78000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,78000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,79393,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,79393,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,92943,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,92943,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,96534,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,96534,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,86087,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,86087,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,126060,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,126060,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,134483,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,134483,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,102877,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,102877,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,91902,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,91902,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,83877,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,83877,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,76119,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,76119,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,75215,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,75215,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,70030,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,70030,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,71978,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,71978,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,68948,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,69000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,60697,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,60697,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,62000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,62057,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,75530,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,75530,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,76771,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,76771,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,80000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,80064,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,82000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,81540,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,86000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,86258,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,86000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,134605,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,131953,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,26000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,26000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,22136,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,22000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,21572,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,21000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,21000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,4685,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,21000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,5274,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,19000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,5886,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,16000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,6540,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,13000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,7309,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,11000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,9611,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,10000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,10871,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,8000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,13570,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,9000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,15217,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,10274,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,17057,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,9186,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,17883,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,9879,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,18885,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,14016,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,18075,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,16000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,19687,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,17000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,19958,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,19000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,19306,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,20000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,20041,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,20335,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,20335,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,21467,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,21467,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,21144,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,21144,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,21868,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,21868,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,22775,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,22775,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,23209,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,23209,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,23649,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,23649,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,23600,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,24700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,24028,I,Imputed value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,25795,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,27432,I,Imputed value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,11027,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,11027,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,539258,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,539000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,524418,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,525000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,444247,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,444000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,452932,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,453000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,426856,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,427000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,452130,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,453000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,427000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,427000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,488535,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,488000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,528675,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,528675,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,539498,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,539498,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,580016,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,580016,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,586641,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,586641,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,721578,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,721578,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,796480,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,796480,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,679839,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,679839,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,645992,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,645992,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,643384,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,643384,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,619000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,619044,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,630000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,629437,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,638608,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,638608,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,679313,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,679313,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,619852,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,620000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,604866,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,604866,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,607711,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,607711,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,618896,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,618896,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,636808,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,636808,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,636000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,636294,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,658000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,657197,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,662000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,661992,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,654000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,867619,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,850524,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,118256,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,126184,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,134708,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,117460,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,119629,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,117546,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,116552,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,136161,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,123300,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,123400,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,128600,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,134666,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,148934,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,120496,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,148849,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,134834,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,110388,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,124987,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,123057,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,123341,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,118235,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,111065,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,115622,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,116689,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,116303,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,112103,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,104900,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,102200,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,103300,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,97200,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,139392,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,139929,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,1064306,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,1135652,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,1212376,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,1057142,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,1076657,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,1057915,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,1048969,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,1225450,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,1109700,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,1110600,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,1157400,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,1211997,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,1340402,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,1084464,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,1339639,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,1213509,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,993494,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,1124887,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,1107517,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,1110065,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,1064112,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,999585,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,1040598,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,1050199,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,1046724,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,1008929,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,944100,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,919800,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,929700,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,874800,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,1254526,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,1259357,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,830000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,800000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,790000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,760000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,700000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,691000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,630000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,630000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,516000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,497000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,528000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,477000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,589000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,431000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,573000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,677000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,577000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,584000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,726000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,609000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,471000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,444000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,370000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,495000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,512000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,493000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,442000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,511000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,481000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,417000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,912879,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,1306687,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,590000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,590055,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,589635,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,589635,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,518708,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,518708,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,493418,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,493418,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,461645,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,461645,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,451266,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,451266,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,443000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,442911,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,438543,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,438543,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,426570,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,426570,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,438423,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,438423,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,417113,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,417113,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,444320,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,444320,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,465935,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,465935,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,471025,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,471025,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,482905,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,482905,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,467077,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,467077,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,453555,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,453555,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,447000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,447151,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,444000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,444314,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,446555,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,446555,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,452000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,451517,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,442000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,442432,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,441000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,440637,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,440092,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,440092,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,444613,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,444613,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,450757,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,450757,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,414000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,414125,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,420000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,420239,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,423000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,422881,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,428000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,488813,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,466105,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,10104000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,9857000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,9523000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,6887000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,10295000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,9681000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,8776000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,9869000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,7046000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,7481000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,7060000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,6852000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,7492000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,7267000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,7017000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,6816000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,6727000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,6707000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,5041000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,4222000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,4415000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,4125000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,9803000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,9599000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,9220000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,9840000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,10881000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,12162000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,12508000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,11629000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,7658356,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,8159055,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1992,1992,3050,FAO TIER 1,An,13440,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1992,1992,3051,UNFCCC,An,13440,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1993,1993,3050,FAO TIER 1,An,12430,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1993,1993,3051,UNFCCC,An,12430,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1994,1994,3050,FAO TIER 1,An,6640,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1994,1994,3051,UNFCCC,An,6640,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1995,1995,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1995,1995,3051,UNFCCC,An,1549,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1996,1996,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1996,1996,3051,UNFCCC,An,1750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1997,1997,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1997,1997,3051,UNFCCC,An,1902,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1998,1998,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1998,1998,3051,UNFCCC,An,2077,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1999,1999,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,1999,1999,3051,UNFCCC,An,2255,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2000,2000,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2000,2000,3051,UNFCCC,An,2518,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2001,2001,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2001,2001,3051,UNFCCC,An,2780,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2002,2002,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2002,2002,3051,UNFCCC,An,3097,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2003,2003,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2003,2003,3051,UNFCCC,An,3033,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2004,2004,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2004,2004,3051,UNFCCC,An,3195,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2005,2005,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2005,2005,3051,UNFCCC,An,3146,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2006,2006,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2006,2006,3051,UNFCCC,An,3299,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2007,2007,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2007,2007,3051,UNFCCC,An,3415,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2008,2008,3050,FAO TIER 1,An,1839,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2008,2008,3051,UNFCCC,An,3591,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2009,2009,3050,FAO TIER 1,An,2249,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2009,2009,3051,UNFCCC,An,3617,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2010,2010,3050,FAO TIER 1,An,2486,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2010,2010,3051,UNFCCC,An,2490,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2011,2011,3050,FAO TIER 1,An,2823,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2011,2011,3051,UNFCCC,An,2833,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2012,2012,3050,FAO TIER 1,An,3095,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2012,2012,3051,UNFCCC,An,3100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2013,2013,3050,FAO TIER 1,An,2963,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2013,2013,3051,UNFCCC,An,2967,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2014,2014,3050,FAO TIER 1,An,2153,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2014,2014,3051,UNFCCC,An,2162,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2015,2015,3050,FAO TIER 1,An,2459,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2015,2015,3051,UNFCCC,An,2471,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2016,2016,3050,FAO TIER 1,An,2862,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2016,2016,3051,UNFCCC,An,2880,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2017,2017,3050,FAO TIER 1,An,3252,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2017,2017,3051,UNFCCC,An,3273,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2018,2018,3051,UNFCCC,An,3711,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2019,2019,3051,UNFCCC,An,4100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2020,2020,3051,UNFCCC,An,4677,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2030,2030,3050,FAO TIER 1,An,4000,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1759,Mules and Asses,2050,2050,3050,FAO TIER 1,An,4000,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,11223000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,13142000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,10917000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,12697000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,10613000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,12503000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,7897000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,12024000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,11195000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,10993000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,10542000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,10945000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,9546000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,9959000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,10639000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,10871000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,7769000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,11256000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,8165000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,11747000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,7764000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,11665000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,7560000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,11778000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,8307000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,11185000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,7873000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,10640000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,7809000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,10088000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,7684000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,10053342,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,7488000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,10015766,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,7478000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,10787366,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,5968000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,9469441,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,5003000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,9523432,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,5096000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,10160359,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,4689000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,9306690,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,10269000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,10317108,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,10168000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,10189785,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,9823000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,9856347,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,10384000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,10399400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,11379000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,11412804,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,12725000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,12746691,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,13042000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,13056718,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,12082000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,8888923,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,9920479,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,653067,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,652809,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,629418,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,630000,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,551932,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,551685,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,558932,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,560292,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,532127,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,532271,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,552130,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,552544,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,511403,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,511403,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,566535,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,566000,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,608068,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,608068,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,632441,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,632441,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,676550,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,676550,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,672728,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,672728,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,847638,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,847638,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,930963,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,930963,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,782716,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,782716,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,737894,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,737894,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,727261,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,727261,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,695119,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,695163,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,705215,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,704652,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,708638,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,708638,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,751291,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,751291,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,688800,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,689000,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,665563,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,665563,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,669711,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,669768,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,694426,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,694426,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,713579,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,713579,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,716000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,716358,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,740000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,738737,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,748000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,748250,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,740000,A,Official figure,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,1002224,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,982477,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,1182562,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,1182000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,1261836,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,1262000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,1347084,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,1347000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,1174602,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,1175000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,1196285,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,1197000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,1175461,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,1176000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,1165521,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,1166000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,1361611,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,1362000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,1233000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,1233545,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,1234000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,1233823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,1286000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,1286497,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,1346663,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,1346663,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,1489335,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,1489335,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,1204960,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,1204960,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,1488488,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,1488488,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,1348343,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,1348343,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,1103882,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,1103882,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,1249874,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,1249874,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,1230574,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,1230574,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,1233406,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,1233406,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,1182347,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,1182347,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,1110650,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,1110650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,1156220,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,1156220,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,1166888,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,1195139,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,1163027,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,1193289,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,1121032,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,1152429,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,1049000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,1080462,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,1022000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,1054847,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,1033000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,1033048,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,972000,E,Estimated value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,1393917,F,Forecast value,
+GLE,Emissions from Livestock,98,Croatia,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,1399285,F,Forecast value,

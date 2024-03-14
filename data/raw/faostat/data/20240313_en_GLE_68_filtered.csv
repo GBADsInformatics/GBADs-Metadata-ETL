@@ -1,0 +1,1496 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1961,1961,3050,FAO TIER 1,An,76200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1962,1962,3050,FAO TIER 1,An,68067,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1963,1963,3050,FAO TIER 1,An,63650,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1964,1964,3050,FAO TIER 1,An,52845,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1965,1965,3050,FAO TIER 1,An,48195,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1966,1966,3050,FAO TIER 1,An,43210,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1967,1967,3050,FAO TIER 1,An,42024,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1968,1968,3050,FAO TIER 1,An,41000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1969,1969,3050,FAO TIER 1,An,36043,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1970,1970,3050,FAO TIER 1,An,34148,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1971,1971,3050,FAO TIER 1,An,33300,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1972,1972,3050,FAO TIER 1,An,28900,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1973,1973,3050,FAO TIER 1,An,29400,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1974,1974,3050,FAO TIER 1,An,32000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1975,1975,3050,FAO TIER 1,An,24670,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1976,1976,3050,FAO TIER 1,An,24700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1977,1977,3050,FAO TIER 1,An,23900,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1978,1978,3050,FAO TIER 1,An,21100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1979,1979,3050,FAO TIER 1,An,19900,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1980,1980,3050,FAO TIER 1,An,23525,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1981,1981,3050,FAO TIER 1,An,23164,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1982,1982,3050,FAO TIER 1,An,23000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1983,1983,3050,FAO TIER 1,An,22900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1984,1984,3050,FAO TIER 1,An,23000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1985,1985,3050,FAO TIER 1,An,23000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1986,1986,3050,FAO TIER 1,An,23000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1987,1987,3050,FAO TIER 1,An,22000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1988,1988,3050,FAO TIER 1,An,22000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1989,1989,3050,FAO TIER 1,An,21000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1990,1990,3050,FAO TIER 1,An,21000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1991,1991,3050,FAO TIER 1,An,14153,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1992,1992,3050,FAO TIER 1,An,14478,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1993,1993,3050,FAO TIER 1,An,16243,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1994,1994,3050,FAO TIER 1,An,17087,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1995,1995,3050,FAO TIER 1,An,19117,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1996,1996,3050,FAO TIER 1,An,20856,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1997,1997,3050,FAO TIER 1,An,22434,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1998,1998,3050,FAO TIER 1,An,24513,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,1999,1999,3050,FAO TIER 1,An,27489,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2000,2000,3050,FAO TIER 1,An,30257,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2001,2001,3050,FAO TIER 1,An,31517,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2002,2002,3050,FAO TIER 1,An,30452,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2003,2003,3050,FAO TIER 1,An,31674,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2004,2004,3050,FAO TIER 1,An,32241,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2005,2005,3050,FAO TIER 1,An,32481,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2006,2006,3050,FAO TIER 1,An,32344,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2007,2007,3050,FAO TIER 1,An,31541,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2008,2008,3050,FAO TIER 1,An,30775,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2009,2009,3050,FAO TIER 1,An,30818,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2010,2010,3050,FAO TIER 1,An,32566,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2011,2011,3050,FAO TIER 1,An,32783,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2012,2012,3050,FAO TIER 1,An,31082,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2013,2013,3050,FAO TIER 1,An,30742,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2014,2014,3050,FAO TIER 1,An,29461,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2015,2015,3050,FAO TIER 1,An,30400,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2016,2016,3050,FAO TIER 1,An,30200,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2017,2017,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2030,2030,3050,FAO TIER 1,An,32122,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1107,Asses,2050,2050,3050,FAO TIER 1,An,32122,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1961,1961,3050,FAO TIER 1,An,7140000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1962,1962,3050,FAO TIER 1,An,7060000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1963,1963,3050,FAO TIER 1,An,6850000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1964,1964,3050,FAO TIER 1,An,6810000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1965,1965,3050,FAO TIER 1,An,6960000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1966,1966,3050,FAO TIER 1,An,6970000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1967,1967,3050,FAO TIER 1,An,7170000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1968,1968,3050,FAO TIER 1,An,7190000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1969,1969,3050,FAO TIER 1,An,7090000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1970,1970,3050,FAO TIER 1,An,7000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1971,1971,3050,FAO TIER 1,An,7080000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1972,1972,3050,FAO TIER 1,An,7191900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1973,1973,3050,FAO TIER 1,An,7331418,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1974,1974,3050,FAO TIER 1,An,7385249,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1975,1975,3050,FAO TIER 1,An,7392634,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1976,1976,3050,FAO TIER 1,An,7441163,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1977,1977,3050,FAO TIER 1,An,7352105,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1978,1978,3050,FAO TIER 1,An,7329274,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1979,1979,3050,FAO TIER 1,An,7400000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1980,1980,3050,FAO TIER 1,An,7264000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1981,1981,3050,FAO TIER 1,An,7261189,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1982,1982,3050,FAO TIER 1,An,7164000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1983,1983,3050,FAO TIER 1,An,7176000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1984,1984,3050,FAO TIER 1,An,7007101,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1985,1985,3050,FAO TIER 1,An,6679752,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1986,1986,3050,FAO TIER 1,An,6508048,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1987,1987,3050,FAO TIER 1,An,6173003,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1988,1988,3050,FAO TIER 1,An,5727663,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1989,1989,3050,FAO TIER 1,An,5621000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1990,1990,3050,FAO TIER 1,An,5533610,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1990,1990,3051,UNFCCC,An,5311091,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1991,1991,3050,FAO TIER 1,An,5024233,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1991,1991,3051,UNFCCC,An,5031744,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,4756075,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,4763257,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,4633673,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,4640505,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,4606370,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,4613203,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,4516234,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,4522647,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,4425902,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,4432284,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,4317576,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,4323801,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,4258850,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,4265165,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,4217233,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,4224137,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,4324327,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,4330881,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,4338753,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,4345351,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,4267138,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,4273584,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,4117743,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,4124218,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,4034857,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,4041603,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,3972964,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,3980269,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,3882195,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,3888956,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,3875290,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,3877127,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,3863435,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,3857110,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,3747886,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,3748620,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,3716276,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,3719498,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,3664153,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,3667405,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,3643200,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,3646479,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,3697232,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,3700535,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,3698450,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,3701702,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,3661183,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,3664371,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,3637015,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,3637436,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,3596837,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,3597163,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,3554230,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,3554997,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,3490810,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,3491122,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,3405680,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,3406009,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,3322030,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,3934537,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,3623677,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1961,1961,3050,FAO TIER 1,An,12361008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1962,1962,3050,FAO TIER 1,An,13523008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1963,1963,3050,FAO TIER 1,An,13436000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1964,1964,3050,FAO TIER 1,An,13230608,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1965,1965,3050,FAO TIER 1,An,13283904,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1966,1966,3050,FAO TIER 1,An,13670304,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1967,1967,3050,FAO TIER 1,An,14013904,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1968,1968,3050,FAO TIER 1,An,14489008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1969,1969,3050,FAO TIER 1,An,14475504,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1970,1970,3050,FAO TIER 1,An,14719296,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1971,1971,3050,FAO TIER 1,An,14643008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1972,1972,3050,FAO TIER 1,An,14572196,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1973,1973,3050,FAO TIER 1,An,15177190,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1974,1974,3050,FAO TIER 1,An,16315759,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1975,1975,3050,FAO TIER 1,An,16647366,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1976,1976,3050,FAO TIER 1,An,16635845,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1977,1977,3050,FAO TIER 1,An,16487895,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1978,1978,3050,FAO TIER 1,An,16432630,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1979,1979,3050,FAO TIER 1,An,16506000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1980,1980,3050,FAO TIER 1,An,16655088,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1981,1981,3050,FAO TIER 1,An,16388811,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1982,1982,3050,FAO TIER 1,An,16329008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1983,1983,3050,FAO TIER 1,An,16480000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1984,1984,3050,FAO TIER 1,An,16885907,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1985,1985,3050,FAO TIER 1,An,16801224,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1986,1986,3050,FAO TIER 1,An,16781840,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1987,1987,3050,FAO TIER 1,An,15794005,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1988,1988,3050,FAO TIER 1,An,15612337,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1989,1989,3050,FAO TIER 1,An,15756008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3050,FAO TIER 1,An,15860390,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3051,UNFCCC,An,16373541,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3050,FAO TIER 1,An,16072905,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3051,UNFCCC,An,16346724,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,15898841,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,16151847,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,15812511,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,16059230,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,15844120,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,16088307,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,16024063,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,16277668,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,16081918,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,16354258,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,15887464,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,16162641,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,15792644,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,16067012,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,15849611,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,16114541,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,16931920,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,17213307,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,16799217,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,17083769,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,16194153,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,16474833,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,15654698,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,15930890,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,15481367,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,15751218,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,15448104,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,15700676,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,15652493,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,15893788,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,16009866,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,16096071,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,16183505,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,16243571,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,16057492,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,16162853,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,15838897,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,15944471,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,15421408,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,15526858,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,15362449,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,15467955,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,15398565,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,15501799,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,15550177,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,15653752,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,15725339,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,15829100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,15736367,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,15815237,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,15356731,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,15434662,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,15058810,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,15148346,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,14682160,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,14766876,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,14409990,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,14488947,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,14008050,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,14465761,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,13438694,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1961,1961,3050,FAO TIER 1,An,112670000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1962,1962,3050,FAO TIER 1,An,113870000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1963,1963,3050,FAO TIER 1,An,116240000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1964,1964,3050,FAO TIER 1,An,115920000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1965,1965,3050,FAO TIER 1,An,124080000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1966,1966,3050,FAO TIER 1,An,79240000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1967,1967,3050,FAO TIER 1,An,71184000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1968,1968,3050,FAO TIER 1,An,95981000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1969,1969,3050,FAO TIER 1,An,104149000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1970,1970,3050,FAO TIER 1,An,97099000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1971,1971,3050,FAO TIER 1,An,103956000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1972,1972,3050,FAO TIER 1,An,101269000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1973,1973,3050,FAO TIER 1,An,86260000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1974,1974,3050,FAO TIER 1,An,89144000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1975,1975,3050,FAO TIER 1,An,100402000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1976,1976,3050,FAO TIER 1,An,101755000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1977,1977,3050,FAO TIER 1,An,106954000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1978,1978,3050,FAO TIER 1,An,104546000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1979,1979,3050,FAO TIER 1,An,102390000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1980,1980,3050,FAO TIER 1,An,103690000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1981,1981,3050,FAO TIER 1,An,112465000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1982,1982,3050,FAO TIER 1,An,108420000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1983,1983,3050,FAO TIER 1,An,115300000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1984,1984,3050,FAO TIER 1,An,115600000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1985,1985,3050,FAO TIER 1,An,140159000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1986,1986,3050,FAO TIER 1,An,135504000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1987,1987,3050,FAO TIER 1,An,136193000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1988,1988,3050,FAO TIER 1,An,140736000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1989,1989,3050,FAO TIER 1,An,135908000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1990,1990,3050,FAO TIER 1,An,131866000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1991,1991,3050,FAO TIER 1,An,156112000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,158485000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,164205000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,164994000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,168606000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,175423000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,182220000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,184869000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,174437000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,165133000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,165770000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,157708000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,152185000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,138579000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,132401000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,133580000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,142674000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,142126000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,141986000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,175054000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,179870000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,187579000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,192829000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,183888000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,187273000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,183743000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,183360000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,180177000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,180845000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,179914000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,175163000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,131629388,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,119587289,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1961,1961,3050,FAO TIER 1,An,54330000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1962,1962,3050,FAO TIER 1,An,56130000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1963,1963,3050,FAO TIER 1,An,56760000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1964,1964,3050,FAO TIER 1,An,59080000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1965,1965,3050,FAO TIER 1,An,55920000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1966,1966,3050,FAO TIER 1,An,58760000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1967,1967,3050,FAO TIER 1,An,66816000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1968,1968,3050,FAO TIER 1,An,62019000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1969,1969,3050,FAO TIER 1,An,61249000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1970,1970,3050,FAO TIER 1,An,67657000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1971,1971,3050,FAO TIER 1,An,58681000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1972,1972,3050,FAO TIER 1,An,55579000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1973,1973,3050,FAO TIER 1,An,71740000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1974,1974,3050,FAO TIER 1,An,72920000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1975,1975,3050,FAO TIER 1,An,64000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1976,1976,3050,FAO TIER 1,An,63000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1977,1977,3050,FAO TIER 1,An,62000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1978,1978,3050,FAO TIER 1,An,66000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1979,1979,3050,FAO TIER 1,An,66800000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1980,1980,3050,FAO TIER 1,An,72600000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1981,1981,3050,FAO TIER 1,An,73500000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1982,1982,3050,FAO TIER 1,An,78580000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1983,1983,3050,FAO TIER 1,An,71700000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1984,1984,3050,FAO TIER 1,An,69400000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1985,1985,3050,FAO TIER 1,An,69600000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1986,1986,3050,FAO TIER 1,An,73038000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1987,1987,3050,FAO TIER 1,An,71351000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1988,1988,3050,FAO TIER 1,An,70348000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1989,1989,3050,FAO TIER 1,An,65900000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1990,1990,3050,FAO TIER 1,An,62300000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1991,1991,3050,FAO TIER 1,An,54992000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,55475000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,54547000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,54095000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,51893000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,51180000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,48923000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,48280000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,49502000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,49054000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,50407000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,53040000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,53547000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,58782000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,59331000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,48998000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,49050000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,50609000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,54622000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,56473000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,53040000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,53554000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,58752000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,59331000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,60025000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,59783000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,61414000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,59113000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,57019000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,62101000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,64677000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,56134352,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,53844746,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1961,1961,3050,FAO TIER 1,An,9000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1962,1962,3050,FAO TIER 1,An,9000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1963,1963,3050,FAO TIER 1,An,9000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1964,1964,3050,FAO TIER 1,An,9000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1965,1965,3050,FAO TIER 1,An,9000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1966,1966,3050,FAO TIER 1,An,9100000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1967,1967,3050,FAO TIER 1,An,9100000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1968,1968,3050,FAO TIER 1,An,8997000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1969,1969,3050,FAO TIER 1,An,8350000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1970,1970,3050,FAO TIER 1,An,8241000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1971,1971,3050,FAO TIER 1,An,7855000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1972,1972,3050,FAO TIER 1,An,7544000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1973,1973,3050,FAO TIER 1,An,7700000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1974,1974,3050,FAO TIER 1,An,7990000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1975,1975,3050,FAO TIER 1,An,7616000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1976,1976,3050,FAO TIER 1,An,7771000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1977,1977,3050,FAO TIER 1,An,8232000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1978,1978,3050,FAO TIER 1,An,8661000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1979,1979,3050,FAO TIER 1,An,8893000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1980,1980,3050,FAO TIER 1,An,9494000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1981,1981,3050,FAO TIER 1,An,9167000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1982,1982,3050,FAO TIER 1,An,9223000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1983,1983,3050,FAO TIER 1,An,10000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1984,1984,3050,FAO TIER 1,An,10000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1985,1985,3050,FAO TIER 1,An,11182000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1986,1986,3050,FAO TIER 1,An,12712000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1987,1987,3050,FAO TIER 1,An,13496000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1988,1988,3050,FAO TIER 1,An,14257000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1989,1989,3050,FAO TIER 1,An,15466000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1990,1990,3050,FAO TIER 1,An,15936000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1991,1991,3050,FAO TIER 1,An,16742000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1992,1992,3050,FAO TIER 1,An,18244000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1993,1993,3050,FAO TIER 1,An,18946000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1994,1994,3050,FAO TIER 1,An,20251000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1995,1995,3050,FAO TIER 1,An,20107000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1996,1996,3050,FAO TIER 1,An,20935000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1997,1997,3050,FAO TIER 1,An,22535000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1998,1998,3050,FAO TIER 1,An,23304000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,1999,1999,3050,FAO TIER 1,An,23756000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2000,2000,3050,FAO TIER 1,An,24375000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2001,2001,3050,FAO TIER 1,An,25317000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2002,2002,3050,FAO TIER 1,An,25391000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2003,2003,3050,FAO TIER 1,An,22675000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,22134000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,22419000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,22762000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,23720000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,22843000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,21913000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,26141000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,26786000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,26297000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,26162000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,26824000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,27424000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,24439000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,23456000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2018,2018,3050,FAO TIER 1,An,23976000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2019,2019,3050,FAO TIER 1,An,24968000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2020,2020,3050,FAO TIER 1,An,21978000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2021,2021,3050,FAO TIER 1,An,22246000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,22193284,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,20162934,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1961,1961,3050,FAO TIER 1,An,1172000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1962,1962,3050,FAO TIER 1,An,1176000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1963,1963,3050,FAO TIER 1,An,1124200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1964,1964,3050,FAO TIER 1,An,1068600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1965,1965,3050,FAO TIER 1,An,1041400,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1966,1966,3050,FAO TIER 1,An,1014400,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1967,1967,3050,FAO TIER 1,An,1017000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1968,1968,3050,FAO TIER 1,An,924000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1969,1969,3050,FAO TIER 1,An,919400,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1970,1970,3050,FAO TIER 1,An,925200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1971,1971,3050,FAO TIER 1,An,924200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1972,1972,3050,FAO TIER 1,An,908600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1973,1973,3050,FAO TIER 1,An,898700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1974,1974,3050,FAO TIER 1,An,923000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1975,1975,3050,FAO TIER 1,An,959000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1976,1976,3050,FAO TIER 1,An,991000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1977,1977,3050,FAO TIER 1,An,1021000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1978,1978,3050,FAO TIER 1,An,1048000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1979,1979,3050,FAO TIER 1,An,1079500,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1980,1980,3050,FAO TIER 1,An,1125206,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1981,1981,3050,FAO TIER 1,An,1241000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1982,1982,3050,FAO TIER 1,An,1217000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1983,1983,3050,FAO TIER 1,An,1208000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1984,1984,3050,FAO TIER 1,An,1164000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1985,1985,3050,FAO TIER 1,An,1106000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1986,1986,3050,FAO TIER 1,An,1085593,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1987,1987,3050,FAO TIER 1,An,1089514,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1988,1988,3050,FAO TIER 1,An,1091440,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1989,1989,3050,FAO TIER 1,An,1215470,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1990,1990,3050,FAO TIER 1,An,1226000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1990,1990,3051,UNFCCC,An,1375480,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1991,1991,3050,FAO TIER 1,An,1225683,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1991,1991,3051,UNFCCC,An,1365590,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,1190270,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,1334296,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,1167193,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,1310077,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,1155203,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,1295606,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,1193771,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,1337203,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,1205868,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,1348610,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,1201309,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,1335500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,1203108,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,1334552,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,1199728,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,1328659,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,1210517,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,1330235,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,1230001,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,1351806,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,1231557,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,1356658,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,1224779,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,1358389,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,1212570,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,1351557,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,1224759,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,1362884,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,1232639,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,1375569,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,1280520,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,1372880,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,1283124,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,1383729,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,1329160,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,1438291,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,1436109,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,1466693,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,1381209,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,1410442,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,1307753,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,1332646,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,1290623,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,1314701,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,1284667,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,1307288,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,1261684,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,1284808,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,1258204,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,1274947,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,1270737,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,1287028,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,1252000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,1319026,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,1242000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,1320884,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,1413980,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,1412152,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,1387770,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,1206562,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,1157214,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1961,1961,3050,FAO TIER 1,An,1728800,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1962,1962,3050,FAO TIER 1,An,1617100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1963,1963,3050,FAO TIER 1,An,1526200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1964,1964,3050,FAO TIER 1,An,1356800,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1965,1965,3050,FAO TIER 1,An,1227700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1966,1966,3050,FAO TIER 1,An,1114200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1967,1967,3050,FAO TIER 1,An,1044000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1968,1968,3050,FAO TIER 1,An,874400,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1969,1969,3050,FAO TIER 1,An,749900,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1970,1970,3050,FAO TIER 1,An,696500,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1971,1971,3050,FAO TIER 1,An,626000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1972,1972,3050,FAO TIER 1,An,524200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1973,1973,3050,FAO TIER 1,An,446600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1974,1974,3050,FAO TIER 1,An,425000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1975,1975,3050,FAO TIER 1,An,413000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1976,1976,3050,FAO TIER 1,An,398100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1977,1977,3050,FAO TIER 1,An,397600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1978,1978,3050,FAO TIER 1,An,379600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1979,1979,3050,FAO TIER 1,An,373500,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1980,1980,3050,FAO TIER 1,An,364417,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1981,1981,3050,FAO TIER 1,An,317444,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1982,1982,3050,FAO TIER 1,An,323000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1983,1983,3050,FAO TIER 1,An,306000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1984,1984,3050,FAO TIER 1,An,298000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1985,1985,3050,FAO TIER 1,An,294000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1986,1986,3050,FAO TIER 1,An,271204,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1987,1987,3050,FAO TIER 1,An,267724,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1988,1988,3050,FAO TIER 1,An,266100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1989,1989,3050,FAO TIER 1,An,268681,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1990,1990,3050,FAO TIER 1,An,319046,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1990,1990,3051,UNFCCC,An,421971,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1991,1991,3050,FAO TIER 1,An,334810,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1991,1991,3051,UNFCCC,An,429332,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,339171,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,438463,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,347558,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,451120,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,351951,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,461571,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,362894,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,477589,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,371526,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,491483,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,383479,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,510201,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,390780,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,523642,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,393186,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,535893,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,417016,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,559422,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,418135,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,560021,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,421268,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,582321,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,419625,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,583609,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,427079,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,587040,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,426227,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,587686,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,422872,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,581322,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,423049,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,584439,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,421065,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,588632,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,422665,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,588699,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,422902,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,589740,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,424590,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,590819,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,414284,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,577763,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,408028,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,569370,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,405649,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,567237,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,398055,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,556063,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,379410,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,536011,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,375266,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,531410,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,370881,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,530618,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,367174,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,523861,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,290857,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,522521,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,291165,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,424049,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,424049,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1961,1961,3050,FAO TIER 1,An,67300,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1962,1962,3050,FAO TIER 1,An,59462,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1963,1963,3050,FAO TIER 1,An,55700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1964,1964,3050,FAO TIER 1,An,49783,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1965,1965,3050,FAO TIER 1,An,45896,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1966,1966,3050,FAO TIER 1,An,41436,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1967,1967,3050,FAO TIER 1,An,37730,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1968,1968,3050,FAO TIER 1,An,37700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1969,1969,3050,FAO TIER 1,An,34920,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1970,1970,3050,FAO TIER 1,An,32747,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1971,1971,3050,FAO TIER 1,An,31700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1972,1972,3050,FAO TIER 1,An,28000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1973,1973,3050,FAO TIER 1,An,25400,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1974,1974,3050,FAO TIER 1,An,24000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1975,1975,3050,FAO TIER 1,An,25400,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1976,1976,3050,FAO TIER 1,An,19800,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1977,1977,3050,FAO TIER 1,An,18200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1978,1978,3050,FAO TIER 1,An,16700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1979,1979,3050,FAO TIER 1,An,15200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1980,1980,3050,FAO TIER 1,An,14940,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1981,1981,3050,FAO TIER 1,An,12053,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1982,1982,3050,FAO TIER 1,An,12000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1983,1983,3050,FAO TIER 1,An,11950,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1984,1984,3050,FAO TIER 1,An,12000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1985,1985,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1986,1986,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1987,1987,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1988,1988,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1989,1989,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1990,1990,3050,FAO TIER 1,An,12973,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1991,1991,3050,FAO TIER 1,An,12662,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1992,1992,3050,FAO TIER 1,An,12404,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1993,1993,3050,FAO TIER 1,An,11934,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1994,1994,3050,FAO TIER 1,An,12684,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1995,1995,3050,FAO TIER 1,An,12729,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1996,1996,3050,FAO TIER 1,An,13684,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1997,1997,3050,FAO TIER 1,An,14070,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1998,1998,3050,FAO TIER 1,An,14060,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,1999,1999,3050,FAO TIER 1,An,14456,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2000,2000,3050,FAO TIER 1,An,15017,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2001,2001,3050,FAO TIER 1,An,15000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2002,2002,3050,FAO TIER 1,An,15000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2003,2003,3050,FAO TIER 1,An,15000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2004,2004,3050,FAO TIER 1,An,15000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2005,2005,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2006,2006,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2007,2007,3050,FAO TIER 1,An,22000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2008,2008,3050,FAO TIER 1,An,26000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2009,2009,3050,FAO TIER 1,An,31586,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2010,2010,3050,FAO TIER 1,An,32566,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2011,2011,3050,FAO TIER 1,An,32783,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2012,2012,3050,FAO TIER 1,An,31082,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2013,2013,3050,FAO TIER 1,An,30968,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2014,2014,3050,FAO TIER 1,An,29461,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2015,2015,3050,FAO TIER 1,An,28868,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2016,2016,3050,FAO TIER 1,An,27915,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2017,2017,3050,FAO TIER 1,An,27001,I,Imputed value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2030,2030,3050,FAO TIER 1,An,18667,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1110,Mules and hinnies,2050,2050,3050,FAO TIER 1,An,18667,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1961,1961,3050,FAO TIER 1,An,9063000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1962,1962,3050,FAO TIER 1,An,8924000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1963,1963,3050,FAO TIER 1,An,8944900,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1964,1964,3050,FAO TIER 1,An,8626000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1965,1965,3050,FAO TIER 1,An,8820700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1966,1966,3050,FAO TIER 1,An,9055900,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1967,1967,3050,FAO TIER 1,An,9185600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1968,1968,3050,FAO TIER 1,An,9509600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1969,1969,3050,FAO TIER 1,An,9794100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1970,1970,3050,FAO TIER 1,An,10036700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1971,1971,3050,FAO TIER 1,An,10238800,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1972,1972,3050,FAO TIER 1,An,10114600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1973,1973,3050,FAO TIER 1,An,10442000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1974,1974,3050,FAO TIER 1,An,10375000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1975,1975,3050,FAO TIER 1,An,10568000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1976,1976,3050,FAO TIER 1,An,10803000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1977,1977,3050,FAO TIER 1,An,11046000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1978,1978,3050,FAO TIER 1,An,11415000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1979,1979,3050,FAO TIER 1,An,11641500,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1980,1980,3050,FAO TIER 1,An,11911044,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1981,1981,3050,FAO TIER 1,An,12846000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1982,1982,3050,FAO TIER 1,An,13525000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1983,1983,3050,FAO TIER 1,An,12926000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1984,1984,3050,FAO TIER 1,An,13035000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1985,1985,3050,FAO TIER 1,An,12676000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1986,1986,3050,FAO TIER 1,An,12432458,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1987,1987,3050,FAO TIER 1,An,12044045,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1988,1988,3050,FAO TIER 1,An,11495000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1989,1989,3050,FAO TIER 1,An,11208000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1990,1990,3050,FAO TIER 1,An,11208800,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1990,1990,3051,UNFCCC,An,11389372,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1991,1991,3050,FAO TIER 1,An,11022434,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1991,1991,3051,UNFCCC,An,11021975,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,10737574,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,10737933,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,10481291,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,10471098,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,10400600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,10388006,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,10286651,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,10269316,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,10163188,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,10148811,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,9976022,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,9964698,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,9865622,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,9851238,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,9723998,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,9709079,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,9577612,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,9560039,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,9437367,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,9434135,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,9335856,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,9340856,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,9287212,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,9296215,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,9178090,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,9193681,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,9094005,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,9114078,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,8905186,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,8867267,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,8475573,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,8567698,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,8189215,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,8165443,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,8093182,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,8065227,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,7962418,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,7966345,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,7658771,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,7662834,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,7461934,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,7466948,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,7239057,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,7244130,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,7181130,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,7184475,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,7064541,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,7068532,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,7045970,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,7049104,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,6901456,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,6904075,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,7166000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,7052077,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,7105000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,6961496,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,6998710,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,6927855,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,6994630,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,8545787,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,8196268,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1961,1961,3050,FAO TIER 1,An,860300,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1962,1962,3050,FAO TIER 1,An,921700,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1963,1963,3050,FAO TIER 1,An,908040,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1964,1964,3050,FAO TIER 1,An,896700,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1965,1965,3050,FAO TIER 1,An,904270,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1966,1966,3050,FAO TIER 1,An,923850,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1967,1967,3050,FAO TIER 1,An,983960,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1968,1968,3050,FAO TIER 1,An,1069300,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1969,1969,3050,FAO TIER 1,An,960200,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1970,1970,3050,FAO TIER 1,An,1046250,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1971,1971,3050,FAO TIER 1,An,1148250,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1972,1972,3050,FAO TIER 1,An,1138590,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1973,1973,3050,FAO TIER 1,An,1138650,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1974,1974,3050,FAO TIER 1,An,1156000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1975,1975,3050,FAO TIER 1,An,1203100,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1976,1976,3050,FAO TIER 1,An,1145100,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1977,1977,3050,FAO TIER 1,An,1150900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1978,1978,3050,FAO TIER 1,An,1154800,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1979,1979,3050,FAO TIER 1,An,1133960,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1980,1980,3050,FAO TIER 1,An,1144637,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1981,1981,3050,FAO TIER 1,An,1162917,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1982,1982,3050,FAO TIER 1,An,1142100,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1983,1983,3050,FAO TIER 1,An,1170900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1984,1984,3050,FAO TIER 1,An,1125100,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1985,1985,3050,FAO TIER 1,An,1097500,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1986,1986,3050,FAO TIER 1,An,1184200,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1987,1987,3050,FAO TIER 1,An,1241900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1988,1988,3050,FAO TIER 1,An,1264310,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1989,1989,3050,FAO TIER 1,An,1170800,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1990,1990,3050,FAO TIER 1,An,1227550,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1991,1991,3050,FAO TIER 1,An,1242005,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,1302612,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,1343764,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,1372462,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,1384359,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,1433481,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,1456722,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,1476892,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,1475658,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,1492743,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,1537743,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,1534549,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,1516028,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,1502217,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,1494870,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,1483702,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,1490960,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,1494737,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,1471892,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,1428706,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,1397545,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,1375991,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,1348541,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,1333519,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,1316239,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,1262662,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,1293086,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,1371300,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,1351000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,1339300,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,1294100,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,1504682,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,1492425,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1961,1961,3050,FAO TIER 1,An,7742700,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1962,1962,3050,FAO TIER 1,An,8295300,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1963,1963,3050,FAO TIER 1,An,8172360,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1964,1964,3050,FAO TIER 1,An,8070300,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1965,1965,3050,FAO TIER 1,An,8138430,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1966,1966,3050,FAO TIER 1,An,8314650,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1967,1967,3050,FAO TIER 1,An,8855640,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1968,1968,3050,FAO TIER 1,An,9623700,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1969,1969,3050,FAO TIER 1,An,8641800,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1970,1970,3050,FAO TIER 1,An,9416250,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1971,1971,3050,FAO TIER 1,An,10334250,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1972,1972,3050,FAO TIER 1,An,10247310,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1973,1973,3050,FAO TIER 1,An,10247850,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1974,1974,3050,FAO TIER 1,An,10404000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1975,1975,3050,FAO TIER 1,An,10827900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1976,1976,3050,FAO TIER 1,An,10305900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1977,1977,3050,FAO TIER 1,An,10358100,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1978,1978,3050,FAO TIER 1,An,10393200,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1979,1979,3050,FAO TIER 1,An,10205640,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1980,1980,3050,FAO TIER 1,An,10301732,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1981,1981,3050,FAO TIER 1,An,10466250,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1982,1982,3050,FAO TIER 1,An,10278900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1983,1983,3050,FAO TIER 1,An,10538100,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1984,1984,3050,FAO TIER 1,An,10125900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1985,1985,3050,FAO TIER 1,An,9877500,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1986,1986,3050,FAO TIER 1,An,10657800,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1987,1987,3050,FAO TIER 1,An,11177100,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1988,1988,3050,FAO TIER 1,An,11378789,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1989,1989,3050,FAO TIER 1,An,10537200,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1990,1990,3050,FAO TIER 1,An,11047950,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1991,1991,3050,FAO TIER 1,An,11178042,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,11723504,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,12093877,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,12352154,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,12459234,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,12901332,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,13110501,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,13292031,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,13280920,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,13434683,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,13839683,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,13810939,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,13644248,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,13519956,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,13453826,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,13353321,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,13418641,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,13452634,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,13247026,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,12858350,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,12577909,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,12383922,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,12136865,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,12001673,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,11846152,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,11363954,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,11637771,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,12341700,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,12159000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,12053700,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,11646900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,13542142,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,13431827,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1961,1961,3050,FAO TIER 1,An,1600000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1962,1962,3050,FAO TIER 1,An,1600000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1963,1963,3050,FAO TIER 1,An,1700000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1964,1964,3050,FAO TIER 1,An,1700000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1965,1965,3050,FAO TIER 1,An,1800000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1966,1966,3050,FAO TIER 1,An,1800000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1967,1967,3050,FAO TIER 1,An,1800000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1968,1968,3050,FAO TIER 1,An,2000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1969,1969,3050,FAO TIER 1,An,2246000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1970,1970,3050,FAO TIER 1,An,2588000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1971,1971,3050,FAO TIER 1,An,3069000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1972,1972,3050,FAO TIER 1,An,4180000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1973,1973,3050,FAO TIER 1,An,8700000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1974,1974,3050,FAO TIER 1,An,9607000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1975,1975,3050,FAO TIER 1,An,9583000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1976,1976,3050,FAO TIER 1,An,8771000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1977,1977,3050,FAO TIER 1,An,10494000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1978,1978,3050,FAO TIER 1,An,11125000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1979,1979,3050,FAO TIER 1,An,11955000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1980,1980,3050,FAO TIER 1,An,13787000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1981,1981,3050,FAO TIER 1,An,15907000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1982,1982,3050,FAO TIER 1,An,18526000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1983,1983,3050,FAO TIER 1,An,16100000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1984,1984,3050,FAO TIER 1,An,16100000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1985,1985,3050,FAO TIER 1,An,20669000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1986,1986,3050,FAO TIER 1,An,20992000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1987,1987,3050,FAO TIER 1,An,22287000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1988,1988,3050,FAO TIER 1,An,23263000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1989,1989,3050,FAO TIER 1,An,24097000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1990,1990,3050,FAO TIER 1,An,26428000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1991,1991,3050,FAO TIER 1,An,29398000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,31222000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,32646000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,35050000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,37332000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,37103000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,38505000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,38637000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,37951000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,38145000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,38191000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,35648000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,34222000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,30816000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,28526000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,28094000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,26943000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,24855000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,24197000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,24260000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,23743000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,22452000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,20190000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,21214000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,21385000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,20676000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,20136000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,18830000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,18258000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,17725000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,17521000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,26915972,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,24453568,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1961,1961,3050,FAO TIER 1,An,19501008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1962,1962,3050,FAO TIER 1,An,20583008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1963,1963,3050,FAO TIER 1,An,20286000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1964,1964,3050,FAO TIER 1,An,20040608,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1965,1965,3050,FAO TIER 1,An,20243904,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1966,1966,3050,FAO TIER 1,An,20640304,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1967,1967,3050,FAO TIER 1,An,21183904,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1968,1968,3050,FAO TIER 1,An,21679008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1969,1969,3050,FAO TIER 1,An,21565504,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1970,1970,3050,FAO TIER 1,An,21719296,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1971,1971,3050,FAO TIER 1,An,21723008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1972,1972,3050,FAO TIER 1,An,21764096,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1973,1973,3050,FAO TIER 1,An,22508608,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1974,1974,3050,FAO TIER 1,An,23701008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1975,1975,3050,FAO TIER 1,An,24040000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1976,1976,3050,FAO TIER 1,An,24077008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1977,1977,3050,FAO TIER 1,An,23840000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1978,1978,3050,FAO TIER 1,An,23761904,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1979,1979,3050,FAO TIER 1,An,23906000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1980,1980,3050,FAO TIER 1,An,23919088,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1981,1981,3050,FAO TIER 1,An,23650000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1982,1982,3050,FAO TIER 1,An,23493008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1983,1983,3050,FAO TIER 1,An,23656000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1984,1984,3050,FAO TIER 1,An,23893008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1985,1985,3050,FAO TIER 1,An,23480976,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1986,1986,3050,FAO TIER 1,An,23289888,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1987,1987,3050,FAO TIER 1,An,21967008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1988,1988,3050,FAO TIER 1,An,21340000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1989,1989,3050,FAO TIER 1,An,21377008,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1990,1990,3050,FAO TIER 1,An,21394000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1990,1990,3051,UNFCCC,An,21684632,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1991,1991,3050,FAO TIER 1,An,21097138,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1991,1991,3051,UNFCCC,An,21378468,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,20654916,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,20915103,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,20446184,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,20699735,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,20450490,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,20701510,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,20540297,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,20800315,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,20507820,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,20786542,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,20205040,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,20486443,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,20051494,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,20332177,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,20066844,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,20338677,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,21256247,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,21544189,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,21137970,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,21429120,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,20461291,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,20748416,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,19772441,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,20055108,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,19516224,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,19792821,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,19421068,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,19680945,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,19534688,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,19782744,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,19885156,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,19973198,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,20046940,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,20100681,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,19805378,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,19911473,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,19555173,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,19663969,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,19085561,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,19194263,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,19005649,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,19114435,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,19095797,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,19202335,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,19248627,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,19355454,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,19386522,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,19493471,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,19373382,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,19452673,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,18953568,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,19031825,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,18613040,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,18703344,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,18172970,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,18257998,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,17815670,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,17894956,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,17330080,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,18400298,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,17062371,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1961,1961,3050,FAO TIER 1,An,167000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1962,1962,3050,FAO TIER 1,An,170000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1963,1963,3050,FAO TIER 1,An,173000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1964,1964,3050,FAO TIER 1,An,175000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1965,1965,3050,FAO TIER 1,An,180000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1966,1966,3050,FAO TIER 1,An,138000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1967,1967,3050,FAO TIER 1,An,138000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1968,1968,3050,FAO TIER 1,An,158000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1969,1969,3050,FAO TIER 1,An,165398000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1970,1970,3050,FAO TIER 1,An,164756000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1971,1971,3050,FAO TIER 1,An,162637000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1972,1972,3050,FAO TIER 1,An,156848000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1973,1973,3050,FAO TIER 1,An,158000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1974,1974,3050,FAO TIER 1,An,162064000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1975,1975,3050,FAO TIER 1,An,164402000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1976,1976,3050,FAO TIER 1,An,164755000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1977,1977,3050,FAO TIER 1,An,168954000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1978,1978,3050,FAO TIER 1,An,170546000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1979,1979,3050,FAO TIER 1,An,169190000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1980,1980,3050,FAO TIER 1,An,176290000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1981,1981,3050,FAO TIER 1,An,185965000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1982,1982,3050,FAO TIER 1,An,187000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1983,1983,3050,FAO TIER 1,An,187000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1984,1984,3050,FAO TIER 1,An,185000000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1985,1985,3050,FAO TIER 1,An,209759000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1986,1986,3050,FAO TIER 1,An,208542000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1987,1987,3050,FAO TIER 1,An,207544000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1988,1988,3050,FAO TIER 1,An,211084000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1989,1989,3050,FAO TIER 1,An,201808000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1990,1990,3050,FAO TIER 1,An,194166000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1991,1991,3050,FAO TIER 1,An,211104000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,213960000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,218752000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,219089000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,220499000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,226603000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,231143000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,233149000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,223939000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,214187000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,216177000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,210748000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,205732000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,197361000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,191732000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,182578000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,191724000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,192735000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,196608000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,231527000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,232910000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,241133000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,251581000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,243219000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,247298000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,243526000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,244774000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,239290000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,237864000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,242015000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,239840000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,187763741,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,173432035,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1961,1961,3050,FAO TIER 1,An,143500,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1962,1962,3050,FAO TIER 1,An,127529,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1963,1963,3050,FAO TIER 1,An,119350,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1964,1964,3050,FAO TIER 1,An,102628,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1965,1965,3050,FAO TIER 1,An,94091,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1966,1966,3050,FAO TIER 1,An,84646,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1967,1967,3050,FAO TIER 1,An,79754,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1968,1968,3050,FAO TIER 1,An,78700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1969,1969,3050,FAO TIER 1,An,70963,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1970,1970,3050,FAO TIER 1,An,66895,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1971,1971,3050,FAO TIER 1,An,65000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1972,1972,3050,FAO TIER 1,An,56900,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1973,1973,3050,FAO TIER 1,An,54800,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1974,1974,3050,FAO TIER 1,An,56000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1975,1975,3050,FAO TIER 1,An,50070,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1976,1976,3050,FAO TIER 1,An,44500,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1977,1977,3050,FAO TIER 1,An,42100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1978,1978,3050,FAO TIER 1,An,37800,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1979,1979,3050,FAO TIER 1,An,35100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1980,1980,3050,FAO TIER 1,An,38465,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1981,1981,3050,FAO TIER 1,An,35217,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1982,1982,3050,FAO TIER 1,An,35000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1983,1983,3050,FAO TIER 1,An,34850,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1984,1984,3050,FAO TIER 1,An,35000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1985,1985,3050,FAO TIER 1,An,35000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1986,1986,3050,FAO TIER 1,An,35000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1987,1987,3050,FAO TIER 1,An,34000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1988,1988,3050,FAO TIER 1,An,34000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1989,1989,3050,FAO TIER 1,An,33000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1990,1990,3050,FAO TIER 1,An,33973,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1990,1990,3051,UNFCCC,An,17259,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1991,1991,3050,FAO TIER 1,An,26815,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1991,1991,3051,UNFCCC,An,17966,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1992,1992,3050,FAO TIER 1,An,26882,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1992,1992,3051,UNFCCC,An,18400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1993,1993,3050,FAO TIER 1,An,28177,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1993,1993,3051,UNFCCC,An,20484,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1994,1994,3050,FAO TIER 1,An,29771,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1994,1994,3051,UNFCCC,An,21717,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1995,1995,3050,FAO TIER 1,An,31846,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1995,1995,3051,UNFCCC,An,24037,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1996,1996,3050,FAO TIER 1,An,34540,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1996,1996,3051,UNFCCC,An,27005,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1997,1997,3050,FAO TIER 1,An,36504,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1997,1997,3051,UNFCCC,An,29593,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1998,1998,3050,FAO TIER 1,An,38573,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1998,1998,3051,UNFCCC,An,32140,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1999,1999,3050,FAO TIER 1,An,41945,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,1999,1999,3051,UNFCCC,An,40058,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2000,2000,3050,FAO TIER 1,An,45274,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2000,2000,3051,UNFCCC,An,43545,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2001,2001,3050,FAO TIER 1,An,46517,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2001,2001,3051,UNFCCC,An,46833,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2002,2002,3050,FAO TIER 1,An,45452,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2002,2002,3051,UNFCCC,An,47497,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2003,2003,3050,FAO TIER 1,An,46674,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2003,2003,3051,UNFCCC,An,49248,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2004,2004,3050,FAO TIER 1,An,47241,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2004,2004,3051,UNFCCC,An,49482,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2005,2005,3050,FAO TIER 1,An,48481,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2005,2005,3051,UNFCCC,An,50120,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2006,2006,3050,FAO TIER 1,An,50344,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2006,2006,3051,UNFCCC,An,50244,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2007,2007,3050,FAO TIER 1,An,53541,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2007,2007,3051,UNFCCC,An,48877,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2008,2008,3050,FAO TIER 1,An,56775,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2008,2008,3051,UNFCCC,An,47878,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2009,2009,3050,FAO TIER 1,An,62404,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2009,2009,3051,UNFCCC,An,48070,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2010,2010,3050,FAO TIER 1,An,65132,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2010,2010,3051,UNFCCC,An,49194,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2011,2011,3050,FAO TIER 1,An,65566,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2011,2011,3051,UNFCCC,An,48196,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2012,2012,3050,FAO TIER 1,An,62164,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2012,2012,3051,UNFCCC,An,44493,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2013,2013,3050,FAO TIER 1,An,61710,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2013,2013,3051,UNFCCC,An,44168,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2014,2014,3050,FAO TIER 1,An,58922,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2014,2014,3051,UNFCCC,An,42665,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2015,2015,3050,FAO TIER 1,An,59268,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2015,2015,3051,UNFCCC,An,41861,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2016,2016,3050,FAO TIER 1,An,58115,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2016,2016,3051,UNFCCC,An,39797,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2017,2017,3050,FAO TIER 1,An,57001,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2017,2017,3051,UNFCCC,An,38240,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2018,2018,3051,UNFCCC,An,36489,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2019,2019,3051,UNFCCC,An,35238,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2020,2020,3051,UNFCCC,An,33414,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2030,2030,3050,FAO TIER 1,An,50789,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1759,Mules and Asses,2050,2050,3050,FAO TIER 1,An,50789,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1961,1961,3050,FAO TIER 1,An,177600000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1962,1962,3050,FAO TIER 1,An,180600000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1963,1963,3050,FAO TIER 1,An,183700000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1964,1964,3050,FAO TIER 1,An,185700000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1965,1965,3050,FAO TIER 1,An,190800000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1966,1966,3050,FAO TIER 1,An,148900000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1967,1967,3050,FAO TIER 1,An,148900000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1968,1968,3050,FAO TIER 1,An,168997000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1969,1969,3050,FAO TIER 1,An,175994000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1970,1970,3050,FAO TIER 1,An,175585000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1971,1971,3050,FAO TIER 1,An,173561000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1972,1972,3050,FAO TIER 1,An,168572000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1973,1973,3050,FAO TIER 1,An,174400000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1974,1974,3050,FAO TIER 1,An,179661000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1975,1975,3050,FAO TIER 1,An,181601000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1976,1976,3050,FAO TIER 1,An,181297000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1977,1977,3050,FAO TIER 1,An,187680000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1978,1978,3050,FAO TIER 1,An,190332000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1979,1979,3050,FAO TIER 1,An,190038000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1980,1980,3050,FAO TIER 1,An,199571000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1981,1981,3050,FAO TIER 1,An,211039000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1982,1982,3050,FAO TIER 1,An,214749000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1983,1983,3050,FAO TIER 1,An,213100000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1984,1984,3050,FAO TIER 1,An,211100000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1985,1985,3050,FAO TIER 1,An,241610000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1986,1986,3050,FAO TIER 1,An,242246000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1987,1987,3050,FAO TIER 1,An,243327000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1988,1988,3050,FAO TIER 1,An,248604000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1989,1989,3050,FAO TIER 1,An,241371000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1990,1990,3050,FAO TIER 1,An,236530000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1990,1990,3051,UNFCCC,An,269442131,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1991,1991,3050,FAO TIER 1,An,257244000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1991,1991,3051,UNFCCC,An,275857775,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,263426000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,281275244,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,270344000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,287860922,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,274390000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,290676930,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,277938000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,294893049,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,284641000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,301828341,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,292183000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,308650780,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,295090000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,311769711,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,285646000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,302356282,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,276707000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,293632597,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,279685000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,301681695,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,271787000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,297614716,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,262629000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,295396152,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,250311000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,283769968,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,242677000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,278540128,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,233434000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,272929970,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,242387000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,281713092,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,240433000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,285013823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,242718000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,288977024,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,281928000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,293383135,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,283439000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,295138532,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,289882000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,301398389,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,297933000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,309932008,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,291257000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,312900011,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,296107000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,317502128,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,288641000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,310300137,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,288366000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,307581136,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,282096000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,302476211,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,281090000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,299321104,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,281718000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,297784081,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,279607000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,236872997,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,218048537,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1961,1961,3050,FAO TIER 1,An,10235000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1962,1962,3050,FAO TIER 1,An,10100000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1963,1963,3050,FAO TIER 1,An,10069100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1964,1964,3050,FAO TIER 1,An,9694600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1965,1965,3050,FAO TIER 1,An,9862100,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1966,1966,3050,FAO TIER 1,An,10070300,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1967,1967,3050,FAO TIER 1,An,10202600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1968,1968,3050,FAO TIER 1,An,10433600,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1969,1969,3050,FAO TIER 1,An,10713500,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1970,1970,3050,FAO TIER 1,An,10961900,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1971,1971,3050,FAO TIER 1,An,11163000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1972,1972,3050,FAO TIER 1,An,11023200,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1973,1973,3050,FAO TIER 1,An,11340700,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1974,1974,3050,FAO TIER 1,An,11298000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1975,1975,3050,FAO TIER 1,An,11527000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1976,1976,3050,FAO TIER 1,An,11794000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1977,1977,3050,FAO TIER 1,An,12067000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1978,1978,3050,FAO TIER 1,An,12463000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1979,1979,3050,FAO TIER 1,An,12721000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1980,1980,3050,FAO TIER 1,An,13036250,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1981,1981,3050,FAO TIER 1,An,14087000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1982,1982,3050,FAO TIER 1,An,14742000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1983,1983,3050,FAO TIER 1,An,14134000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1984,1984,3050,FAO TIER 1,An,14199000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1985,1985,3050,FAO TIER 1,An,13782000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1986,1986,3050,FAO TIER 1,An,13518051,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1987,1987,3050,FAO TIER 1,An,13133559,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1988,1988,3050,FAO TIER 1,An,12586440,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1989,1989,3050,FAO TIER 1,An,12423470,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1990,1990,3050,FAO TIER 1,An,12434800,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1990,1990,3051,UNFCCC,An,12764852,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1991,1991,3050,FAO TIER 1,An,12248117,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1991,1991,3051,UNFCCC,An,12387565,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,11927844,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,12072229,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,11648484,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,11781175,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,11555803,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,11683612,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,11480422,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,11606519,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,11369056,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,11497421,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,11177331,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,11300198,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,11068730,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,11185790,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,10923726,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,11037738,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,10788129,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,10890274,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,10667368,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,10785942,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,10567413,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,10697514,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,10511991,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,10654604,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,10390660,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,10545238,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,10318764,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,10476963,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,10137825,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,10242836,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,9756093,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,9940579,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,9472339,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,9549172,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,9422342,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,9503518,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,9398527,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,9433038,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,9039980,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,9073276,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,8769687,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,8799594,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,8529680,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,8558831,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,8465797,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,8491763,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,8326225,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,8353340,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,8304174,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,8324051,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,8172193,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,8191103,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,8418000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,8371103,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,8347000,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,8282380,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,8412690,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,8340007,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,8382400,A,Official figure,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,9752349,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,9353482,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1961,1961,3050,FAO TIER 1,An,8603000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1962,1962,3050,FAO TIER 1,An,9217000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1963,1963,3050,FAO TIER 1,An,9080400,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1964,1964,3050,FAO TIER 1,An,8967000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1965,1965,3050,FAO TIER 1,An,9042700,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1966,1966,3050,FAO TIER 1,An,9238500,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1967,1967,3050,FAO TIER 1,An,9839600,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1968,1968,3050,FAO TIER 1,An,10693000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1969,1969,3050,FAO TIER 1,An,9602000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1970,1970,3050,FAO TIER 1,An,10462500,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1971,1971,3050,FAO TIER 1,An,11482500,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1972,1972,3050,FAO TIER 1,An,11385900,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1973,1973,3050,FAO TIER 1,An,11386500,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1974,1974,3050,FAO TIER 1,An,11560000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1975,1975,3050,FAO TIER 1,An,12031000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1976,1976,3050,FAO TIER 1,An,11451000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1977,1977,3050,FAO TIER 1,An,11509000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1978,1978,3050,FAO TIER 1,An,11548000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1979,1979,3050,FAO TIER 1,An,11339600,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1980,1980,3050,FAO TIER 1,An,11446369,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1981,1981,3050,FAO TIER 1,An,11629167,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1982,1982,3050,FAO TIER 1,An,11421000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1983,1983,3050,FAO TIER 1,An,11709000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1984,1984,3050,FAO TIER 1,An,11251000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1985,1985,3050,FAO TIER 1,An,10975000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1986,1986,3050,FAO TIER 1,An,11842000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1987,1987,3050,FAO TIER 1,An,12419000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1988,1988,3050,FAO TIER 1,An,12643099,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1989,1989,3050,FAO TIER 1,An,11708000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1990,1990,3050,FAO TIER 1,An,12275500,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1990,1990,3051,UNFCCC,An,12519914,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1991,1991,3050,FAO TIER 1,An,12420047,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1991,1991,3051,UNFCCC,An,12685694,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,13026115,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,13292943,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,13437641,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,13700090,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,13724615,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,13981551,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,13843593,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,14088488,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,14334813,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,14580135,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,14567223,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,14802365,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,14768923,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,15003298,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,14756578,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,14981799,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,14927425,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,15165791,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,15377426,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,15580812,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,15345488,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,15528933,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,15160276,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,15346692,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,15022173,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,15199800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,14948695,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,15045383,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,14837023,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,14921000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,14909601,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,14897925,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,14947371,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,14823438,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,14718918,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,14563763,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,14287055,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,14365203,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,13975454,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,14049752,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,13759913,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,13830361,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,13485406,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,13555128,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,13335192,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,13403355,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,13162391,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,13227072,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,12626616,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,12692189,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,12930857,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,12997714,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,13713000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,13364918,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,13510000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,13232272,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,13393000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,13312553,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,12941000,E,Estimated value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,15046824,F,Forecast value,
+GLE,Emissions from Livestock,68,France,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,14924252,F,Forecast value,

@@ -1,0 +1,1222 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1961,1961,3050,FAO TIER 1,An,1153000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1962,1962,3050,FAO TIER 1,An,1182500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1963,1963,3050,FAO TIER 1,An,1196000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1964,1964,3050,FAO TIER 1,An,1185000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1965,1965,3050,FAO TIER 1,An,1138000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1966,1966,3050,FAO TIER 1,An,1096000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1967,1967,3050,FAO TIER 1,An,1059000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1968,1968,3050,FAO TIER 1,An,1045000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1969,1969,3050,FAO TIER 1,An,869200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1970,1970,3050,FAO TIER 1,An,889100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1971,1971,3050,FAO TIER 1,An,849300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1972,1972,3050,FAO TIER 1,An,836500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1973,1973,3050,FAO TIER 1,An,823600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1974,1974,3050,FAO TIER 1,An,792600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1975,1975,3050,FAO TIER 1,An,767000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1976,1976,3050,FAO TIER 1,An,756200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1977,1977,3050,FAO TIER 1,An,745900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1978,1978,3050,FAO TIER 1,An,733550,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1979,1979,3050,FAO TIER 1,An,725000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1980,1980,3050,FAO TIER 1,An,708650,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1981,1981,3050,FAO TIER 1,An,690000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1982,1982,3050,FAO TIER 1,An,683000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1983,1983,3050,FAO TIER 1,An,656300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1984,1984,3050,FAO TIER 1,An,650800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1985,1985,3050,FAO TIER 1,An,620800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1986,1986,3050,FAO TIER 1,An,603000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1987,1987,3050,FAO TIER 1,An,580400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1988,1988,3050,FAO TIER 1,An,534600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1989,1989,3050,FAO TIER 1,An,508500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1990,1990,3050,FAO TIER 1,An,488700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1990,1990,3051,UNFCCC,An,489900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1991,1991,3050,FAO TIER 1,An,440900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1991,1991,3051,UNFCCC,An,445600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,427300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,428200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,426400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,426400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,416700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,416700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,398700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,398500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,392200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,392200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,390900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,390900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,383100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,383053,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,372400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,372400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,364100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,364116,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,354800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,354827,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,351817,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,347779,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,343050,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,333865,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,327980,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,324376,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,318755,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,318755,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,309419,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,309419,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,296069,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,296069,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,289281,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,289281,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,290044,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,290044,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,289339,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,289339,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,285529,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,285529,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,283619,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,283619,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,283115,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,283115,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,285246,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,285246,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,285147,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,285147,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,282443,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,282443,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,274954,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,274954,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,263640,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,271429,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,258940,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,262292,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,255620,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,259579,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,248530,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,310002,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,285510,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1961,1961,3050,FAO TIER 1,An,903600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1962,1962,3050,FAO TIER 1,An,969800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1963,1963,3050,FAO TIER 1,An,978800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1964,1964,3050,FAO TIER 1,An,960900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1965,1965,3050,FAO TIER 1,An,889500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1966,1966,3050,FAO TIER 1,An,953000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1967,1967,3050,FAO TIER 1,An,976600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1968,1968,3050,FAO TIER 1,An,1025500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1969,1969,3050,FAO TIER 1,An,1112100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1970,1970,3050,FAO TIER 1,An,983800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1971,1971,3050,FAO TIER 1,An,1016100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1972,1972,3050,FAO TIER 1,An,998500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1973,1973,3050,FAO TIER 1,An,1060700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1974,1974,3050,FAO TIER 1,An,1112200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1975,1975,3050,FAO TIER 1,An,1076300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1976,1976,3050,FAO TIER 1,An,1059100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1977,1977,3050,FAO TIER 1,An,1016400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1978,1978,3050,FAO TIER 1,An,1045650,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1979,1979,3050,FAO TIER 1,An,1011100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1980,1980,3050,FAO TIER 1,An,1043850,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1981,1981,3050,FAO TIER 1,An,1062900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1982,1982,3050,FAO TIER 1,An,1022100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1983,1983,3050,FAO TIER 1,An,1005800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1984,1984,3050,FAO TIER 1,An,936900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1985,1985,3050,FAO TIER 1,An,970800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1986,1986,3050,FAO TIER 1,An,963500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1987,1987,3050,FAO TIER 1,An,904300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1988,1988,3050,FAO TIER 1,An,899600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1989,1989,3050,FAO TIER 1,An,870500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3050,FAO TIER 1,An,874300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3051,UNFCCC,An,869800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3050,FAO TIER 1,An,869000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3051,UNFCCC,An,864300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,845900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,845000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,825900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,825900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,816300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,816300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,749200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,749400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,753400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,753400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,751500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,751500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,734000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,734022,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,714400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,714400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,692600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,692480,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,682600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,682585,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,673583,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,677600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,657150,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,666300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,641020,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,644764,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,640170,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,640170,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,639872,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,639872,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,630625,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,630625,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,626064,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,626064,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,628224,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,628224,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,636469,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,636469,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,628524,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,628524,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,629149,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,629149,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,628732,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,628732,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,629193,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,629193,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,629570,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,629570,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,626578,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,626578,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,618224,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,618224,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,595740,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,610848,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,581800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,595330,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,579760,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,586806,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,581450,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,586690,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,545035,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1961,1961,3050,FAO TIER 1,An,3059000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1962,1962,3050,FAO TIER 1,An,2909000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1963,1963,3050,FAO TIER 1,An,3026000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1964,1964,3050,FAO TIER 1,An,2724000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1965,1965,3050,FAO TIER 1,An,2628000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1966,1966,3050,FAO TIER 1,An,2516000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1967,1967,3050,FAO TIER 1,An,2784000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1968,1968,3050,FAO TIER 1,An,2601000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1969,1969,3050,FAO TIER 1,An,3688000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1970,1970,3050,FAO TIER 1,An,4082000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1971,1971,3050,FAO TIER 1,An,3127000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1972,1972,3050,FAO TIER 1,An,3901000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1973,1973,3050,FAO TIER 1,An,3759000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1974,1974,3050,FAO TIER 1,An,3285000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1975,1975,3050,FAO TIER 1,An,2724000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1976,1976,3050,FAO TIER 1,An,2758000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1977,1977,3050,FAO TIER 1,An,2311000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1978,1978,3050,FAO TIER 1,An,2986000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1979,1979,3050,FAO TIER 1,An,3198000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1980,1980,3050,FAO TIER 1,An,3335000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1981,1981,3050,FAO TIER 1,An,2607000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1982,1982,3050,FAO TIER 1,An,2471000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1983,1983,3050,FAO TIER 1,An,3069000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1984,1984,3050,FAO TIER 1,An,940000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1985,1985,3050,FAO TIER 1,An,1140000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1986,1986,3050,FAO TIER 1,An,1141000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1987,1987,3050,FAO TIER 1,An,1215000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1988,1988,3050,FAO TIER 1,An,1187000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1989,1989,3050,FAO TIER 1,An,762000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1990,1990,3050,FAO TIER 1,An,1119000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1991,1991,3050,FAO TIER 1,An,1083000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,896000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,1077000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,1185000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,0,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,0,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,1194000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,1937000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,2637000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,4808000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,2210000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,2553000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,3034000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,2504000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,2344000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,2263000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,1940000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,2485000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,1992000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,1222000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,2117000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,2866000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,3429000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,3696000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,4233000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,4673000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,4774000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,5220000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,5606000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,4695000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,4309000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,2108815,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,1915890,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1961,1961,3050,FAO TIER 1,An,3400000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1962,1962,3050,FAO TIER 1,An,3600000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1963,1963,3050,FAO TIER 1,An,3850000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1964,1964,3050,FAO TIER 1,An,4100000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1965,1965,3050,FAO TIER 1,An,4250000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1966,1966,3050,FAO TIER 1,An,4444000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1967,1967,3050,FAO TIER 1,An,4500000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1968,1968,3050,FAO TIER 1,An,4339000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1969,1969,3050,FAO TIER 1,An,3876000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1970,1970,3050,FAO TIER 1,An,4471000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1971,1971,3050,FAO TIER 1,An,5249000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1972,1972,3050,FAO TIER 1,An,5964000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1973,1973,3050,FAO TIER 1,An,5869000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1974,1974,3050,FAO TIER 1,An,5803000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1975,1975,3050,FAO TIER 1,An,5936000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1976,1976,3050,FAO TIER 1,An,6333000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1977,1977,3050,FAO TIER 1,An,6245000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1978,1978,3050,FAO TIER 1,An,6046000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1979,1979,3050,FAO TIER 1,An,6029000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1980,1980,3050,FAO TIER 1,An,6041000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1981,1981,3050,FAO TIER 1,An,5200000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1982,1982,3050,FAO TIER 1,An,5292000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1983,1983,3050,FAO TIER 1,An,5440000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1984,1984,3050,FAO TIER 1,An,5973000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1985,1985,3050,FAO TIER 1,An,5769000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1986,1986,3050,FAO TIER 1,An,5585000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1987,1987,3050,FAO TIER 1,An,5411000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1988,1988,3050,FAO TIER 1,An,5089000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1989,1989,3050,FAO TIER 1,An,4942000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1990,1990,3050,FAO TIER 1,An,4739000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1991,1991,3050,FAO TIER 1,An,4105000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,4071000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,4031000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,4369000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,4276000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,4052000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,3717000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,3570000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,3361000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,3110000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,3202000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,3213000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,3016000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,3069000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,3128000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,3103000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,3134000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,3190000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,2926000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,3394000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,3304000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,3172000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,3432000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,3645000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,3594000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,3599000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,3746000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,3985000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,3900000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,3812000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,4190000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,3340333,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,3204087,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1961,1961,3050,FAO TIER 1,An,30000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1962,1962,3050,FAO TIER 1,An,53000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1963,1963,3050,FAO TIER 1,An,33000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1964,1964,3050,FAO TIER 1,An,38000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1965,1965,3050,FAO TIER 1,An,43000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1966,1966,3050,FAO TIER 1,An,22000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1967,1967,3050,FAO TIER 1,An,25000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1968,1968,3050,FAO TIER 1,An,21000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1969,1969,3050,FAO TIER 1,An,52000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1970,1970,3050,FAO TIER 1,An,51000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1971,1971,3050,FAO TIER 1,An,34000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1972,1972,3050,FAO TIER 1,An,45000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1973,1973,3050,FAO TIER 1,An,40000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1974,1974,3050,FAO TIER 1,An,42000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1975,1975,3050,FAO TIER 1,An,31000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1976,1976,3050,FAO TIER 1,An,26000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1977,1977,3050,FAO TIER 1,An,36000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1978,1978,3050,FAO TIER 1,An,35000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,1979,1979,3050,FAO TIER 1,An,0,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,0,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,0,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1961,1961,3050,FAO TIER 1,An,2000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1962,1962,3050,FAO TIER 1,An,1960,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1963,1963,3050,FAO TIER 1,An,1920,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1964,1964,3050,FAO TIER 1,An,1880,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1965,1965,3050,FAO TIER 1,An,1840,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1966,1966,3050,FAO TIER 1,An,1800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1967,1967,3050,FAO TIER 1,An,1860,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1968,1968,3050,FAO TIER 1,An,1900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1969,1969,3050,FAO TIER 1,An,1850,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1970,1970,3050,FAO TIER 1,An,1800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1971,1971,3050,FAO TIER 1,An,1800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1972,1972,3050,FAO TIER 1,An,1800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1973,1973,3050,FAO TIER 1,An,2000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1974,1974,3050,FAO TIER 1,An,2000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1975,1975,3050,FAO TIER 1,An,2000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1976,1976,3050,FAO TIER 1,An,2000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1977,1977,3050,FAO TIER 1,An,2000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1978,1978,3050,FAO TIER 1,An,2000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1979,1979,3050,FAO TIER 1,An,2000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1980,1980,3050,FAO TIER 1,An,2000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1981,1981,3050,FAO TIER 1,An,2000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1982,1982,3050,FAO TIER 1,An,2000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1983,1983,3050,FAO TIER 1,An,2000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1984,1984,3050,FAO TIER 1,An,2000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1985,1985,3050,FAO TIER 1,An,2800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1986,1986,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1987,1987,3050,FAO TIER 1,An,2700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1988,1988,3050,FAO TIER 1,An,3100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1989,1989,3050,FAO TIER 1,An,3100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1990,1990,3050,FAO TIER 1,An,3700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1990,1990,3051,UNFCCC,An,5900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1991,1991,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1991,1991,3051,UNFCCC,An,5350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,5200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,4800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,5000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,4800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,5700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,5700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,6000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,6000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,6500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,6500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,8000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,8000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,8100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,8105,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,7900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,7900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,8564,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,8600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,7445,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,7445,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,6600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,6607,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,6800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,6757,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,7300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,7271,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,6944,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,6944,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,6670,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,6670,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,6181,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,6181,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,5918,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,5918,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,5924,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,5924,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,4890,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,4890,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,4902,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,4902,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,4886,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,4886,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,4509,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,4509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,4364,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,4364,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,4546,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,4546,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,4799,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,4799,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,5278,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,5278,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,5437,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,5437,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,5930,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,5925,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,6000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,6034,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,5900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,6390,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,6128,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1961,1961,3050,FAO TIER 1,An,234710,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1962,1962,3050,FAO TIER 1,An,227500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1963,1963,3050,FAO TIER 1,An,219600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1964,1964,3050,FAO TIER 1,An,207000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1965,1965,3050,FAO TIER 1,An,183800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1966,1966,3050,FAO TIER 1,An,164700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1967,1967,3050,FAO TIER 1,An,140700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1968,1968,3050,FAO TIER 1,An,126100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1969,1969,3050,FAO TIER 1,An,101300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1970,1970,3050,FAO TIER 1,An,89800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1971,1971,3050,FAO TIER 1,An,72900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1972,1972,3050,FAO TIER 1,An,59900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1973,1973,3050,FAO TIER 1,An,48400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1974,1974,3050,FAO TIER 1,An,43700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1975,1975,3050,FAO TIER 1,An,38200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1976,1976,3050,FAO TIER 1,An,33300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1977,1977,3050,FAO TIER 1,An,29300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1978,1978,3050,FAO TIER 1,An,34300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1979,1979,3050,FAO TIER 1,An,32100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1980,1980,3050,FAO TIER 1,An,33400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1981,1981,3050,FAO TIER 1,An,32500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1982,1982,3050,FAO TIER 1,An,34300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1983,1983,3050,FAO TIER 1,An,35500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1984,1984,3050,FAO TIER 1,An,34400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1985,1985,3050,FAO TIER 1,An,37500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1986,1986,3050,FAO TIER 1,An,37200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1987,1987,3050,FAO TIER 1,An,38900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1988,1988,3050,FAO TIER 1,An,35600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1989,1989,3050,FAO TIER 1,An,40100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1990,1990,3050,FAO TIER 1,An,43900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1990,1990,3051,UNFCCC,An,45400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1991,1991,3050,FAO TIER 1,An,48100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1991,1991,3051,UNFCCC,An,48120,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,49100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,49120,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,49000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,48980,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,48300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,48290,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,49900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,49940,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,52000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,52030,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,54600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,54620,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,56100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,56140,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,56200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,56200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,57600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,57400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,58600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,58600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,59100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,59100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,60200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,60185,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,61100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,61055,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,63770,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,63770,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,66050,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,66050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,68000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,68000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,69350,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,69350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,72300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,72300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,74300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,74300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,75500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,75500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,75400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,75400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,75000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,75000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,74600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,74600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,74200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,74200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,74200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,74200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,74400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,74400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,74400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,74400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,74400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,74300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,74407,I,Imputed value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,74000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,74162,I,Imputed value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,65940,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,65940,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1961,1961,3050,FAO TIER 1,An,307100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1962,1962,3050,FAO TIER 1,An,278600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1963,1963,3050,FAO TIER 1,An,237900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1964,1964,3050,FAO TIER 1,An,221900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1965,1965,3050,FAO TIER 1,An,199400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1966,1966,3050,FAO TIER 1,An,174600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1967,1967,3050,FAO TIER 1,An,172700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1968,1968,3050,FAO TIER 1,An,154800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1969,1969,3050,FAO TIER 1,An,158900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1970,1970,3050,FAO TIER 1,An,188600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1971,1971,3050,FAO TIER 1,An,175200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1972,1972,3050,FAO TIER 1,An,154800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1973,1973,3050,FAO TIER 1,An,145100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1974,1974,3050,FAO TIER 1,An,145700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1975,1975,3050,FAO TIER 1,An,123800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1976,1976,3050,FAO TIER 1,An,111400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1977,1977,3050,FAO TIER 1,An,104500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1978,1978,3050,FAO TIER 1,An,106400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1979,1979,3050,FAO TIER 1,An,112900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1980,1980,3050,FAO TIER 1,An,105900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1981,1981,3050,FAO TIER 1,An,103200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1982,1982,3050,FAO TIER 1,An,103800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1983,1983,3050,FAO TIER 1,An,104000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1984,1984,3050,FAO TIER 1,An,59500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1985,1985,3050,FAO TIER 1,An,67600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1986,1986,3050,FAO TIER 1,An,69600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1987,1987,3050,FAO TIER 1,An,65800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1988,1988,3050,FAO TIER 1,An,63400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1989,1989,3050,FAO TIER 1,An,58600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1990,1990,3050,FAO TIER 1,An,60700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1990,1990,3051,UNFCCC,An,103300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1991,1991,3050,FAO TIER 1,An,106700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1991,1991,3051,UNFCCC,An,106700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,108400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,108400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,120400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,120400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,121100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,121100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,158600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,158600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,149500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,149500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,150100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,150100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,128300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,128286,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,106600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,106600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,99646,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,99600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,96003,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,96003,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,95900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,95884,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,98400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,98410,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,109000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,108887,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,89737,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,89737,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,116653,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,116653,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,119252,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,119252,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,122218,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,122218,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,117673,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,117673,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,125673,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,125673,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,129091,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,129091,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,130005,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,130005,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,135546,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,135546,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,137865,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,137865,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,155238,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,155238,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,156496,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,156496,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,155926,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,155926,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,154999,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,154999,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,144880,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,144876,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,140200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,140171,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,131100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,105114,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,100815,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1961,1961,3050,FAO TIER 1,An,53400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1962,1962,3050,FAO TIER 1,An,62600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1963,1963,3050,FAO TIER 1,An,57700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1964,1964,3050,FAO TIER 1,An,60040,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1965,1965,3050,FAO TIER 1,An,61160,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1966,1966,3050,FAO TIER 1,An,65120,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1967,1967,3050,FAO TIER 1,An,72410,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1968,1968,3050,FAO TIER 1,An,71970,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1969,1969,3050,FAO TIER 1,An,75690,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1970,1970,3050,FAO TIER 1,An,100240,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1971,1971,3050,FAO TIER 1,An,112930,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1972,1972,3050,FAO TIER 1,An,109260,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1973,1973,3050,FAO TIER 1,An,118950,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1974,1974,3050,FAO TIER 1,An,109800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1975,1975,3050,FAO TIER 1,An,107810,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1976,1976,3050,FAO TIER 1,An,109670,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1977,1977,3050,FAO TIER 1,An,119290,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1978,1978,3050,FAO TIER 1,An,129100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1979,1979,3050,FAO TIER 1,An,133200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1980,1980,3050,FAO TIER 1,An,145070,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1981,1981,3050,FAO TIER 1,An,150610,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1982,1982,3050,FAO TIER 1,An,150900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1983,1983,3050,FAO TIER 1,An,146590,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1984,1984,3050,FAO TIER 1,An,140400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1985,1985,3050,FAO TIER 1,An,125580,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1986,1986,3050,FAO TIER 1,An,121100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1987,1987,3050,FAO TIER 1,An,130870,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1988,1988,3050,FAO TIER 1,An,129060,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1989,1989,3050,FAO TIER 1,An,132680,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1990,1990,3050,FAO TIER 1,An,134770,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1991,1991,3050,FAO TIER 1,An,134430,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,129790,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,127270,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,129830,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,140010,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,139540,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,146700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,140100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,135130,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,129580,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,126076,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,131500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,137490,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,136460,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,140107,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,143647,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,144804,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,148276,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,138121,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,136693,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,133511,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,129036,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,130793,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,124482,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,124263,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,123486,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,113560,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,104120,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,106220,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,110390,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,109370,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,144276,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,143100,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1961,1961,3050,FAO TIER 1,An,480600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1962,1962,3050,FAO TIER 1,An,563400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1963,1963,3050,FAO TIER 1,An,519300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1964,1964,3050,FAO TIER 1,An,540360,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1965,1965,3050,FAO TIER 1,An,550440,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1966,1966,3050,FAO TIER 1,An,586080,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1967,1967,3050,FAO TIER 1,An,651690,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1968,1968,3050,FAO TIER 1,An,647730,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1969,1969,3050,FAO TIER 1,An,681210,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1970,1970,3050,FAO TIER 1,An,902160,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1971,1971,3050,FAO TIER 1,An,1016370,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1972,1972,3050,FAO TIER 1,An,983340,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1973,1973,3050,FAO TIER 1,An,1070550,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1974,1974,3050,FAO TIER 1,An,988200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1975,1975,3050,FAO TIER 1,An,970290,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1976,1976,3050,FAO TIER 1,An,987030,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1977,1977,3050,FAO TIER 1,An,1073610,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1978,1978,3050,FAO TIER 1,An,1161900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1979,1979,3050,FAO TIER 1,An,1198800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1980,1980,3050,FAO TIER 1,An,1305630,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1981,1981,3050,FAO TIER 1,An,1355490,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1982,1982,3050,FAO TIER 1,An,1358100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1983,1983,3050,FAO TIER 1,An,1319310,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1984,1984,3050,FAO TIER 1,An,1263600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1985,1985,3050,FAO TIER 1,An,1130220,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1986,1986,3050,FAO TIER 1,An,1089900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1987,1987,3050,FAO TIER 1,An,1177830,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1988,1988,3050,FAO TIER 1,An,1161540,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1989,1989,3050,FAO TIER 1,An,1194120,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1990,1990,3050,FAO TIER 1,An,1212930,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1991,1991,3050,FAO TIER 1,An,1209870,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,1168110,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,1145430,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,1168470,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,1260090,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,1255860,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,1320300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,1260900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,1216170,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,1166220,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,1134684,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,1183500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,1237410,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,1228140,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,1260964,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,1292823,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,1303237,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,1334486,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,1243086,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,1230239,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,1201603,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,1161327,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,1177137,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,1120334,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,1118370,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,1111374,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,1022038,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,937080,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,955980,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,993510,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,984330,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,1298480,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,1287902,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1989,1989,3050,FAO TIER 1,An,525000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1990,1990,3050,FAO TIER 1,An,495000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1991,1991,3050,FAO TIER 1,An,525000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,505000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,520000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,500000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,530000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,520000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,495000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,530000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,505000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,520000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,500000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,495000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,515000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,535000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,495000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,493000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,431000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,415000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,306000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,280000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,308000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,295000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,274000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,292000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,246000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,260000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,292000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,299000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,263000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,268000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,357000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,457066,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,415251,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1961,1961,3050,FAO TIER 1,An,2056600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1962,1962,3050,FAO TIER 1,An,2152300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1963,1963,3050,FAO TIER 1,An,2174800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1964,1964,3050,FAO TIER 1,An,2145900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1965,1965,3050,FAO TIER 1,An,2027500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1966,1966,3050,FAO TIER 1,An,2049000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1967,1967,3050,FAO TIER 1,An,2035600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1968,1968,3050,FAO TIER 1,An,2070500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1969,1969,3050,FAO TIER 1,An,1981300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1970,1970,3050,FAO TIER 1,An,1872900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1971,1971,3050,FAO TIER 1,An,1865400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1972,1972,3050,FAO TIER 1,An,1835000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1973,1973,3050,FAO TIER 1,An,1884300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1974,1974,3050,FAO TIER 1,An,1904800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1975,1975,3050,FAO TIER 1,An,1843300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1976,1976,3050,FAO TIER 1,An,1815300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1977,1977,3050,FAO TIER 1,An,1762300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1978,1978,3050,FAO TIER 1,An,1779200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1979,1979,3050,FAO TIER 1,An,1736100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1980,1980,3050,FAO TIER 1,An,1752500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1981,1981,3050,FAO TIER 1,An,1752900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1982,1982,3050,FAO TIER 1,An,1705100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1983,1983,3050,FAO TIER 1,An,1662100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1984,1984,3050,FAO TIER 1,An,1587700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1985,1985,3050,FAO TIER 1,An,1591600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1986,1986,3050,FAO TIER 1,An,1566500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1987,1987,3050,FAO TIER 1,An,1484700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1988,1988,3050,FAO TIER 1,An,1434200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1989,1989,3050,FAO TIER 1,An,1379000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1990,1990,3050,FAO TIER 1,An,1363000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1990,1990,3051,UNFCCC,An,1359700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1991,1991,3050,FAO TIER 1,An,1309900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1991,1991,3051,UNFCCC,An,1309900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,1273200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,1273200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,1252300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,1252300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,1233000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,1233000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,1147900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,1147900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,1145600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,1145600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,1142400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,1142400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,1117100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,1117075,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,1086800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,1086800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,1056700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,1056596,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,1037400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,1037412,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,1025400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,1025379,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,1000200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,1000165,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,969000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,969140,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,958925,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,958925,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,949291,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,949291,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,926694,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,926694,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,915345,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,915345,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,918268,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,918268,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,925808,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,925808,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,914053,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,914053,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,912768,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,912768,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,911847,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,911847,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,914439,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,914439,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,914717,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,914717,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,909021,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,909021,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,893178,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,893178,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,859380,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,882277,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,840740,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,857622,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,835380,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,846385,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,829980,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,896693,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,830545,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1961,1961,3050,FAO TIER 1,An,6459000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1962,1962,3050,FAO TIER 1,An,6509000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1963,1963,3050,FAO TIER 1,An,6876000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1964,1964,3050,FAO TIER 1,An,6824000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1965,1965,3050,FAO TIER 1,An,6878000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1966,1966,3050,FAO TIER 1,An,6960000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1967,1967,3050,FAO TIER 1,An,7284000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1968,1968,3050,FAO TIER 1,An,6940000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1969,1969,3050,FAO TIER 1,An,7564000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1970,1970,3050,FAO TIER 1,An,8553000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1971,1971,3050,FAO TIER 1,An,8376000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1972,1972,3050,FAO TIER 1,An,9865000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1973,1973,3050,FAO TIER 1,An,9628000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1974,1974,3050,FAO TIER 1,An,9088000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1975,1975,3050,FAO TIER 1,An,8660000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1976,1976,3050,FAO TIER 1,An,9091000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1977,1977,3050,FAO TIER 1,An,8556000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1978,1978,3050,FAO TIER 1,An,9032000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1979,1979,3050,FAO TIER 1,An,9227000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1980,1980,3050,FAO TIER 1,An,9376000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1981,1981,3050,FAO TIER 1,An,7807000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1982,1982,3050,FAO TIER 1,An,7763000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1983,1983,3050,FAO TIER 1,An,8509000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1984,1984,3050,FAO TIER 1,An,6913000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1985,1985,3050,FAO TIER 1,An,6909000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1986,1986,3050,FAO TIER 1,An,6726000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1987,1987,3050,FAO TIER 1,An,6626000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1988,1988,3050,FAO TIER 1,An,6276000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1989,1989,3050,FAO TIER 1,An,5704000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1990,1990,3050,FAO TIER 1,An,5858000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1991,1991,3050,FAO TIER 1,An,5188000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,4967000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,5108000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,5554000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,4276000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,4052000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,4911000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,5507000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,5998000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,7918000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,5412000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,5766000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,6050000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,5573000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,5472000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,5366000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,5074000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,5675000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,4918000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,4616000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,5421000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,6038000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,6861000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,7341000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,7827000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,8272000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,8520000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,9205000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,9506000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,8507000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,8499000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,5449147,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,5119977,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1961,1961,3050,FAO TIER 1,An,6489000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1962,1962,3050,FAO TIER 1,An,6562000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1963,1963,3050,FAO TIER 1,An,6909000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1964,1964,3050,FAO TIER 1,An,6862000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1965,1965,3050,FAO TIER 1,An,6921000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1966,1966,3050,FAO TIER 1,An,6982000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1967,1967,3050,FAO TIER 1,An,7309000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1968,1968,3050,FAO TIER 1,An,6961000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1969,1969,3050,FAO TIER 1,An,7616000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1970,1970,3050,FAO TIER 1,An,8604000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1971,1971,3050,FAO TIER 1,An,8410000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1972,1972,3050,FAO TIER 1,An,9910000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1973,1973,3050,FAO TIER 1,An,9668000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1974,1974,3050,FAO TIER 1,An,9130000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1975,1975,3050,FAO TIER 1,An,8691000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1976,1976,3050,FAO TIER 1,An,9117000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1977,1977,3050,FAO TIER 1,An,8592000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1978,1978,3050,FAO TIER 1,An,9067000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1979,1979,3050,FAO TIER 1,An,9227000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1980,1980,3050,FAO TIER 1,An,9376000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1981,1981,3050,FAO TIER 1,An,7807000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1982,1982,3050,FAO TIER 1,An,7763000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1983,1983,3050,FAO TIER 1,An,8509000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1984,1984,3050,FAO TIER 1,An,6913000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1985,1985,3050,FAO TIER 1,An,6909000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1986,1986,3050,FAO TIER 1,An,6726000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1987,1987,3050,FAO TIER 1,An,6626000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1988,1988,3050,FAO TIER 1,An,6276000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1989,1989,3050,FAO TIER 1,An,6229000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1990,1990,3050,FAO TIER 1,An,6353000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1990,1990,3051,UNFCCC,An,9662500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1991,1991,3050,FAO TIER 1,An,5713000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1991,1991,3051,UNFCCC,An,8928900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,5472000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,9356100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,5628000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,9639200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,6054000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,9905700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,4806000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,10357700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,4572000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,9934800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,5406000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,10826600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,6037000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,11049600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,6503000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,11033600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,8438000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,12569500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,5912000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,10553600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,6261000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,10734000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,6565000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,10997100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,6108000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,10405200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,5967000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,10538139,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,5859000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,10239014,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,5505000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,9791067,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,6090000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,10521654,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,5224000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,9369452,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,4896000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,9586815,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,5729000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,10235681,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,6333000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,10760579,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,7135000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,11980555,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,7633000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,12576854,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,8073000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,12926932,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,8532000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,13444857,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,8812000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,13135619,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,9504000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,14140307,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,9769000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,14359912,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,8775000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,13576880,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,8856000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,5906213,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,5535228,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1961,1961,3050,FAO TIER 1,An,309100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1962,1962,3050,FAO TIER 1,An,280560,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1963,1963,3050,FAO TIER 1,An,239820,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1964,1964,3050,FAO TIER 1,An,223780,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1965,1965,3050,FAO TIER 1,An,201240,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1966,1966,3050,FAO TIER 1,An,176400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1967,1967,3050,FAO TIER 1,An,174560,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1968,1968,3050,FAO TIER 1,An,156700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1969,1969,3050,FAO TIER 1,An,160750,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1970,1970,3050,FAO TIER 1,An,190400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1971,1971,3050,FAO TIER 1,An,177000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1972,1972,3050,FAO TIER 1,An,156600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1973,1973,3050,FAO TIER 1,An,147100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1974,1974,3050,FAO TIER 1,An,147700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1975,1975,3050,FAO TIER 1,An,125800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1976,1976,3050,FAO TIER 1,An,113400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1977,1977,3050,FAO TIER 1,An,106500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1978,1978,3050,FAO TIER 1,An,108400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1979,1979,3050,FAO TIER 1,An,114900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1980,1980,3050,FAO TIER 1,An,107900,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1981,1981,3050,FAO TIER 1,An,105200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1982,1982,3050,FAO TIER 1,An,105800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1983,1983,3050,FAO TIER 1,An,106000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1984,1984,3050,FAO TIER 1,An,61500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1985,1985,3050,FAO TIER 1,An,70400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1986,1986,3050,FAO TIER 1,An,72600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1987,1987,3050,FAO TIER 1,An,68500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1988,1988,3050,FAO TIER 1,An,66500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1989,1989,3050,FAO TIER 1,An,61700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1990,1990,3050,FAO TIER 1,An,64400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1990,1990,3051,UNFCCC,An,109200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1991,1991,3050,FAO TIER 1,An,110700,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1991,1991,3051,UNFCCC,An,112050,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,113600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,113200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,125400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,125200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,126800,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,126800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,164600,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,164600,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,156000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,156000,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,158100,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,158100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,136400,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,136391,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,114500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,114500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,108210,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,108200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,103448,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,103448,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,102500,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,102491,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,105200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,105167,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,116300,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,116158,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,96681,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,96681,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,123323,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,123323,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,125433,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,125433,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,128136,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,128136,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,123597,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,123597,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,130563,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,130563,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,133993,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,133993,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,134891,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,134891,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,140055,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,140055,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,142229,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,142229,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,159784,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,159784,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,161295,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,161295,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,161204,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,161204,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,160436,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,160436,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,150810,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,150801,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,146200,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,146205,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,137000,A,Official figure,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,111504,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,106943,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1961,1961,3050,FAO TIER 1,An,534000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1962,1962,3050,FAO TIER 1,An,626000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1963,1963,3050,FAO TIER 1,An,577000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1964,1964,3050,FAO TIER 1,An,600400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1965,1965,3050,FAO TIER 1,An,611600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1966,1966,3050,FAO TIER 1,An,651200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1967,1967,3050,FAO TIER 1,An,724100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1968,1968,3050,FAO TIER 1,An,719700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1969,1969,3050,FAO TIER 1,An,756900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1970,1970,3050,FAO TIER 1,An,1002400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1971,1971,3050,FAO TIER 1,An,1129300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1972,1972,3050,FAO TIER 1,An,1092600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1973,1973,3050,FAO TIER 1,An,1189500,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1974,1974,3050,FAO TIER 1,An,1098000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1975,1975,3050,FAO TIER 1,An,1078100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1976,1976,3050,FAO TIER 1,An,1096700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1977,1977,3050,FAO TIER 1,An,1192900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1978,1978,3050,FAO TIER 1,An,1291000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1979,1979,3050,FAO TIER 1,An,1332000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1980,1980,3050,FAO TIER 1,An,1450700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1981,1981,3050,FAO TIER 1,An,1506100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1982,1982,3050,FAO TIER 1,An,1509000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1983,1983,3050,FAO TIER 1,An,1465900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1984,1984,3050,FAO TIER 1,An,1404000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1985,1985,3050,FAO TIER 1,An,1255800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1986,1986,3050,FAO TIER 1,An,1211000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1987,1987,3050,FAO TIER 1,An,1308700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1988,1988,3050,FAO TIER 1,An,1290600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1989,1989,3050,FAO TIER 1,An,1326800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1990,1990,3050,FAO TIER 1,An,1347700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1990,1990,3051,UNFCCC,An,1338604,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1991,1991,3050,FAO TIER 1,An,1344300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1991,1991,3051,UNFCCC,An,1302653,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,1297900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,1257691,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,1272700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,1233271,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,1298300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,1258078,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,1400100,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,1355766,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,1395400,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,1352512,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,1467000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,1422953,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,1401000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,1354469,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,1351300,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,1310452,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,1295800,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,1256638,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,1260760,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,1220124,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,1315000,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,1271984,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,1374900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,1333619,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,1364600,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,1323426,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,1401071,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,1360012,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,1436470,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,1390445,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,1448041,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,1426800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,1482762,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,1399500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,1381207,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,1353303,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,1366932,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,1339900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,1335114,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,1289700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,1290363,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,1270500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,1307930,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,1258200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,1244816,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,1222600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,1242633,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,1239000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,1234860,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,1196700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,1135598,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,1108300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,1041200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,1041100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,1062200,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,1062200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,1103900,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,1103800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,1093700,E,Estimated value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,1442755,F,Forecast value,
+GLE,Emissions from Livestock,67,Finland,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,1431002,F,Forecast value,

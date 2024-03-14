@@ -1,0 +1,989 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,1992,1992,3050,FAO TIER 1,An,45000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,1993,1993,3050,FAO TIER 1,An,45000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,1994,1994,3050,FAO TIER 1,An,40000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,1995,1995,3050,FAO TIER 1,An,40000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,1996,1996,3050,FAO TIER 1,An,40000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,1997,1997,3050,FAO TIER 1,An,35000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,1998,1998,3050,FAO TIER 1,An,29000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,1999,1999,3050,FAO TIER 1,An,29000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2000,2000,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2001,2001,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2002,2002,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2003,2003,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2004,2004,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2005,2005,3050,FAO TIER 1,An,31000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2006,2006,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2007,2007,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2008,2008,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2009,2009,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2010,2010,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2011,2011,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2012,2012,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2013,2013,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2014,2014,3050,FAO TIER 1,An,30000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2015,2015,3050,FAO TIER 1,An,29379,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2016,2016,3050,FAO TIER 1,An,29174,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2017,2017,3050,FAO TIER 1,An,28875,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2018,2018,3050,FAO TIER 1,An,28937,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2019,2019,3050,FAO TIER 1,An,29089,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2020,2020,3050,FAO TIER 1,An,29021,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2021,2021,3050,FAO TIER 1,An,28952,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2030,2030,3050,FAO TIER 1,An,30333,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1107,Asses,2050,2050,3050,FAO TIER 1,An,30333,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1992,1992,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1992,1992,3051,UNFCCC,An,11000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1993,1993,3050,FAO TIER 1,An,11000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1993,1993,3051,UNFCCC,An,10500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1994,1994,3050,FAO TIER 1,An,10500,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1994,1994,3051,UNFCCC,An,10500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1995,1995,3050,FAO TIER 1,An,10500,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1995,1995,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1996,1996,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1996,1996,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1997,1997,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1997,1997,3051,UNFCCC,An,9000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1998,1998,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1998,1998,3051,UNFCCC,An,9000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1999,1999,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,1999,1999,3051,UNFCCC,An,9000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2000,2000,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2000,2000,3051,UNFCCC,An,9000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2001,2001,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2001,2001,3051,UNFCCC,An,9000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2002,2002,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2002,2002,3051,UNFCCC,An,9000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2003,2003,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2003,2003,3051,UNFCCC,An,9000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2004,2004,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2004,2004,3051,UNFCCC,An,9000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2005,2005,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2005,2005,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2006,2006,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2006,2006,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2007,2007,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2007,2007,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2008,2008,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2008,2008,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2009,2009,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2009,2009,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2010,2010,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2010,2010,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2011,2011,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2011,2011,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2012,2012,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2012,2012,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2013,2013,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2013,2013,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2014,2014,3050,FAO TIER 1,An,10000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2014,2014,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2015,2015,3050,FAO TIER 1,An,10000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2015,2015,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2016,2016,3050,FAO TIER 1,An,10067,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2016,2016,3051,UNFCCC,An,10067,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2017,2017,3050,FAO TIER 1,An,10066,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2017,2017,3051,UNFCCC,An,10228,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,9985,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2018,2018,3051,UNFCCC,An,10293,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,9986,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2019,2019,3051,UNFCCC,An,10343,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,9979,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2020,2020,3051,UNFCCC,An,10392,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,9972,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2030,2030,3050,FAO TIER 1,An,12001,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,946,Buffalo,2050,2050,3050,FAO TIER 1,An,13809,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1992,1992,3050,FAO TIER 1,An,145100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1992,1992,3051,UNFCCC,An,148800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1993,1993,3050,FAO TIER 1,An,148800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1993,1993,3051,UNFCCC,An,154800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1994,1994,3050,FAO TIER 1,An,154800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1994,1994,3051,UNFCCC,An,141200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1995,1995,3050,FAO TIER 1,An,141200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1995,1995,3051,UNFCCC,An,130500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1996,1996,3050,FAO TIER 1,An,130500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1996,1996,3051,UNFCCC,An,111200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1997,1997,3050,FAO TIER 1,An,111200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1997,1997,3051,UNFCCC,An,97100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1998,1998,3050,FAO TIER 1,An,97100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1998,1998,3051,UNFCCC,An,95800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1999,1999,3050,FAO TIER 1,An,95800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,1999,1999,3051,UNFCCC,An,96100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2000,2000,3050,FAO TIER 1,An,96100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2000,2000,3051,UNFCCC,An,98200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2001,2001,3050,FAO TIER 1,An,98200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2001,2001,3051,UNFCCC,An,103800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2002,2002,3050,FAO TIER 1,An,103800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2002,2002,3051,UNFCCC,An,107500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2003,2003,3050,FAO TIER 1,An,107500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2003,2003,3051,UNFCCC,An,114900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2004,2004,3050,FAO TIER 1,An,114900,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2004,2004,3051,UNFCCC,An,125700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2005,2005,3050,FAO TIER 1,An,125700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2005,2005,3051,UNFCCC,An,130500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2006,2006,3050,FAO TIER 1,An,130500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2006,2006,3051,UNFCCC,An,138600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2007,2007,3050,FAO TIER 1,An,138600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2007,2007,3051,UNFCCC,An,143200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2008,2008,3050,FAO TIER 1,An,143200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2008,2008,3051,UNFCCC,An,148300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2009,2009,3050,FAO TIER 1,An,148300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2009,2009,3051,UNFCCC,An,155500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2010,2010,3050,FAO TIER 1,An,155500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2010,2010,3051,UNFCCC,An,169600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2011,2011,3050,FAO TIER 1,An,169600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2011,2011,3051,UNFCCC,An,173200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2012,2012,3050,FAO TIER 1,An,173200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2012,2012,3051,UNFCCC,An,164800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2013,2013,3050,FAO TIER 1,An,164800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2013,2013,3051,UNFCCC,An,160900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2014,2014,3050,FAO TIER 1,An,160915,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2014,2014,3051,UNFCCC,An,165888,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2015,2015,3050,FAO TIER 1,An,170513,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2015,2015,3051,UNFCCC,An,170513,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2016,2016,3050,FAO TIER 1,An,180077,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2016,2016,3051,UNFCCC,An,180077,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2017,2017,3050,FAO TIER 1,An,193124,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2017,2017,3051,UNFCCC,An,193124,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2018,2018,3050,FAO TIER 1,An,207566,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2018,2018,3051,UNFCCC,An,207566,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2019,2019,3050,FAO TIER 1,An,216358,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2019,2019,3051,UNFCCC,An,216358,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2020,2020,3050,FAO TIER 1,An,227703,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2020,2020,3051,UNFCCC,An,227703,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2021,2021,3050,FAO TIER 1,An,243365,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2030,2030,3050,FAO TIER 1,An,131600,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1126,Camels,2050,2050,3050,FAO TIER 1,An,131600,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,2965568,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,3623400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,3130334,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,3687200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,3143148,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,3396700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,2786602,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,3045000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,2382713,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,2546600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,2109820,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,2109600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,1873014,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,1952800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,1828542,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,1962300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,1875419,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,2014700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,1948745,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,2077200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,1990313,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,2171400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,2067859,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,2267300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,2143359,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,2376200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,2215508,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,2442600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,2248116,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,2569000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,2284853,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,2605600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,2291478,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,2675400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,2359397,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,2717300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,2371167,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,2751300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,2333579,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,2502800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,2169916,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,2580100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,2145243,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,2734800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,2206412,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,2835200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,2215536,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,2999347,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,2280150,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,3209945,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,2336753,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,3362435,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,2411069,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,3576535,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,2470875,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,3769765,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,2539679,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,4008270,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,2639335,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,2765669,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,3055074,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,6626832,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,7220868,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,6445966,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,6864852,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,6203452,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,5672231,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,5286298,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,4627474,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,4477187,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,3491014,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,3314780,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,2665568,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,2434086,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,2432186,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,2129358,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,2469547,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,2122781,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,2537475,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,2157855,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,2688372,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,2303187,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,2896765,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,2491641,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,3158288,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,2727641,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,3430000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,2988392,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,3656952,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,3209284,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,3749868,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,3375547,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,3924419,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,3549422,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,4022551,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,3632203,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,4097393,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,3724033,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,4153312,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,3841721,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,3881115,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,3532484,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,3772309,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,3544757,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,3780193,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,3644788,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,3878568,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,3968316,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,3862805,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,4133055,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,3885554,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,4427459,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,4126356,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,4739851,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,4335729,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,4965532,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,4447637,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,5310366,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,4660073,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,5553080,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,3961628,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,4558446,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,43900000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,38300000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,37950000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,20310000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,12154000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,6696000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,7500000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,8179948,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,8014000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,9354000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,9881000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,11639000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,12454000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,12577000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,13239000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,14717000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,15111000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,15905000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,13769000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,13462000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,14412000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,14762000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,11834000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,12706000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,15458000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,16119000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,18325000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,20521599,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,20884380,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,20800838,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,23486985,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,31531777,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,15400000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,14000000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,11500000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,12140000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,8500000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,8600000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,8400000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,8670052,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,9866000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,10196000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,11079000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,11961000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,12316000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,12953000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,12861000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,13383000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,14289000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,15116000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,17191000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,17303000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,17155000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,17657000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,21304000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,21260000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,19882000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,22257000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,24457000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,22894474,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,20783218,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,25373569,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,16995213,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,19469122,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,692000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,1245611,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,688000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,1306096,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,896800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,1069882,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,859400,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,1025264,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,798800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,963228,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,679000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,891648,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,690900,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,996394,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,835200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,1111041,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,931300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,1242748,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,1041700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,1516422,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,1271100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,1772202,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,1485500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,2179611,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,1827000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,2532023,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,2122400,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,2778497,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,2329000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,3026164,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,2536600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,3113611,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,2609900,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,3154650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,2644300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,3231719,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,2708900,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,3191296,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,2675000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,3164390,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,2652464,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,2977796,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,2496057,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,2818849,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,2362824,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,2838464,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,2327193,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,2776341,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,2299424,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,2743213,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,2279165,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,2719044,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,2282948,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,2723557,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,2242725,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,2675571,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,2307969,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,2753407,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,2281513,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,2635021,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,2791038,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,1666400,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,1703500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,1703500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,1776600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,1776600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,1636000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,1636000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,1556900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,1556900,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,1310000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,1310000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,1082700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,1082700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,986300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,986300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,969600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,969600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,976000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,976000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,989500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,989500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,1019300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,1019300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,1064300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,1064300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,1120400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,1120400,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,1163500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,1163500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,1235600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,1235600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,1291100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,1291100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,1370500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,1370500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,1438700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,1438700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,1528300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,1528300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,1607400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,1607400,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,1686200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,1686200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,1784500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,1784500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,1937921,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,2070273,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,2070273,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,2259218,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,2259218,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,2415654,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,2415654,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,2646535,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,2646535,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,2852256,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,2852256,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,3139831,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,3139831,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,3489777,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,1173167,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,1173167,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,33558800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,38448806,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,33375700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,38146522,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,33113300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,27919066,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,24235300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,21570624,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,18724500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,14828544,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,12872000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,11101709,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,9636900,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,10012378,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,8691300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,10051661,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,8725400,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,10298189,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,8939400,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,10607040,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,9207500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,11275200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,9787500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,12003955,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,10420100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,13002278,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,11286700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,13830336,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,12005500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,14761382,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,12813700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,15517555,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,13470100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,16273267,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,14126100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,16889265,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,14660800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,17640692,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,15313100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,17786233,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,15439438,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,17438074,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,15137217,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,17507843,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,15197780,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,17896668,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,15688315,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,18072939,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,15884814,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,18299306,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,16049807,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,18489378,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,16416177,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,18911436,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,16912945,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,19483713,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,17749598,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,20447537,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,18595263,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,13614738,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,14420856,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,297610,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,259100,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,244520,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,198270,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,162270,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,103650,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,87900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,89180,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,98420,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,107600,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,112380,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,122980,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,136880,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,129210,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,128190,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,130490,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,135270,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,134730,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,132630,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,134400,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,120420,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,103160,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,92230,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,88763,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,83423,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,81512,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,79873,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,81327,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,81674,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,77612,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,155920,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,184156,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,2678490,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,2331900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,2200680,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,1784430,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,1460430,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,932850,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,791100,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,802620,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,885780,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,968400,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,1011420,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,1106820,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,1231920,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,1162890,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,1153710,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,1174410,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,1217430,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,1212570,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,1193670,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,1209600,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,1083780,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,928440,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,830066,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,798864,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,750807,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,733609,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,718859,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,731942,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,735062,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,698505,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,1403283,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,1657404,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,632000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,433000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,388000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,266000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,156000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,82000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,82000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,135200,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,142400,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,155700,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,169200,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,190600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,50000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,80000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,100000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,100000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,106000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,148000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,186000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,600000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,1900000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,1300000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,1900000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,1700000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,1719011,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,1726388,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,1769616,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,1796443,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,1824207,I,Imputed value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,162247,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,217820,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,1992,1992,3050,FAO TIER 1,An,145100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,1993,1993,3050,FAO TIER 1,An,148800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,1994,1994,3050,FAO TIER 1,An,154800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,1995,1995,3050,FAO TIER 1,An,141200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,1996,1996,3050,FAO TIER 1,An,130500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,1997,1997,3050,FAO TIER 1,An,111200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,1998,1998,3050,FAO TIER 1,An,97100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,1999,1999,3050,FAO TIER 1,An,95800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2000,2000,3050,FAO TIER 1,An,96100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2001,2001,3050,FAO TIER 1,An,98200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2002,2002,3050,FAO TIER 1,An,103800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2003,2003,3050,FAO TIER 1,An,107500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2004,2004,3050,FAO TIER 1,An,114900,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2005,2005,3050,FAO TIER 1,An,125700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2006,2006,3050,FAO TIER 1,An,130500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2007,2007,3050,FAO TIER 1,An,138600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2008,2008,3050,FAO TIER 1,An,143200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2009,2009,3050,FAO TIER 1,An,148300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2010,2010,3050,FAO TIER 1,An,155500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2011,2011,3050,FAO TIER 1,An,169600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2012,2012,3050,FAO TIER 1,An,173200,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2013,2013,3050,FAO TIER 1,An,164800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2014,2014,3050,FAO TIER 1,An,160915,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2015,2015,3050,FAO TIER 1,An,170513,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2016,2016,3050,FAO TIER 1,An,180077,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2017,2017,3050,FAO TIER 1,An,193124,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2018,2018,3050,FAO TIER 1,An,207566,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2019,2019,3050,FAO TIER 1,An,216358,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2020,2020,3050,FAO TIER 1,An,227703,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2021,2021,3050,FAO TIER 1,An,243365,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2030,2030,3050,FAO TIER 1,An,131600,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1760,Camels and Llamas,2050,2050,3050,FAO TIER 1,An,131600,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,9592400,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,10844268,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,9576300,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,10552052,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,9346600,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,9068931,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,8072900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,7672474,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,6859900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,6037614,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,5424600,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,4775168,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,4307100,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,4384986,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,3957900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,4431847,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,3998200,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,4552175,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,4106600,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,4765572,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,4293500,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,5068165,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,4559500,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,5425588,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,4871000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,5806200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,5203900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,6099552,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,5457400,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,6318868,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,5660400,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,6530019,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,5840900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,6697951,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,5991600,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,6814693,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,6095200,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,6904612,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,6175300,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,6383915,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,5702400,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,6352409,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,5690000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,6514993,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,5851200,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,6713768,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,6183852,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,6862152,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,6413205,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,7095499,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,6764212,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,7488791,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,7150920,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,7912264,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,7436407,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,8217402,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,7850045,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,8668343,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,8192415,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,6727297,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,7613520,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,59300000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,52300000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,49450000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,32450000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,20654000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,15296000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,15900000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,16850000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,17880000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,19550000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,20960000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,23600000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,24770000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,25530000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,26100000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,28100000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,29400000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,31021000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,30960000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,30765000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,31567000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,32419000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,33138000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,33966000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,35340000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,38376000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,42782000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,43416073,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,41667598,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,46174407,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,40482198,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,51000900,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1992,1992,3050,FAO TIER 1,An,45000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1992,1992,3051,UNFCCC,An,45000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1993,1993,3050,FAO TIER 1,An,45000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1993,1993,3051,UNFCCC,An,40000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1994,1994,3050,FAO TIER 1,An,40000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1994,1994,3051,UNFCCC,An,40000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1995,1995,3050,FAO TIER 1,An,40000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1995,1995,3051,UNFCCC,An,40000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1996,1996,3050,FAO TIER 1,An,40000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1996,1996,3051,UNFCCC,An,35000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1997,1997,3050,FAO TIER 1,An,35000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1997,1997,3051,UNFCCC,An,29000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1998,1998,3050,FAO TIER 1,An,29000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1998,1998,3051,UNFCCC,An,29000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1999,1999,3050,FAO TIER 1,An,29000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,1999,1999,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2000,2000,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2000,2000,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2001,2001,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2001,2001,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2002,2002,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2002,2002,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2003,2003,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2003,2003,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2004,2004,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2004,2004,3051,UNFCCC,An,31000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2005,2005,3050,FAO TIER 1,An,31000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2005,2005,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2006,2006,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2006,2006,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2007,2007,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2007,2007,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2008,2008,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2008,2008,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2009,2009,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2009,2009,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2010,2010,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2010,2010,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2011,2011,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2011,2011,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2012,2012,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2012,2012,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2013,2013,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2013,2013,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2014,2014,3050,FAO TIER 1,An,30000,X,Figure from international organizations,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2014,2014,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2015,2015,3050,FAO TIER 1,An,29379,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2015,2015,3051,UNFCCC,An,29379,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2016,2016,3050,FAO TIER 1,An,29174,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2016,2016,3051,UNFCCC,An,29174,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2017,2017,3050,FAO TIER 1,An,28875,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2017,2017,3051,UNFCCC,An,29519,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2018,2018,3050,FAO TIER 1,An,28937,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2018,2018,3051,UNFCCC,An,29689,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2019,2019,3050,FAO TIER 1,An,29089,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2019,2019,3051,UNFCCC,An,29626,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2020,2020,3050,FAO TIER 1,An,29021,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2020,2020,3051,UNFCCC,An,29562,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2021,2021,3050,FAO TIER 1,An,28952,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2030,2030,3050,FAO TIER 1,An,30333,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1759,Mules and Asses,2050,2050,3050,FAO TIER 1,An,30333,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,59932000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,52733400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,52733000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,49838400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,49838000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,32715900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,32716000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,20809800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,20810000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,15377900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,15378000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,15982200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,15982000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,16985200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,16985200,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,18022400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,18022400,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,19705700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,19705700,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,21130200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,21129200,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,23790600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,23790600,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,24823100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,24820000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,25606100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,25610000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,26215500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,26200000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,28239300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,28200000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,29506800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,29506000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,30148400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,31169000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,32686500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,31146000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,32780600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,31365000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,32870100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,32567000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,33474000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,34319000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,34173100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,34438000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,35020000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,35866000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,35632900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,37040000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,36910021,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,40095011,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,39913459,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,44508388,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,44337924,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,45185689,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,45041400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,43464041,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,43335000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,47998614,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,40644445,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,51218720,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,34250800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,39694417,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,34063700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,39452618,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,34010100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,28988948,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,25094700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,22595888,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,19523300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,15791772,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,13551000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,11993357,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,10327800,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,11008772,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,9526500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,11162702,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,9656700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,11540937,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,9981100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,12123462,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,10478600,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,13047402,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,11273000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,14183566,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,12247100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,15534301,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,13409100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,16608833,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,14334500,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,17787546,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,15350300,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,18631166,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,16080000,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,19427917,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,16770400,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,20120984,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,17369700,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,20831988,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,17988100,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,20950623,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,18091902,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,20415870,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,17633274,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,20326692,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,17560604,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,20735132,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,18015508,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,20849280,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,18184238,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,21042519,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,18328972,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,21208422,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,18699125,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,21634993,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,19155670,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,22159284,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,20057567,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,23200944,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,20876776,A,Official figure,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,16249759,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,17211894,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,2976100,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,3238750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,2591000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,3056500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,2445200,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,2478375,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,1982700,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,2028375,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,1622700,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,1295625,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,1036500,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,1098750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,879000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,1114750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,891800,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,1230250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,984200,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,1345000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,1076000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,1404750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,1123800,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,1537250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,1229800,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,1711000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,1368800,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,1615125,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,1292100,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,1602375,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,1281900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,1631125,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,1304900,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,1690875,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,1352700,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,1684125,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,1347300,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,1657875,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,1326300,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,1680000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,1344000,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,1505250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,1204200,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,1289500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,1031600,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,1152875,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,922296,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,1105923,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,887627,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,1109534,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,834230,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,1042788,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,815121,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,1018901,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,798732,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,998415,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,813269,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,1016586,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,816736,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,1020920,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,776117,E,Estimated value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,1559203,F,Forecast value,
+GLE,Emissions from Livestock,108,Kazakhstan,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,1841560,F,Forecast value,

@@ -1,0 +1,778 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,784800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,784850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,707900,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,707952,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,646500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,646488,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,604000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,600460,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,588600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,587967,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,604500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,586352,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,566000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,560257,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,527200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,516010,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,466400,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,466339,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,440300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,440055,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,441000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,442524,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,445500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,445688,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,441000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,441011,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,433937,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,425219,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,420300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,407734,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,410200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,401729,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,393300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,399601,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,371440,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,384680,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,353506,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,367214,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,354593,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,354663,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,339484,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,340291,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,323499,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,323359,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,316179,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,314863,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,314044,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,307267,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,300489,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,293120,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,285751,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,279281,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,256200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,264481,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,240900,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,248511,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,232900,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,236896,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,225200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,424108,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,390600,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,1411800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,1192385,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,993100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,864411,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,737800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,657269,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,548400,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,545370,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,476500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,509585,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,449600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,500967,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,450300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,463547,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,395600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,433271,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,431400,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,388799,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,308000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,339198,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,310700,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,351737,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,333600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,377670,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,371100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,387494,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,358063,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,394995,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,380000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,431985,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,428600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,432150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,394600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,402902,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,399460,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,402197,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,405894,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,406368,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,393407,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,413191,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,412916,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,415821,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,405701,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,412269,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,397321,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,423544,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,422568,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,433873,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,422113,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,430411,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,409001,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,419595,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,397300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,414095,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,393700,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,408969,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,396600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,407782,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,403500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,358236,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,332801,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,12800000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,5460000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,5400000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,5450000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,5250000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,4439000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,4350000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,2994000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,3409000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,1949000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,2770000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,3058000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,3902900,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,4008800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,4824300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,4848000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,5383000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,5182000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,5202000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,4894000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,4624000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,5425000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,6542000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,6706000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,5937000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,6484000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,6685000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,7907000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,5245000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,4614680,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,4406736,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,4003587,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,3800000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,2600000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,3100000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,3200000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,3000000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,3200000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,2900000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,3600000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,2800000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,3500000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,3659000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,3638000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,3965000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,4219000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,4377000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,4386000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,4310000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,3659000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,3823000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,4301000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,4034000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,3388000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,3079000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,3387000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,3211000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,3433000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,3519000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,3655000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,3231000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,3509420,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,4630454,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,4441587,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,1992,1992,3050,FAO TIER 1,An,137000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,1993,1993,3050,FAO TIER 1,An,70000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,1994,1994,3050,FAO TIER 1,An,80000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,1995,1995,3050,FAO TIER 1,An,71000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,1996,1996,3050,FAO TIER 1,An,70000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,1997,1997,3050,FAO TIER 1,An,47000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,1998,1998,3050,FAO TIER 1,An,62000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,1999,1999,3050,FAO TIER 1,An,53000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2000,2000,3050,FAO TIER 1,An,56000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2001,2001,3050,FAO TIER 1,An,48000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2002,2002,3050,FAO TIER 1,An,51000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2003,2003,3050,FAO TIER 1,An,47000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,47000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,45454,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,41000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,36000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,34000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,34000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,32000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,33000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,29000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,43000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,36000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,19000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,16000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,16000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2018,2018,3050,FAO TIER 1,An,14000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2019,2019,3050,FAO TIER 1,An,16000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2020,2020,3050,FAO TIER 1,An,21000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2021,2021,3050,FAO TIER 1,An,14930,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,39443,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,35834,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,6300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,7550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,8346,I,Imputed value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,9600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,10400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,11400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,12400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,13500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,14600,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,15750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,16900,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,17700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,18500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,21100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,23700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,24200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,24700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,23850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,23000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,23350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,23700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,22850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,21966,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,24600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,27205,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,27050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,26904,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,24450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,21984,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,21400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,20800,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,20250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,19700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,18150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,16600,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,15659,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,14700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,15383,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,16000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,15503,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,15000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,14278,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,13598,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,13715,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,13832,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,13412,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,12991,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,13259,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,13526,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,13468,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,13409,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,13864,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,14300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,14314,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,15100,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,14729,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,14700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,14948,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,14700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,22495,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,21575,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,82600,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,81154,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,79700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,80530,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,81300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,79747,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,78200,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,77857,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,77600,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,79453,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,81400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,81552,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,78500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,78245,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,74300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,74812,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,74900,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,71645,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,68400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,66457,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,64500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,62582,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,60656,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,62122,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,63587,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,63608,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,63628,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,63117,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,62605,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,61728,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,60900,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,58379,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,55900,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,55164,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,54400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,51701,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,49000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,46828,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,44700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,40519,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,36400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,32913,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,29646,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,25821,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,22178,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,20186,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,18193,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,17757,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,17321,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,16823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,16324,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,15643,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,14961,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,13948,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,12934,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,12854,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,12773,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,12791,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,12809,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,62378,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,62378,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,58100,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,65323,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,51700,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,57530,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,45000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,50569,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,40000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,43013,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,32300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,35993,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,28200,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,31055,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,24000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,23678,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,15800,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,17610,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,13800,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,15052,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,11500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,14159,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,12300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,15409,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,13581,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,18145,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,16867,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,23231,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,22149,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,30554,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,29208,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,39146,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,36600,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,47528,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,43300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,54028,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,47500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,59481,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,52500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,66044,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,58500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,70766,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,60400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,85165,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,82752,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,108509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,99637,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,130027,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,123909,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,154456,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,147073,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,172887,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,163565,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,178867,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,164300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,178462,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,152100,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,172831,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,140600,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,161101,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,136900,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,28392,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,27230,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,217980,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,135980,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,119620,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,125980,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,127000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,112760,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,120010,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,115900,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,93610,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,86760,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,101080,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,106102,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,105736,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,107335,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,111465,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,112710,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,92320,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,89710,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,92820,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,92940,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,79030,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,80750,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,75460,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,71416,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,68782,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,66392,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,57200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,55080,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,58040,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,57380,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,111604,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,110695,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,1961820,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,1223820,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,1076580,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,1133820,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,1143000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,1014840,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,1080090,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,1043100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,842490,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,780840,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,909720,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,954921,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,951622,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,966013,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,1003182,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,1014390,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,830880,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,807390,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,835380,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,836460,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,711270,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,726750,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,679140,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,642741,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,619040,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,597524,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,514800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,495720,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,522360,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,516420,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,1004434,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,996252,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,120000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,59000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,68000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,60000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,58000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,32000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,43000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,37000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,43000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,32000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,43000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,46000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,98400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,93453,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,103000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,117000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,104000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,194000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,213000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,206000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,208000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,206000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,86000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,86000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,183000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,146000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,139000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,225000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,125000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,208920,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,100964,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,91728,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,2196600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,1977235,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,1701000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,1572363,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,1384300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,1303756,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,1152400,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,1145830,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,1065100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,1097552,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,1054100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,1087319,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,1016300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,1023804,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,922800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,949281,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,897800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,855138,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,748300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,779253,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,751700,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,794261,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,779100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,823357,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,812100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,828504,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,792000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,820213,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,800300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,839719,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,838800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,833879,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,787900,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,802502,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,770900,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,786877,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,759400,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,773582,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,748000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,767854,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,752400,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,756112,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,729200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,735628,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,713500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,738407,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,736612,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,741139,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,722602,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,723531,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,694752,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,698876,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,653500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,678575,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,634600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,657480,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,629500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,644678,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,628700,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,782344,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,723401,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,16600000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,8060000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,8500000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,8650000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,8250000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,7639000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,7250000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,6594000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,6209000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,5449000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,6429000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,6696000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,7867900,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,8227800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,9201300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,9234000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,9693000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,8841000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,9025000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,9195000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,8658000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,8813000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,9621000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,10093000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,9148000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,9917000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,10204000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,11562000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,8476000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,8124100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,9037190,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,8445173,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,16857000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,9949013,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,8189000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,9039019,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,8648000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,9166509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,8781000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,8640092,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,8378000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,8065634,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,7718000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,7688456,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,7355000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,7100567,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,6684000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,6389393,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,6308000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,5553366,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,5529000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,6610763,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,6523000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,6982455,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,6789000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,8028136,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,8013300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,8410088,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,8366707,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,8349048,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,9345300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,9014290,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,9387000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,9477825,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,9831000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,9621385,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,9069000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,9771193,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,9270000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,10577122,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,9434000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,10364318,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,8895000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,10047422,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,9062000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,9760907,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,9743000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,9923237,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,10198000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,9687125,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,9347000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,10560108,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,10079000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,11195978,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,10357000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,11626880,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,11803000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,10740012,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,8622000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,10435410,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,8347950,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,9177597,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,8572736,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,64400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,72873,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,60046,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,67130,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,55400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,61969,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,52400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,56513,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,46900,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,51743,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,45100,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,48755,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,42500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,44778,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,39500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,41810,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,38500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,38902,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,34500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,37509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,36000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,38259,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,35547,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,42745,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,44072,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,50281,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,49053,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,55004,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,51192,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,60546,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,57400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,67778,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,63000,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,72178,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,64100,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,75139,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,67200,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,81426,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,74500,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,86269,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,75400,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,99443,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,96350,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,122224,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,113469,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,143438,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,136900,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,167714,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,160599,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,186354,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,176974,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,192731,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,178600,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,192776,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,167200,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,187560,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,155300,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,176048,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,151600,A,Official figure,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,50886,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,48805,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,2179800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,1769155,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,1359800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,1280163,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,1196200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,1230148,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,1259800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,1266278,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,1270000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,1200281,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,1127600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,1167347,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,1200100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,1186457,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,1159000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,1051923,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,936100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,895891,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,867600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,933217,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,1010800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,1035911,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,1061023,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,1059191,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,1057358,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,1065353,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,1073348,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,1093998,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,1114647,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,1120886,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,1127100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,1025161,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,923200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,910155,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,897100,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,912650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,928200,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,928792,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,929400,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,859869,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,790300,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,798911,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,807500,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,781057,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,754600,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,734395,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,714157,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,700990,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,687822,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,675869,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,663915,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,637923,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,572000,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,591973,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,550800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,561425,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,580400,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,565612,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,573800,E,Estimated value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,1116037,F,Forecast value,
+GLE,Emissions from Livestock,126,Lithuania,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,1106946,F,Forecast value,

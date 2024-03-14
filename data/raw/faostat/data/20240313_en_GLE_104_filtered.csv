@@ -1,0 +1,1437 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1961,1961,3050,FAO TIER 1,An,89330,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1962,1962,3050,FAO TIER 1,An,87543,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1963,1963,3050,FAO TIER 1,An,85792,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1964,1964,3050,FAO TIER 1,An,84076,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1965,1965,3050,FAO TIER 1,An,82400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1966,1966,3050,FAO TIER 1,An,70000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1967,1967,3050,FAO TIER 1,An,65000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1968,1968,3050,FAO TIER 1,An,60000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1969,1969,3050,FAO TIER 1,An,58000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1970,1970,3050,FAO TIER 1,An,55000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1971,1971,3050,FAO TIER 1,An,50000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1972,1972,3050,FAO TIER 1,An,45000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1973,1973,3050,FAO TIER 1,An,40000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1974,1974,3050,FAO TIER 1,An,38000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1975,1975,3050,FAO TIER 1,An,35682,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1976,1976,3050,FAO TIER 1,An,34000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1977,1977,3050,FAO TIER 1,An,33000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1978,1978,3050,FAO TIER 1,An,30000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1979,1979,3050,FAO TIER 1,An,30000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1980,1980,3050,FAO TIER 1,An,28000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1981,1981,3050,FAO TIER 1,An,26000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1982,1982,3050,FAO TIER 1,An,23000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1983,1983,3050,FAO TIER 1,An,20000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1984,1984,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1985,1985,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1986,1986,3050,FAO TIER 1,An,17000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1987,1987,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1988,1988,3050,FAO TIER 1,An,15000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1989,1989,3050,FAO TIER 1,An,14000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1990,1990,3050,FAO TIER 1,An,13000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1991,1991,3050,FAO TIER 1,An,6300,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1992,1992,3050,FAO TIER 1,An,7000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1993,1993,3050,FAO TIER 1,An,7400,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1994,1994,3050,FAO TIER 1,An,6800,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1995,1995,3050,FAO TIER 1,An,6000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1996,1996,3050,FAO TIER 1,An,6600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1997,1997,3050,FAO TIER 1,An,6100,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1998,1998,3050,FAO TIER 1,An,6500,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,1999,1999,3050,FAO TIER 1,An,6500,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2000,2000,3050,FAO TIER 1,An,4400,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2001,2001,3050,FAO TIER 1,An,4300,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2002,2002,3050,FAO TIER 1,An,4100,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2003,2003,3050,FAO TIER 1,An,5200,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2004,2004,3050,FAO TIER 1,An,5100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2005,2005,3050,FAO TIER 1,An,5077,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2006,2006,3050,FAO TIER 1,An,5880,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2007,2007,3050,FAO TIER 1,An,6048,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2008,2008,3050,FAO TIER 1,An,7600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2009,2009,3050,FAO TIER 1,An,7600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2010,2010,3050,FAO TIER 1,An,6500,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2011,2011,3050,FAO TIER 1,An,7700,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2012,2012,3050,FAO TIER 1,An,8600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2013,2013,3050,FAO TIER 1,An,7000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2014,2014,3050,FAO TIER 1,An,6900,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2015,2015,3050,FAO TIER 1,An,7700,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2016,2016,3050,FAO TIER 1,An,8000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2017,2017,3050,FAO TIER 1,An,7482,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2030,2030,3050,FAO TIER 1,An,5668,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1107,Asses,2050,2050,3050,FAO TIER 1,An,5668,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1961,1961,3050,FAO TIER 1,An,1206000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1962,1962,3050,FAO TIER 1,An,1220000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1963,1963,3050,FAO TIER 1,An,1223000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1964,1964,3050,FAO TIER 1,An,1275000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1965,1965,3050,FAO TIER 1,An,1361000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1966,1966,3050,FAO TIER 1,An,1400000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1967,1967,3050,FAO TIER 1,An,1422000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1968,1968,3050,FAO TIER 1,An,1483000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1969,1969,3050,FAO TIER 1,An,1488000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1970,1970,3050,FAO TIER 1,An,1419000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1971,1971,3050,FAO TIER 1,An,1450000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1972,1972,3050,FAO TIER 1,An,1301000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1973,1973,3050,FAO TIER 1,An,1389000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1974,1974,3050,FAO TIER 1,An,1431000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1975,1975,3050,FAO TIER 1,An,1406000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1976,1976,3050,FAO TIER 1,An,1380000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1977,1977,3050,FAO TIER 1,An,1436000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1978,1978,3050,FAO TIER 1,An,1484000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1979,1979,3050,FAO TIER 1,An,1513000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1980,1980,3050,FAO TIER 1,An,1503000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1981,1981,3050,FAO TIER 1,An,1449000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1982,1982,3050,FAO TIER 1,An,1458000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1983,1983,3050,FAO TIER 1,An,1513000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1984,1984,3050,FAO TIER 1,An,1535000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1985,1985,3050,FAO TIER 1,An,1549300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1986,1986,3050,FAO TIER 1,An,1527700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1987,1987,3050,FAO TIER 1,An,1490400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1988,1988,3050,FAO TIER 1,An,1443600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1989,1989,3050,FAO TIER 1,An,1387000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1990,1990,3050,FAO TIER 1,An,1342000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1990,1990,3051,UNFCCC,An,1340950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1991,1991,3050,FAO TIER 1,An,1322000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1991,1991,3051,UNFCCC,An,1309400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,1288000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,1262050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,1246200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,1255900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,1248300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,1246800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,1233000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,1238500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,1220800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,1241000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,1215600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,1226550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,1201400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,1216300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,1198800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,1187200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,1177500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,1165150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,1182500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,1165250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,1164100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,1146400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,1155600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,1145650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,1156100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,1138950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,1055100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,1025450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,1084700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,1053750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,1089800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,1053550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,1095200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,1059650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,1096700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,1059550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,1070800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,1038881,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,1116900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,1076261,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,1140800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,1100562,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,1163200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,1122851,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,1226400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,1177046,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,1295800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,1267850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,1397900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,1346550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,1432687,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,1388000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,1369100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,1425000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,1425760,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,1465300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,1456050,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,1511850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,1505270,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,1083248,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,997662,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1961,1961,3050,FAO TIER 1,An,3085200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1962,1962,3050,FAO TIER 1,An,2959200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1963,1963,3050,FAO TIER 1,An,3077600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1964,1964,3050,FAO TIER 1,An,3093800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1965,1965,3050,FAO TIER 1,An,3163200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1966,1966,3050,FAO TIER 1,An,3545700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1967,1967,3050,FAO TIER 1,An,3727900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1968,1968,3050,FAO TIER 1,An,3547300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1969,1969,3050,FAO TIER 1,An,3598300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1970,1970,3050,FAO TIER 1,An,3810000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1971,1971,3050,FAO TIER 1,An,3955000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1972,1972,3050,FAO TIER 1,An,4215000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1973,1973,3050,FAO TIER 1,An,4556700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1974,1974,3050,FAO TIER 1,An,4977000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1975,1975,3050,FAO TIER 1,An,5093600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1976,1976,3050,FAO TIER 1,An,4833700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1977,1977,3050,FAO TIER 1,An,4774000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1978,1978,3050,FAO TIER 1,An,4761500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1979,1979,3050,FAO TIER 1,An,4619100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1980,1980,3050,FAO TIER 1,An,4667900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1981,1981,3050,FAO TIER 1,An,4376500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1982,1982,3050,FAO TIER 1,An,4305200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1983,1983,3050,FAO TIER 1,An,4282200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1984,1984,3050,FAO TIER 1,An,4295500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1985,1985,3050,FAO TIER 1,An,4311600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1986,1986,3050,FAO TIER 1,An,4285300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1987,1987,3050,FAO TIER 1,An,4179900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1988,1988,3050,FAO TIER 1,An,4189100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1989,1989,3050,FAO TIER 1,An,4311700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3050,FAO TIER 1,An,4627100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3051,UNFCCC,An,5480850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3050,FAO TIER 1,An,4778500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3051,UNFCCC,An,5612050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,4859400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,5711350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,4990200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,5703400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,5015600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,5718400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,5110900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,5770250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,5229800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,6041300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,5445300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,6264400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,5680200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,6375800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,5752900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,6160350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,5859900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,5846800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,5867200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,5857050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,5828100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,5814400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,5843900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,5825650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,5859500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,5833750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,5936700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,5925662,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,5893100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,5871501,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,5801100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,5773384,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,5806900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,5767928,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,5794000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,5753443,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,5535800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,5506955,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,5376100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,5353518,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,5613300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,5587486,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,5739400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,5705832,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,5699700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,5664452,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,5667700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,5626799,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,5823300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,5792663,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,5930811,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,5890130,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,5224390,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,5835687,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,5133890,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,5674597,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,5073390,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,5709086,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,5144040,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,5413753,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,5029377,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1961,1961,3050,FAO TIER 1,An,2958000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1962,1962,3050,FAO TIER 1,An,2654000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1963,1963,3050,FAO TIER 1,An,2750000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1964,1964,3050,FAO TIER 1,An,2602000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1965,1965,3050,FAO TIER 1,An,3976000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1966,1966,3050,FAO TIER 1,An,3946000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1967,1967,3050,FAO TIER 1,An,3647000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1968,1968,3050,FAO TIER 1,An,3860000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1969,1969,3050,FAO TIER 1,An,3986000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1970,1970,3050,FAO TIER 1,An,3887000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1971,1971,3050,FAO TIER 1,An,4178000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1972,1972,3050,FAO TIER 1,An,4500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1973,1973,3050,FAO TIER 1,An,5032000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1974,1974,3050,FAO TIER 1,An,4976000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1975,1975,3050,FAO TIER 1,An,4107000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1976,1976,3050,FAO TIER 1,An,4294000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1977,1977,3050,FAO TIER 1,An,4855000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1978,1978,3050,FAO TIER 1,An,4981000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1979,1979,3050,FAO TIER 1,An,5369000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1980,1980,3050,FAO TIER 1,An,5767000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1981,1981,3050,FAO TIER 1,An,4939000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1982,1982,3050,FAO TIER 1,An,4968000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1983,1983,3050,FAO TIER 1,An,4830000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1984,1984,3050,FAO TIER 1,An,4096000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1985,1985,3050,FAO TIER 1,An,4179000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1986,1986,3050,FAO TIER 1,An,4136000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1987,1987,3050,FAO TIER 1,An,3878000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1988,1988,3050,FAO TIER 1,An,4058000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1989,1989,3050,FAO TIER 1,An,5176000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1990,1990,3050,FAO TIER 1,An,5001000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1991,1991,3050,FAO TIER 1,An,6128000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,6620000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,7025714,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,7966000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,8678000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,8348000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,8588000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,8533000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,8091000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,9258000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,9024000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,9130000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,9063000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,8809000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,8346000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,8667000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,9290000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,9490000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,11255000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,10000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,10100000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,10500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,11000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,10900000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,10901950,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,10937951,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,10803845,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,11039110,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,11451527,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,11515864,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,11688080,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,8472300,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,7697213,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1961,1961,3050,FAO TIER 1,An,4300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1962,1962,3050,FAO TIER 1,An,4300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1963,1963,3050,FAO TIER 1,An,4300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1964,1964,3050,FAO TIER 1,An,4300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1965,1965,3050,FAO TIER 1,An,4300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1966,1966,3050,FAO TIER 1,An,4300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1967,1967,3050,FAO TIER 1,An,4200000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1968,1968,3050,FAO TIER 1,An,4100000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1969,1969,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1970,1970,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1971,1971,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1972,1972,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1973,1973,3050,FAO TIER 1,An,4112000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1974,1974,3050,FAO TIER 1,An,4072000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1975,1975,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1976,1976,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1977,1977,3050,FAO TIER 1,An,3490000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1978,1978,3050,FAO TIER 1,An,3368000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1979,1979,3050,FAO TIER 1,An,3065000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1980,1980,3050,FAO TIER 1,An,2800000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1981,1981,3050,FAO TIER 1,An,3227000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1982,1982,3050,FAO TIER 1,An,3134000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1983,1983,3050,FAO TIER 1,An,3140000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1984,1984,3050,FAO TIER 1,An,3291000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1985,1985,3050,FAO TIER 1,An,3246000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1986,1986,3050,FAO TIER 1,An,3281000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1987,1987,3050,FAO TIER 1,An,3462000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1988,1988,3050,FAO TIER 1,An,3388000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1989,1989,3050,FAO TIER 1,An,3100000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1990,1990,3050,FAO TIER 1,An,3186000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1991,1991,3050,FAO TIER 1,An,3500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,3300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,3036286,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,3000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,3228000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,2873000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,2903000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,2700000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,2900000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,3467000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,3579000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,3579000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,3675000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,3691000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,3954000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,4133000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,3710000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,3710000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,3745000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,3800000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,3900000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,4000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,4200000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,4300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,4500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,4700000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,4700000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,4700000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,4700000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,4700000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,4207785,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,4036158,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1961,1961,3050,FAO TIER 1,An,365000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1962,1962,3050,FAO TIER 1,An,316000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1963,1963,3050,FAO TIER 1,An,292000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1964,1964,3050,FAO TIER 1,An,271000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1965,1965,3050,FAO TIER 1,An,246000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1966,1966,3050,FAO TIER 1,An,218000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1967,1967,3050,FAO TIER 1,An,189000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1968,1968,3050,FAO TIER 1,An,185000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1969,1969,3050,FAO TIER 1,An,167000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1970,1970,3050,FAO TIER 1,An,159000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1971,1971,3050,FAO TIER 1,An,148000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1972,1972,3050,FAO TIER 1,An,150000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1973,1973,3050,FAO TIER 1,An,161000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1974,1974,3050,FAO TIER 1,An,165000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1975,1975,3050,FAO TIER 1,An,161000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1976,1976,3050,FAO TIER 1,An,136000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1977,1977,3050,FAO TIER 1,An,201000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1978,1978,3050,FAO TIER 1,An,199000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1979,1979,3050,FAO TIER 1,An,201000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1980,1980,3050,FAO TIER 1,An,202000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1981,1981,3050,FAO TIER 1,An,208000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1982,1982,3050,FAO TIER 1,An,219000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1983,1983,3050,FAO TIER 1,An,220000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1984,1984,3050,FAO TIER 1,An,167000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1985,1985,3050,FAO TIER 1,An,46000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1986,1986,3050,FAO TIER 1,An,86000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1987,1987,3050,FAO TIER 1,An,109000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1988,1988,3050,FAO TIER 1,An,138000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1989,1989,3050,FAO TIER 1,An,150000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1068,Ducks,1990,1990,3050,FAO TIER 1,An,150000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1990,1990,3051,UNFCCC,An,17400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1991,1991,3050,FAO TIER 1,An,17400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1991,1991,3051,UNFCCC,An,17400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,17800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,17800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,17600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,17600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,16100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,16100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,15600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,15600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,14900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,14900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,15200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,15200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,15100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,15100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,13500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,13500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,8100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,8100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,7800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,7800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,7700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,7700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,7600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,7600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,7500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,7500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,7300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,7300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,6700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,6700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,7300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,7300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,8900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,8900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,10100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,10100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,10500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,10500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,11400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,11400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,10300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,10300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,8700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,8700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,8600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,8600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,10800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,10800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,9900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,9900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,8285,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,8300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,9349,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,9300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,8770,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,8700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,8800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,8800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,8800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,6875,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,6594,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1961,1961,3050,FAO TIER 1,An,207000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1962,1962,3050,FAO TIER 1,An,196000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1963,1963,3050,FAO TIER 1,An,190200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1964,1964,3050,FAO TIER 1,An,180300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1965,1965,3050,FAO TIER 1,An,172111,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1966,1966,3050,FAO TIER 1,An,158400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1967,1967,3050,FAO TIER 1,An,142700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1968,1968,3050,FAO TIER 1,An,133600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1969,1969,3050,FAO TIER 1,An,124900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1970,1970,3050,FAO TIER 1,An,124300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1971,1971,3050,FAO TIER 1,An,117200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1972,1972,3050,FAO TIER 1,An,112100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1973,1973,3050,FAO TIER 1,An,103300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1974,1974,3050,FAO TIER 1,An,98100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1975,1975,3050,FAO TIER 1,An,89182,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1976,1976,3050,FAO TIER 1,An,83200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1977,1977,3050,FAO TIER 1,An,80300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1978,1978,3050,FAO TIER 1,An,75500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1979,1979,3050,FAO TIER 1,An,73000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1980,1980,3050,FAO TIER 1,An,68466,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1981,1981,3050,FAO TIER 1,An,64700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1982,1982,3050,FAO TIER 1,An,61500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1983,1983,3050,FAO TIER 1,An,60400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1984,1984,3050,FAO TIER 1,An,57600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1985,1985,3050,FAO TIER 1,An,57700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1986,1986,3050,FAO TIER 1,An,55800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1987,1987,3050,FAO TIER 1,An,54500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1988,1988,3050,FAO TIER 1,An,53100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1989,1989,3050,FAO TIER 1,An,51700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1990,1990,3050,FAO TIER 1,An,53500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1990,1990,3051,UNFCCC,An,61600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1991,1991,3050,FAO TIER 1,An,63100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1991,1991,3051,UNFCCC,An,63100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,65100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,65100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,66200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,66200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,67000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,67000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,68000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,68000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,69900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,69900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,71900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,71900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,72800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,72800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,75500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,75500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,69900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,69900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,71000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,71000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,72600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,72600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,70400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,70400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,72800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,72800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,79900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,79900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,86600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,86600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,89200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,89200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,95700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,95700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,98100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,98100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,106000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,106000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,106000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,106000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,111100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,111100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,101600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,101600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,95000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,95000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,93100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,93100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,92200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,92200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,84876,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,84900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,84334,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,84300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,82010,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,82000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,79504,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,88300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,75868,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,85233,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,85233,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1961,1961,3050,FAO TIER 1,An,2981,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1962,1962,3050,FAO TIER 1,An,2921,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1963,1963,3050,FAO TIER 1,An,2863,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1964,1964,3050,FAO TIER 1,An,2806,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1965,1965,3050,FAO TIER 1,An,2750,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1966,1966,3050,FAO TIER 1,An,2700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1967,1967,3050,FAO TIER 1,An,2500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1968,1968,3050,FAO TIER 1,An,2400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1969,1969,3050,FAO TIER 1,An,2300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1970,1970,3050,FAO TIER 1,An,2200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1971,1971,3050,FAO TIER 1,An,2100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1972,1972,3050,FAO TIER 1,An,2000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1973,1973,3050,FAO TIER 1,An,2000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1974,1974,3050,FAO TIER 1,An,2000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1975,1975,3050,FAO TIER 1,An,2000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1976,1976,3050,FAO TIER 1,An,2000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1977,1977,3050,FAO TIER 1,An,2000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1978,1978,3050,FAO TIER 1,An,1900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1979,1979,3050,FAO TIER 1,An,1900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1980,1980,3050,FAO TIER 1,An,1700,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1981,1981,3050,FAO TIER 1,An,1600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1982,1982,3050,FAO TIER 1,An,1600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1983,1983,3050,FAO TIER 1,An,1500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1984,1984,3050,FAO TIER 1,An,1500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1985,1985,3050,FAO TIER 1,An,1400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1986,1986,3050,FAO TIER 1,An,1400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1987,1987,3050,FAO TIER 1,An,1300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1988,1988,3050,FAO TIER 1,An,1300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1989,1989,3050,FAO TIER 1,An,1300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1990,1990,3050,FAO TIER 1,An,1200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1991,1991,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1992,1992,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1993,1993,3050,FAO TIER 1,An,1100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1994,1994,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1995,1995,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1996,1996,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1997,1997,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1998,1998,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,1999,1999,3050,FAO TIER 1,An,800,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2000,2000,3050,FAO TIER 1,An,600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2001,2001,3050,FAO TIER 1,An,600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2002,2002,3050,FAO TIER 1,An,600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2003,2003,3050,FAO TIER 1,An,600,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2004,2004,3050,FAO TIER 1,An,600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2005,2005,3050,FAO TIER 1,An,923,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2006,2006,3050,FAO TIER 1,An,1120,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2007,2007,3050,FAO TIER 1,An,1152,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2008,2008,3050,FAO TIER 1,An,1200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2009,2009,3050,FAO TIER 1,An,1200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2010,2010,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2011,2011,3050,FAO TIER 1,An,1000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2012,2012,3050,FAO TIER 1,An,1200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2013,2013,3050,FAO TIER 1,An,1200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2014,2014,3050,FAO TIER 1,An,1200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2015,2015,3050,FAO TIER 1,An,1200,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2016,2016,3050,FAO TIER 1,An,1200,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2017,2017,3050,FAO TIER 1,An,1187,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2030,2030,3050,FAO TIER 1,An,1065,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1110,Mules and hinnies,2050,2050,3050,FAO TIER 1,An,1065,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1961,1961,3050,FAO TIER 1,An,3106500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1962,1962,3050,FAO TIER 1,An,3375900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1963,1963,3050,FAO TIER 1,An,3333100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1964,1964,3050,FAO TIER 1,An,3386500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1965,1965,3050,FAO TIER 1,An,3455800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1966,1966,3050,FAO TIER 1,An,3464000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1967,1967,3050,FAO TIER 1,An,3058800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1968,1968,3050,FAO TIER 1,An,2990200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1969,1969,3050,FAO TIER 1,An,2851500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1970,1970,3050,FAO TIER 1,An,2788200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1971,1971,3050,FAO TIER 1,An,2835800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1972,1972,3050,FAO TIER 1,An,2862000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1973,1973,3050,FAO TIER 1,An,2834600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1974,1974,3050,FAO TIER 1,An,2844500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1975,1975,3050,FAO TIER 1,An,2711200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1976,1976,3050,FAO TIER 1,An,2653200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1977,1977,3050,FAO TIER 1,An,2581900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1978,1978,3050,FAO TIER 1,An,2526000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1979,1979,3050,FAO TIER 1,An,2417800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1980,1980,3050,FAO TIER 1,An,2359600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1981,1981,3050,FAO TIER 1,An,2343600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1982,1982,3050,FAO TIER 1,An,2449300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1983,1983,3050,FAO TIER 1,An,2608500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1984,1984,3050,FAO TIER 1,An,2813200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1985,1985,3050,FAO TIER 1,An,3081800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1986,1986,3050,FAO TIER 1,An,3304000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1987,1987,3050,FAO TIER 1,An,3671800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1988,1988,3050,FAO TIER 1,An,4300600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1989,1989,3050,FAO TIER 1,An,4991200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1990,1990,3050,FAO TIER 1,An,5713900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1990,1990,3051,UNFCCC,An,8020982,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1991,1991,3050,FAO TIER 1,An,5863700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1991,1991,3051,UNFCCC,An,8483655,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,5982600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,8735751,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,6109200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,8977221,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,5966500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,8559060,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,5739700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,8363828,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,5543400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,8329038,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,5341900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,8050874,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,5577200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,8572207,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,5559100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,8547197,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,7555000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,7957339,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,7330300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,7454788,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,7209600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,6682406,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,6848900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,6480700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,6777200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,6703327,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,6392200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,6431321,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,5973200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,6187151,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,5521600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,5655572,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,5061400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,5105413,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,4778000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,4726977,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,4745400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,4328123,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,4830000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,4429053,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,5170000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,4842565,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,5007000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,4918481,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,5096800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,5018501,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,5138700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,4869674,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,5179200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,4844125,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,5197140,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,5229715,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,3798480,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,5142969,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,3809370,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,5035153,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,3877220,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,5286598,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,3991180,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,5773743,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,5537599,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1961,1961,3050,FAO TIER 1,An,94440,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1962,1962,3050,FAO TIER 1,An,107970,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1963,1963,3050,FAO TIER 1,An,101380,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1964,1964,3050,FAO TIER 1,An,101310,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1965,1965,3050,FAO TIER 1,An,115770,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1966,1966,3050,FAO TIER 1,An,110140,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1967,1967,3050,FAO TIER 1,An,92060,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1968,1968,3050,FAO TIER 1,An,101670,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1969,1969,3050,FAO TIER 1,An,106160,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1970,1970,3050,FAO TIER 1,An,106490,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1971,1971,3050,FAO TIER 1,An,115540,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1972,1972,3050,FAO TIER 1,An,114400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1973,1973,3050,FAO TIER 1,An,100720,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1974,1974,3050,FAO TIER 1,An,103530,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1975,1975,3050,FAO TIER 1,An,79640,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1976,1976,3050,FAO TIER 1,An,88020,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1977,1977,3050,FAO TIER 1,An,98760,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1978,1978,3050,FAO TIER 1,An,99750,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1979,1979,3050,FAO TIER 1,An,114940,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1980,1980,3050,FAO TIER 1,An,112000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1981,1981,3050,FAO TIER 1,An,109590,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1982,1982,3050,FAO TIER 1,An,109010,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1983,1983,3050,FAO TIER 1,An,108100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1984,1984,3050,FAO TIER 1,An,105340,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1985,1985,3050,FAO TIER 1,An,101950,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1986,1986,3050,FAO TIER 1,An,99410,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1987,1987,3050,FAO TIER 1,An,98000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1988,1988,3050,FAO TIER 1,An,96020,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1989,1989,3050,FAO TIER 1,An,101450,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1990,1990,3050,FAO TIER 1,An,111010,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1991,1991,3050,FAO TIER 1,An,124910,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,134550,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,142270,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,148720,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,149830,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,154230,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,166450,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,171700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,180090,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,172210,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,174300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,178450,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,172620,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,165310,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,168770,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,164320,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,158780,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,146200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,138520,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,151630,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,154900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,157090,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,155250,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,155530,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,153690,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,159430,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,155685,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,157215,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,161327,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,167857,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,171359,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,165590,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,164241,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1961,1961,3050,FAO TIER 1,An,849960,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1962,1962,3050,FAO TIER 1,An,971730,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1963,1963,3050,FAO TIER 1,An,912420,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1964,1964,3050,FAO TIER 1,An,911790,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1965,1965,3050,FAO TIER 1,An,1041930,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1966,1966,3050,FAO TIER 1,An,991260,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1967,1967,3050,FAO TIER 1,An,828540,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1968,1968,3050,FAO TIER 1,An,915030,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1969,1969,3050,FAO TIER 1,An,955440,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1970,1970,3050,FAO TIER 1,An,958410,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1971,1971,3050,FAO TIER 1,An,1039860,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1972,1972,3050,FAO TIER 1,An,1029600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1973,1973,3050,FAO TIER 1,An,906480,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1974,1974,3050,FAO TIER 1,An,931770,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1975,1975,3050,FAO TIER 1,An,716760,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1976,1976,3050,FAO TIER 1,An,792180,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1977,1977,3050,FAO TIER 1,An,888840,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1978,1978,3050,FAO TIER 1,An,897750,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1979,1979,3050,FAO TIER 1,An,1034460,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1980,1980,3050,FAO TIER 1,An,1008000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1981,1981,3050,FAO TIER 1,An,986310,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1982,1982,3050,FAO TIER 1,An,981090,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1983,1983,3050,FAO TIER 1,An,972900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1984,1984,3050,FAO TIER 1,An,948060,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1985,1985,3050,FAO TIER 1,An,917550,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1986,1986,3050,FAO TIER 1,An,894690,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1987,1987,3050,FAO TIER 1,An,882000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1988,1988,3050,FAO TIER 1,An,864180,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1989,1989,3050,FAO TIER 1,An,913050,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1990,1990,3050,FAO TIER 1,An,999090,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1991,1991,3050,FAO TIER 1,An,1124190,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,1210950,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,1280430,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,1338480,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,1348470,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,1388070,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,1498050,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,1545300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,1620810,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,1549890,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,1568700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,1606050,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,1553580,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,1487790,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,1518930,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,1478880,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,1429020,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,1315800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,1246680,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,1364670,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,1394100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,1413810,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,1397250,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,1399770,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,1383210,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,1434870,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,1401167,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,1414935,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,1451943,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,1510713,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,1542231,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,1490307,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,1478167,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1961,1961,3050,FAO TIER 1,An,978000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1962,1962,3050,FAO TIER 1,An,819000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1963,1963,3050,FAO TIER 1,An,710000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1964,1964,3050,FAO TIER 1,An,633000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1965,1965,3050,FAO TIER 1,An,602000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1966,1966,3050,FAO TIER 1,An,507000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1967,1967,3050,FAO TIER 1,An,526000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1968,1968,3050,FAO TIER 1,An,567000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1969,1969,3050,FAO TIER 1,An,520000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1970,1970,3050,FAO TIER 1,An,535000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1971,1971,3050,FAO TIER 1,An,617000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1972,1972,3050,FAO TIER 1,An,503000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1973,1973,3050,FAO TIER 1,An,584000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1974,1974,3050,FAO TIER 1,An,650000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1975,1975,3050,FAO TIER 1,An,588000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1976,1976,3050,FAO TIER 1,An,552000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1977,1977,3050,FAO TIER 1,An,612000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1978,1978,3050,FAO TIER 1,An,653000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1979,1979,3050,FAO TIER 1,An,672000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1980,1980,3050,FAO TIER 1,An,589000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1981,1981,3050,FAO TIER 1,An,695000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1982,1982,3050,FAO TIER 1,An,699000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1983,1983,3050,FAO TIER 1,An,793000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1984,1984,3050,FAO TIER 1,An,710000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1985,1985,3050,FAO TIER 1,An,713000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1986,1986,3050,FAO TIER 1,An,775000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1987,1987,3050,FAO TIER 1,An,717000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1988,1988,3050,FAO TIER 1,An,853000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1989,1989,3050,FAO TIER 1,An,782000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1990,1990,3050,FAO TIER 1,An,993000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1991,1991,3050,FAO TIER 1,An,1244000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,1234000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,1027000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,1385000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,1576000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,1496000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,1624000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,1628000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,1644000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,1757000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,1589000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,1699000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,1622000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,1650000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,1650000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,1700000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,1650000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,1650000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,1650000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,1700000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,1750000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,1780000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,1800000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,1790000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,1805074,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,1857919,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,1865900,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,1896755,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,1936835,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,1958735,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,1988721,I,Imputed value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,1610520,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,1463182,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1961,1961,3050,FAO TIER 1,An,4291200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1962,1962,3050,FAO TIER 1,An,4179200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1963,1963,3050,FAO TIER 1,An,4300600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1964,1964,3050,FAO TIER 1,An,4368800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1965,1965,3050,FAO TIER 1,An,4524200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1966,1966,3050,FAO TIER 1,An,4945700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1967,1967,3050,FAO TIER 1,An,5149900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1968,1968,3050,FAO TIER 1,An,5030300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1969,1969,3050,FAO TIER 1,An,5086300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1970,1970,3050,FAO TIER 1,An,5229000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1971,1971,3050,FAO TIER 1,An,5405000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1972,1972,3050,FAO TIER 1,An,5516000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1973,1973,3050,FAO TIER 1,An,5945700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1974,1974,3050,FAO TIER 1,An,6408000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1975,1975,3050,FAO TIER 1,An,6499600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1976,1976,3050,FAO TIER 1,An,6213700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1977,1977,3050,FAO TIER 1,An,6210000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1978,1978,3050,FAO TIER 1,An,6245500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1979,1979,3050,FAO TIER 1,An,6132100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1980,1980,3050,FAO TIER 1,An,6170900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1981,1981,3050,FAO TIER 1,An,5825500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1982,1982,3050,FAO TIER 1,An,5763200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1983,1983,3050,FAO TIER 1,An,5795200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1984,1984,3050,FAO TIER 1,An,5830500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1985,1985,3050,FAO TIER 1,An,5860900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1986,1986,3050,FAO TIER 1,An,5813000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1987,1987,3050,FAO TIER 1,An,5670300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1988,1988,3050,FAO TIER 1,An,5632700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1989,1989,3050,FAO TIER 1,An,5698700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1990,1990,3050,FAO TIER 1,An,5969100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1990,1990,3051,UNFCCC,An,6821800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1991,1991,3050,FAO TIER 1,An,6100500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1991,1991,3051,UNFCCC,An,6921450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,6147400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,6973400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,6236400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,6959300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,6263900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,6965200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,6343900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,7008750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,6450600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,7282300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,6660900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,7490950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,6881600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,7592100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,6951700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,7347550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,7037400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,7011950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,7049700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,7022300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,6992200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,6960800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,6999500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,6971300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,7015600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,6972700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,6991800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,6951112,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,6977800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,6925251,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,6890900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,6826934,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,6902100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,6827578,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,6890700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,6812993,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,6606600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,6545836,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,6493000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,6429779,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,6754100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,6688048,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,6902600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,6828683,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,6926100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,6841498,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,6963500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,6894649,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,7221200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,7139213,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,7363498,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,7278130,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,6593490,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,7260687,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,6559650,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,7139897,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,6529440,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,7220936,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,6649310,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,6497000,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,6027039,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1961,1961,3050,FAO TIER 1,An,7258000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1962,1962,3050,FAO TIER 1,An,6954000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1963,1963,3050,FAO TIER 1,An,7050000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1964,1964,3050,FAO TIER 1,An,6902000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1965,1965,3050,FAO TIER 1,An,8276000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1966,1966,3050,FAO TIER 1,An,8246000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1967,1967,3050,FAO TIER 1,An,7847000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1968,1968,3050,FAO TIER 1,An,7960000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1969,1969,3050,FAO TIER 1,An,7986000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1970,1970,3050,FAO TIER 1,An,7887000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1971,1971,3050,FAO TIER 1,An,8178000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1972,1972,3050,FAO TIER 1,An,8500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1973,1973,3050,FAO TIER 1,An,9144000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1974,1974,3050,FAO TIER 1,An,9048000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1975,1975,3050,FAO TIER 1,An,8107000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1976,1976,3050,FAO TIER 1,An,8294000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1977,1977,3050,FAO TIER 1,An,8345000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1978,1978,3050,FAO TIER 1,An,8349000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1979,1979,3050,FAO TIER 1,An,8434000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1980,1980,3050,FAO TIER 1,An,8567000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1981,1981,3050,FAO TIER 1,An,8166000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1982,1982,3050,FAO TIER 1,An,8102000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1983,1983,3050,FAO TIER 1,An,7970000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1984,1984,3050,FAO TIER 1,An,7387000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1985,1985,3050,FAO TIER 1,An,7425000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1986,1986,3050,FAO TIER 1,An,7417000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1987,1987,3050,FAO TIER 1,An,7340000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1988,1988,3050,FAO TIER 1,An,7446000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1989,1989,3050,FAO TIER 1,An,8276000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1990,1990,3050,FAO TIER 1,An,8187000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1991,1991,3050,FAO TIER 1,An,9628000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,9920000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,10062000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,10966000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,11906000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,11221000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,11491000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,11233000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,10991000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,12725000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,12603000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,12709000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,12738000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,12500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,12300000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,12800000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,13000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,13200000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,15000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,13800000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,14000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,14500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,15000000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,15100000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,15201950,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,15437951,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,15503845,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,15739110,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,16151527,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,16215864,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,16388080,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,12680085,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,11733370,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1961,1961,3050,FAO TIER 1,An,92311,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1962,1962,3050,FAO TIER 1,An,90464,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1963,1963,3050,FAO TIER 1,An,88655,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1964,1964,3050,FAO TIER 1,An,86882,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1965,1965,3050,FAO TIER 1,An,85150,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1966,1966,3050,FAO TIER 1,An,72700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1967,1967,3050,FAO TIER 1,An,67500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1968,1968,3050,FAO TIER 1,An,62400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1969,1969,3050,FAO TIER 1,An,60300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1970,1970,3050,FAO TIER 1,An,57200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1971,1971,3050,FAO TIER 1,An,52100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1972,1972,3050,FAO TIER 1,An,47000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1973,1973,3050,FAO TIER 1,An,42000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1974,1974,3050,FAO TIER 1,An,40000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1975,1975,3050,FAO TIER 1,An,37682,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1976,1976,3050,FAO TIER 1,An,36000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1977,1977,3050,FAO TIER 1,An,35000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1978,1978,3050,FAO TIER 1,An,31900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1979,1979,3050,FAO TIER 1,An,31900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1980,1980,3050,FAO TIER 1,An,29700,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1981,1981,3050,FAO TIER 1,An,27600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1982,1982,3050,FAO TIER 1,An,24600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1983,1983,3050,FAO TIER 1,An,21500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1984,1984,3050,FAO TIER 1,An,20500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1985,1985,3050,FAO TIER 1,An,19400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1986,1986,3050,FAO TIER 1,An,18400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1987,1987,3050,FAO TIER 1,An,17300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1988,1988,3050,FAO TIER 1,An,16300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1989,1989,3050,FAO TIER 1,An,15300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1990,1990,3050,FAO TIER 1,An,14200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1990,1990,3051,UNFCCC,An,8300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1991,1991,3050,FAO TIER 1,An,7300,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1991,1991,3051,UNFCCC,An,7300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1992,1992,3050,FAO TIER 1,An,8000,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1992,1992,3051,UNFCCC,An,8000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1993,1993,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1993,1993,3051,UNFCCC,An,8500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1994,1994,3050,FAO TIER 1,An,7800,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1994,1994,3051,UNFCCC,An,7800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1995,1995,3050,FAO TIER 1,An,7000,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1995,1995,3051,UNFCCC,An,7000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1996,1996,3050,FAO TIER 1,An,7600,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1996,1996,3051,UNFCCC,An,7600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1997,1997,3050,FAO TIER 1,An,7100,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1997,1997,3051,UNFCCC,An,7100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1998,1998,3050,FAO TIER 1,An,7500,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1998,1998,3051,UNFCCC,An,7500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1999,1999,3050,FAO TIER 1,An,7300,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,1999,1999,3051,UNFCCC,An,7300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2000,2000,3050,FAO TIER 1,An,5000,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2000,2000,3051,UNFCCC,An,5000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2001,2001,3050,FAO TIER 1,An,4900,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2001,2001,3051,UNFCCC,An,4900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2002,2002,3050,FAO TIER 1,An,4700,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2002,2002,3051,UNFCCC,An,4700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2003,2003,3050,FAO TIER 1,An,5800,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2003,2003,3051,UNFCCC,An,5800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2004,2004,3050,FAO TIER 1,An,5700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2004,2004,3051,UNFCCC,An,5700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2005,2005,3050,FAO TIER 1,An,6000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2005,2005,3051,UNFCCC,An,6000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2006,2006,3050,FAO TIER 1,An,7000,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2006,2006,3051,UNFCCC,An,7000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2007,2007,3050,FAO TIER 1,An,7200,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2007,2007,3051,UNFCCC,An,7200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2008,2008,3050,FAO TIER 1,An,8800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2008,2008,3051,UNFCCC,An,8800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2009,2009,3050,FAO TIER 1,An,8800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2009,2009,3051,UNFCCC,An,8800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2010,2010,3050,FAO TIER 1,An,7500,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2010,2010,3051,UNFCCC,An,7500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2011,2011,3050,FAO TIER 1,An,8700,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2011,2011,3051,UNFCCC,An,8700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2012,2012,3050,FAO TIER 1,An,9800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2012,2012,3051,UNFCCC,An,9800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2013,2013,3050,FAO TIER 1,An,8200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2013,2013,3051,UNFCCC,An,8200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2014,2014,3050,FAO TIER 1,An,8100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2014,2014,3051,UNFCCC,An,8100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2015,2015,3050,FAO TIER 1,An,8900,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2015,2015,3051,UNFCCC,An,8900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2016,2016,3050,FAO TIER 1,An,9200,X,Figure from international organizations,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2016,2016,3051,UNFCCC,An,9200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2017,2017,3050,FAO TIER 1,An,8668,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2017,2017,3051,UNFCCC,An,10800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2018,2018,3051,UNFCCC,An,9200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2019,2019,3051,UNFCCC,An,9800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2020,2020,3051,UNFCCC,An,10000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2030,2030,3050,FAO TIER 1,An,6733,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1759,Mules and Asses,2050,2050,3050,FAO TIER 1,An,6733,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1961,1961,3050,FAO TIER 1,An,8601000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1962,1962,3050,FAO TIER 1,An,8089000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1963,1963,3050,FAO TIER 1,An,8052000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1964,1964,3050,FAO TIER 1,An,7806000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1965,1965,3050,FAO TIER 1,An,9124000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1966,1966,3050,FAO TIER 1,An,8971000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1967,1967,3050,FAO TIER 1,An,8562000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1968,1968,3050,FAO TIER 1,An,8712000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1969,1969,3050,FAO TIER 1,An,8673000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1970,1970,3050,FAO TIER 1,An,8581000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1971,1971,3050,FAO TIER 1,An,8943000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1972,1972,3050,FAO TIER 1,An,9153000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1973,1973,3050,FAO TIER 1,An,9889000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1974,1974,3050,FAO TIER 1,An,9863000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1975,1975,3050,FAO TIER 1,An,8856000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1976,1976,3050,FAO TIER 1,An,8982000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1977,1977,3050,FAO TIER 1,An,9158000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1978,1978,3050,FAO TIER 1,An,9201000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1979,1979,3050,FAO TIER 1,An,9307000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1980,1980,3050,FAO TIER 1,An,9358000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1981,1981,3050,FAO TIER 1,An,9069000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1982,1982,3050,FAO TIER 1,An,9020000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1983,1983,3050,FAO TIER 1,An,8983000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1984,1984,3050,FAO TIER 1,An,8264000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1985,1985,3050,FAO TIER 1,An,8184000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1986,1986,3050,FAO TIER 1,An,8278000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1987,1987,3050,FAO TIER 1,An,8166000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1988,1988,3050,FAO TIER 1,An,8437000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1989,1989,3050,FAO TIER 1,An,9208000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1990,1990,3050,FAO TIER 1,An,9330000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1990,1990,3051,UNFCCC,An,11772159,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1991,1991,3050,FAO TIER 1,An,10872000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1991,1991,3051,UNFCCC,An,12697538,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,11154000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,13272405,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,11089000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,13071742,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,12351000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,14033887,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,13482000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,14437780,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,12717000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,15374957,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,13115000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,15548376,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,12861000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,15686291,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,12635000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,15489810,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,14482000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,15679835,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,14192000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,16023959,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,14408000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,15544846,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,14360000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,16151618,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,14150000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,17189956,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,13950000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,16572741,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,14500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,15933820,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,14650000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,13323638,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,14850000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,13258328,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,16650000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,15277119,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,15500000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,15211809,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,15750000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,15026259,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,16280000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,15619548,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,16800000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,14988702,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,16890000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,16522222,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,17007024,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,17028981,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,17295870,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,17234463,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,17369745,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,17266573,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,17635865,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,17384497,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,18088361,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,18214791,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,18174600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,19300066,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,18376801,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,14290605,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,13196552,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1961,1961,3050,FAO TIER 1,An,3106500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1962,1962,3050,FAO TIER 1,An,3375900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1963,1963,3050,FAO TIER 1,An,3333100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1964,1964,3050,FAO TIER 1,An,3386500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1965,1965,3050,FAO TIER 1,An,3455800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1966,1966,3050,FAO TIER 1,An,3464000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1967,1967,3050,FAO TIER 1,An,3058800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1968,1968,3050,FAO TIER 1,An,2990200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1969,1969,3050,FAO TIER 1,An,2851500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1970,1970,3050,FAO TIER 1,An,2788200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1971,1971,3050,FAO TIER 1,An,2835800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1972,1972,3050,FAO TIER 1,An,2862000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1973,1973,3050,FAO TIER 1,An,2834600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1974,1974,3050,FAO TIER 1,An,2844500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1975,1975,3050,FAO TIER 1,An,2711200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1976,1976,3050,FAO TIER 1,An,2653200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1977,1977,3050,FAO TIER 1,An,2581900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1978,1978,3050,FAO TIER 1,An,2526000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1979,1979,3050,FAO TIER 1,An,2417800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1980,1980,3050,FAO TIER 1,An,2359600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1981,1981,3050,FAO TIER 1,An,2343600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1982,1982,3050,FAO TIER 1,An,2449300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1983,1983,3050,FAO TIER 1,An,2608500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1984,1984,3050,FAO TIER 1,An,2813200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1985,1985,3050,FAO TIER 1,An,3081800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1986,1986,3050,FAO TIER 1,An,3304000,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1987,1987,3050,FAO TIER 1,An,3671800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1988,1988,3050,FAO TIER 1,An,4300600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1989,1989,3050,FAO TIER 1,An,4991200,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1990,1990,3050,FAO TIER 1,An,5713900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1990,1990,3051,UNFCCC,An,8038382,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1991,1991,3050,FAO TIER 1,An,5881100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1991,1991,3051,UNFCCC,An,8501055,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,6000400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,8753551,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,6126800,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,8994821,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,5982600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,8575160,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,5755300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,8379428,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,5558300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,8343938,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,5357100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,8066074,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,5592300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,8587307,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,5572600,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,8560697,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,7563100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,7965439,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,7338100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,7462588,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,7217300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,6690106,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,6856500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,6488300,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,6784700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,6710827,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,6399500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,6438621,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,5979900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,6193851,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,5528900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,5662872,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,5070300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,5114313,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,4788100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,4737077,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,4755900,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,4338623,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,4841400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,4440453,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,5180300,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,4852865,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,5015700,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,4927181,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,5105400,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,5027101,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,5149500,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,4880474,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,5189100,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,4854025,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,5205425,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,5238015,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,3807829,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,5152269,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,3818140,A,Official figure,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,5043853,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,3886020,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,5295398,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,3999980,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,5780619,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,5544194,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1961,1961,3050,FAO TIER 1,An,944400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1962,1962,3050,FAO TIER 1,An,1079700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1963,1963,3050,FAO TIER 1,An,1013800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1964,1964,3050,FAO TIER 1,An,1013100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1965,1965,3050,FAO TIER 1,An,1157700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1966,1966,3050,FAO TIER 1,An,1101400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1967,1967,3050,FAO TIER 1,An,920600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1968,1968,3050,FAO TIER 1,An,1016700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1969,1969,3050,FAO TIER 1,An,1061600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1970,1970,3050,FAO TIER 1,An,1064900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1971,1971,3050,FAO TIER 1,An,1155400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1972,1972,3050,FAO TIER 1,An,1144000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1973,1973,3050,FAO TIER 1,An,1007200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1974,1974,3050,FAO TIER 1,An,1035300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1975,1975,3050,FAO TIER 1,An,796400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1976,1976,3050,FAO TIER 1,An,880200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1977,1977,3050,FAO TIER 1,An,987600,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1978,1978,3050,FAO TIER 1,An,997500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1979,1979,3050,FAO TIER 1,An,1149400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1980,1980,3050,FAO TIER 1,An,1120000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1981,1981,3050,FAO TIER 1,An,1095900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1982,1982,3050,FAO TIER 1,An,1090100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1983,1983,3050,FAO TIER 1,An,1081000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1984,1984,3050,FAO TIER 1,An,1053400,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1985,1985,3050,FAO TIER 1,An,1019500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1986,1986,3050,FAO TIER 1,An,994100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1987,1987,3050,FAO TIER 1,An,980000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1988,1988,3050,FAO TIER 1,An,960200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1989,1989,3050,FAO TIER 1,An,1014500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1990,1990,3050,FAO TIER 1,An,1110100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1990,1990,3051,UNFCCC,An,1221600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1991,1991,3050,FAO TIER 1,An,1249100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1991,1991,3051,UNFCCC,An,1324600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,1345500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,1404250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,1422700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,1504450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,1487200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,1514350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,1498300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,1546350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,1542300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,1642800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,1664500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,1708300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,1717000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,1809750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,1800900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,1774950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,1722100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,1726800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,1743000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,1760400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,1784500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,1790800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,1726200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,1728700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,1653100,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,1703750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,1687700,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,1679200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,1643200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,1631600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,1587800,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,1544100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,1462000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,1486450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,1385200,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,1443600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,1516300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,1508350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,1549000,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,1550950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,1570900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,1532250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,1552500,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,1510800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,1555300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,1530300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,1536900,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,1505750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,1594300,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,1561050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,1556852,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,1586600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,1572150,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,1597050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,1613270,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,1614750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,1678570,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,1655350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,1713590,E,Estimated value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,1655896,F,Forecast value,
+GLE,Emissions from Livestock,104,Ireland,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,1642407,F,Forecast value,

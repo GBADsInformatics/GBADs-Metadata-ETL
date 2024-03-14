@@ -1,0 +1,795 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,1992,1992,3050,FAO TIER 1,An,1794,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,1993,1993,3050,FAO TIER 1,An,2107,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,1994,1994,3050,FAO TIER 1,An,2247,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,1995,1995,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,1996,1996,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,1997,1997,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,1998,1998,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,1999,1999,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2000,2000,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2001,2001,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2002,2002,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2003,2003,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2004,2004,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2005,2005,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2006,2006,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2007,2007,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2008,2008,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2009,2009,3050,FAO TIER 1,An,3185,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2010,2010,3050,FAO TIER 1,An,2935,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2011,2011,3050,FAO TIER 1,An,2754,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2012,2012,3050,FAO TIER 1,An,2512,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2013,2013,3050,FAO TIER 1,An,2400,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2014,2014,3050,FAO TIER 1,An,2143,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2015,2015,3050,FAO TIER 1,An,2195,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2016,2016,3050,FAO TIER 1,An,1962,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2017,2017,3050,FAO TIER 1,An,3079,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2018,2018,3050,FAO TIER 1,An,4995,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2019,2019,3050,FAO TIER 1,An,3772,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2020,2020,3050,FAO TIER 1,An,1416,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2021,2021,3050,FAO TIER 1,An,1200,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2030,2030,3050,FAO TIER 1,An,4000,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1107,Asses,2050,2050,3050,FAO TIER 1,An,4000,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,397071,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,403200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,403173,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,401800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,410547,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,402600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,399400,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,380800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,380776,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,355400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,355480,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,323700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,294530,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,318400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,279500,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,306900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,254618,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,298500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,229095,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,300100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,271784,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,304800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,279219,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,277700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,256197,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,249000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,230766,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,233100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,217103,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,222000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,206650,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,181100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,168790,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,171900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,160279,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,173200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,161195,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,165800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,154403,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,155800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,144325,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,145100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,134400,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,141300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,132173,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,140600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,130812,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,137600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,127910,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,132300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,112752,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,105771,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,90591,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,103038,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,99800,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,219228,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,224047,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,374820,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,566900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,188300,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,480700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,404513,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,429400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,351435,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,348700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,345721,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,290900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,214564,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,226000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,190912,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,214000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,172500,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,175500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,168351,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,146900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,164911,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,153700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,133061,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,149900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,130420,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,131500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,116641,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,110500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,99827,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,106700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,93373,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,104900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,92455,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,72600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,62926,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,66500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,57433,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,69800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,60427,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,70500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,61548,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,68600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,59550,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,65500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,56800,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,66700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,56689,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,70100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,60402,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,66800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,58206,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,67600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,69587,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,61652,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,54237,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,20675,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,9100,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,100839,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,89626,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,21242000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,14768000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,12484000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,12011064,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,12301827,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,9039000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,9178160,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,9543000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,10185000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,10542000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,11317000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,12014000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,12870000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,14150000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,18782000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,19412000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,14475000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,15149000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,19275000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,30635000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,23009000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,29421000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,28720000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,33582000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,33542447,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,34608464,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,36600000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,37303738,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,38459012,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,40602133,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,28425769,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,40688412,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,2400000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,2300000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,2000000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,2350936,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,2384173,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,2350000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,2400000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,2500000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,2350000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,2460000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,2760000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,2886000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,2830000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,3270000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,3318000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,2988000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,2575000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,3071000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,3065000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,3365000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,3511000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,3179000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,3120000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,3258000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,3185000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,3190000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,3400000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,3393520,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,3098502,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,2856824,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,3078436,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,2841315,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,49474,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,62900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,62914,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,74900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,73891,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,92200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,90415,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,96400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,93000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,101300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,96000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,99000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,94000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,100800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,94000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,106600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,99815,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,115800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,108565,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,120200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,111592,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,134600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,126336,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,129200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,120918,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,127200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,119384,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,127300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,119372,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,119900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,111935,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,106500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,99303,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,111900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,103849,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,120300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,111155,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,127500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,117585,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,132000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,122539,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,137800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,128884,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,144600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,144885,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,153400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,110695,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,158600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,114629,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,167000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,159219,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,162576,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,155323,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,145278,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,142000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,143366,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,140541,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,48438,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,51400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,51380,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,54500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,52284,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,58200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,56185,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,61600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,57000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,63300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,58679,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,65400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,60692,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,68500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,64000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,72000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,67200,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,76000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,71100,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,81600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,76600,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,82600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,78200,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,81400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,77441,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,75800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,72479,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,72000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,69134,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,69300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,66766,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,60500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,58363,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,57400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,55487,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,56100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,54413,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,53600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,52152,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,50900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,49633,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,47500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,46385,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,46000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,45020,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,42800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,41943,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,40200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,39429,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,37400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,36750,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,33579,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,29966,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,26020,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,22600,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,69460,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,69460,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,1239300,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,1294300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,1294296,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,1362400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,1366230,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,1409800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,1410887,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,1326600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,1301000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,1271100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,1248000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,1136300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,1115000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,1046400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,1026000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,948900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,930229,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,846300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,829705,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,851700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,834870,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,843700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,830000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,829200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,817128,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,832600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,822845,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,827000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,818316,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,842600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,835077,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,759900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,753903,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,767700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,761917,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,809400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,803747,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,793100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,787885,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,714200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,709888,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,699000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,695093,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,717400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,729829,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,733500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,569075,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,722200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,553442,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,714800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,710567,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,679149,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,613440,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,676865,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,474400,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,1012308,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,992361,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,175171,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,148742,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,101285,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,94612,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,101461,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,86648,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,72426,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,80690,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,68260,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,44705,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,44890,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,50835,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,44585,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,39800,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,46068,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,53182,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,29868,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,28350,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,37714,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,47852,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,43863,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,41043,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,41996,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,47276,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,45319,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,43901,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,40641,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,39730,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,39665,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,33950,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,47955,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,48139,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,1576535,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,1338678,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,911561,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,851511,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,913145,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,779836,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,651832,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,726210,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,614340,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,402341,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,404008,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,457511,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,401269,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,358198,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,414610,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,478636,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,268808,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,255146,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,339428,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,430671,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,394767,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,369384,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,377963,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,425486,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,407871,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,395106,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,365770,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,357569,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,356987,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,305550,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,431593,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,433255,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,45000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,53000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,60000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,60000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,54000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,34000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,35000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,45000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,40000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,39000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,42000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,55000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,60000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,100000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,135000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,131000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,107000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,108000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,117000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,120000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,153000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,160000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,180000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,200000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,182754,I,Imputed value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,176760,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,175025,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,171097,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,163956,I,Imputed value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,167554,I,Imputed value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,198759,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,284502,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,771891,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,970100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,591473,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,882600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,815060,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,832000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,750835,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,729500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,726497,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,646300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,570044,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,549700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,485442,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,532400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,452000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,482400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,422969,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,445400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,394006,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,453800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,404845,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,454700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,409639,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,409100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,372838,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,359500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,330593,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,339800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,310476,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,326900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,299105,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,253700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,231716,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,238400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,217712,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,243000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,221622,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,236400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,215951,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,224400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,203875,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,210600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,191200,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,208000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,188862,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,210700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,191214,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,204500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,186116,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,199800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,182339,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,167423,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,144828,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,123713,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,108900,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,320067,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,313673,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,23642000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,17068000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,14484000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,14362000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,14686000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,11389000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,11578160,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,12043000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,12535000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,13002000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,14077000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,14900000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,15700000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,17420000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,22100000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,22400000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,17050000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,18220000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,22340000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,34000000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,26520000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,32600000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,31840000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,36840000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,36727447,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,37798464,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,40000000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,40697258,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,41557514,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,43458958,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,31504206,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,43529727,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1992,1992,3050,FAO TIER 1,An,1794,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1992,1992,3051,UNFCCC,An,2100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1993,1993,3050,FAO TIER 1,An,2107,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1993,1993,3051,UNFCCC,An,2200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1994,1994,3050,FAO TIER 1,An,2247,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1994,1994,3051,UNFCCC,An,2900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1995,1995,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1995,1995,3051,UNFCCC,An,3200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1996,1996,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1996,1996,3051,UNFCCC,An,3100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1997,1997,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1997,1997,3051,UNFCCC,An,3000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1998,1998,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1998,1998,3051,UNFCCC,An,3200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1999,1999,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,1999,1999,3051,UNFCCC,An,3400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2000,2000,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2000,2000,3051,UNFCCC,An,3800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2001,2001,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2001,2001,3051,UNFCCC,An,4300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2002,2002,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2002,2002,3051,UNFCCC,An,4000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2003,2003,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2003,2003,3051,UNFCCC,An,4300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2004,2004,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2004,2004,3051,UNFCCC,An,4000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2005,2005,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2005,2005,3051,UNFCCC,An,3700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2006,2006,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2006,2006,3051,UNFCCC,An,3600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2007,2007,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2007,2007,3051,UNFCCC,An,3100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2008,2008,3050,FAO TIER 1,An,3000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2008,2008,3051,UNFCCC,An,3200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2009,2009,3050,FAO TIER 1,An,3185,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2009,2009,3051,UNFCCC,An,2900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2010,2010,3050,FAO TIER 1,An,2935,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2010,2010,3051,UNFCCC,An,2800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2011,2011,3050,FAO TIER 1,An,2754,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2011,2011,3051,UNFCCC,An,2500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2012,2012,3050,FAO TIER 1,An,2512,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2012,2012,3051,UNFCCC,An,2400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2013,2013,3050,FAO TIER 1,An,2400,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2013,2013,3051,UNFCCC,An,2100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2014,2014,3050,FAO TIER 1,An,2143,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2014,2014,3051,UNFCCC,An,2200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2015,2015,3050,FAO TIER 1,An,2195,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2015,2015,3051,UNFCCC,An,2000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2016,2016,3050,FAO TIER 1,An,1962,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2016,2016,3051,UNFCCC,An,3100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2017,2017,3050,FAO TIER 1,An,3079,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2018,2018,3050,FAO TIER 1,An,4995,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2019,2019,3050,FAO TIER 1,An,3772,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2020,2020,3050,FAO TIER 1,An,1416,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2021,2021,3050,FAO TIER 1,An,1200,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2030,2030,3050,FAO TIER 1,An,4000,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1759,Mules and Asses,2050,2050,3050,FAO TIER 1,An,4000,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,23687000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,17128000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,17121000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,12809200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,14544000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,13448300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,14422000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,13746400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,14740000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,12364900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,11423000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,12363900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,11613160,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,13046000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,12088000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,13730100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,12575000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,13624900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,13041000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,14737400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,14119000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,15535300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,14955000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,16195500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,15760000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,17883900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,17520000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,22773600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,22235000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,23017200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,22531000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,17544200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,17157000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,18830600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,18328000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,22986600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,22457000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,23782500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,34120000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,19766700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,26673000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,15897800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,32760000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,11947900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,32020000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,12520000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,37040000,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,12590600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,36910202,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,13172200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,37975225,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,40175025,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,40868355,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,41721470,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,43626512,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,31702965,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,43814229,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,1288774,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,1357200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,1357210,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,1437300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,1440121,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,1501900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,1501302,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,1423000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,1394000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,1372400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,1344000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,1235300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,1209000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,1147200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,1120000,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,1055500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,1030044,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,962100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,938270,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,971800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,946462,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,978400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,956336,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,958400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,938046,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,959800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,942229,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,954300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,937688,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,962500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,947012,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,866400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,853206,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,879600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,865766,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,929700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,914902,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,920600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,905470,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,846200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,832427,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,836900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,823977,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,862000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,874714,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,887000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,679770,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,880800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,668071,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,881800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,869786,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,841725,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,768763,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,822143,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,616400,A,Official figure,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,1155673,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,1132902,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,1751706,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,1487400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,1487420,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,1082300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,1012846,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,1046800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,946123,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,1016400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,1014605,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,950100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,866484,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,797500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,724258,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,928000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,806900,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,751300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,682600,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,492700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,447045,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,490800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,448898,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,550100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,508345,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,476400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,445854,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,422300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,397998,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,493000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,460678,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,568300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,531818,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,320800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,298675,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,302900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,283495,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,403600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,377142,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,511700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,478523,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,471700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,438630,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,438400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,410427,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,444800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,419959,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,504700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,472762,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,484500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,453190,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,469700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,439007,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,406411,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,397299,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,396652,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,339500,E,Estimated value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,479548,F,Forecast value,
+GLE,Emissions from Livestock,146,Republic of Moldova,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,481395,F,Forecast value,

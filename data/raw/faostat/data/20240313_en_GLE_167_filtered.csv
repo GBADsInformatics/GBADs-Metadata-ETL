@@ -1,0 +1,753 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,874095,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,902454,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,768236,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,795729,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,736180,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,732236,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,708600,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,712493,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,619183,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,656301,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,561591,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,597838,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,544877,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,583026,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,516792,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,547787,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,483390,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,529395,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,477026,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,496295,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,459621,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,466173,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,433288,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,436806,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,437947,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,432578,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,422949,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,424017,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,409802,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,410349,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,402535,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,405532,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,394122,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,399518,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,378415,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,383523,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,373705,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,373832,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,368738,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,373136,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,372748,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,367327,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,370721,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,372632,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,368234,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,376144,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,370182,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,372510,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,364642,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,369802,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,358600,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,365448,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,361430,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,364263,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,357010,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,359853,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,362350,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,426208,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,392534,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,1637642,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,1609300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,1393202,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,1365700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,1293647,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,1297590,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,1280210,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,1276320,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,1246719,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,1209600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,1139198,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,1102950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,1112460,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,1074300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,1056738,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,1025740,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,1098637,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,1052900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,1043110,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,1023850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,1014207,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,983500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,995041,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,952440,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,959361,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,959500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,950696,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,949628,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,981591,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,981047,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,999072,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,996075,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,969091,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,963695,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,970871,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,965763,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,969981,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,969854,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,984947,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,980549,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,980074,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,985495,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,1002839,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,1000928,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,1038898,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,1030988,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,1045476,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,1043150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,1056600,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,1051440,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,1006640,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,1050322,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,1005620,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,1053843,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,983030,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,1044264,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,997070,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,887911,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,824869,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,15065000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,12639000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,14622000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,18998850,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,15589000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,13071000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,15541000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,17038000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,17942000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,22151905,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,18883148,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,18021131,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,18564857,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,19341060,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,17850000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,20060000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,19743000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,20044000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,16435000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,16374000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,18531000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,16332000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,17345000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,16081000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,15832519,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,17434000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,16860000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,16036156,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,15538220,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,17959201,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,16316206,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,12095000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,11400000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,10900000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,7618150,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,10900000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,14800000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,13500000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,12500000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,12800000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,6601095,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,6754852,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,6344869,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,5539143,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,5426940,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,5749000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,6045000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,5744000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,3998000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,4142000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,3733000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,4003000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,4324000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,4138000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,4341000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,4754481,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,4994000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,4984000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,5191000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,5562000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,5961979,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,5718802,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,1993,1993,3050,FAO TIER 1,An,457000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,1994,1994,3050,FAO TIER 1,An,415000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,1995,1995,3050,FAO TIER 1,An,463000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,1996,1996,3050,FAO TIER 1,An,409000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,1997,1997,3050,FAO TIER 1,An,292000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,1998,1998,3050,FAO TIER 1,An,374000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,1999,1999,3050,FAO TIER 1,An,423000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2000,2000,3050,FAO TIER 1,An,446000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2001,2001,3050,FAO TIER 1,An,451000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2002,2002,3050,FAO TIER 1,An,279000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2003,2003,3050,FAO TIER 1,An,532000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,258000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,420000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,494000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,410000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,496000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,504000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,402000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,289000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,249000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,272000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,393000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,590000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,498000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,550000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2018,2018,3050,FAO TIER 1,An,781000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2019,2019,3050,FAO TIER 1,An,768000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2020,2020,3050,FAO TIER 1,An,682849,I,Imputed value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2021,2021,3050,FAO TIER 1,An,673296,I,Imputed value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,426466,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,387450,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,44544,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,45000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,44954,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,45000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,44993,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,45000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,42385,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,42000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,38241,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,38000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,34861,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,35000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,33900,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,34000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,31988,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,32000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,28477,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,28000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,13574,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,14000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,12799,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,13000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,11912,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,12623,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,13000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,14402,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,14000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,16222,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,16000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,16627,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,17000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,16674,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,17000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,21709,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,22000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,23263,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,23263,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,23620,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,23620,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,24042,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,24042,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,24348,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,24348,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,26765,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,26765,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,26548,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,26548,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,28174,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,28174,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,30316,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,30316,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,29210,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,29210,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,28919,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,28919,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,25409,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,13960,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,13389,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,18792,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,19000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,18131,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,18000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,18039,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,18000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,19175,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,19000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,19059,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,19000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,20718,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,21000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,22675,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,23000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,23835,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,24000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,25795,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,26000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,20891,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,21000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,20140,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,20000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,20371,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,20000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,20561,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,21000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,22833,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,23000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,24009,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,24000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,27274,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,27000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,28030,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,28000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,29887,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,30000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,31068,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,31068,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,33175,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,33175,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,34281,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,34281,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,32925,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,32925,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,33716,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,33716,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,32133,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,32133,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,34548,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,34548,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,30813,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,35181,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,31964,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,36908,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,38087,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,38087,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,33213,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,22468,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,22468,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,254301,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,254301,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,196030,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,196030,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,165345,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,165345,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,134009,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,134009,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,120921,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,120921,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,93557,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,93557,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,86047,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,86047,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,84108,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,84108,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,90241,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,87539,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,96246,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,96286,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,103129,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,103129,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,115852,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,115852,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,140197,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,140197,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,148412,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,148412,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,168910,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,168910,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,183618,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,183618,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,183084,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,183084,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,196913,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,196913,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,209052,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,209052,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,221014,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,221014,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,220521,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,220521,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,225397,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,225397,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,231694,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,231694,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,218493,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,218493,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,217141,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,217141,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,218915,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,218915,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,213070,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,213068,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,203612,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,203612,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,183145,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,147683,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,141642,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,459882,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,407090,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,386657,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,401625,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,407959,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,401294,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,400072,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,368797,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,359372,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,344093,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,336280,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,312654,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,287683,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,284038,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,283042,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,243298,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,197142,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,190923,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,174909,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,157883,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,158663,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,161706,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,155965,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,160995,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,149078,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,150758,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,150891,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,154602,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,149344,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,287759,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,285414,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,4138939,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,3663808,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,3479911,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,3614621,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,3671631,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,3611649,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,3600648,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,3319170,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,3234345,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,3096833,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,3026521,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,2813885,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,2589151,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,2556338,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,2547374,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,2189686,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,1774275,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,1718309,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,1574183,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,1420944,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,1427964,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,1455355,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,1403683,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,1448951,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,1341698,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,1356822,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,1358019,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,1391418,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,1344096,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,2589827,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,2568730,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,409000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,343000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,527000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,692000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,640000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,638000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,614000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,669000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,723000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,887000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,670000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,837000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,816000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,456000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,566000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,697000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,478000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,376000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,365000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,320000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,440000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,396000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,416000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,375000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,340000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,344000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,347000,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,347087,I,Imputed value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,355386,I,Imputed value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,592027,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,537866,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,2511737,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,2511754,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,2161438,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,2161429,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,2029827,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,2029826,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,1988810,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,1988813,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,1865902,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,1865901,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,1700789,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,1700788,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,1657337,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,1657326,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,1573530,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,1573527,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,1582027,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,1582295,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,1520136,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,1520145,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,1473828,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,1449673,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,1428329,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,1389246,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,1397308,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,1392078,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,1373645,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,1373645,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,1391393,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,1391396,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,1401607,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,1401607,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,1363213,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,1363213,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,1349286,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,1349286,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,1343686,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,1343686,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,1353685,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,1353685,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,1352822,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,1352822,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,1373560,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,1373560,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,1407132,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,1407132,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,1415658,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,1415660,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,1421242,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,1421242,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,1365240,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,1415770,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,1367050,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,1418106,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,1340040,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,1404117,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,1359420,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,1314119,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,1217403,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,27160000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,24039000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,25522000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,26617000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,26489000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,27871000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,29041000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,29538000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,30742000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,28753000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,25638000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,24366000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,24104000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,24768000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,23599000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,26105000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,25487000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,24042000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,20577000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,20107000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,22534000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,20656000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,21483000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,20422000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,20587000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,22428000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,21844000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,21227156,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,21100220,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,23921180,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,22035008,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,28026000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,28219580,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,24797000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,24974149,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,26512000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,26688376,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,27718000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,27875356,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,27421000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,27572714,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,28883000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,29035455,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,30078000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,30222187,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,30653000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,30784432,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,31916000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,28864561,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,29919000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,29946846,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,26840000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,26873408,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,25461000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,25493559,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,25340000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,25372333,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,25718000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,25736003,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,24575000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,24592085,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,27298000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,27316866,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,26469000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,26490848,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,24820000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,24838435,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,21231000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,21250147,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,20676000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,20691308,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,23246000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,23265358,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,21445000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,21463815,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,22489000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,22508192,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,21295000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,21313958,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,21477000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,21494347,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,23553000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,23572784,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,22959000,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,22979360,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,22257092,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,24247371,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,22128902,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,24939673,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,22960324,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,298845,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,299301,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,240984,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,241030,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,210338,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,210345,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,176394,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,176009,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,159162,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,158921,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,128418,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,128557,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,119947,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,120047,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,116096,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,116108,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,118718,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,115539,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,109820,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,110286,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,115928,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,116129,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,127764,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,127852,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,152820,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,153197,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,162814,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,162412,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,185132,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,184910,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,200245,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,200618,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,199758,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,200084,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,218622,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,218913,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,232315,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,232315,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,244634,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,244634,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,244563,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,244563,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,249745,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,249745,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,258459,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,258459,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,245041,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,245041,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,245315,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,245315,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,249231,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,249231,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,242280,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,242278,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,232531,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,232531,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,208554,A,Official figure,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,161642,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,155031,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,4598821,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,4598821,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,4070898,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,4070898,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,3866568,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,3866568,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,4016246,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,4016246,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,4079590,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,4079590,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,4012943,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,4012943,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,4000720,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,4000720,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,3687967,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,3687967,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,3593717,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,3469802,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,3440925,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,3440925,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,3362801,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,3362801,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,3126539,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,3126539,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,2876834,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,2876834,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,2840375,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,2840375,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,2830415,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,2830415,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,2432984,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,2432984,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,1971417,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,1971417,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,1909232,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,1909232,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,1749092,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,1749092,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,1578827,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,1578827,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,1586627,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,1586627,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,1617061,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,1617061,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,1559648,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,1559648,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,1609945,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,1609945,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,1490775,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,1490775,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,1507580,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,1557218,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,1508910,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,1544084,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,1546020,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,1499307,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,1493440,E,Estimated value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,2877585,F,Forecast value,
+GLE,Emissions from Livestock,167,Czechia,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,2854144,F,Forecast value,

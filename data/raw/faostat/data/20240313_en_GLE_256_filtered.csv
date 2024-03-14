@@ -1,0 +1,530 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,48607,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,43346,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,47837,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,42854,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,46936,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,42076,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,44950,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,40599,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,43956,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,39879,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,43418,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,39340,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,42193,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,38617,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,42939,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,40042,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,43585,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,39595,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,44310,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,40254,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,45008,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,40888,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,44113,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,40075,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,43436,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,39460,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,46195,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,41966,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,46199,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,41970,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,46903,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,42609,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,51025,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,46354,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,52701,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,47877,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,53000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,47826,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,54150,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,49008,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,54230,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,49544,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,54570,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,43117,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,39711,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,156465,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,4383,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,157356,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,4833,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,150321,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,4188,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,144724,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,3820,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,142769,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,3571,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,141817,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,3432,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,141447,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,3169,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,148989,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,2803,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,152076,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,3187,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,152160,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,3817,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,153884,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,3700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,148422,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,3183,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,145037,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,2827,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,147428,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,3097,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,152581,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,3521,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,154133,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,3702,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,150391,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,3115,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,149580,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,3328,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,141390,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,3271,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,137950,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,3190,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,136460,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,2933,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,132630,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,132728,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,123304,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,23250,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,21261,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,24408,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,15968,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,17980,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,9810,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,10695,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,9492,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,4150,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,16010,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,2975,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,7010,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,19900,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,14708,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,14042,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,12827,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,7558,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,14519,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,9630,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,15000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,40602,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,61992,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,9662,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,8778,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,48750,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,62739,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,53592,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,63032,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,55020,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,73590,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,70305,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,72508,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,76850,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,80990,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,87025,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,94990,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,93100,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,96600,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,101500,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,100900,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,106590,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,108090,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,113370,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,117000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,95398,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,108598,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,77187,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,74039,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,297,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,245,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,311,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,260,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,1103,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,859,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,1878,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,1501,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,2010,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,1715,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,2203,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,1881,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,1950,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,1685,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,2814,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,2291,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,2912,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,2517,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,3130,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,2701,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,5084,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,4169,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,5821,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,4669,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,4898,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,4374,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,4456,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,3918,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,4322,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,3747,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,4772,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,4173,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,5130,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,4373,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,5406,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,4561,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,5075,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,4414,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,5350,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,4488,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,5350,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,4356,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,5350,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,2249,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,2157,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,3154,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,3154,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,3126,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,3126,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,3117,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,3117,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,3449,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,3449,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,3686,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,3686,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,4193,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,4193,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,4336,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,4336,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,4334,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,4334,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,4536,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,4536,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,4562,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,4562,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,4601,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,4601,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,4594,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,4594,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,4887,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,4887,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,4682,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,4682,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,4724,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,4724,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,4717,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,4717,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,4540,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,4540,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,4692,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,4692,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,4662,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,4662,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,4669,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,4669,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,4443,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,4443,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,4254,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,4288,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,4288,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,7971,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,6513,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,8476,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,6987,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,9104,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,7336,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,9446,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,7911,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,9743,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,8077,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,10277,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,8244,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,9644,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,8088,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,9339,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,7696,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,8477,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,7091,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,8824,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,7336,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,9084,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,7497,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,8951,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,7447,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,8211,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,6882,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,8582,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,7227,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,8721,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,7321,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,9453,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,7893,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,8951,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,7452,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,8478,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,7112,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,8654,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,7221,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,8680,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,7251,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,9518,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,8004,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,9956,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,9445,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,9059,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,8014,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,7854,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,7967,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,8414,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,8461,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,9015,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,8415,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,8326,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,8137,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,8022,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,8377,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,8916,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,9002,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,8752,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,8709,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,9534,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,9231,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,9676,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,8259,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,8404,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,8213,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,7833,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,8671,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,8600,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,72127,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,70686,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,71699,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,75726,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,76150,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,81132,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,75736,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,74930,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,73237,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,72195,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,75397,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,80242,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,81021,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,78766,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,78383,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,85803,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,83081,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,87085,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,74331,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,75636,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,73917,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,70497,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,78035,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,77400,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,205072,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,205072,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,205193,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,205193,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,197257,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,197257,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,189674,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,189674,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,186725,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,186725,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,185235,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,185335,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,183640,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,183640,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,191928,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,191928,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,195661,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,195661,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,196470,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,196470,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,198892,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,198830,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,192535,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,192535,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,188473,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,188473,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,193623,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,193623,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,198780,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,198780,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,201036,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,201036,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,201416,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,201416,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,202281,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,202281,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,194390,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,196127,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,192100,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,193575,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,190690,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,191360,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,187200,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,175845,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,163015,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,72000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,84000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,78000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,79000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,73000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,83400,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,81000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,82000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,81000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,97000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,90000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,102000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,113000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,111308,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,115542,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,113727,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,114148,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,122609,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,123000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,132000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,136000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,170590,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,86849,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,82817,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,72000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,72634,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,84000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,85316,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,78000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,78926,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,79000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,80298,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,73000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,74193,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,83400,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,84529,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,81000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,82405,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,82000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,82722,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,81000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,82007,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,97000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,98251,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,90000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,90124,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,102000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,102231,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,113000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,114342,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,111308,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,112161,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,115542,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,116555,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,113727,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,114687,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,114148,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,115018,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,122609,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,123869,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,123000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,124230,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,132000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,132738,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,136000,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,136682,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,170590,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,86849,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,82817,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,8268,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,6758,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,8787,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,7247,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,10207,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,8195,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,11324,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,9412,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,11753,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,9792,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,12480,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,10125,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,11594,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,9773,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,12153,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,9987,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,11389,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,9608,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,11954,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,10037,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,14168,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,11666,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,14772,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,12116,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,13109,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,11256,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,13038,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,11145,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,13043,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,11068,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,14225,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,12066,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,14081,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,11825,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,13884,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,11673,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,13729,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,11635,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,14030,A,Official figure,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,11739,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,14868,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,12360,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,15306,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,11694,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,11215,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,80141,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,65729,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,78540,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,65166,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,79665,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,66313,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,84140,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,70663,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,84611,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,78596,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,90147,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,84295,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,84151,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,78718,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,83255,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,78411,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,81374,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,76640,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,80217,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,76520,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,83774,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,74689,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,89158,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,78913,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,90023,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,79084,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,87518,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,76583,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,87092,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,77486,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,95337,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,84851,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,92312,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,83342,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,96761,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,87046,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,82590,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,81470,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,84040,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,76384,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,82130,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,76222,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,78330,E,Estimated value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,86706,F,Forecast value,
+GLE,Emissions from Livestock,256,Luxembourg,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,86000,F,Forecast value,

@@ -1,0 +1,938 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,1992,1992,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,1993,1993,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,1994,1994,3050,FAO TIER 1,An,15000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,1995,1995,3050,FAO TIER 1,An,14500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,1996,1996,3050,FAO TIER 1,An,14000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,1997,1997,3050,FAO TIER 1,An,13000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,1998,1998,3050,FAO TIER 1,An,12500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,1999,1999,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2000,2000,3050,FAO TIER 1,An,11500,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2001,2001,3050,FAO TIER 1,An,11500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2002,2002,3050,FAO TIER 1,An,11000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2003,2003,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2004,2004,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2005,2005,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2006,2006,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2007,2007,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2008,2008,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2009,2009,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2010,2010,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2011,2011,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2012,2012,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2013,2013,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2014,2014,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2015,2015,3050,FAO TIER 1,An,11937,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2016,2016,3050,FAO TIER 1,An,11856,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2017,2017,3050,FAO TIER 1,An,11845,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2018,2018,3050,FAO TIER 1,An,11956,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2019,2019,3050,FAO TIER 1,An,11972,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2020,2020,3050,FAO TIER 1,An,11967,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2021,2021,3050,FAO TIER 1,An,11962,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2030,2030,3050,FAO TIER 1,An,12000,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1107,Asses,2050,2050,3050,FAO TIER 1,An,12000,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,1992,1992,3051,UNFCCC,An,791,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,1993,1993,3051,UNFCCC,An,751,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,1994,1994,3051,UNFCCC,An,711,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,1995,1995,3051,UNFCCC,An,672,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,1996,1996,3051,UNFCCC,An,632,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,1997,1997,3051,UNFCCC,An,593,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,1998,1998,3051,UNFCCC,An,553,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,1999,1999,3051,UNFCCC,An,513,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2000,2000,3051,UNFCCC,An,474,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2001,2001,3051,UNFCCC,An,434,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2002,2002,3051,UNFCCC,An,395,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2003,2003,3051,UNFCCC,An,355,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2004,2004,3051,UNFCCC,An,315,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2005,2005,3051,UNFCCC,An,276,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2006,2006,3051,UNFCCC,An,236,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2007,2007,3051,UNFCCC,An,197,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2008,2008,3051,UNFCCC,An,157,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2009,2009,3051,UNFCCC,An,116,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2010,2010,3051,UNFCCC,An,76,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2011,2011,3051,UNFCCC,An,58,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2012,2012,3051,UNFCCC,An,58,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2013,2013,3051,UNFCCC,An,58,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2014,2014,3051,UNFCCC,An,58,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2015,2015,3051,UNFCCC,An,58,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2016,2016,3051,UNFCCC,An,78,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2017,2017,3051,UNFCCC,An,108,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2018,2018,3051,UNFCCC,An,117,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2019,2019,3051,UNFCCC,An,110,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,946,Buffalo,2020,2020,3051,UNFCCC,An,100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,1992,1992,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,1993,1993,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,1994,1994,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,1995,1995,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,1996,1996,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,1997,1997,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,1998,1998,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,1999,1999,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2000,2000,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2001,2001,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2002,2002,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2003,2003,3050,FAO TIER 1,An,600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2003,2003,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2004,2004,3050,FAO TIER 1,An,600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2004,2004,3051,UNFCCC,An,600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2005,2005,3050,FAO TIER 1,An,750,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2005,2005,3051,UNFCCC,An,750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2006,2006,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2006,2006,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2007,2007,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2007,2007,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2008,2008,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2008,2008,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2009,2009,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2009,2009,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2010,2010,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2010,2010,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2011,2011,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2011,2011,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2012,2012,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2012,2012,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2013,2013,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2013,2013,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2014,2014,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2014,2014,3051,UNFCCC,An,800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2015,2015,3050,FAO TIER 1,An,813,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2015,2015,3051,UNFCCC,An,813,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2016,2016,3050,FAO TIER 1,An,826,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2016,2016,3051,UNFCCC,An,826,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2017,2017,3050,FAO TIER 1,An,838,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2017,2017,3051,UNFCCC,An,841,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2018,2018,3050,FAO TIER 1,An,844,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2018,2018,3051,UNFCCC,An,839,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2019,2019,3050,FAO TIER 1,An,841,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2019,2019,3051,UNFCCC,An,844,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2020,2020,3050,FAO TIER 1,An,845,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2020,2020,3051,UNFCCC,An,841,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2021,2021,3050,FAO TIER 1,An,850,I,Imputed value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2030,2030,3050,FAO TIER 1,An,783,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1126,Camels,2050,2050,3050,FAO TIER 1,An,783,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,8223000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,8004000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,8003000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,7738000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,7409000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,6803500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,6092000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,5565000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,5272000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,4855200,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,4820400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,4620600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,4202900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,3846700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,3560500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,3275400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,3095900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,2805200,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,2688600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,2587800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,2540000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,2516100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,2408700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,2231600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,2140500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,2089500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,1995800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,1898300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,1765600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,1651900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,3578081,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,3656736,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,15504600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,23092200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,14452800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,22032050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,13604300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,20615800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,11886300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,18590800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,10148300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,16435250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,8509700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,14035850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,6666500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,12240050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,6156600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,11174050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,5354500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,10025100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,4568500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,9422400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,4600700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,9264750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,4487800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,8410250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,3509200,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,7307500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,3056200,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,6708500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,2953600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,6344750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,2900000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,5833150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,2395000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,5284950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,2273800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,4952850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,2138100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,4660550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,1906600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,4460100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,1885800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,4535850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,2129800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,4589950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,1989000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,4294992,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,1652400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,3997935,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,1609500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,3909681,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,1592800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,3804476,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,1535000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,3630228,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,1434600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,3410475,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,1326400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,3180969,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,1222100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,3145242,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,2795509,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,148836000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,136668000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,116494000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,88088000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,77869000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,66287000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,61319000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,65699000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,64712000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,62984000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,69409000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,24048000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,27492000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,32395000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,37800000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,42200000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,42000000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,72830000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,83160000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,85690000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,73073900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,91735800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,96161000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,97265000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,95497779,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,93136000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,93837000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,94168000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,105121000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,92253000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,61036878,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,87367684,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,60000000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,51000000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,50000000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,54263000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,51086000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,43467000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,42500000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,43111000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,40900000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,40788000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,46200000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,101098000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,94608000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,99581000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,104800000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,103400000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,106800000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,85970000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,89440000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,97910000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,108050000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,103520000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,104847000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,96620000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,90856221,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,91200000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,92900000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,97800000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,97390000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,91290000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,98943628,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,91322356,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,1992,1992,3050,FAO TIER 1,An,17482000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,1993,1993,3050,FAO TIER 1,An,12668000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,1994,1994,3050,FAO TIER 1,An,11049000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,1995,1995,3050,FAO TIER 1,An,9155000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,1996,1996,3050,FAO TIER 1,An,8622000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,1997,1997,3050,FAO TIER 1,An,7934000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,1998,1998,3050,FAO TIER 1,An,7692000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,1999,1999,3050,FAO TIER 1,An,8378000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2000,2000,3050,FAO TIER 1,An,8269000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2001,2001,3050,FAO TIER 1,An,8072000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2002,2002,3050,FAO TIER 1,An,8542000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2003,2003,3050,FAO TIER 1,An,8956000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,8158000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,8392000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,8909000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,9685000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,10150000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,8720000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,9780000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,10777000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,10678000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,10538000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,11490000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,11310000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,10150000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,10876000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2018,2018,3050,FAO TIER 1,An,10954000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2019,2019,3050,FAO TIER 1,An,11680000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2020,2020,3050,FAO TIER 1,An,11418000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2021,2021,3050,FAO TIER 1,An,11373000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,14654933,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,20976950,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,570000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,605050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,640100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,692400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,744700,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,763450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,782200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,835750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,889300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,871600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,853900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,838050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,822200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,824900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,827600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,826400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,825200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,868550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,911900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,954900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,997900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,1016100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,1034300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,999850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,965400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,929850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,879300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,825800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,757300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,724905,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,692500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,668661,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,644800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,638006,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,631200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,633350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,635500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,633350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,631200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,638700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,646200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,655500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,664800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,666650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,482600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,648468,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,585300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,628719,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,581400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,636848,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,595900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,635752,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,582100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,620994,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,570100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,603529,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,545700,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,578730,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,519400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,952156,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,933395,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,717100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,712100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,707100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,711400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,715700,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,726150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,736600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,746250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,755900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,754700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,753500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,745200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,736900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,729100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,721300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,709700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,698100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,699650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,701200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,697300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,693400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,688850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,684300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,660700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,637100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,614000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,590900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,572850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,554800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,544565,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,534300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,515918,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,497500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,481653,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,465800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,454600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,443400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,428800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,414200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,404950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,395700,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,386150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,376600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,365400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,350400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,337688,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,316800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,315806,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,305800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,303298,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,291500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,282866,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,264900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,259176,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,244000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,238943,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,224400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,217904,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,202000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,560000,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,560000,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,7259100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,6927800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,6596500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,6357200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,6117900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,5455100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,4792300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,4000800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,3209300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,2701250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,2193200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,1866400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,1539600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,1369000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,1198400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,1128950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,1059500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,1011300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,963100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,965100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,967100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,958600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,950100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,921750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,893400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,884300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,875200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,873700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,872200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,898440,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,924700,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,979218,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,1033800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,1064728,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,1095700,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,1146350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,1197000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,1148750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,1100500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,1096850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,1093200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,1083300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,1073400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,1070050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,859400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,1030474,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,785800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,972716,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,743900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,938531,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,718900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,930749,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,727200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,921503,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,698500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,887140,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,658800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,847994,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,621000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,1092378,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,1070854,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,1783870,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,1617490,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,1529800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,1394550,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,1314440,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,1123560,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,947870,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,1008340,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,1007290,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,765230,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,836950,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,920370,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,732150,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,646610,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,705280,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,805500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,701990,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,652600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,757660,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,796040,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,737320,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,757670,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,776440,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,735070,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,707900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,666910,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,610990,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,602530,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,572740,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,587620,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,744032,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,746898,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,16054830,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,14557410,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,13768200,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,12550950,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,11829960,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,10112040,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,8530830,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,9075060,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,9065610,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,6887070,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,7532550,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,8283330,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,6589350,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,5819490,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,6347520,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,7249500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,6317910,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,5873400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,6818940,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,7164360,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,6635880,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,6819030,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,6987960,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,6615630,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,6371100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,6002190,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,5498910,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,5422770,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,5154660,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,5288580,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,6696291,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,6722078,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,3139000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,2766000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,2641000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,2365000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,2237000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,2210000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,2160000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,2286000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,2266000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,2272000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,2349000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,2464000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,2316000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,2366000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,1883000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,2230000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,2077000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,2212000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,1811000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,1884000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,1742000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,1775000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,1981000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,2115000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,1825000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,1575000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,1951000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,1707000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,1939000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,1569000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,3518466,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,5036303,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2003,2003,3050,FAO TIER 1,An,600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2004,2004,3050,FAO TIER 1,An,600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2005,2005,3050,FAO TIER 1,An,750,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2006,2006,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2007,2007,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2008,2008,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2009,2009,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2010,2010,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2011,2011,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2012,2012,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2013,2013,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2014,2014,3050,FAO TIER 1,An,800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2015,2015,3050,FAO TIER 1,An,813,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2016,2016,3050,FAO TIER 1,An,826,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2017,2017,3050,FAO TIER 1,An,838,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2018,2018,3050,FAO TIER 1,An,844,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2019,2019,3050,FAO TIER 1,An,841,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2020,2020,3050,FAO TIER 1,An,845,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2021,2021,3050,FAO TIER 1,An,850,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2030,2030,3050,FAO TIER 1,An,783,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1760,Camels and Llamas,2050,2050,3050,FAO TIER 1,An,783,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,23727600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,23092200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,22456800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,22032050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,21607300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,20615800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,19624300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,18590800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,17557300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,16435250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,15313200,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,14035850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,12758500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,12240050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,11721600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,11174050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,10626500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,10025100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,9423700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,9422400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,9421100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,9264750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,9108400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,8410250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,7712100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,7307500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,6902900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,6708500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,6514100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,6344750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,6175400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,5833150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,5490900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,5284950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,5079000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,4952850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,4826700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,4660550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,4494400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,4460100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,4425800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,4535850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,4645900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,4589950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,4397700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,4294992,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,3884000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,3997935,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,3750000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,3909681,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,3682300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,3804476,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,3530800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,3630228,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,3332900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,3410475,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,3092000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,3180969,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,2874000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,6723323,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,6452244,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,208836000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,187668000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,166494000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,142351000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,128955000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,109754000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,103819000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,108810000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,105612000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,103772000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,115609000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,125146000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,122100000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,131976000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,142600000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,145600000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,148800000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,158800000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,172600000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,183600000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,181123900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,195255800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,201008000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,193885000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,186354000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,184336000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,186737000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,191968000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,202511000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,183543000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,159980506,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,178690040,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1992,1992,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1992,1992,3051,UNFCCC,An,19000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1993,1993,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1993,1993,3051,UNFCCC,An,19000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1994,1994,3050,FAO TIER 1,An,15000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1994,1994,3051,UNFCCC,An,15000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1995,1995,3050,FAO TIER 1,An,14500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1995,1995,3051,UNFCCC,An,14500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1996,1996,3050,FAO TIER 1,An,14000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1996,1996,3051,UNFCCC,An,14000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1997,1997,3050,FAO TIER 1,An,13000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1997,1997,3051,UNFCCC,An,13000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1998,1998,3050,FAO TIER 1,An,12500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1998,1998,3051,UNFCCC,An,12500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1999,1999,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,1999,1999,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2000,2000,3050,FAO TIER 1,An,11500,X,Figure from international organizations,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2000,2000,3051,UNFCCC,An,11500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2001,2001,3050,FAO TIER 1,An,11500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2001,2001,3051,UNFCCC,An,11500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2002,2002,3050,FAO TIER 1,An,11000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2002,2002,3051,UNFCCC,An,11000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2003,2003,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2003,2003,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2004,2004,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2004,2004,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2005,2005,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2005,2005,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2006,2006,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2006,2006,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2007,2007,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2007,2007,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2008,2008,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2008,2008,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2009,2009,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2009,2009,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2010,2010,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2010,2010,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2011,2011,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2011,2011,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2012,2012,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2012,2012,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2013,2013,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2013,2013,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2014,2014,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2014,2014,3051,UNFCCC,An,12000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2015,2015,3050,FAO TIER 1,An,11937,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2015,2015,3051,UNFCCC,An,11937,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2016,2016,3050,FAO TIER 1,An,11856,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2016,2016,3051,UNFCCC,An,11856,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2017,2017,3050,FAO TIER 1,An,11845,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2017,2017,3051,UNFCCC,An,11831,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2018,2018,3050,FAO TIER 1,An,11956,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2018,2018,3051,UNFCCC,An,11849,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2019,2019,3050,FAO TIER 1,An,11972,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2019,2019,3051,UNFCCC,An,11842,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2020,2020,3050,FAO TIER 1,An,11967,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2020,2020,3051,UNFCCC,An,11836,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2021,2021,3050,FAO TIER 1,An,11962,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2030,2030,3050,FAO TIER 1,An,12000,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1759,Mules and Asses,2050,2050,3050,FAO TIER 1,An,12000,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,229457000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,228851450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,203102000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,202531400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,180184000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,177672000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,153871000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,157305950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,139814000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,139598850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,119898000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,126394650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,113671000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,126407000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,119474000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,127788450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,116147000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,124912450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,114116000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,130266500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,126500000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,142128200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,136566000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,144909600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,132574000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,147578500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,142734000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,157388350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,153392000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,164262250,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,157515000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,167910650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,161027000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,173423100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,169732000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,184501050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,184191000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,197643000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,196261000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,202300200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,193543900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,207415600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,207568800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,222180200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,214479000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,228132743,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,207310000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,221122052,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,198329000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,214892446,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,196787000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,214946959,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,199642000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,219823260,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,205355000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,227712388,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,215868000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,222238766,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,196485000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,178153905,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,204703293,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,7829100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,7532850,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,7236600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,7049600,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,6862600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,6218550,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,5574500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,4836550,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,4098600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,3572850,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,3047100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,2704450,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,2361800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,2193900,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,2026000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,1955350,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,1884700,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,1879850,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,1875000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,1920000,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,1965000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,1974700,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,1984400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,1921600,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,1858800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,1814150,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,1754500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,1699500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,1629500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,1623345,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,1617200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,1647879,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,1678600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,1702734,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,1726900,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,1779700,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,1832500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,1782100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,1731700,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,1735550,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,1739400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,1738800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,1738200,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,1736700,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,1342000,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,1678941,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,1371100,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,1601434,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,1325300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,1575378,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,1314800,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,1566500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,1309300,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,1542497,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,1268600,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,1490669,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,1204500,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,1426724,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,1140400,A,Official figure,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,2044534,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,2004249,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,17838700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,17006800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,16174900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,15736450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,15298000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,14621750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,13945500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,13544950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,13144400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,12190000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,11235600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,10357150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,9478700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,9781050,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,10083400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,10078150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,10072900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,8862600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,7652300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,8010900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,8369500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,8786600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,9203700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,8262600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,7321500,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,6893800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,6466100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,6759450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,7052800,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,7553905,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,8055000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,7537468,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,7019900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,6772963,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,6526000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,7051300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,7576600,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,7768500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,7960400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,7666800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,7373200,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,7474950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,7576700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,7749450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,7764400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,7752208,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,7350700,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,7455750,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,7079000,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,7122853,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,6669100,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,6639207,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,6109900,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,6321350,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,6025300,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,6129853,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,5727400,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,6053401,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,5876200,E,Estimated value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,7440323,F,Forecast value,
+GLE,Emissions from Livestock,230,Ukraine,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,7468976,F,Forecast value,

@@ -1,0 +1,623 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2004,2004,3050,FAO TIER 1,An,1,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2005,2005,3050,FAO TIER 1,An,2,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2006,2006,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2007,2007,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2008,2008,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2009,2009,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2010,2010,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2011,2011,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2012,2012,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2013,2013,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2014,2014,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2015,2015,3050,FAO TIER 1,An,2,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2016,2016,3050,FAO TIER 1,An,2,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2017,2017,3050,FAO TIER 1,An,2,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2030,2030,3050,FAO TIER 1,An,2,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1107,Asses,2050,2050,3050,FAO TIER 1,An,2,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,615857,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,581461,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,625139,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,570797,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,602276,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,551008,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,559423,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,532289,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,542674,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,515064,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,523281,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,494743,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,507327,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,478864,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,500005,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,473213,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,517190,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,469423,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,524580,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,467611,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,500000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,463406,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,488000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,456135,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,485112,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,456393,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,460307,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,463913,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,519088,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,478062,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,528778,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,483456,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,530587,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,486243,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,519159,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,482300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,529250,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,492970,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,537960,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,497078,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,537940,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,498849,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,537250,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,513386,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,472825,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,2425703,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,2412351,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,2412621,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,2406447,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,2288984,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,2298763,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,2218654,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,2206714,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,2195974,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,2186342,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,2175368,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,2169419,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,2161749,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,2150621,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,2149387,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,2169580,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,2088342,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,2149970,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,2075873,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,2147779,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,2093000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,2148832,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,2072319,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,2116046,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,1999160,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,2048004,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,1994397,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,2011799,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,1958148,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,2013792,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,1974484,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,2027064,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,1970762,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,2029348,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,1866829,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,1951132,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,1868840,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,1928361,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,1835140,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,1889998,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,1797500,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,1848697,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,1773190,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,1991749,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,1850335,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,28455000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,27764000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,27301000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,22092000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,26139000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,22354000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,20470000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,23793000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,23751000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,24317000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,25435000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,26178000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,26628000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,27164000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,24633000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,27782643,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,17335000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,17156000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,21030000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,22987000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,25374000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,24973000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,21457599,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,19494553,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,10545000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,10765000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,10627000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,9940000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,10367000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,13215000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,12397000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,8957000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,8742000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,8923000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,8940000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,9198000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,8990000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,9055000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,9067000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,9956224,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,10971000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,9749000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,11297000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,10957000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,11821000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,11973000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,12330161,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,11827239,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,253000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,235000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,235000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,240000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,240000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,250000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,255000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,258000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,260000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,260000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,230000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,170069,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,190000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,163690,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2018,2018,3050,FAO TIER 1,An,161880,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2019,2019,3050,FAO TIER 1,An,181906,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2020,2020,3050,FAO TIER 1,An,173710,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2021,2021,3050,FAO TIER 1,An,167292,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,228694,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,207772,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,16248,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,13226,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,20760,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,16747,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,25015,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,20261,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,26237,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,29697,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,25478,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,25299,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,26209,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,24021,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,27985,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,27080,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,28870,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,27578,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,30866,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,29875,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,31668,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,32244,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,22000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,30880,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,35530,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,32688,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,35955,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,34837,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,40473,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,38962,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,38000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,41674,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,43602,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,47678,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,50801,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,57014,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,45000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,64282,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,39000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,67752,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,38590,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,73167,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,38600,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,79243,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,50000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,26812,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,25716,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,31000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,41437,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,31163,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,42251,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,31229,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,42353,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,32093,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,42741,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,31945,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,42692,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,27985,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,43662,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,33186,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,45558,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,33544,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,47391,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,33191,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,49611,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,36535,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,51593,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,37000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,52571,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,34215,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,51008,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,36777,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,54269,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,33417,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,60049,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,33000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,61038,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,31662,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,64285,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,28060,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,66154,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,29437,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,67014,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,68299,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,30000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,70213,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,30020,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,71894,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,28849,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,31572,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,31572,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,125639,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,123943,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,156132,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,120034,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,146426,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,114047,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,146030,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,109282,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,150650,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,116389,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,152384,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,118644,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,153976,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,119468,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,150532,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,117641,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,132405,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,110275,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,126219,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,109624,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,120000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,104705,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,113995,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,98612,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,119260,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,106373,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,114407,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,107949,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,112000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,112832,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,100676,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,118984,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,86229,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,122446,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,91971,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,128299,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,100000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,129993,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,117320,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,137681,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,120000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,123577,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,120000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,147480,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,141448,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,736854,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,683372,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,673542,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,653861,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,635533,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,631821,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,629490,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,625540,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,628247,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,632106,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,643000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,652145,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,663361,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,659298,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,635018,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,636416,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,617658,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,610808,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,620913,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,608510,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,621827,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,604215,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,635215,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,630040,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,6631686,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,6150348,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,6061878,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,5884748,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,5719800,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,5686392,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,5665414,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,5629864,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,5654219,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,5688950,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,5787000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,5869302,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,5970252,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,5933680,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,5715162,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,5727748,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,5558918,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,5497269,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,5588217,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,5476590,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,5596443,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,5437935,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,5716934,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,5670363,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,250000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,280000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,250000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,250000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,253000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,215000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,178000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,191000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,190000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,205000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,190000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,197000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,195000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,197000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,184000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,233703,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,338000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,269778,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,300000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,300000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,289961,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,277696,I,Imputed value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,188109,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,170900,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,3041560,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,2993812,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,3037760,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,2977244,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,2891260,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,2849771,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,2778077,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,2739003,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,2738648,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,2701406,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,2698649,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,2664162,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,2669076,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,2629485,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,2649392,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,2642793,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,2605532,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,2619393,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,2600453,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,2615390,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,2593000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,2612238,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,2560319,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,2572180,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,2484272,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,2504396,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,2454704,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,2475712,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,2477236,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,2491854,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,2503262,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,2510520,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,2501349,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,2515590,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,2385988,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,2433432,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,2398090,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,2421330,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,2373100,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,2387076,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,2335440,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,2347546,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,2310440,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,2505135,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,2323160,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,39000000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,38529000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,37928000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,32032000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,36506000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,35569000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,32867000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,32750000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,32493000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,33240000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,34375000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,35376000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,35618000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,36219000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,33700000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,37738867,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,28306000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,26905000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,32327000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,33944000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,37195000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,36946000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,33787760,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,31321792,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2000,2000,3051,UNFCCC,An,4878,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2001,2001,3051,UNFCCC,An,5271,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2002,2002,3051,UNFCCC,An,5986,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2003,2003,3051,UNFCCC,An,6141,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2004,2004,3050,FAO TIER 1,An,1,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2004,2004,3051,UNFCCC,An,6366,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2005,2005,3050,FAO TIER 1,An,2,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2005,2005,3051,UNFCCC,An,6539,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2006,2006,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2006,2006,3051,UNFCCC,An,6815,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2007,2007,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2007,2007,3051,UNFCCC,An,7200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2008,2008,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2008,2008,3051,UNFCCC,An,7594,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2009,2009,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2009,2009,3051,UNFCCC,An,8210,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2010,2010,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2010,2010,3051,UNFCCC,An,8778,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2011,2011,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2011,2011,3051,UNFCCC,An,8792,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2012,2012,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2012,2012,3051,UNFCCC,An,8930,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2013,2013,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2013,2013,3051,UNFCCC,An,8988,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2014,2014,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2014,2014,3051,UNFCCC,An,9214,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2015,2015,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2015,2015,3051,UNFCCC,An,9553,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2016,2016,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2016,2016,3051,UNFCCC,An,9732,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2017,2017,3050,FAO TIER 1,An,2,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2017,2017,3051,UNFCCC,An,9829,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2018,2018,3051,UNFCCC,An,10012,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2019,2019,3051,UNFCCC,An,10491,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2020,2020,3051,UNFCCC,An,10904,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2030,2030,3050,FAO TIER 1,An,2,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1759,Mules and Asses,2050,2050,3050,FAO TIER 1,An,2,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,39250000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,37034994,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,38809000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,36381167,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,38178000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,35742467,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,32282000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,33232316,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,37012000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,33237199,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,36019000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,32173633,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,33280000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,30434067,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,33181000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,30431095,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,32923000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,29997117,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,33695000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,31017661,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,34820000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,32624287,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,35831000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,32484637,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,36073000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,34026917,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,36676000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,34202716,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,34114000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,36445017,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,38142639,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,39009237,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,28834000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,42063804,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,27338468,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,42677748,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,32788880,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,44656502,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,34425906,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,44914451,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,37658671,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,47766985,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,37390988,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,34204562,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,31700463,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,141887,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,137169,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,176892,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,136781,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,171441,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,134308,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,172267,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,138979,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,176128,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,141688,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,178593,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,142665,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,181961,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,146548,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,179402,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,145219,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,163271,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,140150,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,157887,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,141868,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,142000,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,135585,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,149525,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,131299,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,155215,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,141210,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,154880,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,146911,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,150000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,154506,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,144278,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,166663,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,137030,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,179460,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,136971,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,192581,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,139000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,197745,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,155910,A,Official figure,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,210848,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,158600,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,202820,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,170000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,174292,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,167164,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,7368540,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,6895301,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,6833720,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,6626643,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,6735420,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,6495558,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,6538609,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,6333941,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,6355333,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,6198842,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,6318213,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,6159738,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,6294904,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,6201044,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,6255404,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,6268747,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,6282465,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,6356567,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,6321055,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,6436477,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,6430000,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,6616949,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,6521447,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,6599867,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,6633613,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,6676053,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,6592978,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,6634182,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,6350180,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,6663070,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,6364164,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,6643508,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,6176576,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,6457431,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,6108077,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,6390667,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,6209130,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,6343883,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,6085100,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,6224061,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,6218270,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,6310414,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,6042150,E,Estimated value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,6352149,F,Forecast value,
+GLE,Emissions from Livestock,255,Belgium,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,6300404,F,Forecast value,

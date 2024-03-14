@@ -1,0 +1,1170 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1961,1961,3050,FAO TIER 1,An,1246708,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1962,1962,3050,FAO TIER 1,An,1190000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1963,1963,3050,FAO TIER 1,An,1139157,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1964,1964,3050,FAO TIER 1,An,1058140,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1965,1965,3050,FAO TIER 1,An,987838,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1966,1966,3050,FAO TIER 1,An,910000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1967,1967,3050,FAO TIER 1,An,860000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1968,1968,3050,FAO TIER 1,An,820000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1969,1969,3050,FAO TIER 1,An,786000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1970,1970,3050,FAO TIER 1,An,723000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1971,1971,3050,FAO TIER 1,An,687000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1972,1972,3050,FAO TIER 1,An,683000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1973,1973,3050,FAO TIER 1,An,696625,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1974,1974,3050,FAO TIER 1,An,688456,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1975,1975,3050,FAO TIER 1,An,675477,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1976,1976,3050,FAO TIER 1,An,663833,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1977,1977,3050,FAO TIER 1,An,652614,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1978,1978,3050,FAO TIER 1,An,649597,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1979,1979,3050,FAO TIER 1,An,653244,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1980,1980,3050,FAO TIER 1,An,655738,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1981,1981,3050,FAO TIER 1,An,660795,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1982,1982,3050,FAO TIER 1,An,666189,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1983,1983,3050,FAO TIER 1,An,660791,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1984,1984,3050,FAO TIER 1,An,655884,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1985,1985,3050,FAO TIER 1,An,645706,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1986,1986,3050,FAO TIER 1,An,599985,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1987,1987,3050,FAO TIER 1,An,576334,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1988,1988,3050,FAO TIER 1,An,564550,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1989,1989,3050,FAO TIER 1,An,568900,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1990,1990,3050,FAO TIER 1,An,576400,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1990,1990,3051,UNFCCC,An,576409,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1991,1991,3050,FAO TIER 1,An,528200,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1991,1991,3051,UNFCCC,An,528212,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,525351,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,525948,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,524500,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,524520,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,509400,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,509431,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,482100,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,482118,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,466300,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,466265,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,468000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,467981,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,449000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,449130,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,448520,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,448520,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,427620,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,427621,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,418471,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,418471,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,417082,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,417082,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,402520,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,402520,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,403702,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,403702,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,393263,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,393263,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,387530,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,387530,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,365728,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,369646,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,365581,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,357194,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,356776,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,356776,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,348095,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,348095,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,346495,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,346495,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,347969,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,347969,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,344021,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,344021,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,344339,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,344339,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,336801,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,339823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,326122,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,330833,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,326440,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,322010,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,313050,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,319387,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,301380,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,305570,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,304400,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,303390,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,299600,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,384557,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,354174,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1961,1961,3050,FAO TIER 1,An,1328162,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1962,1962,3050,FAO TIER 1,An,1386380,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1963,1963,3050,FAO TIER 1,An,1307903,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1964,1964,3050,FAO TIER 1,An,1252860,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1965,1965,3050,FAO TIER 1,An,1262262,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1966,1966,3050,FAO TIER 1,An,1300818,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1967,1967,3050,FAO TIER 1,An,1223448,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1968,1968,3050,FAO TIER 1,An,1241631,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1969,1969,3050,FAO TIER 1,An,1256835,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1970,1970,3050,FAO TIER 1,An,1202968,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1971,1971,3050,FAO TIER 1,An,1145998,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1972,1972,3050,FAO TIER 1,An,1145581,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1973,1973,3050,FAO TIER 1,An,1193262,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1974,1974,3050,FAO TIER 1,An,1221441,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1975,1975,3050,FAO TIER 1,An,1203103,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1976,1976,3050,FAO TIER 1,An,1198781,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1977,1977,3050,FAO TIER 1,An,1225229,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1978,1978,3050,FAO TIER 1,An,1242394,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1979,1979,3050,FAO TIER 1,An,1257594,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1980,1980,3050,FAO TIER 1,An,1279284,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1981,1981,3050,FAO TIER 1,An,1278005,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1982,1982,3050,FAO TIER 1,An,1271362,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1983,1983,3050,FAO TIER 1,An,1241125,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1984,1984,3050,FAO TIER 1,An,1221948,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1985,1985,3050,FAO TIER 1,An,1191495,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1986,1986,3050,FAO TIER 1,An,1115554,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1987,1987,3050,FAO TIER 1,An,1079610,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1988,1988,3050,FAO TIER 1,An,1096978,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1989,1989,3050,FAO TIER 1,An,1118750,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3050,FAO TIER 1,An,1142043,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3051,UNFCCC,An,1142034,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3050,FAO TIER 1,An,1178578,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3051,UNFCCC,An,1178566,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,1249951,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,1249354,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,1282866,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,1282846,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,1317089,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,1317058,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,1294900,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,1294977,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,1323900,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,1323974,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,1313000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,1312842,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,1289500,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,1289366,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,1264480,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,1264400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,1256080,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,1256146,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,1233029,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,1233040,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,1220383,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,1220383,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,1204154,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,1204154,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,1224762,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,1224762,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,1211670,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,1211670,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,1202879,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,1202879,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,1193997,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,1190079,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,1192800,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,1201187,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,1181505,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,1181505,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,1188605,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,1188563,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,1165351,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,1165351,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,1152324,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,1152324,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,1152505,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,1152505,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,1148780,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,1148780,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,1091599,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,1140235,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,1109928,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,1158791,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,1122150,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,1179335,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,1122400,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,1187248,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,1103290,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,1160725,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,1086560,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,1149592,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,1090290,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,1108042,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,1029371,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1961,1961,3050,FAO TIER 1,An,5729920,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1962,1962,3050,FAO TIER 1,An,4926820,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1963,1963,3050,FAO TIER 1,An,4851407,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1964,1964,3050,FAO TIER 1,An,4895480,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1965,1965,3050,FAO TIER 1,An,4455734,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1966,1966,3050,FAO TIER 1,An,4106581,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1967,1967,3050,FAO TIER 1,An,4212355,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1968,1968,3050,FAO TIER 1,An,4847000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1969,1969,3050,FAO TIER 1,An,7007000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1970,1970,3050,FAO TIER 1,An,5898000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1971,1971,3050,FAO TIER 1,An,6568000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1972,1972,3050,FAO TIER 1,An,5820000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1973,1973,3050,FAO TIER 1,An,5642000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1974,1974,3050,FAO TIER 1,An,6019000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1975,1975,3050,FAO TIER 1,An,5896000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1976,1976,3050,FAO TIER 1,An,5661000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1977,1977,3050,FAO TIER 1,An,5898000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1978,1978,3050,FAO TIER 1,An,5859000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1979,1979,3050,FAO TIER 1,An,6775000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1980,1980,3050,FAO TIER 1,An,7255000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1981,1981,3050,FAO TIER 1,An,6785000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1982,1982,3050,FAO TIER 1,An,6678000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1983,1983,3050,FAO TIER 1,An,6900000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1984,1984,3050,FAO TIER 1,An,6850000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1985,1985,3050,FAO TIER 1,An,5268000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1986,1986,3050,FAO TIER 1,An,5222000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1987,1987,3050,FAO TIER 1,An,3856000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1988,1988,3050,FAO TIER 1,An,4043000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1989,1989,3050,FAO TIER 1,An,4099000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1990,1990,3050,FAO TIER 1,An,4720000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1991,1991,3050,FAO TIER 1,An,2966000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,2167000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,1909000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,2175000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,1812000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,2188000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,1881000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,2154000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,2202000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,1647000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,1721000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,1537000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,1508000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,1625000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,1697000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,1646000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,1752000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,1649000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,1898000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,1647000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,1828000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,1551000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,1708000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,1714000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,1893000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,1575000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,1815000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,2507425,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,2747409,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,3284289,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,3019921,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,1641120,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,1490982,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1961,1961,3050,FAO TIER 1,An,5971080,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1962,1962,3050,FAO TIER 1,An,5134180,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1963,1963,3050,FAO TIER 1,An,5055593,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1964,1964,3050,FAO TIER 1,An,5101520,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1965,1965,3050,FAO TIER 1,An,4643266,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1966,1966,3050,FAO TIER 1,An,4279419,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1967,1967,3050,FAO TIER 1,An,4389645,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1968,1968,3050,FAO TIER 1,An,5051000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1969,1969,3050,FAO TIER 1,An,4882000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1970,1970,3050,FAO TIER 1,An,5874000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1971,1971,3050,FAO TIER 1,An,6329000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1972,1972,3050,FAO TIER 1,An,6089000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1973,1973,3050,FAO TIER 1,An,5989000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1974,1974,3050,FAO TIER 1,An,6076000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1975,1975,3050,FAO TIER 1,An,5796000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1976,1976,3050,FAO TIER 1,An,5448000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1977,1977,3050,FAO TIER 1,An,5494000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1978,1978,3050,FAO TIER 1,An,5733000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1979,1979,3050,FAO TIER 1,An,5904000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1980,1980,3050,FAO TIER 1,An,5937000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1981,1981,3050,FAO TIER 1,An,5835000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1982,1982,3050,FAO TIER 1,An,6080000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1983,1983,3050,FAO TIER 1,An,6100000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1984,1984,3050,FAO TIER 1,An,6150000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1985,1985,3050,FAO TIER 1,An,5800000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1986,1986,3050,FAO TIER 1,An,6200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1987,1987,3050,FAO TIER 1,An,6964000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1988,1988,3050,FAO TIER 1,An,6955000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1989,1989,3050,FAO TIER 1,An,7101000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1990,1990,3050,FAO TIER 1,An,6580000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1991,1991,3050,FAO TIER 1,An,5759000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,6063000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,5764000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,5918000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,6100000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,5709000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,5725000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,5362000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,5648000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,5670000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,5687000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,4732000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,4498000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,4995000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,5065000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,4524000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,5328000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,5546000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,5261000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,6061000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,6376000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,6735000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,6874000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,6549000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,7520000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,8174000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,7260000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,6688575,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,6951591,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,7495711,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,7295339,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,5320634,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,5103617,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1990,1990,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1991,1991,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,5509,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,6130,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,6751,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,7371,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,7992,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,8613,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,9234,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,9855,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,10475,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,11096,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,11717,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,12338,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,12958,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,13579,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,14200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,15300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,11200,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,15670,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,12000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,16100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,8700,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,14900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,5800,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1961,1961,3050,FAO TIER 1,An,194450,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1962,1962,3050,FAO TIER 1,An,165440,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1963,1963,3050,FAO TIER 1,An,151480,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1964,1964,3050,FAO TIER 1,An,132800,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1965,1965,3050,FAO TIER 1,An,108700,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1966,1966,3050,FAO TIER 1,An,92934,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1967,1967,3050,FAO TIER 1,An,78409,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1968,1968,3050,FAO TIER 1,An,68561,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1969,1969,3050,FAO TIER 1,An,64000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1970,1970,3050,FAO TIER 1,An,60652,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1971,1971,3050,FAO TIER 1,An,54604,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1972,1972,3050,FAO TIER 1,An,52954,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1973,1973,3050,FAO TIER 1,An,52000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1974,1974,3050,FAO TIER 1,An,50000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1975,1975,3050,FAO TIER 1,An,57000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1976,1976,3050,FAO TIER 1,An,58601,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1977,1977,3050,FAO TIER 1,An,58000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1978,1978,3050,FAO TIER 1,An,57000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1979,1979,3050,FAO TIER 1,An,57000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1980,1980,3050,FAO TIER 1,An,57000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1981,1981,3050,FAO TIER 1,An,50660,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1982,1982,3050,FAO TIER 1,An,57000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1983,1983,3050,FAO TIER 1,An,57000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1984,1984,3050,FAO TIER 1,An,57000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1985,1985,3050,FAO TIER 1,An,57000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1986,1986,3050,FAO TIER 1,An,57000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1987,1987,3050,FAO TIER 1,An,57200,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1988,1988,3050,FAO TIER 1,An,57500,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1989,1989,3050,FAO TIER 1,An,57800,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1990,1990,3050,FAO TIER 1,An,58000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1990,1990,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1991,1991,3050,FAO TIER 1,An,76750,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1991,1991,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,77600,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,79300,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,85628,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,84548,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,85000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,87477,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,80000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,79710,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,88621,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,86000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,85000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,95499,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,95660,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,315600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,95700,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,323450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,96000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,331300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,95000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,339150,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,95000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,347000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,95000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,354850,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,96000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,362700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,98000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,362700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,97000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,362700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,95000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,362700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,95000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,362700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,98476,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,362700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,101247,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,355500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,102319,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,355500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,103132,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,355500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,104409,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,355500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,104581,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,355500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,105257,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,95567,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,95567,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1961,1961,3050,FAO TIER 1,An,171410,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1962,1962,3050,FAO TIER 1,An,169450,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1963,1963,3050,FAO TIER 1,An,187819,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1964,1964,3050,FAO TIER 1,An,224067,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1965,1965,3050,FAO TIER 1,An,225260,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1966,1966,3050,FAO TIER 1,An,243020,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1967,1967,3050,FAO TIER 1,An,266729,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1968,1968,3050,FAO TIER 1,An,326786,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1969,1969,3050,FAO TIER 1,An,342405,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1970,1970,3050,FAO TIER 1,An,334616,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1971,1971,3050,FAO TIER 1,An,330396,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1972,1972,3050,FAO TIER 1,An,332474,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1973,1973,3050,FAO TIER 1,An,347471,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1974,1974,3050,FAO TIER 1,An,372365,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1975,1975,3050,FAO TIER 1,An,368138,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1976,1976,3050,FAO TIER 1,An,389478,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1977,1977,3050,FAO TIER 1,An,389830,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1978,1978,3050,FAO TIER 1,An,387237,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1979,1979,3050,FAO TIER 1,An,382559,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1980,1980,3050,FAO TIER 1,An,391629,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1981,1981,3050,FAO TIER 1,An,403211,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1982,1982,3050,FAO TIER 1,An,430083,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1983,1983,3050,FAO TIER 1,An,436686,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1984,1984,3050,FAO TIER 1,An,438444,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1985,1985,3050,FAO TIER 1,An,426088,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1986,1986,3050,FAO TIER 1,An,407112,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1987,1987,3050,FAO TIER 1,An,397275,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1988,1988,3050,FAO TIER 1,An,394713,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1989,1989,3050,FAO TIER 1,An,400506,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1990,1990,3050,FAO TIER 1,An,405595,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1990,1990,3051,UNFCCC,An,406000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1991,1991,3050,FAO TIER 1,An,418783,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1991,1991,3051,UNFCCC,An,419000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,447461,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,447000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,470687,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,471000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,484000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,484000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,461849,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,461000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,469000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,469000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,442102,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,442000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,421189,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,421000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,437249,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,438000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,431934,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,432000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,451594,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,452000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,426771,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,426000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,448308,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,448000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,465561,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,466000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,471284,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,471000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,505466,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,506000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,508921,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,508921,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,524780,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,524780,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,540487,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,540486,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,564922,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,564922,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,622711,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,622711,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,610500,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,610534,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,576769,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,576769,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,588757,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,588757,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,594730,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,594753,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,578174,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,578174,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,606080,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,606079,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,587147,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,587147,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,371230,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,548890,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,367740,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,501153,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,348770,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,479560,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,459946,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1961,1961,3050,FAO TIER 1,An,204800,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1962,1962,3050,FAO TIER 1,An,211309,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1963,1963,3050,FAO TIER 1,An,180822,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1964,1964,3050,FAO TIER 1,An,187404,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1965,1965,3050,FAO TIER 1,An,189260,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1966,1966,3050,FAO TIER 1,An,190756,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1967,1967,3050,FAO TIER 1,An,202861,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1968,1968,3050,FAO TIER 1,An,208645,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1969,1969,3050,FAO TIER 1,An,206513,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1970,1970,3050,FAO TIER 1,An,207356,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1971,1971,3050,FAO TIER 1,An,236374,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1972,1972,3050,FAO TIER 1,An,250880,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1973,1973,3050,FAO TIER 1,An,245531,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1974,1974,3050,FAO TIER 1,An,245639,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1975,1975,3050,FAO TIER 1,An,252248,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1976,1976,3050,FAO TIER 1,An,254783,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1977,1977,3050,FAO TIER 1,An,264312,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1978,1978,3050,FAO TIER 1,An,270039,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1979,1979,3050,FAO TIER 1,An,269406,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1980,1980,3050,FAO TIER 1,An,271420,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1981,1981,3050,FAO TIER 1,An,272341,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1982,1982,3050,FAO TIER 1,An,272715,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1983,1983,3050,FAO TIER 1,An,267724,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1984,1984,3050,FAO TIER 1,An,268489,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1985,1985,3050,FAO TIER 1,An,258898,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1986,1986,3050,FAO TIER 1,An,243867,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1987,1987,3050,FAO TIER 1,An,223438,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1988,1988,3050,FAO TIER 1,An,227436,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1989,1989,3050,FAO TIER 1,An,226366,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1990,1990,3050,FAO TIER 1,An,226394,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1991,1991,3050,FAO TIER 1,An,220141,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,227905,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,227655,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,232841,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,231314,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,234880,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,235120,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,228603,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,211521,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,191792,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,189146,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,188174,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,190313,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,181804,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,181122,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,168054,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,167633,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,160929,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,152874,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,151990,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,148259,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,136336,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,139888,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,137735,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,143530,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,147120,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,138230,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,141720,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,148120,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,138930,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,137250,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,173985,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,172568,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1961,1961,3050,FAO TIER 1,An,1843200,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1962,1962,3050,FAO TIER 1,An,1901781,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1963,1963,3050,FAO TIER 1,An,1627394,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1964,1964,3050,FAO TIER 1,An,1686639,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1965,1965,3050,FAO TIER 1,An,1703340,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1966,1966,3050,FAO TIER 1,An,1716804,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1967,1967,3050,FAO TIER 1,An,1825745,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1968,1968,3050,FAO TIER 1,An,1877808,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1969,1969,3050,FAO TIER 1,An,1858613,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1970,1970,3050,FAO TIER 1,An,1866203,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1971,1971,3050,FAO TIER 1,An,2127363,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1972,1972,3050,FAO TIER 1,An,2257920,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1973,1973,3050,FAO TIER 1,An,2209777,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1974,1974,3050,FAO TIER 1,An,2210755,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1975,1975,3050,FAO TIER 1,An,2270232,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1976,1976,3050,FAO TIER 1,An,2293049,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1977,1977,3050,FAO TIER 1,An,2378812,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1978,1978,3050,FAO TIER 1,An,2430347,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1979,1979,3050,FAO TIER 1,An,2424654,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1980,1980,3050,FAO TIER 1,An,2442777,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1981,1981,3050,FAO TIER 1,An,2451070,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1982,1982,3050,FAO TIER 1,An,2454437,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1983,1983,3050,FAO TIER 1,An,2409512,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1984,1984,3050,FAO TIER 1,An,2416397,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1985,1985,3050,FAO TIER 1,An,2330083,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1986,1986,3050,FAO TIER 1,An,2194801,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1987,1987,3050,FAO TIER 1,An,2010943,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1988,1988,3050,FAO TIER 1,An,2046928,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1989,1989,3050,FAO TIER 1,An,2037294,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1990,1990,3050,FAO TIER 1,An,2037549,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1991,1991,3050,FAO TIER 1,An,1981272,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,2051148,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,2048892,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,2095565,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,2081823,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,2113920,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,2116081,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,2057427,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,1903692,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,1726125,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,1702310,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,1693569,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,1712813,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,1636233,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,1630094,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,1512482,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,1508694,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,1448360,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,1375866,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,1367910,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,1334333,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,1227028,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,1258988,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,1239616,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,1291770,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,1324080,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,1244070,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,1275480,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,1333080,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,1250370,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,1235250,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,1565865,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,1553110,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1961,1961,3050,FAO TIER 1,An,70000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1962,1962,3050,FAO TIER 1,An,70000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1963,1963,3050,FAO TIER 1,An,87000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1964,1964,3050,FAO TIER 1,An,115000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1965,1965,3050,FAO TIER 1,An,171000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1966,1966,3050,FAO TIER 1,An,243000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1967,1967,3050,FAO TIER 1,An,250000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1968,1968,3050,FAO TIER 1,An,255000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1969,1969,3050,FAO TIER 1,An,260000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1970,1970,3050,FAO TIER 1,An,255000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1971,1971,3050,FAO TIER 1,An,260000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1972,1972,3050,FAO TIER 1,An,260000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1973,1973,3050,FAO TIER 1,An,260000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1974,1974,3050,FAO TIER 1,An,280000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1975,1975,3050,FAO TIER 1,An,285000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1976,1976,3050,FAO TIER 1,An,260000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1977,1977,3050,FAO TIER 1,An,250000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1978,1978,3050,FAO TIER 1,An,280000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1979,1979,3050,FAO TIER 1,An,280000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1980,1980,3050,FAO TIER 1,An,285000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1981,1981,3050,FAO TIER 1,An,285000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1982,1982,3050,FAO TIER 1,An,285000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1983,1983,3050,FAO TIER 1,An,285000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1984,1984,3050,FAO TIER 1,An,280000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1985,1985,3050,FAO TIER 1,An,280000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1986,1986,3050,FAO TIER 1,An,285000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1987,1987,3050,FAO TIER 1,An,285000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1988,1988,3050,FAO TIER 1,An,290000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1989,1989,3050,FAO TIER 1,An,290000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1990,1990,3050,FAO TIER 1,An,290000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1991,1991,3050,FAO TIER 1,An,291000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,292000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,174000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,200000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,150000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,120000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,150000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,122000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,110000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,101000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,111000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,112000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,116000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,134000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,109000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,80000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,83231,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,82627,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,85000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,100000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,89612,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,85501,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,89000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,73157,I,Imputed value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,107261,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,97448,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1961,1961,3050,FAO TIER 1,An,2574870,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1962,1962,3050,FAO TIER 1,An,2576380,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1963,1963,3050,FAO TIER 1,An,2447060,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1964,1964,3050,FAO TIER 1,An,2311000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1965,1965,3050,FAO TIER 1,An,2250100,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1966,1966,3050,FAO TIER 1,An,2210818,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1967,1967,3050,FAO TIER 1,An,2083448,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1968,1968,3050,FAO TIER 1,An,2061631,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1969,1969,3050,FAO TIER 1,An,2042835,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1970,1970,3050,FAO TIER 1,An,1925968,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1971,1971,3050,FAO TIER 1,An,1832998,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1972,1972,3050,FAO TIER 1,An,1828581,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1973,1973,3050,FAO TIER 1,An,1889887,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1974,1974,3050,FAO TIER 1,An,1909897,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1975,1975,3050,FAO TIER 1,An,1878580,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1976,1976,3050,FAO TIER 1,An,1862614,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1977,1977,3050,FAO TIER 1,An,1877843,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1978,1978,3050,FAO TIER 1,An,1891991,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1979,1979,3050,FAO TIER 1,An,1910838,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1980,1980,3050,FAO TIER 1,An,1935022,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1981,1981,3050,FAO TIER 1,An,1938800,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1982,1982,3050,FAO TIER 1,An,1937551,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1983,1983,3050,FAO TIER 1,An,1901916,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1984,1984,3050,FAO TIER 1,An,1877832,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1985,1985,3050,FAO TIER 1,An,1837201,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1986,1986,3050,FAO TIER 1,An,1715539,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1987,1987,3050,FAO TIER 1,An,1655944,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1988,1988,3050,FAO TIER 1,An,1661528,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1989,1989,3050,FAO TIER 1,An,1687650,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1990,1990,3050,FAO TIER 1,An,1718443,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1990,1990,3051,UNFCCC,An,1718443,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1991,1991,3050,FAO TIER 1,An,1706778,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1991,1991,3051,UNFCCC,An,1706778,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,1775302,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,1775302,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,1807366,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,1807366,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,1826489,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,1826489,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,1777000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,1777095,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,1790200,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,1790239,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,1781000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,1780823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,1738500,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,1738496,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,1713000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,1712920,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,1683700,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,1683767,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,1651500,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,1651511,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,1637465,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,1637465,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,1606674,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,1606674,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,1628464,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,1628464,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,1604933,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,1604933,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,1590409,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,1590409,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,1559725,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,1559725,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,1558381,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,1558381,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,1538281,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,1538281,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,1536700,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,1536658,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,1511846,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,1511846,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,1500293,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,1500293,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,1496526,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,1496526,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,1493119,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,1493119,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,1428400,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,1480058,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,1436050,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,1489624,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,1448590,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,1501345,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,1435450,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,1506635,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,1404670,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,1466295,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,1390960,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,1452982,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,1389890,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,1492599,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,1383545,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1961,1961,3050,FAO TIER 1,An,11701000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1962,1962,3050,FAO TIER 1,An,10061000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1963,1963,3050,FAO TIER 1,An,9907000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1964,1964,3050,FAO TIER 1,An,9997000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1965,1965,3050,FAO TIER 1,An,9099000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1966,1966,3050,FAO TIER 1,An,8386000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1967,1967,3050,FAO TIER 1,An,8602000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1968,1968,3050,FAO TIER 1,An,9898000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1969,1969,3050,FAO TIER 1,An,11889000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1970,1970,3050,FAO TIER 1,An,11772000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1971,1971,3050,FAO TIER 1,An,12897000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1972,1972,3050,FAO TIER 1,An,11909000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1973,1973,3050,FAO TIER 1,An,11631000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1974,1974,3050,FAO TIER 1,An,12095000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1975,1975,3050,FAO TIER 1,An,11692000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1976,1976,3050,FAO TIER 1,An,11109000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1977,1977,3050,FAO TIER 1,An,11392000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1978,1978,3050,FAO TIER 1,An,11592000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1979,1979,3050,FAO TIER 1,An,12679000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1980,1980,3050,FAO TIER 1,An,13192000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1981,1981,3050,FAO TIER 1,An,12620000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1982,1982,3050,FAO TIER 1,An,12758000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1983,1983,3050,FAO TIER 1,An,13000000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1984,1984,3050,FAO TIER 1,An,13000000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1985,1985,3050,FAO TIER 1,An,11068000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1986,1986,3050,FAO TIER 1,An,11422000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1987,1987,3050,FAO TIER 1,An,10820000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1988,1988,3050,FAO TIER 1,An,10998000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1989,1989,3050,FAO TIER 1,An,11200000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1990,1990,3050,FAO TIER 1,An,11300000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1991,1991,3050,FAO TIER 1,An,8725000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,8230000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,7673000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,8093000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,7912000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,7897000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,7606000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,7516000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,7850000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,7317000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,7408000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,6269000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,6006000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,6620000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,6762000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,6170000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,7080000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,7195000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,7159000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,7708000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,8204000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,8286000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,8582000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,8263000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,9413000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,9749000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,9075000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,9196000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,9699000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,10780000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,10315260,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,6961754,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,6594599,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1961,1961,3050,FAO TIER 1,An,11771000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1962,1962,3050,FAO TIER 1,An,10131000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1963,1963,3050,FAO TIER 1,An,9994000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1964,1964,3050,FAO TIER 1,An,10112000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1965,1965,3050,FAO TIER 1,An,9270000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1966,1966,3050,FAO TIER 1,An,8629000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1967,1967,3050,FAO TIER 1,An,8852000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1968,1968,3050,FAO TIER 1,An,10153000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1969,1969,3050,FAO TIER 1,An,12149000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1970,1970,3050,FAO TIER 1,An,12027000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1971,1971,3050,FAO TIER 1,An,13157000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1972,1972,3050,FAO TIER 1,An,12169000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1973,1973,3050,FAO TIER 1,An,11891000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1974,1974,3050,FAO TIER 1,An,12375000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1975,1975,3050,FAO TIER 1,An,11977000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1976,1976,3050,FAO TIER 1,An,11369000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1977,1977,3050,FAO TIER 1,An,11642000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1978,1978,3050,FAO TIER 1,An,11872000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1979,1979,3050,FAO TIER 1,An,12959000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1980,1980,3050,FAO TIER 1,An,13477000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1981,1981,3050,FAO TIER 1,An,12905000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1982,1982,3050,FAO TIER 1,An,13043000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1983,1983,3050,FAO TIER 1,An,13285000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1984,1984,3050,FAO TIER 1,An,13280000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1985,1985,3050,FAO TIER 1,An,11348000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1986,1986,3050,FAO TIER 1,An,11707000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1987,1987,3050,FAO TIER 1,An,11105000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1988,1988,3050,FAO TIER 1,An,11288000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1989,1989,3050,FAO TIER 1,An,11490000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1990,1990,3050,FAO TIER 1,An,11590000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1990,1990,3051,UNFCCC,An,13197598,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1991,1991,3050,FAO TIER 1,An,9016000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1991,1991,3051,UNFCCC,An,13804935,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,8522000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,13444059,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,7847000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,13379357,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,8293000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,14744322,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,8112000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,15076777,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,8097000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,15297095,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,7806000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,15314606,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,7666000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,14895549,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,7970000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,15585983,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,7467000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,15417198,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,7608000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,15962419,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,6469000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,15225879,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,6206000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,14722032,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,6820000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,14733532,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,6884000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,15374248,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,6280000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,14600280,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,7181000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,15772837,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,7306000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,16062853,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,7271000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,15910447,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,7824000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,16997038,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,8338000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,17465740,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,8395000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,17399770,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,8662000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,18319401,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,8346231,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,18738175,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,9495627,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,20613211,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,9834000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,21538939,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,9175000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,21142479,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,9285612,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,21325934,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,9784501,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,23314769,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,10869000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,23650048,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,10388417,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,7069015,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,6692046,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1961,1961,3050,FAO TIER 1,An,171410,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1962,1962,3050,FAO TIER 1,An,169450,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1963,1963,3050,FAO TIER 1,An,187819,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1964,1964,3050,FAO TIER 1,An,224067,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1965,1965,3050,FAO TIER 1,An,225260,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1966,1966,3050,FAO TIER 1,An,243020,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1967,1967,3050,FAO TIER 1,An,266729,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1968,1968,3050,FAO TIER 1,An,326786,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1969,1969,3050,FAO TIER 1,An,342405,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1970,1970,3050,FAO TIER 1,An,334616,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1971,1971,3050,FAO TIER 1,An,330396,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1972,1972,3050,FAO TIER 1,An,332474,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1973,1973,3050,FAO TIER 1,An,347471,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1974,1974,3050,FAO TIER 1,An,372365,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1975,1975,3050,FAO TIER 1,An,368138,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1976,1976,3050,FAO TIER 1,An,389478,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1977,1977,3050,FAO TIER 1,An,389830,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1978,1978,3050,FAO TIER 1,An,387237,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1979,1979,3050,FAO TIER 1,An,382559,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1980,1980,3050,FAO TIER 1,An,391629,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1981,1981,3050,FAO TIER 1,An,403211,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1982,1982,3050,FAO TIER 1,An,430083,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1983,1983,3050,FAO TIER 1,An,436686,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1984,1984,3050,FAO TIER 1,An,438444,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1985,1985,3050,FAO TIER 1,An,426088,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1986,1986,3050,FAO TIER 1,An,407112,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1987,1987,3050,FAO TIER 1,An,397275,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1988,1988,3050,FAO TIER 1,An,394713,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1989,1989,3050,FAO TIER 1,An,400506,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1990,1990,3050,FAO TIER 1,An,405595,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1990,1990,3051,UNFCCC,An,411509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1991,1991,3050,FAO TIER 1,An,418783,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1991,1991,3051,UNFCCC,An,424509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,447461,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,452509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,470687,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,476509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,484000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,489509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,461849,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,466509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,469000,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,474509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,442102,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,447509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,421189,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,426509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,437249,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,443509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,431934,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,437509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,451594,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,457509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,426771,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,431509,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,448308,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,454130,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,465561,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,472751,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,471284,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,478371,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,505466,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,513992,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,508921,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,517534,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,524780,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,534014,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,540487,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,550341,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,564922,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,575397,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,622711,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,633807,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,610500,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,622251,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,576769,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,589107,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,588757,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,601715,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,594730,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,608332,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,578174,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,592374,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,606080,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,621379,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,598347,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,602817,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,383230,A,Official figure,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,564990,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,376440,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,516053,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,354570,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,479560,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,459946,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1961,1961,3050,FAO TIER 1,An,2048000,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1962,1962,3050,FAO TIER 1,An,2113090,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1963,1963,3050,FAO TIER 1,An,1808215,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1964,1964,3050,FAO TIER 1,An,1874043,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1965,1965,3050,FAO TIER 1,An,1892600,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1966,1966,3050,FAO TIER 1,An,1907560,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1967,1967,3050,FAO TIER 1,An,2028606,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1968,1968,3050,FAO TIER 1,An,2086453,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1969,1969,3050,FAO TIER 1,An,2065125,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1970,1970,3050,FAO TIER 1,An,2073559,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1971,1971,3050,FAO TIER 1,An,2363737,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1972,1972,3050,FAO TIER 1,An,2508800,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1973,1973,3050,FAO TIER 1,An,2455308,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1974,1974,3050,FAO TIER 1,An,2456394,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1975,1975,3050,FAO TIER 1,An,2522480,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1976,1976,3050,FAO TIER 1,An,2547832,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1977,1977,3050,FAO TIER 1,An,2643124,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1978,1978,3050,FAO TIER 1,An,2700385,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1979,1979,3050,FAO TIER 1,An,2694060,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1980,1980,3050,FAO TIER 1,An,2714197,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1981,1981,3050,FAO TIER 1,An,2723411,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1982,1982,3050,FAO TIER 1,An,2727152,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1983,1983,3050,FAO TIER 1,An,2677235,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1984,1984,3050,FAO TIER 1,An,2684885,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1985,1985,3050,FAO TIER 1,An,2588981,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1986,1986,3050,FAO TIER 1,An,2438668,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1987,1987,3050,FAO TIER 1,An,2234381,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1988,1988,3050,FAO TIER 1,An,2274364,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1989,1989,3050,FAO TIER 1,An,2263660,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1990,1990,3050,FAO TIER 1,An,2263943,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1990,1990,3051,UNFCCC,An,2345618,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1991,1991,3050,FAO TIER 1,An,2201413,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1991,1991,3051,UNFCCC,An,2281937,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,2279053,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,2361862,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,2276547,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,2358703,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,2328405,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,2416687,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,2313137,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,2395679,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,2348800,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,2430632,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,2351201,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,2434391,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,2286030,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,2364947,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,2115213,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,2184239,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,1917917,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,1978902,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,1891456,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,1954019,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,1881743,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,1943145,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,1903126,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,1962768,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,1818037,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,1874653,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,1811216,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,1864748,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,1680535,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,1693316,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,1676327,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,1679139,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,1609289,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,1682876,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,1528740,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,1640808,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,1519900,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,1620065,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,1482592,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,1571626,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,1363364,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,1430887,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,1398875,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,1422001,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,1377351,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,1422727,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,1435300,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,1418410,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,1471200,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,1400043,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,1382300,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,1422840,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,1417200,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,1447291,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,1481200,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,1406412,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,1389300,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,1430830,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,1372500,E,Estimated value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,1739850,F,Forecast value,
+GLE,Emissions from Livestock,210,Sweden,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,1725677,F,Forecast value,

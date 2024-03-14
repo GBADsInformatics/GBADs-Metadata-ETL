@@ -1,0 +1,826 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,1992,1992,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,1993,1993,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,1994,1994,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,1995,1995,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,1996,1996,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,1997,1997,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,1998,1998,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,1999,1999,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2000,2000,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2001,2001,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2002,2002,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2003,2003,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2004,2004,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2005,2005,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2006,2006,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2007,2007,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2008,2008,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2009,2009,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2010,2010,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2011,2011,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2012,2012,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2013,2013,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2014,2014,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2015,2015,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2016,2016,3050,FAO TIER 1,An,8957,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2017,2017,3050,FAO TIER 1,An,8947,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2018,2018,3050,FAO TIER 1,An,8978,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2019,2019,3050,FAO TIER 1,An,9006,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2020,2020,3050,FAO TIER 1,An,9024,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2021,2021,3050,FAO TIER 1,An,9042,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2030,2030,3050,FAO TIER 1,An,9000,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1107,Asses,2050,2050,3050,FAO TIER 1,An,9000,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,2220100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,2314000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,2199100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,2220000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,2179600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,2199000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,2137100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,2180000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,2042700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,2137000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,2025000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,2043000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,1975000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,1999000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,1917000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,1946000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,1861000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,1885000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,1818000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,1845000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,1749000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,1784000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,1715600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,1716000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,1657700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,1658000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,1612900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,1613000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,1565000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,1565000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,1505600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,1506000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,1459000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,1459000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,1452200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,1452000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,1444600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,1445000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,1478100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,1478000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,1477400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,1477000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,1519000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,1519000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,1533500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,1525000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,1511600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,1533000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,1501500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,1512000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,1500200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,1502000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,1497500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,1500000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,1494800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,1498000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,1485200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,1485000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,1459000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,1568714,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,1603198,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,4356900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,4237000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,4021500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,3961000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,3671800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,3647000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,3266200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,3202000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,3011200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,2897000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,2829600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,2799000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,2826100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,2763000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,2768500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,2669000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,2465200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,2437000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,2402500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,2365000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,2335500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,2308000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,2289500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,2273000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,2266400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,2243000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,2349700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,2324000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,2415200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,2412000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,2483111,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,2448000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,2547700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,2528000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,2678300,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,2597000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,2706400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,2652000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,2673200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,2667000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,2769600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,2745000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,2848000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,2813000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,2830200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,2791000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,2844900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,2807000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,2796800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,2831000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,2861200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,2789000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,2842900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,2818000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,2799900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,2832000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,2806600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,2534310,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,2776900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,2558615,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,2274111,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,34730000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,27289814,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,17900000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,15030000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,11100000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,12150000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,12060000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,12810000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,12950000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,13230000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,12520000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,12300000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,11400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,12000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,13700000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,13400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,14000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,15500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,17000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,18700000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,19800000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,20800000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,24868000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,23995000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,26255481,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,26600000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,25907476,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,21694281,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,16854749,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,13909240,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,21233524,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,30393491,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,15000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,19650186,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,14000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,14870000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,14400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,14250000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,14440000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,14190000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,13450000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,13170000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,12780000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,12000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,11600000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,11500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,13100000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,13500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,13500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,13700000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,15000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,16500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,17500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,18400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,20000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,21100000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,19780519,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,19400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,19500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,17878339,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,18926113,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,18457908,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,12248164,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,11304732,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,1100000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,1200000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,1400000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,1500000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,1794000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,1811000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,1845000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,1800000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2018,2018,3050,FAO TIER 1,An,1794282,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2019,2019,3050,FAO TIER 1,An,2028278,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2020,2020,3050,FAO TIER 1,An,2075438,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2021,2021,3050,FAO TIER 1,An,2140671,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,1629171,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,2331981,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,44000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,44000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,45000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,45400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,52000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,51200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,54000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,54100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,58000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,58200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,59000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,58200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,59000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,58800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,56300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,56300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,58300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,58300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,65000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,64500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,66000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,66200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,64400,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,64400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,63100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,63100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,65800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,65800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,67600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,67600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,69600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,69600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,71800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,71800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,73200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,73200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,75000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,75000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,72300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,72300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,73200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,72700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,68300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,73200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,68000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,68300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,68500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,68000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,68000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,68500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,64700,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,68400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,63300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,64700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,60100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,63300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,59200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,59200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,55400,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,82988,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,81353,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,211800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,211800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,214500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,214500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,214600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,214600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,219600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,219600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,228600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,228600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,231500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,231500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,233200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,233200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,228700,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,228700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,221300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,221400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,216500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,216500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,209400,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,209400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,201700,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,201700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,191800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,191800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,180800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,180800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,167600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,167600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,156200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,156200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,147100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,141700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,137000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,137400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,125600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,125600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,113000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,113000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,92000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,100400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,82200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,92000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,73200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,82200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,63600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,73200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,55300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,63600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,49000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,55800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,43300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,49000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,38100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,43500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,33600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,33600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,29500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,168200,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,168200,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,367000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,380200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,336000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,335800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,271300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,271300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,230000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,230100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,203500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,203500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,155300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,155300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,127200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,127300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,106100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,106100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,91900,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,91900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,89100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,89100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,82600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,82600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,72700,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,72700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,63000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,63000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,59000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,59000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,53100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,53100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,52200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,52200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,52500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,52500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,52500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,52500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,52400,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,52400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,51800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,51800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,59900,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,52500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,62500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,59900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,72500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,62500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,84100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,72500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,89800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,84100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,89900,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,98800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,87600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,89900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,87300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,87600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,89300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,89300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,84200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,67167,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,65844,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,470300,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,430800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,418100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,400450,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,389470,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,371500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,368580,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,369800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,356640,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,343070,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,337260,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,332940,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,328700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,340680,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,354510,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,364180,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,359780,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,370400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,378150,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,388670,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,424290,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,326690,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,292500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,320540,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,314520,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,315570,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,284060,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,288150,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,287160,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,255100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,365351,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,366758,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,4232700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,3877200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,3762900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,3604050,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,3505230,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,3343500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,3317220,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,3328200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,3209760,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,3087630,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,3035340,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,2996460,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,2958300,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,3066120,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,3190590,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,3277620,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,3238020,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,3333600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,3403350,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,3498030,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,3818610,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,2940210,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,2632500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,2884860,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,2830680,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,2840130,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,2556540,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,2593350,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,2584440,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,2295900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,3288163,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,3300826,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,1973000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,1960000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,1300000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,900000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,1100000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,900000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,900000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,559000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,600000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,700000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,800000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,900000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,1000000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,1100000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,1200000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,1300000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,1584000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,1610000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,1634000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,1589669,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,1544236,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,1500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,1500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,1483369,I,Imputed value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,1140419,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,1632387,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,6577000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,6551000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,6220600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,6181000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,5851400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,5846000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,5403300,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,5382000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,5053900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,5034000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,4854600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,4842000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,4801100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,4762000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,4685500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,4615000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,4326200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,4322000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,4220500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,4210000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,4084500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,4092000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,4005100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,3989000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,3924100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,3901000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,3962600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,3937000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,3980200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,3977000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,3988711,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,3954000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,4006700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,3987000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,4130500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,4049000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,4151000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,4097000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,4151300,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,4145000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,4247000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,4222000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,4367000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,4332000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,4363700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,4316000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,4356500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,4340000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,4298300,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,4343000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,4361400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,4291000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,4340400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,4318000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,4294700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,4330000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,4291800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,4019310,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,4235900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,4127329,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,3877309,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,49730000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,46940000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,31900000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,29900000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,25500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,26400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,26500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,27000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,26400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,26400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,25300000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,24300000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,23000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,23500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,26800000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,26900000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,27500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,29200000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,32000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,35200000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,37300000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,39200000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,44868000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,45095000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,46036000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,46000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,45407476,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,39572620,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,35780862,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,32367148,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,33481688,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,41698223,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,1992,1992,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,1993,1993,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,1994,1994,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,1995,1995,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,1996,1996,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,1997,1997,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,1998,1998,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,1999,1999,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2000,2000,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2001,2001,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2002,2002,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2003,2003,3050,FAO TIER 1,An,8500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2004,2004,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2005,2005,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2006,2006,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2007,2007,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2008,2008,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2009,2009,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2010,2010,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2011,2011,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2012,2012,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2013,2013,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2014,2014,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2015,2015,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2016,2016,3050,FAO TIER 1,An,8957,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2017,2017,3050,FAO TIER 1,An,8947,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2018,2018,3050,FAO TIER 1,An,8978,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2019,2019,3050,FAO TIER 1,An,9006,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2020,2020,3050,FAO TIER 1,An,9024,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2021,2021,3050,FAO TIER 1,An,9042,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2030,2030,3050,FAO TIER 1,An,9000,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1759,Mules and Asses,2050,2050,3050,FAO TIER 1,An,9000,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,51703000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,51702900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,48900000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,48949200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,33200000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,33179600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,30900000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,30897000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,26400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,26384800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,27400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,27432800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,27500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,27519700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,28100000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,28091900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,27400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,27385100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,27400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,27392100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,26200000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,26180100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,25200000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,25159500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,24559000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,24558500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,25100000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,25037800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,28500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,28476700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,28700000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,28732100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,29400000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,29475800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,31200000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,31230200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,34100000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,34086700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,37500000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,37537100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,39900000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,39852500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,42000000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,42390800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,48246000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,45733500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,48516000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,48246100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,49515000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,48517800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,49389669,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,49516100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,48745994,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,50728900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,43100898,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,51165000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,39356300,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,47548800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,35991187,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,36251278,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,45662592,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,411000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,424200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,381000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,381200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,323300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,322500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,284000,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,284200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,261500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,261700,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,214300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,213500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,186200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,186100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,162400,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,162400,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,150200,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,150200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,154100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,153600,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,148600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,148800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,137100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,137100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,126100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,126100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,124800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,124800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,120700,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,120700,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,121800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,121800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,124300,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,124300,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,125700,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,125700,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,127400,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,127400,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,124100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,124100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,133100,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,125200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,130800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,133100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,140500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,130800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,152600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,140500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,157800,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,152600,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,154600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,167200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,150900,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,154600,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,147400,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,150900,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,148500,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,148500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,139600,A,Official figure,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,150155,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,147197,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,4703000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,4703000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,4308000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,4308000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,4181000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,4181000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,4004500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,4005000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,3894700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,3895000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,3715000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,3715000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,3685800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,3686000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,3698000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,3698000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,3566400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,3566000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,3430700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,3431000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,3372600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,3372000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,3329400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,3329000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,3287000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,3287000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,3406800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,3407000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,3545100,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,3545000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,3641800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,3642000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,3597800,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,3598000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,3704000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,3704000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,3781500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,3782000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,3886700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,3887000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,4242900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,3989000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,3266900,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,4243000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,2925000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,3267000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,3205400,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,2925000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,3145200,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,3205000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,3155700,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,3145000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,2840600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,3156000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,2881500,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,2841000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,2871600,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,2871600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,2551000,E,Estimated value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,3653514,F,Forecast value,
+GLE,Emissions from Livestock,57,Belarus,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,3667584,F,Forecast value,

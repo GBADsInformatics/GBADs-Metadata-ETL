@@ -1,0 +1,781 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,429171,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,282274,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,385949,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,272450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,359348,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,262664,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,355199,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,245833,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,335381,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,299614,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,299614,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,267282,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,283895,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,250974,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,250974,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,242496,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,242496,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,230379,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,230379,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,230182,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,230182,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,214467,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,214467,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,201725,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,201725,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,198580,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,198580,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,184950,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,184950,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,180207,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,180207,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,173854,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,173854,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,162504,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,162504,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,159260,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,159260,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,154105,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,154105,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,150272,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,150272,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,144875,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,144875,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,143083,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,143083,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,139229,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,139229,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,132610,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,132610,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,129863,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,127870,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,127871,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,125850,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,125848,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,122050,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,122049,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,120070,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,196302,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,180792,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,752489,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,710689,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,607014,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,643703,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,556805,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,666042,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,573507,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,646158,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,556610,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,503784,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,503784,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,437510,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,420897,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,414081,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,414081,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,403652,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,403652,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,394811,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,394811,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,377653,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,377653,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,378715,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,378715,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,338421,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,338421,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,329309,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,329309,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,322870,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,322870,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,321610,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,321610,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,314527,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,314527,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,309461,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,309461,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,307865,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,307865,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,309253,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,309253,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,320819,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,320819,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,322945,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,322945,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,322460,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,322460,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,318357,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,318357,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,313502,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,313502,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,309963,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,310990,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,310984,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,306400,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,306405,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,320240,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,320240,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,314020,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,304174,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,282578,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,6126000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,4518000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,0,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,5235000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,6319000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,6490000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,6428000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,6018000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,7237000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,7236000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,7175000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,7640000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,7615000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,8028000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,6900000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,6671000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,5323000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,6997000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,6398000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,4871000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,5255000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,4924000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,6530000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,6469000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,5688000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,6888000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,7316000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,7157000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,6891230,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,7261189,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,6596900,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,6687000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,7308000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,7322000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,7625000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,7405000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,7258000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,6161000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,5740000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,5846000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,7713000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,6213000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,6127000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,5647000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,5591000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,5702000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,5773000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,5556000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,6252000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,6266000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,6183000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,6266000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,5681000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,5651000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,6044000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,6118000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,6142000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,5537000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,3252000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,3245000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,6042203,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,5795754,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,1993,1993,3050,FAO TIER 1,An,142000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,1994,1994,3050,FAO TIER 1,An,136000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,1995,1995,3050,FAO TIER 1,An,250000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,1996,1996,3050,FAO TIER 1,An,161000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,1997,1997,3050,FAO TIER 1,An,154000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,1998,1998,3050,FAO TIER 1,An,151000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,1999,1999,3050,FAO TIER 1,An,249000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2000,2000,3050,FAO TIER 1,An,261000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2001,2001,3050,FAO TIER 1,An,246000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2002,2002,3050,FAO TIER 1,An,248000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2003,2003,3050,FAO TIER 1,An,253000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,251000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,249000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,250000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,239000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,240000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,194000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,179000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,179000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,171000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,166000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,192000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,167000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,171000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,164000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2018,2018,3050,FAO TIER 1,An,147000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2019,2019,3050,FAO TIER 1,An,130000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2020,2020,3050,FAO TIER 1,An,10000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2021,2021,3050,FAO TIER 1,An,15890,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,237713,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,215966,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,20278,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,24974,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,24974,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,25010,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,27747,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,25046,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,25046,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,26147,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,26147,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,26778,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,26778,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,50905,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,50905,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,51075,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,51075,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,51419,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,51419,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,40386,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,40386,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,40194,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,40194,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,39225,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,39225,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,39012,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,39012,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,39566,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,39566,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,38352,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,38352,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,37873,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,37873,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,37088,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,37088,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,35686,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,35686,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,35292,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,35292,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,34053,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,34053,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,34823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,34823,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,35457,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,35457,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,35178,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,35178,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,36324,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,36324,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,36355,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,36355,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,37067,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,36910,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,36907,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,35590,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,35594,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,35600,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,10589,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,32000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,37744,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,36200,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,11652,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,11188,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,11188,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,10652,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,10000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,10109,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,10109,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,9722,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,9722,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,9533,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,9533,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,9550,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,9550,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,9342,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,9342,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,9516,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,9516,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,7883,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,7883,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,8122,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,8122,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,8114,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,8114,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,8209,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,8209,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,8328,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,8328,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,8222,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,8222,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,8017,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,8017,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,8421,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,8421,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,7199,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,7199,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,7111,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,7111,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,6937,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,6937,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,7249,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,7249,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,7161,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,7161,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,6828,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,6828,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,6866,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,6866,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,6407,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,6145,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,6145,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,7102,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,7102,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,6960,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,6960,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,6857,I,Imputed value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,6099,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,6044,I,Imputed value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,8253,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,8253,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,571837,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,411442,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,411442,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,397044,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,397043,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,427844,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,427844,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,418823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,418823,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,417337,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,417337,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,326200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,326199,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,340346,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,340346,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,347983,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,347983,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,316302,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,316302,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,316028,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,316028,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,325521,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,325521,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,321227,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,321227,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,320486,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,320487,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,332571,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,332571,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,347179,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,347179,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,361634,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,361634,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,376978,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,376978,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,394175,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,394175,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,393927,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,393927,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,409569,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,409569,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,399908,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,399908,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,391151,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,391151,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,381724,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,381724,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,368896,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,368896,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,365344,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,351120,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,351122,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,320560,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,320555,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,294252,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,294252,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,290918,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,314489,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,301627,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,226923,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1993,1993,3051,UNFCCC,An,421173,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,217903,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1994,1994,3051,UNFCCC,An,419574,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,203737,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1995,1995,3051,UNFCCC,An,417970,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,207644,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1996,1996,3051,UNFCCC,An,395204,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,198522,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1997,1997,3051,UNFCCC,An,404916,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,180987,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1998,1998,3051,UNFCCC,An,388668,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,159260,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",1999,1999,3051,UNFCCC,An,304012,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,156211,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2000,2000,3051,UNFCCC,An,291182,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,148844,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2001,2001,3051,UNFCCC,An,238937,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,151729,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2002,2002,3051,UNFCCC,An,292733,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,155388,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2003,2003,3051,UNFCCC,An,248014,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,144301,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2004,2004,3051,UNFCCC,An,168645,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,114928,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2005,2005,3051,UNFCCC,An,164612,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,110827,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2006,2006,3051,UNFCCC,An,170596,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,110483,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2007,2007,3051,UNFCCC,An,141457,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,95193,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2008,2008,3051,UNFCCC,An,99574,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,74852,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2009,2009,3051,UNFCCC,An,113923,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,74086,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2010,2010,3051,UNFCCC,An,85679,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,68726,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2011,2011,3051,UNFCCC,An,82336,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,58039,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2012,2012,3051,UNFCCC,An,89343,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,63146,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2013,2013,3051,UNFCCC,An,92407,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,63717,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2014,2014,3051,UNFCCC,An,108214,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,64183,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2015,2015,3051,UNFCCC,An,83703,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,63312,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2016,2016,3051,UNFCCC,An,105189,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,58584,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2017,2017,3051,UNFCCC,An,102871,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,62702,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2018,2018,3051,UNFCCC,An,79332,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,58923,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2019,2019,3051,UNFCCC,An,76374,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,53831,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2020,2020,3051,UNFCCC,An,80934,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,45308,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,113195,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,112273,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,2042309,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,1961126,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,1833633,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,1868795,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,1786701,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,1628881,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,1433339,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,1405895,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,1339597,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,1365562,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,1398492,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,1298712,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,1034354,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,997439,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,994346,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,856741,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,673664,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,666776,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,618534,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,522354,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,568318,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,573450,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,577644,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,569804,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,527259,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,564318,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,530307,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,484479,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,407772,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,1018759,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,1010460,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,190000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,150000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,160000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,241000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,172000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,228000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,240000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,189000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,211000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,349000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,285000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,163000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,167000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,180000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,164000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,160000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,126000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,123000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,116000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,123000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,131000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,139000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,118000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,126000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,136000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,156000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,125000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,151000,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,145583,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,164595,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,149537,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,1181660,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,992963,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,992963,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,916153,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,916153,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,928706,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,928706,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,891991,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,891991,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,803398,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,803398,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,704792,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,704792,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,665055,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,665055,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,646148,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,646148,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,625190,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,625190,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,607835,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,607835,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,593182,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,593182,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,540146,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,540146,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,527889,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,527889,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,507820,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,507820,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,501817,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,501817,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,488381,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,488381,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,471965,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,471965,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,467125,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,467125,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,463358,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,463358,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,471091,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,471091,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,467820,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,467820,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,465543,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,465543,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,457586,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,457586,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,446112,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,446112,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,439826,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,438860,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,438855,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,432250,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,432253,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,442290,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,442289,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,434090,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,500476,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,463370,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,12813000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,11826000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,7322000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,12860000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,13724000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,13748000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,12589000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,11758000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,13083000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,14949000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,13388000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,13767000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,13262000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,13619000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,12602000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,12444000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,10879000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,13249000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,12664000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,11054000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,11521000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,10605000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,12181000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,12513000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,11806000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,13030000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,12853000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,10409000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,10136230,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,13303393,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,12392654,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,13145000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,12234120,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,12112000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,14245954,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,7732000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,13382391,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,13262000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,14147177,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,14050000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,14221713,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,14127000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,13116796,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,13078000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,12247440,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,12208000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,13580042,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,13540000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,15590404,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,15546000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,13959404,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,13926000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,14216798,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,14181000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,13713239,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,13678000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,14084079,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,14049000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,13038303,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,13005000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,12880124,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,12844000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,11228140,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,11199000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,13583284,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,13551000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,12991916,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,12959000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,11375603,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,11348000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,11849818,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,11818000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,10968918,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,10936000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,12494074,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,12466000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,12836224,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,12810000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,12130501,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,12106000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,13353837,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,13333000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,14056914,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,13108000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,13131941,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,10570000,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,10603624,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,10297703,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,13705701,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,12758157,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,592115,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,436416,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,436416,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,422054,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,424790,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,452890,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,452890,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,444970,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,444970,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,444115,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,444115,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,377105,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,377104,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,391421,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,391421,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,399402,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,399402,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,356688,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,356688,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,356222,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,356222,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,364746,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,364746,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,360239,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,360239,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,360052,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,360053,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,370923,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,370923,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,385052,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,385052,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,398722,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,398722,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,412664,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,412664,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,429467,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,429467,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,427980,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,427980,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,444392,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,444392,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,435365,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,435365,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,426329,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,426329,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,418048,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,418048,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,405251,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,405251,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,402411,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,388030,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,388029,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,356150,A,Official figure,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,356149,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,329852,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,304841,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,322918,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,352233,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,337827,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,2269232,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,2179029,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,2179029,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,2037371,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,2037370,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,2076439,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,2076439,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,1985223,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,1985223,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,1809868,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,1809868,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,1592599,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,1592599,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,1562106,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,1562105,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,1488441,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,1488441,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,1517291,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,1517291,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,1553880,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,1553880,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,1443013,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,1443013,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,1149282,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,1149282,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,1108265,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,1108265,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,1104829,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,1104829,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,951934,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,951934,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,748515,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,748515,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,740862,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,740862,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,687260,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,687260,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,580393,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,580393,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,631464,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,631464,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,637167,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,637167,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,641827,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,641827,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,633116,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,633116,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,585843,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,585843,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,614384,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,627020,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,627022,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,589230,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,589228,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,538310,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,538310,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,453080,E,Estimated value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,1131955,F,Forecast value,
+GLE,Emissions from Livestock,199,Slovakia,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,1122734,F,Forecast value,

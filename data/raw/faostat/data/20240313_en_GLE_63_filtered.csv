@@ -1,0 +1,739 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,946,Buffalo,2018,2018,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,946,Buffalo,2019,2019,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,946,Buffalo,2020,2020,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,946,Buffalo,2021,2021,3050,FAO TIER 1,An,0,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,260336,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,253400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,226700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,211400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,185400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,171600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,167700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,158600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,138400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,131000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,128600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,115600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,116800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,116500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,112800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,108400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,103000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,96700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,96700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,96500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,96200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,96800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,97900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,95600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,86100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,86400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,85200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,85000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,84300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,83700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,113269,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,104320,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,447937,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,613100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,361200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,462800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,236500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,418400,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,208100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,369800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,185000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,342500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,171400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,325100,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,157900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,306900,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,148900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,267300,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,128900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,252800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,121800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,260500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,131900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,253900,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,138300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,257200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,140400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,249800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,133300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,249500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,136700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,244800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,136400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,240500,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,137500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,237900,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,141200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,234700,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,138000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,236300,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,139800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,238300,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,142100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,246000,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,149200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,261400,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,163500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,264700,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,169100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,256200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,162136,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,248200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,164500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,250900,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,166700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,251900,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,169000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,253900,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,169000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,253300,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,167100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,124789,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,115929,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,3538000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,1858000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,1756000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,1860000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,1851000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,1265000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,1572000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,1716000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,1582000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,1211000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,1297400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,1207500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,1137700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,1357600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,1141200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,1046000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,908000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,1089000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,1191000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,1437000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,1279000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,1380000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,1457000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,1658000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,1326400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,1375600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,1450800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,1518000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,1619000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,1496300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,1141794,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,1037337,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,2000000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,1560000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,1470000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,1270000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,1060000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,1060000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,1030000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,920000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,832000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,1107000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,952000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,863000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,792000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,804000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,713000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,571000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,550000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,645000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,578000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,569000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,694000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,717000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,591000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,627000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,727600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,819400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,608200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,562000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,436000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,536000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,744753,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,714376,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,1992,1992,3050,FAO TIER 1,An,61000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,1993,1993,3050,FAO TIER 1,An,38000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,1994,1994,3050,FAO TIER 1,An,16000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,1995,1995,3050,FAO TIER 1,An,17000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,1996,1996,3050,FAO TIER 1,An,16000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,1997,1997,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,1998,1998,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,1999,1999,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2000,2000,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2001,2001,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2002,2002,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2003,2003,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2004,2004,3050,FAO TIER 1,An,6000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2005,2005,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2006,2006,3050,FAO TIER 1,An,9500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2007,2007,3050,FAO TIER 1,An,8000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2008,2008,3050,FAO TIER 1,An,7000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2009,2009,3050,FAO TIER 1,An,9000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2010,2010,3050,FAO TIER 1,An,9000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2011,2011,3050,FAO TIER 1,An,10000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2012,2012,3050,FAO TIER 1,An,12000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2013,2013,3050,FAO TIER 1,An,13000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2014,2014,3050,FAO TIER 1,An,13000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2015,2015,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2016,2016,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2017,2017,3050,FAO TIER 1,An,9140,I,Imputed value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2030,2030,3050,FAO TIER 1,An,8214,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1068,Ducks,2050,2050,3050,FAO TIER 1,An,7462,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,1280,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,1280,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,1746,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,1978,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,1862,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,1978,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,1700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,2444,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,2100,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,3142,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,2700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,3723,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,3200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,4189,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,3600,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,5469,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,3900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,4073,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,3500,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,3638,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,2900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,3130,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,2800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,3610,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,3300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,4482,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,4000,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,4152,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,3600,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,4649,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,3900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,4995,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,4100,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,4816,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,4300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,5447,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,4600,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,5054,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,5000,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,4635,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,4600,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,5131,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,5100,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,5445,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,5100,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,5665,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,5200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,6104,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,5200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,5379,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,5200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,4977,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,3400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,2905,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,2786,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,7756,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,6600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,6616,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,5200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,5215,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,5000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,5000,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,4600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,4600,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,4200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,4200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,4200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,4200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,3900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,3900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,3900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,3900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,4200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,4200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,5500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,5500,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,5300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,5300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,5800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,5800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,5100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,5100,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,4800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,4800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,4900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,4900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,5300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,5300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,5300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,5300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,5400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,5400,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,6800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,6500,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,6500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,6500,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,6200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,6200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,6300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,6300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,6300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,6300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,6300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,5700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,5700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,5700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,5700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,5700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,5700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,5700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,5700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,5700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,5700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,5683,I,Imputed value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,4933,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,4933,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,141882,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,141375,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,124200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,94404,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,83300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,68908,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,61500,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,55356,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,49800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,43182,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,39200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,38933,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,33900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,32961,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,28700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,32387,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,28200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,33306,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,29000,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,33076,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,28800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,34914,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,29900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,35373,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,30800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,48663,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,38800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,55446,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,49600,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,68590,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,62700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,81119,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,72400,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,90174,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,78200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,91177,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,76500,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,95756,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,78600,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,93960,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,83900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,90929,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,76800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,82672,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,81800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,85841,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,85200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,88145,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,85520,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,91281,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,80800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,89736,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,73100,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,85797,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,73100,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,81022,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,49000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,75323,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,46000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,48774,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,46779,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,79860,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,54110,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,42430,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,45980,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,44880,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,29840,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,30630,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,32640,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,28570,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,30020,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,34500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,34080,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,34460,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,34010,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,34650,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,34580,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,37900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,36490,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,36510,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,37170,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,36570,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,37510,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,35870,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,35790,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,26590,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,28910,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,29040,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,30160,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,31660,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,30800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,34756,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,34473,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,718743,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,486990,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,381870,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,413820,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,403920,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,268560,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,275670,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,293760,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,257130,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,270180,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,310500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,306720,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,310140,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,306090,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,311850,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,311220,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,341100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,328410,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,328590,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,334530,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,329130,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,337590,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,322830,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,322110,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,239310,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,260190,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,261360,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,271440,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,284940,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,277200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,312805,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,310257,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,83000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,34000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,22000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,25000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,25000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,20000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,6000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,8000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,7000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,9000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,9000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,10000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,12000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,13000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,13000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,9751,I,Imputed value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,6269,I,Imputed value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,6619,I,Imputed value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,4195,I,Imputed value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,8053,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,7316,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,708273,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,613100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,614600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,462800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,463200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,418400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,419500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,369800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,370400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,342500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,343000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,325100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,325600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,306900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,307500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,267300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,267300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,252800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,252800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,260500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,260500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,253900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,253900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,257200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,257200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,249800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,249800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,249500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,249500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,244800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,244800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,240500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,240500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,237900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,237900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,234700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,234700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,236300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,236300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,238300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,238300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,246000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,246000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,261400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,261400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,264700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,264700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,256200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,248236,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,248200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,250900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,250900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,251900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,251900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,254000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,253900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,253300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,253300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,250800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,238058,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,220249,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,5538000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,3418000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,3226000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,3130000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,2911000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,2325000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,2602000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,2636000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,2414000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,2318000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,2249400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,2070500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,1929700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,2161600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,1854200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,1617000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,1458000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,1734000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,1769000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,2006000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,1973000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,2097000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,2048000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,2285000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,2054000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,2195000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,2059000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,2080000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,2055000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,2032300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,1886547,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,1751713,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,5682000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,3593100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,3490000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,2838100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,3262000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,2461300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,3169000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,2273600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,2952000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,1838900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,2370000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,1754700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,2642000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,2081800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,2676000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,1797600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,2454000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,1672600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,2358000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,2121800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,2289400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,2195300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,2090500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,2381800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,1941700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,2499000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,2177600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,2063800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,1872700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,2017200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,1633000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,1759300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,1472000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,2010300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,1752000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,2086400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,1787000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,2216500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,2026000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,2440600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,1997000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,2492400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,2123000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,2361000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,2074000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,2617520,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,2305000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,2677500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,2074000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,2609400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,2214140,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,2763170,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,2068751,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,2535370,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,2086269,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,2501480,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,2061619,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,2536830,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,2036495,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,1902814,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,1766492,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,141882,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,142655,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,124200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,95684,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,83300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,70654,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,61500,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,57334,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,49800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,45044,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,39200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,40911,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,35600,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,35405,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,30800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,35529,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,30900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,37029,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,32200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,37265,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,32400,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,40383,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,33800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,39446,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,34300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,52301,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,41700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,58576,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,52400,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,72200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,66000,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,85601,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,76400,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,94326,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,81800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,95826,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,80400,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,100751,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,82700,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,98776,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,88200,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,96376,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,81400,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,87726,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,86800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,90476,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,89800,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,93276,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,90620,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,96726,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,85900,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,95401,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,78300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,91901,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,78300,A,Official figure,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,86401,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,54200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,80300,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,49400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,51679,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,49565,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,798603,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,541100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,541100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,424300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,424300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,459800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,459800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,448800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,448800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,298400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,298400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,306300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,306300,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,326400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,326400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,285700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,285700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,300200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,300200,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,345000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,345000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,340800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,340800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,344600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,344600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,340100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,340100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,346500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,346500,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,345800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,345800,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,379000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,379000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,364900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,364900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,365100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,365100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,371700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,371700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,365700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,365700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,375100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,375100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,358700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,358700,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,357900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,357900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,304500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,265900,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,265900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,289100,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,289100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,290400,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,290400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,301600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,301600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,316600,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,316800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,308000,E,Estimated value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,347561,F,Forecast value,
+GLE,Emissions from Livestock,63,Estonia,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,344730,F,Forecast value,

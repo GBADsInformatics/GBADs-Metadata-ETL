@@ -1,0 +1,1256 @@
+Domain Code,Domain,Area Code,Area,Element Code,Element,Item Code,Item,Year Code,Year,Source Code,Source,Unit,Value,Flag,Flag Description,Note
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1990,1990,3051,UNFCCC,An,205,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1991,1991,3051,UNFCCC,An,187,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1992,1992,3051,UNFCCC,An,159,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1993,1993,3051,UNFCCC,An,146,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1994,1994,3051,UNFCCC,An,123,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1995,1995,3051,UNFCCC,An,122,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1996,1996,3051,UNFCCC,An,116,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1997,1997,3051,UNFCCC,An,105,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1998,1998,3051,UNFCCC,An,107,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,1999,1999,3051,UNFCCC,An,96,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2000,2000,3051,UNFCCC,An,100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2001,2001,3051,UNFCCC,An,103,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2002,2002,3051,UNFCCC,An,88,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2003,2003,3051,UNFCCC,An,95,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2004,2004,3051,UNFCCC,An,81,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2005,2005,3051,UNFCCC,An,82,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2006,2006,3051,UNFCCC,An,82,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2007,2007,3051,UNFCCC,An,80,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2008,2008,3051,UNFCCC,An,78,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2009,2009,3051,UNFCCC,An,81,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2010,2010,3051,UNFCCC,An,78,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2011,2011,3051,UNFCCC,An,80,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2012,2012,3051,UNFCCC,An,94,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2013,2013,3051,UNFCCC,An,96,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2014,2014,3051,UNFCCC,An,106,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2015,2015,3051,UNFCCC,An,110,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2016,2016,3051,UNFCCC,An,116,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2017,2017,3051,UNFCCC,An,112,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2018,2018,3051,UNFCCC,An,110,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2019,2019,3051,UNFCCC,An,116,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,946,Buffalo,2020,2020,3051,UNFCCC,An,116,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1961,1961,3050,FAO TIER 1,An,563800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1962,1962,3050,FAO TIER 1,An,637300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1963,1963,3050,FAO TIER 1,An,729200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1964,1964,3050,FAO TIER 1,An,795300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1965,1965,3050,FAO TIER 1,An,859400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1966,1966,3050,FAO TIER 1,An,884800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1967,1967,3050,FAO TIER 1,An,913600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1968,1968,3050,FAO TIER 1,An,967500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1969,1969,3050,FAO TIER 1,An,1097700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1970,1970,3050,FAO TIER 1,An,1198000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1971,1971,3050,FAO TIER 1,An,1245000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1972,1972,3050,FAO TIER 1,An,1235000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1973,1973,3050,FAO TIER 1,An,1213000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1974,1974,3050,FAO TIER 1,An,1215000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1975,1975,3050,FAO TIER 1,An,1235000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1976,1976,3050,FAO TIER 1,An,1275000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1977,1977,3050,FAO TIER 1,An,1324000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1978,1978,3050,FAO TIER 1,An,1377000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1979,1979,3050,FAO TIER 1,An,1447000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1980,1980,3050,FAO TIER 1,An,1422000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1981,1981,3050,FAO TIER 1,An,1457000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1982,1982,3050,FAO TIER 1,An,1461000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1983,1983,3050,FAO TIER 1,An,1469000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1984,1984,3050,FAO TIER 1,An,1474000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1985,1985,3050,FAO TIER 1,An,1463000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1986,1986,3050,FAO TIER 1,An,1460000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1987,1987,3050,FAO TIER 1,An,1417000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1988,1988,3050,FAO TIER 1,An,1387000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1989,1989,3050,FAO TIER 1,An,1398000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1990,1990,3050,FAO TIER 1,An,1395000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1990,1990,3051,UNFCCC,An,2068400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1991,1991,3050,FAO TIER 1,An,1414000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1991,1991,3051,UNFCCC,An,2081200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1992,1992,3050,FAO TIER 1,An,1418000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1992,1992,3051,UNFCCC,An,2067200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1993,1993,3050,FAO TIER 1,An,1416000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1993,1993,3051,UNFCCC,An,2018400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1994,1994,3050,FAO TIER 1,An,1384000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1994,1994,3051,UNFCCC,An,1951600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1995,1995,3050,FAO TIER 1,An,1342000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1995,1995,3051,UNFCCC,An,1927300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1996,1996,3050,FAO TIER 1,An,1334000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1996,1996,3051,UNFCCC,An,1898300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1997,1997,3050,FAO TIER 1,An,1319000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1997,1997,3051,UNFCCC,An,1859700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1998,1998,3050,FAO TIER 1,An,1301000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1998,1998,3051,UNFCCC,An,1816100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1999,1999,3050,FAO TIER 1,An,1279000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",1999,1999,3051,UNFCCC,An,1764300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2000,2000,3050,FAO TIER 1,An,1251000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2000,2000,3051,UNFCCC,An,1725300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2001,2001,3050,FAO TIER 1,An,1220000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2001,2001,3051,UNFCCC,An,1725800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2002,2002,3050,FAO TIER 1,An,1219000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2002,2002,3051,UNFCCC,An,1718800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2003,2003,3050,FAO TIER 1,An,1210000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2003,2003,3051,UNFCCC,An,1690400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2004,2004,3050,FAO TIER 1,An,1179000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2004,2004,3051,UNFCCC,An,1655000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2005,2005,3050,FAO TIER 1,An,1145000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2005,2005,3051,UNFCCC,An,1636000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2006,2006,3050,FAO TIER 1,An,1131000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2006,2006,3051,UNFCCC,An,1592100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2007,2007,3050,FAO TIER 1,An,1093000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2007,2007,3051,UNFCCC,An,1532700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2008,2008,3050,FAO TIER 1,An,1075000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2008,2008,3051,UNFCCC,An,1499900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2009,2009,3050,FAO TIER 1,An,1055000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2009,2009,3051,UNFCCC,An,1484300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2010,2010,3050,FAO TIER 1,An,1029000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2010,2010,3051,UNFCCC,An,1467400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2011,2011,3050,FAO TIER 1,An,999600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2011,2011,3051,UNFCCC,An,1449000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2012,2012,3050,FAO TIER 1,An,942600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2012,2012,3051,UNFCCC,An,1423400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2013,2013,3050,FAO TIER 1,An,923400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2013,2013,3051,UNFCCC,An,1394700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2014,2014,3050,FAO TIER 1,An,893400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2014,2014,3051,UNFCCC,An,1371300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2015,2015,3050,FAO TIER 1,An,869700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2015,2015,3051,UNFCCC,An,1345100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2016,2016,3050,FAO TIER 1,An,871000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2016,2016,3051,UNFCCC,An,1323100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2017,2017,3050,FAO TIER 1,An,852100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2017,2017,3051,UNFCCC,An,1328000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2018,2018,3050,FAO TIER 1,An,847200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2018,2018,3051,UNFCCC,An,1331600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2019,2019,3050,FAO TIER 1,An,839200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2019,2019,3051,UNFCCC,An,1352300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2020,2020,3050,FAO TIER 1,An,838900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2020,2020,3051,UNFCCC,An,1355700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2021,2021,3050,FAO TIER 1,An,849300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2030,2030,3050,FAO TIER 1,An,1158238,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,960,"Cattle, dairy",2050,2050,3050,FAO TIER 1,An,1198824,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1961,1961,3050,FAO TIER 1,An,2661200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1962,1962,3050,FAO TIER 1,An,2713700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1963,1963,3050,FAO TIER 1,An,2770800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1964,1964,3050,FAO TIER 1,An,2669700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1965,1965,3050,FAO TIER 1,An,2333600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1966,1966,3050,FAO TIER 1,An,2022200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1967,1967,3050,FAO TIER 1,An,2038400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1968,1968,3050,FAO TIER 1,An,2215500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1969,1969,3050,FAO TIER 1,An,2389300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1970,1970,3050,FAO TIER 1,An,2424000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1971,1971,3050,FAO TIER 1,An,2399000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1972,1972,3050,FAO TIER 1,An,2361000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1973,1973,3050,FAO TIER 1,An,2384000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1974,1974,3050,FAO TIER 1,An,2435000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1975,1975,3050,FAO TIER 1,An,2409000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1976,1976,3050,FAO TIER 1,An,2448000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1977,1977,3050,FAO TIER 1,An,2551000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1978,1978,3050,FAO TIER 1,An,2632000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1979,1979,3050,FAO TIER 1,An,2703000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1980,1980,3050,FAO TIER 1,An,2826000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1981,1981,3050,FAO TIER 1,An,2928000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1982,1982,3050,FAO TIER 1,An,3024000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1983,1983,3050,FAO TIER 1,An,3121000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1984,1984,3050,FAO TIER 1,An,3208000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1985,1985,3050,FAO TIER 1,An,3235000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1986,1986,3050,FAO TIER 1,An,3282000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1987,1987,3050,FAO TIER 1,An,3277000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1988,1988,3050,FAO TIER 1,An,3280000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1989,1989,3050,FAO TIER 1,An,3284000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3050,FAO TIER 1,An,3365000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1990,1990,3051,UNFCCC,An,2804700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3050,FAO TIER 1,An,3459000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1991,1991,3051,UNFCCC,An,2897800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3050,FAO TIER 1,An,3562000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1992,1992,3051,UNFCCC,An,2956200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3050,FAO TIER 1,An,3608000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1993,1993,3051,UNFCCC,An,2971700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3050,FAO TIER 1,An,3605000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1994,1994,3051,UNFCCC,An,2965300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3050,FAO TIER 1,An,3574000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1995,1995,3051,UNFCCC,An,2901100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3050,FAO TIER 1,An,3494000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1996,1996,3051,UNFCCC,An,2851600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3050,FAO TIER 1,An,3431000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1997,1997,3051,UNFCCC,An,2847700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3050,FAO TIER 1,An,3407000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1998,1998,3051,UNFCCC,An,2842200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3050,FAO TIER 1,An,3379000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",1999,1999,3051,UNFCCC,An,2823600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3050,FAO TIER 1,An,3337000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2000,2000,3051,UNFCCC,An,2805600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3050,FAO TIER 1,An,3311000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2001,2001,3051,UNFCCC,An,2837900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3050,FAO TIER 1,An,3345000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2002,2002,3051,UNFCCC,An,2805400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3050,FAO TIER 1,An,3314000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2003,2003,3051,UNFCCC,An,2788400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3050,FAO TIER 1,An,3299000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2004,2004,3051,UNFCCC,An,2746600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3050,FAO TIER 1,An,3257000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2005,2005,3051,UNFCCC,An,2754700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3050,FAO TIER 1,An,3260000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2006,2006,3051,UNFCCC,An,2805700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3050,FAO TIER 1,An,3305000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2007,2007,3051,UNFCCC,An,2890100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3050,FAO TIER 1,An,3348000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2008,2008,3051,UNFCCC,An,2922700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3050,FAO TIER 1,An,3368000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2009,2009,3051,UNFCCC,An,2892300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3050,FAO TIER 1,An,3347000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2010,2010,3051,UNFCCC,An,2762600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3050,FAO TIER 1,An,3230400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2011,2011,3051,UNFCCC,An,2723100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3050,FAO TIER 1,An,3229400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2012,2012,3051,UNFCCC,An,2642200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3050,FAO TIER 1,An,3141600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2013,2013,3051,UNFCCC,An,2567200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3050,FAO TIER 1,An,3068600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2014,2014,3051,UNFCCC,An,2488500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3050,FAO TIER 1,An,2990300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2015,2015,3051,UNFCCC,An,2479100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3050,FAO TIER 1,An,2953000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2016,2016,3051,UNFCCC,An,2498600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3050,FAO TIER 1,An,2969900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2017,2017,3051,UNFCCC,An,2514500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3050,FAO TIER 1,An,2994800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2018,2018,3051,UNFCCC,An,2503000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3050,FAO TIER 1,An,2995800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2019,2019,3051,UNFCCC,An,2555100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3050,FAO TIER 1,An,3068100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2020,2020,3051,UNFCCC,An,2604500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2021,2021,3050,FAO TIER 1,An,3111700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2030,2030,3050,FAO TIER 1,An,3384753,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,961,"Cattle, non-dairy",2050,2050,3050,FAO TIER 1,An,3464579,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1961,1961,3050,FAO TIER 1,An,16291000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1962,1962,3050,FAO TIER 1,An,20151000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1963,1963,3050,FAO TIER 1,An,26798000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1964,1964,3050,FAO TIER 1,An,41145000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1965,1965,3050,FAO TIER 1,An,45626000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1966,1966,3050,FAO TIER 1,An,56570000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1967,1967,3050,FAO TIER 1,An,69933000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1968,1968,3050,FAO TIER 1,An,78819000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1969,1969,3050,FAO TIER 1,An,89798000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1970,1970,3050,FAO TIER 1,An,106844000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1971,1971,3050,FAO TIER 1,An,112929000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1972,1972,3050,FAO TIER 1,An,112163000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1973,1973,3050,FAO TIER 1,An,122685000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1974,1974,3050,FAO TIER 1,An,128632000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1975,1975,3050,FAO TIER 1,An,125743000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1976,1976,3050,FAO TIER 1,An,122931000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1977,1977,3050,FAO TIER 1,An,134949000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1978,1978,3050,FAO TIER 1,An,148819000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1979,1979,3050,FAO TIER 1,An,158768000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1980,1980,3050,FAO TIER 1,An,162778000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1981,1981,3050,FAO TIER 1,An,162855000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1982,1982,3050,FAO TIER 1,An,173769000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1983,1983,3050,FAO TIER 1,An,181969000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1984,1984,3050,FAO TIER 1,An,192644000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1985,1985,3050,FAO TIER 1,An,200096000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1986,1986,3050,FAO TIER 1,An,206945000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1987,1987,3050,FAO TIER 1,An,207746000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1988,1988,3050,FAO TIER 1,An,206932000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1989,1989,3050,FAO TIER 1,An,204630000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1990,1990,3050,FAO TIER 1,An,200896000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1991,1991,3050,FAO TIER 1,An,192228000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1992,1992,3050,FAO TIER 1,An,189429000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1993,1993,3050,FAO TIER 1,An,185748000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1994,1994,3050,FAO TIER 1,An,176008000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1995,1995,3050,FAO TIER 1,An,166906000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1996,1996,3050,FAO TIER 1,An,163232000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1997,1997,3050,FAO TIER 1,An,161199000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1998,1998,3050,FAO TIER 1,An,157723000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",1999,1999,3050,FAO TIER 1,An,153102000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2000,2000,3050,FAO TIER 1,An,155427000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2001,2001,3050,FAO TIER 1,An,153189000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2002,2002,3050,FAO TIER 1,An,149686000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2003,2003,3050,FAO TIER 1,An,146643000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2004,2004,3050,FAO TIER 1,An,142284000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2005,2005,3050,FAO TIER 1,An,130200000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2006,2006,3050,FAO TIER 1,An,143726000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2007,2007,3050,FAO TIER 1,An,145766000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2008,2008,3050,FAO TIER 1,An,142128000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2009,2009,3050,FAO TIER 1,An,145439000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2010,2010,3050,FAO TIER 1,An,145934177,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2011,2011,3050,FAO TIER 1,An,41194000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2012,2012,3050,FAO TIER 1,An,42130000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2013,2013,3050,FAO TIER 1,An,173323000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2014,2014,3050,FAO TIER 1,An,177047000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2015,2015,3050,FAO TIER 1,An,151405059,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2016,2016,3050,FAO TIER 1,An,175559000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2017,2017,3050,FAO TIER 1,An,177722000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2018,2018,3050,FAO TIER 1,An,184090000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2019,2019,3050,FAO TIER 1,An,181353000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2020,2020,3050,FAO TIER 1,An,167901060,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2021,2021,3050,FAO TIER 1,An,182334000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2030,2030,3050,FAO TIER 1,An,153596844,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1053,"Chickens, broilers",2050,2050,3050,FAO TIER 1,An,169586988,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1961,1961,3050,FAO TIER 1,An,55922000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1962,1962,3050,FAO TIER 1,An,70518000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1963,1963,3050,FAO TIER 1,An,72448000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1964,1964,3050,FAO TIER 1,An,79937000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1965,1965,3050,FAO TIER 1,An,88090000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1966,1966,3050,FAO TIER 1,An,81240000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1967,1967,3050,FAO TIER 1,An,89030000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1968,1968,3050,FAO TIER 1,An,97502000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1969,1969,3050,FAO TIER 1,An,109910000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1970,1970,3050,FAO TIER 1,An,118201000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1971,1971,3050,FAO TIER 1,An,123906000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1972,1972,3050,FAO TIER 1,An,121327000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1973,1973,3050,FAO TIER 1,An,121004000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1974,1974,3050,FAO TIER 1,An,120865000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1975,1975,3050,FAO TIER 1,An,116420000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1976,1976,3050,FAO TIER 1,An,117738000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1977,1977,3050,FAO TIER 1,An,120312000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1978,1978,3050,FAO TIER 1,An,123818000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1979,1979,3050,FAO TIER 1,An,123720000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1980,1980,3050,FAO TIER 1,An,121882000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1981,1981,3050,FAO TIER 1,An,123429000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1982,1982,3050,FAO TIER 1,An,125359000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1983,1983,3050,FAO TIER 1,An,125319000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1984,1984,3050,FAO TIER 1,An,126961000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1985,1985,3050,FAO TIER 1,An,127596000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1986,1986,3050,FAO TIER 1,An,129649000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1987,1987,3050,FAO TIER 1,An,135202000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1988,1988,3050,FAO TIER 1,An,138439000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1989,1989,3050,FAO TIER 1,An,138988000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1990,1990,3050,FAO TIER 1,An,136961000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1991,1991,3050,FAO TIER 1,An,139298000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1992,1992,3050,FAO TIER 1,An,145229000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1993,1993,3050,FAO TIER 1,An,148066000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1994,1994,3050,FAO TIER 1,An,147652000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1995,1995,3050,FAO TIER 1,An,146630000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1996,1996,3050,FAO TIER 1,An,145536000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1997,1997,3050,FAO TIER 1,An,146152000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1998,1998,3050,FAO TIER 1,An,145299000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",1999,1999,3050,FAO TIER 1,An,143148000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2000,2000,3050,FAO TIER 1,An,140365000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2001,2001,3050,FAO TIER 1,An,139248000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2002,2002,3050,FAO TIER 1,An,137718000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2003,2003,3050,FAO TIER 1,An,137299000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2004,2004,3050,FAO TIER 1,An,137216000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2005,2005,3050,FAO TIER 1,An,135000000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2006,2006,3050,FAO TIER 1,An,136916000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2007,2007,3050,FAO TIER 1,An,142765000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2008,2008,3050,FAO TIER 1,An,142523000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2009,2009,3050,FAO TIER 1,An,139910000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2010,2010,3050,FAO TIER 1,An,140065823,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2011,2011,3050,FAO TIER 1,An,137352000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2012,2012,3050,FAO TIER 1,An,135477000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2013,2013,3050,FAO TIER 1,An,133085000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2014,2014,3050,FAO TIER 1,An,133506000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2015,2015,3050,FAO TIER 1,An,151482000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2016,2016,3050,FAO TIER 1,An,134569000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2017,2017,3050,FAO TIER 1,An,136101000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2018,2018,3050,FAO TIER 1,An,139036000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2019,2019,3050,FAO TIER 1,An,141792000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2020,2020,3050,FAO TIER 1,An,152276837,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2021,2021,3050,FAO TIER 1,An,140697000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2030,2030,3050,FAO TIER 1,An,140876672,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1052,"Chickens, layers",2050,2050,3050,FAO TIER 1,An,128752494,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1961,1961,3050,FAO TIER 1,An,594847,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1962,1962,3050,FAO TIER 1,An,557932,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1963,1963,3050,FAO TIER 1,An,521665,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1964,1964,3050,FAO TIER 1,An,457226,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1965,1965,3050,FAO TIER 1,An,376282,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1966,1966,3050,FAO TIER 1,An,319038,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1967,1967,3050,FAO TIER 1,An,275575,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1968,1968,3050,FAO TIER 1,An,253803,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1969,1969,3050,FAO TIER 1,An,228535,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1970,1970,3050,FAO TIER 1,An,192161,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1971,1971,3050,FAO TIER 1,An,189723,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1972,1972,3050,FAO TIER 1,An,162568,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1973,1973,3050,FAO TIER 1,An,137000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1974,1974,3050,FAO TIER 1,An,124100,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1975,1975,3050,FAO TIER 1,An,110800,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1976,1976,3050,FAO TIER 1,An,94350,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1977,1977,3050,FAO TIER 1,An,82180,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1978,1978,3050,FAO TIER 1,An,78500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1979,1979,3050,FAO TIER 1,An,70700,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1980,1980,3050,FAO TIER 1,An,67000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1981,1981,3050,FAO TIER 1,An,61700,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1982,1982,3050,FAO TIER 1,An,59900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1983,1983,3050,FAO TIER 1,An,57300,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1984,1984,3050,FAO TIER 1,An,54400,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1985,1985,3050,FAO TIER 1,An,50500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1986,1986,3050,FAO TIER 1,An,47500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1987,1987,3050,FAO TIER 1,An,47600,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1988,1988,3050,FAO TIER 1,An,41000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1989,1989,3050,FAO TIER 1,An,36500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1990,1990,3050,FAO TIER 1,An,34500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1990,1990,3051,UNFCCC,An,25899,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1991,1991,3050,FAO TIER 1,An,36500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1991,1991,3051,UNFCCC,An,24643,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1992,1992,3050,FAO TIER 1,An,35100,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1992,1992,3051,UNFCCC,An,22567,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1993,1993,3050,FAO TIER 1,An,33800,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1993,1993,3051,UNFCCC,An,21455,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1994,1994,3050,FAO TIER 1,An,31000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1994,1994,3051,UNFCCC,An,19193,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1995,1995,3050,FAO TIER 1,An,30000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1995,1995,3051,UNFCCC,An,18823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1996,1996,3050,FAO TIER 1,An,29000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1996,1996,3051,UNFCCC,An,20156,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1997,1997,3050,FAO TIER 1,An,28500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1997,1997,3051,UNFCCC,An,20755,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1998,1998,3050,FAO TIER 1,An,29000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1998,1998,3051,UNFCCC,An,19987,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1999,1999,3050,FAO TIER 1,An,33000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,1999,1999,3051,UNFCCC,An,21134,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2000,2000,3050,FAO TIER 1,An,35000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2000,2000,3051,UNFCCC,An,21541,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2001,2001,3050,FAO TIER 1,An,31500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2001,2001,3051,UNFCCC,An,21982,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2002,2002,3050,FAO TIER 1,An,28000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2002,2002,3051,UNFCCC,An,22219,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2003,2003,3050,FAO TIER 1,An,22000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2003,2003,3051,UNFCCC,An,21327,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2004,2004,3050,FAO TIER 1,An,20000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2004,2004,3051,UNFCCC,An,19823,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2005,2005,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2005,2005,3051,UNFCCC,An,16329,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2006,2006,3050,FAO TIER 1,An,15500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2006,2006,3051,UNFCCC,An,14845,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2007,2007,3050,FAO TIER 1,An,14500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2007,2007,3051,UNFCCC,An,14702,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2008,2008,3050,FAO TIER 1,An,15000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2008,2008,3051,UNFCCC,An,14033,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2009,2009,3050,FAO TIER 1,An,14000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2009,2009,3051,UNFCCC,An,13616,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2010,2010,3050,FAO TIER 1,An,15000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2010,2010,3051,UNFCCC,An,19183,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2011,2011,3050,FAO TIER 1,An,15500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2011,2011,3051,UNFCCC,An,18655,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2012,2012,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2012,2012,3051,UNFCCC,An,19454,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2013,2013,3050,FAO TIER 1,An,16700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2013,2013,3051,UNFCCC,An,20164,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2014,2014,3050,FAO TIER 1,An,17000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2014,2014,3051,UNFCCC,An,20268,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2015,2015,3050,FAO TIER 1,An,17104,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2015,2015,3051,UNFCCC,An,17225,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2016,2016,3050,FAO TIER 1,An,17155,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2016,2016,3051,UNFCCC,An,16446,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2017,2017,3050,FAO TIER 1,An,17126,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2017,2017,3051,UNFCCC,An,18996,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2018,2018,3050,FAO TIER 1,An,16159,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2018,2018,3051,UNFCCC,An,19504,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2019,2019,3050,FAO TIER 1,An,16362,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2019,2019,3051,UNFCCC,An,19573,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2020,2020,3050,FAO TIER 1,An,16314,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2020,2020,3051,UNFCCC,An,20113,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2021,2021,3050,FAO TIER 1,An,16265,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2030,2030,3050,FAO TIER 1,An,22005,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1016,Goats,2050,2050,3050,FAO TIER 1,An,21571,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1961,1961,3050,FAO TIER 1,An,637825,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1962,1962,3050,FAO TIER 1,An,564018,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1963,1963,3050,FAO TIER 1,An,488240,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1964,1964,3050,FAO TIER 1,An,410426,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1965,1965,3050,FAO TIER 1,An,334907,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1966,1966,3050,FAO TIER 1,An,280122,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1967,1967,3050,FAO TIER 1,An,250355,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1968,1968,3050,FAO TIER 1,An,225020,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1969,1969,3050,FAO TIER 1,An,198093,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1970,1970,3050,FAO TIER 1,An,145356,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1971,1971,3050,FAO TIER 1,An,130696,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1972,1972,3050,FAO TIER 1,An,102168,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1973,1973,3050,FAO TIER 1,An,78830,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1974,1974,3050,FAO TIER 1,An,66230,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1975,1975,3050,FAO TIER 1,An,42900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1976,1976,3050,FAO TIER 1,An,36380,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1977,1977,3050,FAO TIER 1,An,31360,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1978,1978,3050,FAO TIER 1,An,25200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1979,1979,3050,FAO TIER 1,An,22100,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1980,1980,3050,FAO TIER 1,An,23000,X,Figure from international organizations,Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1981,1981,3050,FAO TIER 1,An,23500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1982,1982,3050,FAO TIER 1,An,23200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1983,1983,3050,FAO TIER 1,An,24300,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1984,1984,3050,FAO TIER 1,An,24100,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1985,1985,3050,FAO TIER 1,An,23000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1986,1986,3050,FAO TIER 1,An,22500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1987,1987,3050,FAO TIER 1,An,21800,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1988,1988,3050,FAO TIER 1,An,21500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1989,1989,3050,FAO TIER 1,An,22200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1990,1990,3050,FAO TIER 1,An,23100,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1990,1990,3051,UNFCCC,An,115779,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1991,1991,3050,FAO TIER 1,An,24300,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1991,1991,3051,UNFCCC,An,119273,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1992,1992,3050,FAO TIER 1,An,25800,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1992,1992,3051,UNFCCC,An,121093,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1993,1993,3050,FAO TIER 1,An,26700,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1993,1993,3051,UNFCCC,An,122410,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1994,1994,3050,FAO TIER 1,An,28000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1994,1994,3051,UNFCCC,An,122234,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1995,1995,3050,FAO TIER 1,An,29000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1995,1995,3051,UNFCCC,An,118155,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1996,1996,3050,FAO TIER 1,An,26000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1996,1996,3051,UNFCCC,An,115314,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1997,1997,3050,FAO TIER 1,An,27000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1997,1997,3051,UNFCCC,An,111330,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1998,1998,3050,FAO TIER 1,An,26000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1998,1998,3051,UNFCCC,An,106830,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1999,1999,3050,FAO TIER 1,An,25000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,1999,1999,3051,UNFCCC,An,103977,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2000,2000,3050,FAO TIER 1,An,25000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2000,2000,3051,UNFCCC,An,104561,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2001,2001,3050,FAO TIER 1,An,21000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2001,2001,3051,UNFCCC,An,106018,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2002,2002,3050,FAO TIER 1,An,25000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2002,2002,3051,UNFCCC,An,101955,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2003,2003,3050,FAO TIER 1,An,25000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2003,2003,3051,UNFCCC,An,96603,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2004,2004,3050,FAO TIER 1,An,25000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2004,2004,3051,UNFCCC,An,92886,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2005,2005,3050,FAO TIER 1,An,25000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2005,2005,3051,UNFCCC,An,86968,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2006,2006,3050,FAO TIER 1,An,20000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2006,2006,3051,UNFCCC,An,84349,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2007,2007,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2007,2007,3051,UNFCCC,An,83141,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2008,2008,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2008,2008,3051,UNFCCC,An,80757,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2009,2009,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2009,2009,3051,UNFCCC,An,81376,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2010,2010,3050,FAO TIER 1,An,17000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2010,2010,3051,UNFCCC,An,74610,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2011,2011,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2011,2011,3051,UNFCCC,An,75199,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2012,2012,3050,FAO TIER 1,An,15500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2012,2012,3051,UNFCCC,An,74302,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2013,2013,3050,FAO TIER 1,An,15800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2013,2013,3051,UNFCCC,An,73977,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2014,2014,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2014,2014,3051,UNFCCC,An,69041,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2015,2015,3050,FAO TIER 1,An,15736,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2015,2015,3051,UNFCCC,An,74092,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2016,2016,3050,FAO TIER 1,An,15304,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2016,2016,3051,UNFCCC,An,74660,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2017,2017,3050,FAO TIER 1,An,14919,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2017,2017,3051,UNFCCC,An,75597,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2018,2018,3050,FAO TIER 1,An,15039,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2018,2018,3051,UNFCCC,An,78247,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2019,2019,3050,FAO TIER 1,An,14894,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2019,2019,3051,UNFCCC,An,77762,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2020,2020,3050,FAO TIER 1,An,14736,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2020,2020,3051,UNFCCC,An,73271,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2021,2021,3050,FAO TIER 1,An,14579,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2030,2030,3050,FAO TIER 1,An,21000,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1096,Horses,2050,2050,3050,FAO TIER 1,An,21000,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1961,1961,3050,FAO TIER 1,An,677000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1962,1962,3050,FAO TIER 1,An,504000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1963,1963,3050,FAO TIER 1,An,389000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1964,1964,3050,FAO TIER 1,An,274000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1965,1965,3050,FAO TIER 1,An,207060,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1966,1966,3050,FAO TIER 1,An,146270,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1967,1967,3050,FAO TIER 1,An,113300,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1968,1968,3050,FAO TIER 1,An,83410,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1969,1969,3050,FAO TIER 1,An,63680,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1970,1970,3050,FAO TIER 1,An,21392,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1971,1971,3050,FAO TIER 1,An,26304,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1972,1972,3050,FAO TIER 1,An,21434,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1973,1973,3050,FAO TIER 1,An,17270,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1974,1974,3050,FAO TIER 1,An,15980,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1975,1975,3050,FAO TIER 1,An,12060,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1976,1976,3050,FAO TIER 1,An,10190,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1977,1977,3050,FAO TIER 1,An,10720,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1978,1978,3050,FAO TIER 1,An,11000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1979,1979,3050,FAO TIER 1,An,11900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1980,1980,3050,FAO TIER 1,An,12000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1981,1981,3050,FAO TIER 1,An,15900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1982,1982,3050,FAO TIER 1,An,19000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1983,1983,3050,FAO TIER 1,An,20700,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1984,1984,3050,FAO TIER 1,An,22200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1985,1985,3050,FAO TIER 1,An,23900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1986,1986,3050,FAO TIER 1,An,26200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1987,1987,3050,FAO TIER 1,An,27200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1988,1988,3050,FAO TIER 1,An,28500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1989,1989,3050,FAO TIER 1,An,29800,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1990,1990,3050,FAO TIER 1,An,30700,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1990,1990,3051,UNFCCC,An,20830,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1991,1991,3050,FAO TIER 1,An,30300,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1991,1991,3051,UNFCCC,An,21676,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1992,1992,3050,FAO TIER 1,An,29200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1992,1992,3051,UNFCCC,An,21233,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1993,1993,3050,FAO TIER 1,An,27200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1993,1993,3051,UNFCCC,An,18129,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1994,1994,3050,FAO TIER 1,An,24900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1994,1994,3051,UNFCCC,An,16277,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1995,1995,3050,FAO TIER 1,An,20000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1995,1995,3051,UNFCCC,An,14335,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1996,1996,3050,FAO TIER 1,An,18000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1996,1996,3051,UNFCCC,An,13003,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1997,1997,3050,FAO TIER 1,An,16300,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1997,1997,3051,UNFCCC,An,11536,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1998,1998,3050,FAO TIER 1,An,13000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1998,1998,3051,UNFCCC,An,12213,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1999,1999,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,1999,1999,3051,UNFCCC,An,11121,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2000,2000,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2000,2000,3051,UNFCCC,An,12100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2001,2001,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2001,2001,3051,UNFCCC,An,10758,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2002,2002,3050,FAO TIER 1,An,11000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2002,2002,3051,UNFCCC,An,10841,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2003,2003,3050,FAO TIER 1,An,11000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2003,2003,3051,UNFCCC,An,9635,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2004,2004,3050,FAO TIER 1,An,11000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2004,2004,3051,UNFCCC,An,8650,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2005,2005,3050,FAO TIER 1,An,10000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2005,2005,3051,UNFCCC,An,8855,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2006,2006,3050,FAO TIER 1,An,9000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2006,2006,3051,UNFCCC,An,9660,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2007,2007,3050,FAO TIER 1,An,10500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2007,2007,3051,UNFCCC,An,10310,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2008,2008,3050,FAO TIER 1,An,10000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2008,2008,3051,UNFCCC,An,12186,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2009,2009,3050,FAO TIER 1,An,12000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2009,2009,3051,UNFCCC,An,14140,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2010,2010,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2010,2010,3051,UNFCCC,An,19852,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2011,2011,3050,FAO TIER 1,An,12500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2011,2011,3051,UNFCCC,An,19977,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2012,2012,3050,FAO TIER 1,An,12800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2012,2012,3051,UNFCCC,An,16096,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2013,2013,3050,FAO TIER 1,An,13000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2013,2013,3051,UNFCCC,An,17201,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2014,2014,3050,FAO TIER 1,An,13300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2014,2014,3051,UNFCCC,An,17438,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2015,2015,3050,FAO TIER 1,An,13595,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2015,2015,3051,UNFCCC,An,17513,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2016,2016,3050,FAO TIER 1,An,13890,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2016,2016,3051,UNFCCC,An,17821,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2017,2017,3050,FAO TIER 1,An,13600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2017,2017,3051,UNFCCC,An,19785,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2018,2018,3050,FAO TIER 1,An,13989,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2018,2018,3051,UNFCCC,An,20263,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2019,2019,3050,FAO TIER 1,An,14403,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2019,2019,3051,UNFCCC,An,21199,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2020,2020,3050,FAO TIER 1,An,14839,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2020,2020,3051,UNFCCC,An,19992,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2021,2021,3050,FAO TIER 1,An,15297,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2030,2030,3050,FAO TIER 1,An,13248,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,976,Sheep,2050,2050,3050,FAO TIER 1,An,12987,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1961,1961,3050,FAO TIER 1,An,278400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1962,1962,3050,FAO TIER 1,An,419300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1963,1963,3050,FAO TIER 1,An,340600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1964,1964,3050,FAO TIER 1,An,360800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1965,1965,3050,FAO TIER 1,An,414400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1966,1966,3050,FAO TIER 1,An,534800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1967,1967,3050,FAO TIER 1,An,614200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1968,1968,3050,FAO TIER 1,An,570900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1969,1969,3050,FAO TIER 1,An,562100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1970,1970,3050,FAO TIER 1,An,658500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1971,1971,3050,FAO TIER 1,An,709100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1972,1972,3050,FAO TIER 1,An,716200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1973,1973,3050,FAO TIER 1,An,749000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1974,1974,3050,FAO TIER 1,An,801800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1975,1975,3050,FAO TIER 1,An,768400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1976,1976,3050,FAO TIER 1,An,745900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1977,1977,3050,FAO TIER 1,An,813200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1978,1978,3050,FAO TIER 1,An,878000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1979,1979,3050,FAO TIER 1,An,949100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1980,1980,3050,FAO TIER 1,An,999800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1981,1981,3050,FAO TIER 1,An,1006500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1982,1982,3050,FAO TIER 1,An,1004000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1983,1983,3050,FAO TIER 1,An,1027300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1984,1984,3050,FAO TIER 1,An,1042300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1985,1985,3050,FAO TIER 1,An,1071800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1986,1986,3050,FAO TIER 1,An,1106100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1987,1987,3050,FAO TIER 1,An,1135400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1988,1988,3050,FAO TIER 1,An,1172500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1989,1989,3050,FAO TIER 1,An,1186600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1990,1990,3050,FAO TIER 1,An,1181700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1991,1991,3050,FAO TIER 1,An,1133500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1992,1992,3050,FAO TIER 1,An,1096600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1993,1993,3050,FAO TIER 1,An,1078300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1994,1994,3050,FAO TIER 1,An,1062100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1995,1995,3050,FAO TIER 1,An,1025000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1996,1996,3050,FAO TIER 1,An,990000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1997,1997,3050,FAO TIER 1,An,982300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1998,1998,3050,FAO TIER 1,An,990400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",1999,1999,3050,FAO TIER 1,An,987900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2000,2000,3050,FAO TIER 1,An,980600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2001,2001,3050,FAO TIER 1,An,978800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2002,2002,3050,FAO TIER 1,An,961200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2003,2003,3050,FAO TIER 1,An,972500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2004,2004,3050,FAO TIER 1,An,972400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2005,2005,3050,FAO TIER 1,An,960000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2006,2006,3050,FAO TIER 1,An,962000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2007,2007,3050,FAO TIER 1,An,975900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2008,2008,3050,FAO TIER 1,An,974500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2009,2009,3050,FAO TIER 1,An,989900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2010,2010,3050,FAO TIER 1,An,980000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2011,2011,3050,FAO TIER 1,An,976800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2012,2012,3050,FAO TIER 1,An,973500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2013,2013,3050,FAO TIER 1,An,968500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2014,2014,3050,FAO TIER 1,An,953700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2015,2015,3050,FAO TIER 1,An,940088,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2016,2016,3050,FAO TIER 1,An,931300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2017,2017,3050,FAO TIER 1,An,934600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2018,2018,3050,FAO TIER 1,An,918900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2019,2019,3050,FAO TIER 1,An,915600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2020,2020,3050,FAO TIER 1,An,921324,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2021,2021,3050,FAO TIER 1,An,929000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2030,2030,3050,FAO TIER 1,An,965492,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1051,"Swine, breeding",2050,2050,3050,FAO TIER 1,An,946468,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1961,1961,3050,FAO TIER 1,An,2505600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1962,1962,3050,FAO TIER 1,An,3773700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1963,1963,3050,FAO TIER 1,An,3065400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1964,1964,3050,FAO TIER 1,An,3247200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1965,1965,3050,FAO TIER 1,An,3729600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1966,1966,3050,FAO TIER 1,An,4813200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1967,1967,3050,FAO TIER 1,An,5527800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1968,1968,3050,FAO TIER 1,An,5138100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1969,1969,3050,FAO TIER 1,An,5058900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1970,1970,3050,FAO TIER 1,An,5926500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1971,1971,3050,FAO TIER 1,An,6381900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1972,1972,3050,FAO TIER 1,An,6445800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1973,1973,3050,FAO TIER 1,An,6741000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1974,1974,3050,FAO TIER 1,An,7216200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1975,1975,3050,FAO TIER 1,An,6915600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1976,1976,3050,FAO TIER 1,An,6713100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1977,1977,3050,FAO TIER 1,An,7318800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1978,1978,3050,FAO TIER 1,An,7902000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1979,1979,3050,FAO TIER 1,An,8541900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1980,1980,3050,FAO TIER 1,An,8998200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1981,1981,3050,FAO TIER 1,An,9058500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1982,1982,3050,FAO TIER 1,An,9036000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1983,1983,3050,FAO TIER 1,An,9245700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1984,1984,3050,FAO TIER 1,An,9380700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1985,1985,3050,FAO TIER 1,An,9646200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1986,1986,3050,FAO TIER 1,An,9954900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1987,1987,3050,FAO TIER 1,An,10218600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1988,1988,3050,FAO TIER 1,An,10552500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1989,1989,3050,FAO TIER 1,An,10679400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1990,1990,3050,FAO TIER 1,An,10635300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1991,1991,3050,FAO TIER 1,An,10201500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1992,1992,3050,FAO TIER 1,An,9869400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1993,1993,3050,FAO TIER 1,An,9704700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1994,1994,3050,FAO TIER 1,An,9558900,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1995,1995,3050,FAO TIER 1,An,9225000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1996,1996,3050,FAO TIER 1,An,8910000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1997,1997,3050,FAO TIER 1,An,8840700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1998,1998,3050,FAO TIER 1,An,8913600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",1999,1999,3050,FAO TIER 1,An,8891100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2000,2000,3050,FAO TIER 1,An,8825400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2001,2001,3050,FAO TIER 1,An,8809200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2002,2002,3050,FAO TIER 1,An,8650800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2003,2003,3050,FAO TIER 1,An,8752500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2004,2004,3050,FAO TIER 1,An,8751600,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2005,2005,3050,FAO TIER 1,An,8640000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2006,2006,3050,FAO TIER 1,An,8658000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2007,2007,3050,FAO TIER 1,An,8783100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2008,2008,3050,FAO TIER 1,An,8770500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2009,2009,3050,FAO TIER 1,An,8909100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2010,2010,3050,FAO TIER 1,An,8820000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2011,2011,3050,FAO TIER 1,An,8791200,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2012,2012,3050,FAO TIER 1,An,8761500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2013,2013,3050,FAO TIER 1,An,8716500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2014,2014,3050,FAO TIER 1,An,8583300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2015,2015,3050,FAO TIER 1,An,8460790,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2016,2016,3050,FAO TIER 1,An,8381700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2017,2017,3050,FAO TIER 1,An,8411400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2018,2018,3050,FAO TIER 1,An,8270100,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2019,2019,3050,FAO TIER 1,An,8240400,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2020,2020,3050,FAO TIER 1,An,8291917,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2021,2021,3050,FAO TIER 1,An,8361000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2030,2030,3050,FAO TIER 1,An,8689430,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1049,"Swine, market",2050,2050,3050,FAO TIER 1,An,8518214,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1961,1961,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1962,1962,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1963,1963,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1964,1964,3050,FAO TIER 1,An,17000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1965,1965,3050,FAO TIER 1,An,17000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1966,1966,3050,FAO TIER 1,An,17000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1967,1967,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1968,1968,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1969,1969,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1970,1970,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1971,1971,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1972,1972,3050,FAO TIER 1,An,18000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1973,1973,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1974,1974,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1975,1975,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1976,1976,3050,FAO TIER 1,An,19000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1977,1977,3050,FAO TIER 1,An,20000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1978,1978,3050,FAO TIER 1,An,20000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1979,1979,3050,FAO TIER 1,An,20000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1980,1980,3050,FAO TIER 1,An,21000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1981,1981,3050,FAO TIER 1,An,20000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1982,1982,3050,FAO TIER 1,An,21000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1983,1983,3050,FAO TIER 1,An,16000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1984,1984,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1985,1985,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1986,1986,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1987,1987,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1988,1988,3050,FAO TIER 1,An,12000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1989,1989,3050,FAO TIER 1,An,7000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1990,1990,3050,FAO TIER 1,An,8000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1991,1991,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1992,1992,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1993,1993,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1994,1994,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1995,1995,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1996,1996,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1997,1997,3050,FAO TIER 1,An,4000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1998,1998,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,1999,1999,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2000,2000,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2001,2001,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2002,2002,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2003,2003,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2004,2004,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2005,2005,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2006,2006,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2007,2007,3050,FAO TIER 1,An,3000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2008,2008,3050,FAO TIER 1,An,2695,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2009,2009,3050,FAO TIER 1,An,2575,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2010,2010,3050,FAO TIER 1,An,2563,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2011,2011,3050,FAO TIER 1,An,2485,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2012,2012,3050,FAO TIER 1,An,2407,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2013,2013,3050,FAO TIER 1,An,2330,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2014,2014,3050,FAO TIER 1,An,2231,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2015,2015,3050,FAO TIER 1,An,2196,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2016,2016,3050,FAO TIER 1,An,2106,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2017,2017,3050,FAO TIER 1,An,1947,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2018,2018,3050,FAO TIER 1,An,1864,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2019,2019,3050,FAO TIER 1,An,1769,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2020,2020,3050,FAO TIER 1,An,1682,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2021,2021,3050,FAO TIER 1,An,1595,I,Imputed value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2030,2030,3050,FAO TIER 1,An,3294,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1079,Turkeys,2050,2050,3050,FAO TIER 1,An,3637,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1961,1961,3050,FAO TIER 1,An,3225000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1962,1962,3050,FAO TIER 1,An,3351000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1963,1963,3050,FAO TIER 1,An,3500000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1964,1964,3050,FAO TIER 1,An,3465000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1965,1965,3050,FAO TIER 1,An,3193000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1966,1966,3050,FAO TIER 1,An,2907000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1967,1967,3050,FAO TIER 1,An,2952000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1968,1968,3050,FAO TIER 1,An,3183000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1969,1969,3050,FAO TIER 1,An,3487000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1970,1970,3050,FAO TIER 1,An,3622000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1971,1971,3050,FAO TIER 1,An,3644000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1972,1972,3050,FAO TIER 1,An,3596000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1973,1973,3050,FAO TIER 1,An,3597000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1974,1974,3050,FAO TIER 1,An,3650000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1975,1975,3050,FAO TIER 1,An,3644000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1976,1976,3050,FAO TIER 1,An,3723000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1977,1977,3050,FAO TIER 1,An,3875000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1978,1978,3050,FAO TIER 1,An,4009000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1979,1979,3050,FAO TIER 1,An,4150000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1980,1980,3050,FAO TIER 1,An,4248000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1981,1981,3050,FAO TIER 1,An,4385000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1982,1982,3050,FAO TIER 1,An,4485000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1983,1983,3050,FAO TIER 1,An,4590000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1984,1984,3050,FAO TIER 1,An,4682000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1985,1985,3050,FAO TIER 1,An,4698000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1986,1986,3050,FAO TIER 1,An,4742000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1987,1987,3050,FAO TIER 1,An,4694000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1988,1988,3050,FAO TIER 1,An,4667000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1989,1989,3050,FAO TIER 1,An,4682000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1990,1990,3050,FAO TIER 1,An,4760000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1990,1990,3051,UNFCCC,An,4873100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1991,1991,3050,FAO TIER 1,An,4873000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1991,1991,3051,UNFCCC,An,4979000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1992,1992,3050,FAO TIER 1,An,4980000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1992,1992,3051,UNFCCC,An,5023400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1993,1993,3050,FAO TIER 1,An,5024000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1993,1993,3051,UNFCCC,An,4990100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1994,1994,3050,FAO TIER 1,An,4989000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1994,1994,3051,UNFCCC,An,4916900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1995,1995,3050,FAO TIER 1,An,4916000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1995,1995,3051,UNFCCC,An,4828400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1996,1996,3050,FAO TIER 1,An,4828000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1996,1996,3051,UNFCCC,An,4749900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1997,1997,3050,FAO TIER 1,An,4750000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1997,1997,3051,UNFCCC,An,4707400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1998,1998,3050,FAO TIER 1,An,4708000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1998,1998,3051,UNFCCC,An,4658300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1999,1999,3050,FAO TIER 1,An,4658000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,1999,1999,3051,UNFCCC,An,4587900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2000,2000,3050,FAO TIER 1,An,4588000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2000,2000,3051,UNFCCC,An,4530900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2001,2001,3050,FAO TIER 1,An,4531000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2001,2001,3051,UNFCCC,An,4563700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2002,2002,3050,FAO TIER 1,An,4564000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2002,2002,3051,UNFCCC,An,4524200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2003,2003,3050,FAO TIER 1,An,4524000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2003,2003,3051,UNFCCC,An,4478800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2004,2004,3050,FAO TIER 1,An,4478000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2004,2004,3051,UNFCCC,An,4401600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2005,2005,3050,FAO TIER 1,An,4402000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2005,2005,3051,UNFCCC,An,4390700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2006,2006,3050,FAO TIER 1,An,4391000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2006,2006,3051,UNFCCC,An,4397800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2007,2007,3050,FAO TIER 1,An,4398000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2007,2007,3051,UNFCCC,An,4422800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2008,2008,3050,FAO TIER 1,An,4423000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2008,2008,3051,UNFCCC,An,4422600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2009,2009,3050,FAO TIER 1,An,4423000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2009,2009,3051,UNFCCC,An,4376600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2010,2010,3050,FAO TIER 1,An,4376000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2010,2010,3051,UNFCCC,An,4230000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2011,2011,3050,FAO TIER 1,An,4230000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2011,2011,3051,UNFCCC,An,4172100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2012,2012,3050,FAO TIER 1,An,4172000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2012,2012,3051,UNFCCC,An,4065600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2013,2013,3050,FAO TIER 1,An,4065000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2013,2013,3051,UNFCCC,An,3961900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2014,2014,3050,FAO TIER 1,An,3962000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2014,2014,3051,UNFCCC,An,3859800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2015,2015,3050,FAO TIER 1,An,3860000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2015,2015,3051,UNFCCC,An,3824200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2016,2016,3050,FAO TIER 1,An,3824000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2016,2016,3051,UNFCCC,An,3821700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2017,2017,3050,FAO TIER 1,An,3822000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2017,2017,3051,UNFCCC,An,3842500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2018,2018,3050,FAO TIER 1,An,3842000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2018,2018,3051,UNFCCC,An,3834600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2019,2019,3050,FAO TIER 1,An,3835000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2019,2019,3051,UNFCCC,An,3907400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2020,2020,3050,FAO TIER 1,An,3907000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2020,2020,3051,UNFCCC,An,3960200,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2021,2021,3050,FAO TIER 1,An,3961000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2030,2030,3050,FAO TIER 1,An,4542991,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1757,Cattle,2050,2050,3050,FAO TIER 1,An,4663403,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1961,1961,3050,FAO TIER 1,An,72213000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1962,1962,3050,FAO TIER 1,An,90669000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1963,1963,3050,FAO TIER 1,An,99246000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1964,1964,3050,FAO TIER 1,An,121082000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1965,1965,3050,FAO TIER 1,An,133716000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1966,1966,3050,FAO TIER 1,An,137810000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1967,1967,3050,FAO TIER 1,An,158963000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1968,1968,3050,FAO TIER 1,An,176321000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1969,1969,3050,FAO TIER 1,An,199708000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1970,1970,3050,FAO TIER 1,An,225045000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1971,1971,3050,FAO TIER 1,An,236835000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1972,1972,3050,FAO TIER 1,An,233490000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1973,1973,3050,FAO TIER 1,An,243689000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1974,1974,3050,FAO TIER 1,An,249497000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1975,1975,3050,FAO TIER 1,An,242163000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1976,1976,3050,FAO TIER 1,An,240669000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1977,1977,3050,FAO TIER 1,An,255261000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1978,1978,3050,FAO TIER 1,An,272637000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1979,1979,3050,FAO TIER 1,An,282488000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1980,1980,3050,FAO TIER 1,An,284660000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1981,1981,3050,FAO TIER 1,An,286284000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1982,1982,3050,FAO TIER 1,An,299128000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1983,1983,3050,FAO TIER 1,An,307288000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1984,1984,3050,FAO TIER 1,An,319605000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1985,1985,3050,FAO TIER 1,An,327692000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1986,1986,3050,FAO TIER 1,An,336594000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1987,1987,3050,FAO TIER 1,An,342948000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1988,1988,3050,FAO TIER 1,An,345371000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1989,1989,3050,FAO TIER 1,An,343618000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1990,1990,3050,FAO TIER 1,An,337857000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1991,1991,3050,FAO TIER 1,An,331526000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1992,1992,3050,FAO TIER 1,An,334658000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1993,1993,3050,FAO TIER 1,An,333814000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1994,1994,3050,FAO TIER 1,An,323660000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1995,1995,3050,FAO TIER 1,An,313536000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1996,1996,3050,FAO TIER 1,An,308768000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1997,1997,3050,FAO TIER 1,An,307351000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1998,1998,3050,FAO TIER 1,An,303022000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,1999,1999,3050,FAO TIER 1,An,296250000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2000,2000,3050,FAO TIER 1,An,295792000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2001,2001,3050,FAO TIER 1,An,292437000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2002,2002,3050,FAO TIER 1,An,287404000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2003,2003,3050,FAO TIER 1,An,283942000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2004,2004,3050,FAO TIER 1,An,279500000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2005,2005,3050,FAO TIER 1,An,265200000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2006,2006,3050,FAO TIER 1,An,280642000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2007,2007,3050,FAO TIER 1,An,288531000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2008,2008,3050,FAO TIER 1,An,284651000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2009,2009,3050,FAO TIER 1,An,285349000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2010,2010,3050,FAO TIER 1,An,286000000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2011,2011,3050,FAO TIER 1,An,178546000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2012,2012,3050,FAO TIER 1,An,177607000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2013,2013,3050,FAO TIER 1,An,306408000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2014,2014,3050,FAO TIER 1,An,310553000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2015,2015,3050,FAO TIER 1,An,302887059,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2016,2016,3050,FAO TIER 1,An,310128000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2017,2017,3050,FAO TIER 1,An,313823000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2018,2018,3050,FAO TIER 1,An,323126000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2019,2019,3050,FAO TIER 1,An,323145000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2020,2020,3050,FAO TIER 1,An,320177897,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2021,2021,3050,FAO TIER 1,An,323031000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2030,2030,3050,FAO TIER 1,An,294473516,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1054,Chickens,2050,2050,3050,FAO TIER 1,An,298339483,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1961,1961,3050,FAO TIER 1,An,72229000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1962,1962,3050,FAO TIER 1,An,90685000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1963,1963,3050,FAO TIER 1,An,99262000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1964,1964,3050,FAO TIER 1,An,121099000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1965,1965,3050,FAO TIER 1,An,133733000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1966,1966,3050,FAO TIER 1,An,137827000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1967,1967,3050,FAO TIER 1,An,158981000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1968,1968,3050,FAO TIER 1,An,176339000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1969,1969,3050,FAO TIER 1,An,199726000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1970,1970,3050,FAO TIER 1,An,225063000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1971,1971,3050,FAO TIER 1,An,236853000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1972,1972,3050,FAO TIER 1,An,233508000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1973,1973,3050,FAO TIER 1,An,243708000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1974,1974,3050,FAO TIER 1,An,249516000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1975,1975,3050,FAO TIER 1,An,242182000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1976,1976,3050,FAO TIER 1,An,240688000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1977,1977,3050,FAO TIER 1,An,255281000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1978,1978,3050,FAO TIER 1,An,272657000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1979,1979,3050,FAO TIER 1,An,282508000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1980,1980,3050,FAO TIER 1,An,284681000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1981,1981,3050,FAO TIER 1,An,286304000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1982,1982,3050,FAO TIER 1,An,299149000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1983,1983,3050,FAO TIER 1,An,307304000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1984,1984,3050,FAO TIER 1,An,319613000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1985,1985,3050,FAO TIER 1,An,327700000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1986,1986,3050,FAO TIER 1,An,336602000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1987,1987,3050,FAO TIER 1,An,342956000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1988,1988,3050,FAO TIER 1,An,345383000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1989,1989,3050,FAO TIER 1,An,343625000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1990,1990,3050,FAO TIER 1,An,337865000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1990,1990,3051,UNFCCC,An,331526000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1991,1991,3050,FAO TIER 1,An,331530000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1991,1991,3051,UNFCCC,An,334658000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1992,1992,3050,FAO TIER 1,An,334662000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1992,1992,3051,UNFCCC,An,333664000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1993,1993,3050,FAO TIER 1,An,333818000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1993,1993,3051,UNFCCC,An,323660000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1994,1994,3050,FAO TIER 1,An,323664000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1994,1994,3051,UNFCCC,An,313536000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1995,1995,3050,FAO TIER 1,An,313540000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1995,1995,3051,UNFCCC,An,308757000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1996,1996,3050,FAO TIER 1,An,308772000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1996,1996,3051,UNFCCC,An,307351000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1997,1997,3050,FAO TIER 1,An,307355000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1997,1997,3051,UNFCCC,An,303022000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1998,1998,3050,FAO TIER 1,An,303025000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1998,1998,3051,UNFCCC,An,296250000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1999,1999,3050,FAO TIER 1,An,296253000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,1999,1999,3051,UNFCCC,An,295792000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2000,2000,3050,FAO TIER 1,An,295795000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2000,2000,3051,UNFCCC,An,292513000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2001,2001,3050,FAO TIER 1,An,292440000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2001,2001,3051,UNFCCC,An,287404000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2002,2002,3050,FAO TIER 1,An,287407000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2002,2002,3051,UNFCCC,An,283942000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2003,2003,3050,FAO TIER 1,An,283945000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2003,2003,3051,UNFCCC,An,283705000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2004,2004,3050,FAO TIER 1,An,279503000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2004,2004,3051,UNFCCC,An,282003000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2005,2005,3050,FAO TIER 1,An,265203000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2005,2005,3051,UNFCCC,An,284384000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2006,2006,3050,FAO TIER 1,An,280645000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2006,2006,3051,UNFCCC,An,291870000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2007,2007,3050,FAO TIER 1,An,288534000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2007,2007,3051,UNFCCC,An,287759900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2008,2008,3050,FAO TIER 1,An,284653695,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2008,2008,3051,UNFCCC,An,288135000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2009,2009,3050,FAO TIER 1,An,285351575,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2009,2009,3051,UNFCCC,An,278822774,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2010,2010,3050,FAO TIER 1,An,286002563,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2010,2010,3051,UNFCCC,An,277459408,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2011,2011,3050,FAO TIER 1,An,178548485,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2011,2011,3051,UNFCCC,An,273926151,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2012,2012,3050,FAO TIER 1,An,177609407,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2012,2012,3051,UNFCCC,An,276167907,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2013,2013,3050,FAO TIER 1,An,306410330,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2013,2013,3051,UNFCCC,An,276871908,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2014,2014,3050,FAO TIER 1,An,310555231,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2014,2014,3051,UNFCCC,An,278432696,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2015,2015,3050,FAO TIER 1,An,302889255,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2015,2015,3051,UNFCCC,An,279805895,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2016,2016,3050,FAO TIER 1,An,310130106,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2016,2016,3051,UNFCCC,An,284607356,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2017,2017,3050,FAO TIER 1,An,313824947,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2017,2017,3051,UNFCCC,An,291270444,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2018,2018,3050,FAO TIER 1,An,323127864,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2018,2018,3051,UNFCCC,An,294251135,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2019,2019,3050,FAO TIER 1,An,323146769,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2019,2019,3051,UNFCCC,An,295339734,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2020,2020,3050,FAO TIER 1,An,320179579,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2020,2020,3051,UNFCCC,An,296549283,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2021,2021,3050,FAO TIER 1,An,323032595,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2030,2030,3050,FAO TIER 1,An,294476810,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,2029,Poultry Birds,2050,2050,3050,FAO TIER 1,An,298343119,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1961,1961,3050,FAO TIER 1,An,1271847,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1962,1962,3050,FAO TIER 1,An,1061932,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1963,1963,3050,FAO TIER 1,An,910665,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1964,1964,3050,FAO TIER 1,An,731226,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1965,1965,3050,FAO TIER 1,An,583342,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1966,1966,3050,FAO TIER 1,An,465308,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1967,1967,3050,FAO TIER 1,An,388875,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1968,1968,3050,FAO TIER 1,An,337213,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1969,1969,3050,FAO TIER 1,An,292215,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1970,1970,3050,FAO TIER 1,An,213553,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1971,1971,3050,FAO TIER 1,An,216027,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1972,1972,3050,FAO TIER 1,An,184002,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1973,1973,3050,FAO TIER 1,An,154270,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1974,1974,3050,FAO TIER 1,An,140080,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1975,1975,3050,FAO TIER 1,An,122860,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1976,1976,3050,FAO TIER 1,An,104540,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1977,1977,3050,FAO TIER 1,An,92900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1978,1978,3050,FAO TIER 1,An,89500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1979,1979,3050,FAO TIER 1,An,82600,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1980,1980,3050,FAO TIER 1,An,79000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1981,1981,3050,FAO TIER 1,An,77600,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1982,1982,3050,FAO TIER 1,An,78900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1983,1983,3050,FAO TIER 1,An,78000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1984,1984,3050,FAO TIER 1,An,76600,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1985,1985,3050,FAO TIER 1,An,74400,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1986,1986,3050,FAO TIER 1,An,73700,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1987,1987,3050,FAO TIER 1,An,74800,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1988,1988,3050,FAO TIER 1,An,69500,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1989,1989,3050,FAO TIER 1,An,66300,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1990,1990,3050,FAO TIER 1,An,65200,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1990,1990,3051,UNFCCC,An,46729,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1991,1991,3050,FAO TIER 1,An,66800,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1991,1991,3051,UNFCCC,An,46319,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1992,1992,3050,FAO TIER 1,An,64300,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1992,1992,3051,UNFCCC,An,43800,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1993,1993,3050,FAO TIER 1,An,61000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1993,1993,3051,UNFCCC,An,39584,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1994,1994,3050,FAO TIER 1,An,55900,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1994,1994,3051,UNFCCC,An,35470,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1995,1995,3050,FAO TIER 1,An,50000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1995,1995,3051,UNFCCC,An,33158,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1996,1996,3050,FAO TIER 1,An,47000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1996,1996,3051,UNFCCC,An,33159,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1997,1997,3050,FAO TIER 1,An,44800,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1997,1997,3051,UNFCCC,An,32291,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1998,1998,3050,FAO TIER 1,An,42000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1998,1998,3051,UNFCCC,An,32200,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1999,1999,3050,FAO TIER 1,An,45000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,1999,1999,3051,UNFCCC,An,32255,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2000,2000,3050,FAO TIER 1,An,45000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2000,2000,3051,UNFCCC,An,33641,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2001,2001,3050,FAO TIER 1,An,41500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2001,2001,3051,UNFCCC,An,32740,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2002,2002,3050,FAO TIER 1,An,39000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2002,2002,3051,UNFCCC,An,33060,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2003,2003,3050,FAO TIER 1,An,33000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2003,2003,3051,UNFCCC,An,30962,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2004,2004,3050,FAO TIER 1,An,31000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2004,2004,3051,UNFCCC,An,28473,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2005,2005,3050,FAO TIER 1,An,29000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2005,2005,3051,UNFCCC,An,25184,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2006,2006,3050,FAO TIER 1,An,24500,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2006,2006,3051,UNFCCC,An,24505,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2007,2007,3050,FAO TIER 1,An,25000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2007,2007,3051,UNFCCC,An,25012,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2008,2008,3050,FAO TIER 1,An,25000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2008,2008,3051,UNFCCC,An,26219,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2009,2009,3050,FAO TIER 1,An,26000,A,Official figure,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2009,2009,3051,UNFCCC,An,27756,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2010,2010,3050,FAO TIER 1,An,27000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2010,2010,3051,UNFCCC,An,39035,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2011,2011,3050,FAO TIER 1,An,28000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2011,2011,3051,UNFCCC,An,38632,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2012,2012,3050,FAO TIER 1,An,28800,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2012,2012,3051,UNFCCC,An,35550,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2013,2013,3050,FAO TIER 1,An,29700,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2013,2013,3051,UNFCCC,An,37365,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2014,2014,3050,FAO TIER 1,An,30300,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2014,2014,3051,UNFCCC,An,37706,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2015,2015,3050,FAO TIER 1,An,30699,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2015,2015,3051,UNFCCC,An,34738,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2016,2016,3050,FAO TIER 1,An,31045,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2016,2016,3051,UNFCCC,An,34267,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2017,2017,3050,FAO TIER 1,An,30726,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2017,2017,3051,UNFCCC,An,38781,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2018,2018,3050,FAO TIER 1,An,30148,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2018,2018,3051,UNFCCC,An,39767,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2019,2019,3050,FAO TIER 1,An,30765,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2019,2019,3051,UNFCCC,An,40772,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2020,2020,3050,FAO TIER 1,An,31153,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2020,2020,3051,UNFCCC,An,40105,X,Figure from international organizations,NC/CRF/BUR Unofficial figure
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2021,2021,3050,FAO TIER 1,An,31562,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2030,2030,3050,FAO TIER 1,An,35252,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1749,Sheep and Goats,2050,2050,3050,FAO TIER 1,An,34558,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1961,1961,3050,FAO TIER 1,An,2784000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1962,1962,3050,FAO TIER 1,An,4193000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1963,1963,3050,FAO TIER 1,An,3406000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1964,1964,3050,FAO TIER 1,An,3608000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1965,1965,3050,FAO TIER 1,An,4144000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1966,1966,3050,FAO TIER 1,An,5348000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1967,1967,3050,FAO TIER 1,An,6142000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1968,1968,3050,FAO TIER 1,An,5709000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1969,1969,3050,FAO TIER 1,An,5621000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1970,1970,3050,FAO TIER 1,An,6585000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1971,1971,3050,FAO TIER 1,An,7091000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1972,1972,3050,FAO TIER 1,An,7162000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1973,1973,3050,FAO TIER 1,An,7490000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1974,1974,3050,FAO TIER 1,An,8018000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1975,1975,3050,FAO TIER 1,An,7684000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1976,1976,3050,FAO TIER 1,An,7459000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1977,1977,3050,FAO TIER 1,An,8132000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1978,1978,3050,FAO TIER 1,An,8780000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1979,1979,3050,FAO TIER 1,An,9491000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1980,1980,3050,FAO TIER 1,An,9998000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1981,1981,3050,FAO TIER 1,An,10065000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1982,1982,3050,FAO TIER 1,An,10040000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1983,1983,3050,FAO TIER 1,An,10273000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1984,1984,3050,FAO TIER 1,An,10423000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1985,1985,3050,FAO TIER 1,An,10718000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1986,1986,3050,FAO TIER 1,An,11061000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1987,1987,3050,FAO TIER 1,An,11354000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1988,1988,3050,FAO TIER 1,An,11725000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1989,1989,3050,FAO TIER 1,An,11866000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1990,1990,3050,FAO TIER 1,An,11817000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1990,1990,3051,UNFCCC,An,11335500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1991,1991,3050,FAO TIER 1,An,11335000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1991,1991,3051,UNFCCC,An,10966000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1992,1992,3050,FAO TIER 1,An,10966000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1992,1992,3051,UNFCCC,An,10783100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1993,1993,3050,FAO TIER 1,An,10783000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1993,1993,3051,UNFCCC,An,10620300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1994,1994,3050,FAO TIER 1,An,10621000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1994,1994,3051,UNFCCC,An,10250100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1995,1995,3050,FAO TIER 1,An,10250000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1995,1995,3051,UNFCCC,An,9899500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1996,1996,3050,FAO TIER 1,An,9900000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1996,1996,3051,UNFCCC,An,9823800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1997,1997,3050,FAO TIER 1,An,9823000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1997,1997,3051,UNFCCC,An,9903700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1998,1998,3050,FAO TIER 1,An,9904000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1998,1998,3051,UNFCCC,An,9879100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1999,1999,3050,FAO TIER 1,An,9879000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,1999,1999,3051,UNFCCC,An,9806500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2000,2000,3050,FAO TIER 1,An,9806000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2000,2000,3051,UNFCCC,An,9788300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2001,2001,3050,FAO TIER 1,An,9788000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2001,2001,3051,UNFCCC,An,9611300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2002,2002,3050,FAO TIER 1,An,9612000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2002,2002,3051,UNFCCC,An,9725300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2003,2003,3050,FAO TIER 1,An,9725000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2003,2003,3051,UNFCCC,An,9723400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2004,2004,3050,FAO TIER 1,An,9724000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2004,2004,3051,UNFCCC,An,9672100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2005,2005,3050,FAO TIER 1,An,9600000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2005,2005,3051,UNFCCC,An,9620800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2006,2006,3050,FAO TIER 1,An,9620000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2006,2006,3051,UNFCCC,An,9759100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2007,2007,3050,FAO TIER 1,An,9759000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2007,2007,3051,UNFCCC,An,9745400,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2008,2008,3050,FAO TIER 1,An,9745000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2008,2008,3051,UNFCCC,An,9899500,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2009,2009,3050,FAO TIER 1,An,9899000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2009,2009,3051,UNFCCC,An,9833900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2010,2010,3050,FAO TIER 1,An,9800000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2010,2010,3051,UNFCCC,An,9768300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2011,2011,3050,FAO TIER 1,An,9768000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2011,2011,3051,UNFCCC,An,9735600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2012,2012,3050,FAO TIER 1,An,9735000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2012,2012,3051,UNFCCC,An,9684300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2013,2013,3050,FAO TIER 1,An,9685000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2013,2013,3051,UNFCCC,An,9536100,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2014,2014,3050,FAO TIER 1,An,9537000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2014,2014,3051,UNFCCC,An,9424450,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2015,2015,3050,FAO TIER 1,An,9400878,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2015,2015,3051,UNFCCC,An,9312800,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2016,2016,3050,FAO TIER 1,An,9313000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2016,2016,3051,UNFCCC,An,9345900,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2017,2017,3050,FAO TIER 1,An,9346000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2017,2017,3051,UNFCCC,An,9189700,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2018,2018,3050,FAO TIER 1,An,9189000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2018,2018,3051,UNFCCC,An,9156600,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2019,2019,3050,FAO TIER 1,An,9156000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2019,2019,3051,UNFCCC,An,9223300,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2020,2020,3050,FAO TIER 1,An,9213241,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2020,2020,3051,UNFCCC,An,9290000,A,Official figure,NC/CRF/BUR
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2021,2021,3050,FAO TIER 1,An,9290000,E,Estimated value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2030,2030,3050,FAO TIER 1,An,9654923,F,Forecast value,
+GLE,Emissions from Livestock,110,Japan,5111,Stocks,1048,Swine,2050,2050,3050,FAO TIER 1,An,9464682,F,Forecast value,
