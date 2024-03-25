@@ -35,7 +35,14 @@ def get_cat_yr(df, cat_col, year_col):
     
     return(df_cat_yrs)
 
-def get_cat(df, col_name):
+def get_cols(df):
+    """
+    Get columns from the dataset
+    """
+
+    return(list(df.columns))
+
+def get_cat(df, col_name, out_col_name):
     """
     Extracts unique categories from the 'Item' column of the input DataFrame.
 
@@ -48,7 +55,7 @@ def get_cat(df, col_name):
 
     cats = df[col_name].unique()
 
-    df_cats = pd.DataFrame(cats, columns = ['category'])
+    df_cats = pd.DataFrame(cats, columns = [out_col_name])
 
     return(df_cats)
 
