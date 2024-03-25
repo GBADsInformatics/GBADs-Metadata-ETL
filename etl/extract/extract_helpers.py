@@ -79,7 +79,7 @@ class s3Helpers:
                 name = obj.key
                 date = obj.last_modified
                 date = date.strftime('%Y-%m-%d')
-                contentUrl = '%s/%s' % ('https://gbads-eth.s3.ca-central-1.amazonaws.com', obj.key)
+                contentUrl = 'https://%s.%s/%s' % (bucket_name,'s3.ca-central-1.amazonaws.com', obj.key)
                 size = obj.size 
                 
                 # Size is in bytes 
