@@ -1,7 +1,14 @@
 import json
 import pandas as pd
 
-def temporal_coverage(df, date_col):
+def get_descriptions_txt(file_path):
+
+    with open(file_path, 'r') as file:
+        data = file.read().replace('\n', '')
+    
+    return(data)
+
+def get_temporal_coverage(df, date_col):
 
     temporalCoverage = '%s/%s' % (df[date_col].min(), df[date_col].max())
 
@@ -48,7 +55,7 @@ def get_cols(df):
 
     return(list(df.columns))
 
-def get_cat(df, col_name, out_col_name):
+def get_cat(df, col_name):
     """
     Extracts unique categories from the 'Item' column of the input DataFrame.
 
@@ -59,11 +66,9 @@ def get_cat(df, col_name, out_col_name):
     pd DataFrame: DataFrame containing unique categories extracted from the 'Item' column.
     """
 
-    cats = df[col_name].unique()
+    cats = df[col_name].unique().tolist()
 
-    df_cats = pd.DataFrame(cats, columns = [out_col_name])
-
-    return(df_cats)
+    return(cats)
 
 def load_from_json(json_file_path):
 
