@@ -1,2 +1,3 @@
 etl/load/config.ini
 etl/extract/aws-config.txt
+*__pycache__/
