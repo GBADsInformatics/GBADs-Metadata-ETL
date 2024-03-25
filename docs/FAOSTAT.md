@@ -21,7 +21,11 @@ Elements: Stocks
 FAO SOURCE: UNFCCC
 URL: https://www.fao.org/faostat/en/#data/GLE
 
-## Metadata
+Each of the datasets from these sources was downloaded and 
+
+## Creating Metadata 
+
+### Metadata from Source 
 
 There a few ways you can get metadata from FAOSTAT: 
 
@@ -47,7 +51,7 @@ For example:
 
 The fenix services Metadata link provides complete metadata information in json format. There is much more metadata provided than we would like to make available in the graph database, therefore we can link to the metadata if the user/viewer would like more information about the dataset. 
 
-## Information from datasets 
+### Information from datasets 
 
 In addition to the metadata, we need a list of species that are provided in the data, the countries that they are provided for, and the years that data are available for. 
 
