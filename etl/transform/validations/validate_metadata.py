@@ -46,7 +46,7 @@ class DataDownload(BaseModel):
     contentUrl: str
     name: str
     size: str
-    encodingFormat: str
+    encodingFormat: str | None
 
     @validator("contentUrl", pre=True)
     def validate_content_url(cls, value:str) -> str:
