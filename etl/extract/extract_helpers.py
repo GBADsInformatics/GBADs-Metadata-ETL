@@ -5,8 +5,22 @@ import csv
 import boto3
 import sys
 import datetime
+import math
 
 GEO_TBLS = "https://gbadske.org/api/GBADsPublicQuery/un_geo_codes?fields=*&query=&format=text"
+
+def convert_size(size_bytes):
+    """
+    This function is from: https://stackoverflow.com/questions/5194057/better-way-to-convert-file-sizes-in-python
+    """
+    if size_bytes == 0:
+        return "0B"
+    size_name = ("B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB")
+    i = int(math.floor(math.log(size_bytes, 1024)))
+    p = math.pow(1024, i)
+    s = round(size_bytes / p, 2)
+    return "%s %s" % (s, size_name[i])
+
 
 def load_from_json(json_file_path):
     # This should probably go in another module as a general-use function
@@ -62,11 +76,16 @@ class s3Helpers:
 
             if obj.size > 0:
 
-                name = obj.key[4:-4]
+                name = obj.key
                 date = obj.last_modified
-                date = str(datetime.date(date))
+                date = date.strftime('%Y-%m-%d')
                 contentUrl = '%s/%s' % ('https://gbads-eth.s3.ca-central-1.amazonaws.com', obj.key)
-                data[name] = {'size': obj.size, 'contentUrl': contentUrl, 'lastModified': date}
+                size = obj.size 
+                
+                # Size is in bytes 
+                size = convert_size(size)
+
+                data[name] = {'size': size, 'contentUrl': contentUrl, 'lastModified': date}
 
         with open(out_path, 'w') as f:
             json.dump(data, f, indent=2)
