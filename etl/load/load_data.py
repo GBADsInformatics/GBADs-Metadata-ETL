@@ -41,3 +41,70 @@ def load_country(data, driver):
                 """
             )
             session.run(query, **d)
+
+def load_dataset(data, driver):
+    # Load in dataset nodes
+    with driver.session() as session:
+        query = (
+        """
+        MERGE (d:Dataset {name: $name})
+        SET d.description = $description
+        SET d.temporalCoverage = $temporalCoverage
+        SET d.species = $species
+        SET d.spatialCoverage = $spatialCoverage
+        SET d.sourceTable = $sourceTable
+        SET d.license = $license
+        """
+    )
+        session.run(query, **data)
+
+def load_organization(data, driver):
+    # Load in organization node
+    with driver.session() as session:
+        query = (
+            """
+            MERGE (o:Organization {name: $name})
+            SET o.url = $url
+            SET o.email = $email
+            """
+        )
+        session.run(query, **data)
+
+def connect_organization(data, driver):
+    # Load in organization node
+    with driver.session() as session:
+        query = (
+            """
+            MATCH (d:Dataset {name: $dataset_name})
+            WITH d
+            MATCH (o:Organization {name: $name})
+            WITH d,o
+            MERGE (d)-[:HAS_CREATOR]->(o)
+            """
+        )
+        session.run(query, **data)
+
+def load_DataDownload(data, driver):
+
+    with driver.session() as session:
+        query = (
+            """
+            MERGE (d:DataDownload {contentUrl: $contentUrl})
+            SET d.name: $name
+            SET d.size: $size
+            SET d.encodingFormat: $encodingFormat
+            """
+        )
+        session.run(query, **data)
+
+def connect_DataDownload(data, driver):
+
+    with driver.session() as session:
+        query = (
+            """
+            MATCH (d:Dataset {name: $dataset_name})
+            WITH d
+            MATCH (a:DataDownload {contentUrl: $contentUrl})
+            """
+        )
+        session.run(query, **data)
