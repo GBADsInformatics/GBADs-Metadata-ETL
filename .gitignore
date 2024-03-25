@@ -1,3 +1,6 @@
 etl/load/config.ini
 etl/extract/aws-config.txt
-*__pycache__/
+etl/extract/__pycache__
+etl/load/__pycache__
+etl/transform/__pycache__
+etl/transform/validations/__pycache__
