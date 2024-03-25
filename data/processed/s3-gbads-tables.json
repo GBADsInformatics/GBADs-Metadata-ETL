@@ -1,0 +1,17 @@
+{
+  "International/livestock_countries_population_eurostat.csv": {
+    "size": "188.85 KB",
+    "contentUrl": "https://gbads-eth.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_eurostat.csv",
+    "lastModified": "2023-05-30"
+  },
+  "International/livestock_countries_population_faostat.csv": {
+    "size": "3.24 MB",
+    "contentUrl": "https://gbads-eth.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_faostat.csv",
+    "lastModified": "2023-05-30"
+  },
+  "International/livestock_countries_population_unfccc.csv": {
+    "size": "432.21 KB",
+    "contentUrl": "https://gbads-eth.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_unfccc.csv",
+    "lastModified": "2023-05-31"
+  }
+}
