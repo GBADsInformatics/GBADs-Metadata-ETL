@@ -1,6 +1,12 @@
 import json
 import pandas as pd
 
+def temporal_coverage(df, date_col):
+
+    temporalCoverage = '%s/%s' % (df[date_col].min(), df[date_col].max())
+
+    return(temporalCoverage)
+
 def get_cat_yr_area(df, cat_col, area_col, year_col):
     """
     Extracts unique categories and the years and countries that they occur in from the 'Item' column of the input DataFrame.
