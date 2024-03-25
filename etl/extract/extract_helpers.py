@@ -8,6 +8,13 @@ import datetime
 
 GEO_TBLS = "https://gbadske.org/api/GBADsPublicQuery/un_geo_codes?fields=*&query=&format=text"
 
+def load_from_json(json_file_path):
+    # This should probably go in another module as a general-use function
+    with open(json_file_path, 'r') as file:
+        dataset = json.load(file)
+
+    return dataset
+
 class s3Helpers:
 
     @staticmethod

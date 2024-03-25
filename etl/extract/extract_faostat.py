@@ -10,10 +10,6 @@ FAO_CODES   = ['QCL','GLE']
 FAO_DUMP    = 'https://fenixservices.fao.org/faostat/static/bulkdownloads/datasets_E.json'
 FAO_RAW_DIR = 'data/raw/faostat/'
 
-def get_cat_yr(df):
-
-    return(df.groupby(['Item'])['Year'].unique().apply(list).reset_index())
-
 def filter_element_qcl(df, elements = ['Stocks', 'Milk Animals','Laying']):
     """
     Filter the FAOSTAT QCL dataset to filter dataset by elements.

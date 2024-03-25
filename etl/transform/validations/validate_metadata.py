@@ -25,7 +25,7 @@ class Dataset(BaseModel):
     spatialCoverage: str
     temporalCoverage: str
     sourceTable: str | None
-    license: str
+    license: str | None
     species: str | None
 
     @validator("license", pre=True)
@@ -35,7 +35,7 @@ class Dataset(BaseModel):
 class Organization(BaseModel):
     name: str
     address: str | None
-    url: str
+    url: str | None
 
     @validator("url", pre=True)
     def validate_org_url(cls, value:str) -> str:

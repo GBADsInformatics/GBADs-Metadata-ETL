@@ -3,9 +3,10 @@ import json
 from datetime import datetime
 import csv
 import sys
-from transform.validations import validate_metadata as vm
+# from transform.validations import validate_metadata as vm
 from pydantic import ValidationError
 from validators import url
+import transform_helpers as th
 
 FAO_QCL_S3 = "https://gbads-tables.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_faostat.csv"
 FAO_GLE_S3 = "https://gbads-tables.s3.ca-central-1.amazonaws.com/International/livestock_countries_population_faostat.csv"
@@ -14,12 +15,57 @@ FAO_QCL_GBADS_API = "https://gbadske.org/api/GBADsPublicQuery/livestock_countrie
 FAO_GLE_TBL = "livestock_countries_population_unfccc"
 FAO_QCL_TBL = "livestock_countries_population_faostat"
 
-def load_from_json(json_file_path):
-    # This should probably go in another module as a general-use function
-    with open(json_file_path, 'r') as file:
-        dataset = json.load(file)
+def get_cat(df):
+    """
+    Extracts unique categories from the 'Item' column of the input DataFrame.
 
-    return dataset
+    Parameters:
+    df (pd DataFrame): Input DataFrame containing a column named 'Item'.
+
+    Returns:
+    pd DataFrame: DataFrame containing unique categories extracted from the 'Item' column.
+    """
+
+    cats = df['Item'].unique()
+
+    df_cats = pd.DataFrame(cats, columns = ['category'])
+
+    return(df_cats)
+
+def get_cat_yr(df):
+    """
+    Extracts unique categories and the years that they occur in from the 'Item' column of the input DataFrame.
+
+    Parameters:
+    df (pd DataFrame): Input DataFrame containing columns named 'Item' and 'Year'.
+
+    Returns:
+    pd DataFrame: DataFrame containing unique categories extracted from the 'Item' column and the years that they occur in.
+    """
+    
+    df_cat_yrs = df.groupby(['Item'])['Year'].unique().apply(list).reset_index()
+
+    df_cat_yrs.columns = ['category','year']
+    
+    return(df_cat_yrs)
+
+def get_cat_yr_area(df):
+    """
+    Extracts unique categories and the years and countries that they occur in from the 'Item' column of the input DataFrame.
+
+    Parameters:
+    df (pd DataFrame): Input DataFrame containing columns named 'Item', 'Year', and 'Area'.
+
+    Returns:
+    pd DataFrame: DataFrame containing unique categories extracted from the 'Item' column and the years and countries that they occur in.
+    """
+
+    df_cat_yr_area = df.groupby(['Item','Area'])['Year'].unique().apply(list).reset_index()
+    
+    df_cat_yr_area.columns = ['category','area','year']
+
+    return(df_cat_yr_area)
+
 
 def struct_DataDownload(db_dump, domain_code):
 
@@ -62,6 +108,27 @@ def struct_metadata(metadata, domain_code):
     }
 
     return(out_metadata, organization)
+
+if __name__ == "__main__":
+
+    path = sys.argv[1]
+
+    df = pd.read_csv(path)
+
+    # For each of the following create output files 
+
+    cats = get_cat(df)
+    print(cats)
+    
+    # With each of the categories present in the dataset, we want the definition of each and the related codes.
+
+    cat_yrs = get_cat_yr(df)
+
+    print(cat_yrs)
+    cat_yr_area = get_cat_yr_area(df)
+
+    print(cat_yr_area)
+
 
 # df = load_from_json('../../data/raw/faostat/20240226_dump.json')
 # DataDownload_QCL = struct_DataDownload(df, 'QCL')
