@@ -1,0 +1,6 @@
+{
+      "name": "World Organization for Animal Health (WOAH) National Livestock Population",
+      "description": "National livestock population data is collected annually by the World Organization for Animal Health (WOAH). This data was provided to the Global Burden of Animal Diseases (GBADs) by WOAH.",
+      "license": "https://wahis.oie.int/#/tnc",
+      "sourceTable": "livestock_countries_population_oie"
+}
