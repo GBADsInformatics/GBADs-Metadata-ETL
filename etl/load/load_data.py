@@ -144,3 +144,16 @@ def connect_PropertyValue_Value(data, driver):
             """
         )
         session.run(query, **data)
+
+def connect_dataset_country(table_name, iso3, driver):
+
+    with driver.session() as session:
+        query = (
+            """
+            MATCH (d:Dataset {sourceTable: $table_name})
+            WITH d 
+            MATCH (a:Value {ISO3: $iso3})
+            MERGE (d)-[:HAS_COUNTRY]->(a)
+            """
+        )
+        session.run(query, table_name = table_name, iso3 = iso3)
