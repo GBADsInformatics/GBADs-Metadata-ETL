@@ -1,9 +1,16 @@
 from pydantic import BaseModel, Field, validator, ValidationError
-from typing import Optional
+from typing import Optional, List
 import datetime
 from validators import url
 import sys
 import requests
+
+def validate_license(value:str) -> str:
+    if not url(value):
+        raise ValueError("Validation Failed: Invalid URL")
+        sys.exit(-1)
+
+    return(value)
 
 def validate_url(value:str) -> str:
     if not url(value):
@@ -22,15 +29,15 @@ def validate_url(value:str) -> str:
 class Dataset(BaseModel):
     name: str
     description: str
-    spatialCoverage: str
+    spatialCoverage: List[str]
     temporalCoverage: str
-    sourceTable: str | None
-    license: str | None
-    species: str | None
+    sourceTable: Optional[str] = None
+    license: Optional[str] = None
+    species: Optional[List[str]] = None
 
     @validator("license", pre=True)
-    def validate_url(cls, value: str | None) -> str:
-        return(validate_url(value))
+    def validate_license(cls, value: Optional[str]) -> str:
+        return(validate_license(value))
 
 class Organization(BaseModel):
     name: str
