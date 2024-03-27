@@ -25,16 +25,11 @@ metadata['spatialCoverage'] = spatialCoverage
 metadata['temporalCoverage'] = temporalCoverage
 
 # Create country, parent df
-area_parent = th.get_cat_yr(df, 'country', 'year')
+area_parent = th.get_cat_yr(df, 'country', 'year', columns = ['Value','year'])
 area_parent['parent'] = metadata['sourceTable']
-
-# Rename cols 
-area_parent.columns = ['Value','year','parent']
+th.write_parent_child(out_path, area_parent, metadata['sourceTable'], 'area')
 
 # Create category, parent df
-category_parent = th.get_cat_yr(df, 'species', 'year')
+category_parent = th.get_cat_yr(df, 'species', 'year', columns = ['Value','year'])
 category_parent['parent'] = metadata['sourceTable']
-
-# Rename cols
-category_parent.columns = ['Value','year','parent']
-
+th.write_parent_child(out_path, category_parent, metadata['sourceTable'], 'category')
