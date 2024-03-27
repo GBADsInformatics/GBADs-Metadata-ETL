@@ -23,6 +23,13 @@ metadata = th.load_from_json(metadata_path)
 metadata['species'] = species
 metadata['spatialCoverage'] = spatialCoverage
 metadata['temporalCoverage'] = temporalCoverage
+
+# Validate metadata
+try:
+    Dataset = vm.Dataset(**metadata)
+except ValidationError as e:
+    sys.exit(e)
+
 th.write_metadata(out_path, metadata, metadata['sourceTable'])
 
 # Create country, parent df
