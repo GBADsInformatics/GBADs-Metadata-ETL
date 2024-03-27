@@ -1,5 +1,14 @@
 import json
 import pandas as pd
+from datetime import datetime 
+
+def write_parent_child(out_path, df, source_table, keyword):
+
+    date = datetime.today().strftime('%Y%m%d')
+
+    outname = '%s/%s_%s_%s.csv' % (out_path, date, source_table, keyword)
+
+    df.to_csv(outname, index=False)
 
 def get_descriptions_txt(file_path):
 
@@ -31,7 +40,7 @@ def get_cat_yr_area(df, cat_col, area_col, year_col):
 
     return(df_cat_yr_area)
 
-def get_cat_yr(df, cat_col, year_col):
+def get_cat_yr(df, cat_col, year_col, columns = ['category','year']):
     """
     Extracts unique categories and the years that they occur in from the 'Item' column of the input DataFrame.
 
@@ -44,7 +53,7 @@ def get_cat_yr(df, cat_col, year_col):
     
     df_cat_yrs = df.groupby([cat_col])[year_col].unique().apply(list).reset_index()
 
-    df_cat_yrs.columns = ['category','year']
+    df_cat_yrs.columns = columns
     
     return(df_cat_yrs)
 
