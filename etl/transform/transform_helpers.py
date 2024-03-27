@@ -2,6 +2,15 @@ import json
 import pandas as pd
 from datetime import datetime 
 
+def write_metadata(out_path, data, source_table):
+
+    date = datetime.today().strftime('%Y%m%d')
+
+    outname = '%s/%s_%s_Dataset.csv' % (out_path, date, source_table)
+
+    with open(outname, 'w') as json_file:
+        json.dump(data, json_file) 
+
 def write_parent_child(out_path, df, source_table, keyword):
 
     date = datetime.today().strftime('%Y%m%d')
