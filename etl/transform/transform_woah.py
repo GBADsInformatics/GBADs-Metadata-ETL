@@ -23,6 +23,7 @@ metadata = th.load_from_json(metadata_path)
 metadata['species'] = species
 metadata['spatialCoverage'] = spatialCoverage
 metadata['temporalCoverage'] = temporalCoverage
+th.write_metadata(out_path, metadata, metadata['sourceTable'])
 
 # Create country, parent df
 area_parent = th.get_cat_yr(df, 'country', 'year', columns = ['Value','year'])
