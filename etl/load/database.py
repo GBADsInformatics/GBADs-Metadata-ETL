@@ -2,7 +2,7 @@
 
 import os
 from neo4j import GraphDatabase
-from load.load_data import read_db_config as read_db_config
+from load_data_helpers import read_db_config
 
 class Database:
     def __init__(self):
