@@ -2,11 +2,11 @@ import json
 import pandas as pd
 from datetime import datetime 
 
-def write_metadata(out_path, data, source_table):
+def write_metadata(out_path, data, source_table, node_type):
 
     date = datetime.today().strftime('%Y%m%d')
 
-    outname = '%s/%s_%s_Dataset.csv' % (out_path, date, source_table)
+    outname = '%s/%s_%s_%s.json' % (out_path, date, source_table, node_type)
 
     with open(outname, 'w') as json_file:
         json.dump(data, json_file) 
