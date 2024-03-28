@@ -30,7 +30,7 @@ try:
 except ValidationError as e:
     sys.exit(e)
 
-th.write_metadata(out_path, metadata, metadata['sourceTable'])
+th.write_metadata(out_path, metadata, metadata['sourceTable'], 'Dataset')
 
 # Create country, parent df
 area_parent = th.get_cat_yr(df, 'country', 'year', columns = ['Value','year'])
