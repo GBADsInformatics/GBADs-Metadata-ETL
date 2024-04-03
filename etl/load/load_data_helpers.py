@@ -125,29 +125,17 @@ def connect_DataDownload(data, driver):
         )
         session.run(query, **data)
 
-def load_PropertyValue(data, driver):
+def connect_PropertyValue_Dataset(dataset_name, name , driver):
 
     with driver.session() as session:
         query = (
             """
-            MERGE (pv:PropertyValue {name: $name})
-            SET pv.description = $description
-            SET pv.unitText = $unitText
-            """
-        )
-        session.run(query, **data)
-
-def connect_PropertyValue_Dataset(data, driver):
-
-    with driver.session() as session:
-        query = (
-            """
-            MATCH (d:Dataset {name: $datast_name})
+            MATCH (d:Dataset {name: $dataset_name})
             WITH d
             MERGE (d)-[:HAS_COLUMN]->(pv:PropertyValue {name: $name})
             """
         )
-        session.run(query, **data)
+        session.run(query, dataset_name=dataset_name, name=name)
 
 def connect_PropertyValue_Value(data, driver):
 
