@@ -34,10 +34,18 @@ th.write_metadata(out_path, metadata, metadata['sourceTable'], 'Dataset')
 
 # Create country, parent df
 area_parent = th.get_cat_yr(df, 'country', 'year', columns = ['Value','year'])
-area_parent['parent'] = metadata['sourceTable']
+area_parent['parent'] = 'country'
 th.write_parent_child(out_path, area_parent, metadata['sourceTable'], 'area')
 
 # Create category, parent df
 category_parent = th.get_cat_yr(df, 'species', 'year', columns = ['Value','year'])
-category_parent['parent'] = metadata['sourceTable']
+category_parent['parent'] = 'species'
 th.write_parent_child(out_path, category_parent, metadata['sourceTable'], 'category')
+
+# Create source, propertyVale
+source = metadata['sourceTable']
+columns = th.get_cols(df)
+src_propvalue = pd.DataFrame(columns)
+src_propvalue['sourceTable'] = source
+src_propvalue.columns = ['PropertyValue','sourceTable']
+th.write_parent_child(out_path, src_propvalue, source, 'PropertyValue') 
