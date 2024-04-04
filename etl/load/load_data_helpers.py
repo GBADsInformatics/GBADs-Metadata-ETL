@@ -105,7 +105,8 @@ def load_DataDownload(data, driver):
     with driver.session() as session:
         query = (
             """
-            MERGE (a:Dataset {sourceTable: $name})-[:HAS_DISTRIBUTION]->(d:DataDownload {contentUrl: $contentUrl})
+            MATCH (a:Dataset {sourceTable: $name})
+            MERGE (a)-[:HAS_DISTRIBUTION]->(d:DataDownload {contentUrl: $contentUrl})
             SET d.name = $name
             SET d.size = $size
             SET d.encodingFormat = $encodingFormat
