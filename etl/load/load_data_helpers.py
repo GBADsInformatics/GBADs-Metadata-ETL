@@ -86,19 +86,19 @@ def load_organization(data, driver):
         )
         session.run(query, **data)
 
-def connect_organization(data, driver):
+def connect_organization(org_name, dataset_name, driver):
     # Load in organization node
     with driver.session() as session:
         query = (
             """
-            MATCH (d:Dataset {name: $dataset_name})
+            MATCH (d:Dataset {sourceTable: $dataset_name})
             WITH d
             MATCH (o:Organization {name: $name})
             WITH d,o
             MERGE (d)-[:HAS_CREATOR]->(o)
             """
         )
-        session.run(query, **data)
+        session.run(query, name=org_name, dataset_name=dataset_name)
 
 def load_DataDownload(data, driver):
 
@@ -125,29 +125,31 @@ def connect_DataDownload(data, driver):
         )
         session.run(query, **data)
 
-def connect_PropertyValue_Dataset(dataset_name, name , driver):
+def connect_PropertyValue_Dataset(dataset_name, name, driver):
 
     with driver.session() as session:
         query = (
             """
-            MATCH (d:Dataset {name: $dataset_name})
+            MATCH (d:Dataset {sourceTable: $dataset_name})
             WITH d
             MERGE (d)-[:HAS_COLUMN]->(pv:PropertyValue {name: $name})
             """
         )
         session.run(query, dataset_name=dataset_name, name=name)
 
-def connect_PropertyValue_Value(data, driver):
+def connect_PropertyValue_Value(value, sourceTable, PropertyValue, driver):
 
     with driver.session() as session:
         query = (
             """
-            MATCH (pv:PropertyValue {name: $name})
+            MATCH (d:Dataset {sourceTable: $dataset_name})-[:HAS_COLUMN]->(pv:PropertyValue {name: $name})
             WITH pv
-            MERGE (pv)-[:HAS_VALUE]->(v:Value {name: $value})
+            MERGE (v:Value {name: $value})
+            WITH pv, v
+            MERGE (pv)-[:HAS_VALUE]->(v)
             """
         )
-        session.run(query, **data)
+        session.run(query, value = value, dataset_name = sourceTable, name = PropertyValue)
 
 def connect_dataset_country(table_name, iso3, driver):
 
