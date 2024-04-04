@@ -138,18 +138,20 @@ def connect_PropertyValue_Dataset(dataset_name, name, driver):
         session.run(query, dataset_name=dataset_name, name=name)
 
 def connect_PropertyValue_Value(value, sourceTable, PropertyValue, driver):
-
-    with driver.session() as session:
-        query = (
-            """
-            MATCH (d:Dataset {sourceTable: $dataset_name})-[:HAS_COLUMN]->(pv:PropertyValue {name: $name})
-            WITH pv
+    try:
+        with driver.session() as session:
+            query = """
+            MATCH (d:Dataset {sourceTable: $sourceTable})-[:HAS_COLUMN]->(pv:PropertyValue {name: $PropertyValue})
             MERGE (v:Value {name: $value})
-            WITH pv, v
             MERGE (pv)-[:HAS_VALUE]->(v)
             """
-        )
-        session.run(query, value = value, dataset_name = sourceTable, name = PropertyValue)
+            result = session.run(query, sourceTable=sourceTable, PropertyValue=PropertyValue, value=value)
+            return(result)
+
+    except Exception as e:
+        print("An error occurred:", str(e))
+        return None
+
 
 def connect_dataset_country(table_name, iso3, driver):
 
