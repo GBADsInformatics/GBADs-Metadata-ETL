@@ -10,26 +10,23 @@ echo "Loading data from ${TABLENAME}"
 echo ""
 echo ""
 
-# DatasetNode=${DATADIR}/${DATE}_${TABLENAME}_Dataset.json
-# echo "Loading Dataset Node from ${DatasetNode}"
-# python3 load_data.py -p ${DatasetNode} -f json -t Dataset -n ${TABLENAME}
+DatasetNode=${DATADIR}/${DATE}_${TABLENAME}_Dataset.json
+echo "Loading Dataset Node from ${DatasetNode}"
+python3 load_data.py -p ${DatasetNode} -f json -t Dataset -n ${TABLENAME}
 
 OrganizationNode=${DATADIR}/${DATE}_${TABLENAME}_Organization.json
 echo "Loading and connecting Organization Node from ${OrganizationNode}"
 python3 load_data.py -p ${OrganizationNode} -f json -t Organization -n ${TABLENAME}
 
+PropertyValue=${DATADIR}/${DATE}_${TABLENAME}_PropertyValue.csv
+echo "Loading and connecting PropertyValues from ${PropertyValue}"
+python3 load_data.py -p ${PropertyValue} -f csv -t PropertyValue -n ${TABLENAME}
 
+SpeciesValue=${DATADIR}/${DATE}_${TABLENAME}_category.csv 
+echo "Loading and connecting Values to PropertyValues from ${SpeciesValue}"
+python3 load_data.py -p ${SpeciesValue} -f csv -t Value -n ${TABLENAME}
 
-# echo "Loading and connecting PropertyValues"
+CountryValue=${DATADIR}/${DATE}_${TABLENAME}_area.csv
+echo "Loading and connecting Values to PropertyValues from ${CountryValue}"
+python3 load_data.py -p ${CountryValue} -f csv -t Value -n ${TABLENAME}
 
-# python3 load_cat_data.py -p ../../data/processed/woah/20240403_livestock_countries_population_oie_category.csv -f csv -t Value -n livestock_countries_population_oie
-
-# for datafile in `ls ${DATADIR}`
-# do
-#   if [[ $datafile =~ $STRING ]] #If the name of the datafile contains the string
-#   then
-#     echo "Datafile with ${STRING} found!"
-#     echo "Processing ${datafile}"
-#     tail +2 ${DATADIR}/${datafile} >> ${DATADIR}/${NAME_OUT_FILE} #Cat contents of file except the header to current position in outfile
-#   fi
-# done
