@@ -26,7 +26,9 @@ if args.format == 'json':
 if args.type == 'Dataset':
     dh.load_dataset(df, driver)
 if args.type == 'Organization':
-    dh.load_organization(df. driver)
+    dh.load_organization(df, driver)
+    organization_name = df['name']
+    dh.connect_organization(organization_name, args.tablename, driver)
 if args.type == 'PropertyValue':
     for index, row in df.iterrows():
         PropertyValue = row['PropertyValue']
