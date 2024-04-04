@@ -25,15 +25,18 @@ if args.format == 'json':
 
 if args.type == 'Dataset':
     dh.load_dataset(df, driver)
+
 if args.type == 'Organization':
     dh.load_organization(df, driver)
     organization_name = df['name']
     dh.connect_organization(organization_name, args.tablename, driver)
+
 if args.type == 'PropertyValue':
     for index, row in df.iterrows():
         PropertyValue = row['PropertyValue']
         sourceTable = row['sourceTable']
         dh.connect_PropertyValue_Dataset(sourceTable, PropertyValue, driver)
+
 if args.type == 'Value':
     for index, row in df.iterrows():
         Value = row['Value']
@@ -41,6 +44,5 @@ if args.type == 'Value':
         PropertyValue = row['parent']
         dh.connect_PropertyValue_Value(Value, sourceTable, PropertyValue, driver)
 
-# df = pd.read_csv(cat_data_path)
-
-# dh.load_cat_area(df, driver)
+if args.type == 'DataDownload':
+    dh.load_DataDownload(df, driver)
