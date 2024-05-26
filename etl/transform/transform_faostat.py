@@ -8,14 +8,24 @@ from pydantic import ValidationError
 from validators import url
 import transform_helpers as th
 import requests
+import validate_metadata as vm
 
 FAO_GLE_GBADS_API = "https://gbadske.org/api/GBADsPublicQuery/livestock_countries_population_unfccc?fields=year,population,country,species,flag&query=&format=text"
 FAO_QCL_GBADS_API = "https://gbadske.org/api/GBADsPublicQuery/livestock_countries_population_faostat?fields=year,population,iso3,country,species,flag&query=&format=text"
 FAO_GLE_TBL = "livestock_countries_population_unfccc"
 FAO_QCL_TBL = "livestock_countries_population_faostat"
-FAO_DESCRIPTION = ""
 FAO_LISENCE = "https://creativecommons.org/licenses/by-nc-sa/3.0/igo"
 FAO_METADATA_BASE_URL = "https://www.fao.org/faostat/en/#data/"
+
+def get_dataset_name(db_dump, domain_code):
+
+    datasets = db_dump.get('Datasets', {}).get('Dataset', [])
+
+    for dataset in datasets:
+        if dataset['DatasetCode'] == domain_code:
+            name = dataset['DatasetName']
+
+    return(name)
 
 def filter_db_dump(db_dump, domain_code):
     """
@@ -59,58 +69,75 @@ def get_organization(metadata):
         }
     return(organization)
 
-def create_custom_metadata(dataset_name, domain_code):
+def create_custom_metadata(dataset_name, domain_code, file_path, description):
 
     if domain_code == 'QCL':
         sourceTable = FAO_QCL_TBL
     else:
         sourceTable = FAO_GLE_TBL
 
+    df = pd.read_csv(file_path)
+
+    species = th.get_cat(df, 'species')
+    spatialCoverage = th.get_cat(df, 'country')
+    temporalCoverage = th.get_temporal_coverage(df, 'year')
+
     metadata = {
         'name': dataset_name,
-        'description': FAO_DESCRIPTION,
+        'description': description,
         'license': FAO_LISENCE,
-        'sourceTable': sourceTable
+        'sourceTable': sourceTable,
+        'species': species,
+        'temporalCoverage': temporalCoverage,
+        'spatialCoverage': ['World']
     }
 
     return(metadata)
 
+if __name__ == "__main__":
 
-# def create_metadata(metadata, domain_code):
+    # For each of the datasets from FAOSTAT we need to create the following, and then we need to put them together: 
+    # The 'base metadata' 
+    # The DataDownload nodes (S3, data dump from FAOSTAT)
+    # The "included in data catalogue" - information about the data catalogue
+    # Organization information, which is also creator 
+    # Property Values (names of columns, and also units, description where applicable) 
+    # Values (embedded in the PropertyValue) - if the value is a country, we don't need both the ISO3 code and the country name, we just need the ISO3 code 
 
-#     metadata_fields = metadata.get('data', {})
+    out_path = sys.argv[1]
+    domain_code = sys.argv[2]
 
-#     metadata_filtered = {}
+    db_dump_file = '../../data/raw/faostat/20240226_dump.json'
+    src_metadata_file = '../../data/raw/faostat/20240226_%s_metadata.json' % domain_code
+    file_path = '../../data/raw/faostat/S3/livestock_countries_population_faostat.csv'
+    description_path = '../../data/raw/faostat/20240325_%s_description.txt' % domain_code
 
-#     for i in metadata_fields:
-#         if 'metadata_text' in i:
-#             key = i['metadata_label']
-#             value = i['metadata_text']
-#             metadata_filtered[key] = value
+    db_dump = th.load_from_json(db_dump_file)
+    src_metadata = th.load_from_json(src_metadata_file)
+    df = pd.read_csv(file_path)
+    description = th.get_descriptions_txt(description_path)
 
-#     out_metadata = {
-#         'spatialCoverage': metadata_filtered.get('Reference area', ''),
-#         'description': metadata_filtered.get('Data description', ''),
-#         'license': metadata_filtered.get('User access',''),
-#         'temporalCoverage': metadata_filtered.get('Time coverage','')
-#     }
+    name = get_dataset_name(db_dump, domain_code)
+    data_download = filter_db_dump(db_dump, domain_code)
+    dataset = create_custom_metadata(name, domain_code, file_path, description)
+    src_tbl = dataset['sourceTable']
+    organization = get_organization(src_metadata)
+    property_values = th.get_cols(df)
 
-#     return(out_metadata)
+    # Validate metadata
+    try:
+        DataDownload = vm.DataDownload(**data_download)
+    except ValidationError as e:
+        sys.exit(e)
+    th.write_metadata(out_path, data_download, src_tbl, 'DataDownload')
 
-# def prep_save_metadata(db_dump_file_path, metadata_file_path, domain_code):
 
-#     db_dump_file = th.load_from_json(db_dump_file_path)
-#     metadata_file = th.load_from_json(metadata_file_path)
+    # Validate dataset 
+    try:
+        Dataset = vm.Dataset(**dataset)
+    except ValidationError as e: 
+        sys.exit(e)
+    th.write_metadata(out_path, dataset, src_tbl, 'Dataset')
 
-#     DataDownload = filter_db_dump(db_dump_file, domain_code)
-
-#     Dataset = 
-
-#     Categories = 
-
-#     Coverage = 
-
-#     Organization = get_organization(metadata_file)
-
-#     return(Dataset, DataDownload, Organization, Categories, Coverage)
-
+    th.write_metadata(out_path, organization, src_tbl, 'Organization')
+    
