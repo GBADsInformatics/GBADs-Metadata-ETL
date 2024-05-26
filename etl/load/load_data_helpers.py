@@ -5,18 +5,25 @@ from neo4j import GraphDatabase
 # Read in config info from ini file 
 ## This function is from the GBADs-METADATA-API code 
 def read_db_config(filename='config.ini', section='database'):
+
+    parser = configparser.ConfigParser()
+
+    possible_paths = [
+        filename,
+        os.path.join(os.path.dirname(__file__), filename),
+        os.path.abspath(os.path.join(os.path.dirname(__file__), '../load', filename))
+    ]
     
-    if os.path.exists(filename): 
-        parser = configparser.ConfigParser()
-        parser.read(filename)
-    else:
-        try:
-            filename='./load/config.ini'
-            parser = configparser.ConfigParser()
-            parser.read(filename)
-        except: 
-            raise Exception('Config file does not exist')
+    config_found = False
+    for path in possible_paths:
+        if os.path.exists(path): 
+            parser.read(path)
+            config_found = True
+            break
     
+    if not config_found: 
+        raise Exception(f'Config file not found in specified locations.')
+
     db_config = {}
     if parser.has_section(section):
         items = parser.items(section)
