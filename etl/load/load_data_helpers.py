@@ -93,7 +93,7 @@ def load_dataset(data, driver, return_query = False):
 
             return(record)
     
-def load_organization(data, driver):
+def load_organization(data, driver, return_query = False):
     # Load in organization node
     with driver.session() as session:
         query = (
@@ -104,6 +104,18 @@ def load_organization(data, driver):
             """
         )
         session.run(query, **data)
+    
+        if return_query == True:
+            return_query = (
+                """
+                MATCH (o:Organization {name: $name})
+                RETURN o.name AS name, o.url AS url, o.email AS email
+                """
+            )
+            result = session.run(return_query, name = data['name'])
+            record = result.single()
+
+            return(record)
 
 def connect_organization(org_name, dataset_name, driver):
     # Load in organization node
