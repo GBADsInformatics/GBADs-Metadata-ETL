@@ -65,7 +65,7 @@ def update_dataset(data, driver):
         )
         session.run(query, **data)
 
-def load_dataset(data, driver):
+def load_dataset(data, driver, return_query = False):
     # Load in dataset nodes
     with driver.session() as session:
         query = (
@@ -81,6 +81,18 @@ def load_dataset(data, driver):
         )
         session.run(query, **data)
 
+        if return_query == True:
+            return_query = (
+                """
+                MATCH (d:Dataset {name: $name})
+                RETURN d.name AS name, d.description AS description
+                """
+            )
+            result = session.run(return_query, name = data['name'])    
+            record = result.single()
+
+            return(record)
+    
 def load_organization(data, driver):
     # Load in organization node
     with driver.session() as session:
