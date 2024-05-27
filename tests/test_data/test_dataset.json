@@ -1,0 +1,9 @@
+{
+    "name": "Test Dataset",
+    "description": "A dataset for testing",
+    "temporalCoverage": "2020-2024",
+    "species": "Homo sapiens",
+    "spatialCoverage": "Global",
+    "sourceTable": "test_table",
+    "license": "CC BY 4.0"
+}
