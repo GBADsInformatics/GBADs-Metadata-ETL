@@ -47,23 +47,16 @@ def test_load_dataset():
     assert result["name"] == data["name"]
     assert result["description"] == data["description"]
 
-    
-# def test_load_organization():
-#     data = load_test_data('tests/test_data/test_organization.json')
-#     driver = database.get_db_driver(test=True)
+def test_load_organization():
+    # Load test data from file 
+    data = load_test_data('tests/test_data/test_organization.json')
+    driver = database.get_db_driver(test=True)
+    result = ldh.load_organization(data, driver, return_query = True)
 
+    assert result["name"] == data["name"]
+    assert result["url"] == data["url"]
+    assert result["email"] == data["email"]
 
-# def test_insert_organization(graph_db):
-#     organization = graph_db.create_node("Organization", name="OpenAI", industry="AI Research")
-#     assert organization is not None
-#     assert organization["name"] == "OpenAI"
-#     assert organization["industry"] == "AI Research"
-
-# def test_insert_dataset(graph_db):
-#     dataset = graph_db.create_node("Dataset", name="Sample Dataset", size=1000)
-#     assert dataset is not None
-#     assert dataset["name"] == "Sample Dataset"
-#     assert dataset["size"] == 1000
 
 # def test_insert_datadownload(graph_db):
 #     datadownload = graph_db.create_node("DataDownload", url="http://example.com/data", format="CSV")
@@ -83,4 +76,6 @@ def test_load_dataset():
 #     assert value["value"] == "Some Value"
 
 if __name__ == "__main__":
-    pytest.main()
+    test_read_db_config()
+    test_load_dataset()
+    test_load_organization()
