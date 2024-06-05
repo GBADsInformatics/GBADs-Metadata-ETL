@@ -1,0 +1,6 @@
+{
+    "name": "test_table",
+    "contentUrl": "https://example.com/datafile.csv",
+    "size": "10MB",
+    "encodingFormat": "CSV"
+}
