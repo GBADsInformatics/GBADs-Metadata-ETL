@@ -3,6 +3,7 @@
 library(csodata)
 library(tidyverse)
 library(dplyr)
+library(rjstat)
 
 # This function was adapted from the R package csodata to dump json-stat response without altering it
 cso_download_tbl <- function(table_code) {
@@ -77,14 +78,16 @@ for (i in codes){
   meta_name <- paste('../../data/raw/ireland/meta', i, sep='_')
   
   assign(df_name, cso_get_data(i))
+
+  metadata <- cso_download_tbl(i)
   
-  metadata <- jsonlite::fromJSON((cso_download_tbl(i)))
+  # metadata <- jsonlite::fromJSON((cso_download_tbl(i)))
   
-  metadata_json <- jsonlite::toJSON(metadata)
+  # metadata_json <- jsonlite::toJSON(metadata)
   
-  assign(meta_name, metadata_json)
+  assign(meta_name, metadata)
   
   # Write metadata 
-  write(metadata_json, file = paste(meta_name, 'json', sep='.'))
+  write(metadata, file = paste(meta_name, 'json', sep='.'))
   
 }
