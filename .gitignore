@@ -5,3 +5,4 @@ etl/load/__pycache__
 etl/transform/__pycache__
 etl/transform/validations/__pycache__
 etl/load/config-test.ini
+data/raw/ireland/meta*
