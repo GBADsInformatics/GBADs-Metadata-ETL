@@ -1,0 +1,685 @@
+species;year;table_name
+Total Cattle less than 6 months;2003;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2003;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2003;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2003;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2003;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2003;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2003;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2003;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2003;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2003;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2003;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2003;Number of Cattle by Age and Purpose
+Total Beef Cattle;2003;Number of Cattle by Age and Purpose
+Male Beef Cattle;2003;Number of Cattle by Age and Purpose
+Female Beef Cattle;2003;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2003;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2003;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2003;Number of Cattle by Age and Purpose
+Total Dairy cows;2003;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2003;Number of Cattle by Age and Purpose
+Total Draft cattle;2003;Number of Cattle by Age and Purpose
+Male Draft cattle;2003;Number of Cattle by Age and Purpose
+Female Draft cattle;2003;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2003;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2003;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2003;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2003;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2003;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2003;Number of Cattle by Age and Purpose
+Total Grand Total;2003;Number of Cattle by Age and Purpose
+Male Grand Total;2003;Number of Cattle by Age and Purpose
+Female Grand Total;2003;Number of Cattle by Age and Purpose
+Total Local breed;2003;Number of Cattle by Age and Purpose
+Male Local breed;2003;Number of Cattle by Age and Purpose
+Female Local breed;2003;Number of Cattle by Age and Purpose
+Total Exotic;2003;Number of Cattle by Age and Purpose
+Male Exotic;2003;Number of Cattle by Age and Purpose
+Female Exotic;2003;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2004;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2004;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2004;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2004;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2004;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2004;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2004;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2004;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2004;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2004;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2004;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2004;Number of Cattle by Age and Purpose
+Total Beef Cattle;2004;Number of Cattle by Age and Purpose
+Male Beef Cattle;2004;Number of Cattle by Age and Purpose
+Female Beef Cattle;2004;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2004;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2004;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2004;Number of Cattle by Age and Purpose
+Total Dairy cows;2004;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2004;Number of Cattle by Age and Purpose
+Total Draft cattle;2004;Number of Cattle by Age and Purpose
+Male Draft cattle;2004;Number of Cattle by Age and Purpose
+Female Draft cattle;2004;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2004;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2004;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2004;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2004;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2004;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2004;Number of Cattle by Age and Purpose
+Total Grand Total;2004;Number of Cattle by Age and Purpose
+Male Grand Total;2004;Number of Cattle by Age and Purpose
+Female Grand Total;2004;Number of Cattle by Age and Purpose
+Total Local breed;2004;Number of Cattle by Age and Purpose
+Male Local breed;2004;Number of Cattle by Age and Purpose
+Female Local breed;2004;Number of Cattle by Age and Purpose
+Total Exotic;2004;Number of Cattle by Age and Purpose
+Male Exotic;2004;Number of Cattle by Age and Purpose
+Female Exotic;2004;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2005;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2005;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2005;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2005;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2005;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2005;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2005;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2005;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2005;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2005;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2005;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2005;Number of Cattle by Age and Purpose
+Total Beef Cattle;2005;Number of Cattle by Age and Purpose
+Male Beef Cattle;2005;Number of Cattle by Age and Purpose
+Female Beef Cattle;2005;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2005;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2005;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2005;Number of Cattle by Age and Purpose
+Total Dairy cows;2005;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2005;Number of Cattle by Age and Purpose
+Total Draft cattle;2005;Number of Cattle by Age and Purpose
+Male Draft cattle;2005;Number of Cattle by Age and Purpose
+Female Draft cattle;2005;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2005;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2005;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2005;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2005;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2005;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2005;Number of Cattle by Age and Purpose
+Total Grand Total;2005;Number of Cattle by Age and Purpose
+Male Grand Total;2005;Number of Cattle by Age and Purpose
+Female Grand Total;2005;Number of Cattle by Age and Purpose
+Total Local breed;2005;Number of Cattle by Age and Purpose
+Male Local breed;2005;Number of Cattle by Age and Purpose
+Female Local breed;2005;Number of Cattle by Age and Purpose
+Total Exotic;2005;Number of Cattle by Age and Purpose
+Male Exotic;2005;Number of Cattle by Age and Purpose
+Female Exotic;2005;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2006;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2006;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2006;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2006;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2006;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2006;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2006;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2006;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2006;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2006;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2006;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2006;Number of Cattle by Age and Purpose
+Total Beef Cattle;2006;Number of Cattle by Age and Purpose
+Male Beef Cattle;2006;Number of Cattle by Age and Purpose
+Female Beef Cattle;2006;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2006;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2006;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2006;Number of Cattle by Age and Purpose
+Total Dairy cows;2006;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2006;Number of Cattle by Age and Purpose
+Total Draft cattle;2006;Number of Cattle by Age and Purpose
+Male Draft cattle;2006;Number of Cattle by Age and Purpose
+Female Draft cattle;2006;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2006;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2006;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2006;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2006;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2006;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2006;Number of Cattle by Age and Purpose
+Total Grand Total;2006;Number of Cattle by Age and Purpose
+Male Grand Total;2006;Number of Cattle by Age and Purpose
+Female Grand Total;2006;Number of Cattle by Age and Purpose
+Total Local breed;2006;Number of Cattle by Age and Purpose
+Male Local breed;2006;Number of Cattle by Age and Purpose
+Female Local breed;2006;Number of Cattle by Age and Purpose
+Total Exotic;2006;Number of Cattle by Age and Purpose
+Male Exotic;2006;Number of Cattle by Age and Purpose
+Female Exotic;2006;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2007;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2007;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2007;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2007;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2007;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2007;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2007;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2007;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2007;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2007;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2007;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2007;Number of Cattle by Age and Purpose
+Total Beef Cattle;2007;Number of Cattle by Age and Purpose
+Male Beef Cattle;2007;Number of Cattle by Age and Purpose
+Female Beef Cattle;2007;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2007;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2007;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2007;Number of Cattle by Age and Purpose
+Total Dairy cows;2007;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2007;Number of Cattle by Age and Purpose
+Total Draft cattle;2007;Number of Cattle by Age and Purpose
+Male Draft cattle;2007;Number of Cattle by Age and Purpose
+Female Draft cattle;2007;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2007;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2007;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2007;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2007;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2007;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2007;Number of Cattle by Age and Purpose
+Total Grand Total;2007;Number of Cattle by Age and Purpose
+Male Grand Total;2007;Number of Cattle by Age and Purpose
+Female Grand Total;2007;Number of Cattle by Age and Purpose
+Total Local breed;2007;Number of Cattle by Age and Purpose
+Male Local breed;2007;Number of Cattle by Age and Purpose
+Female Local breed;2007;Number of Cattle by Age and Purpose
+Total Exotic;2007;Number of Cattle by Age and Purpose
+Male Exotic;2007;Number of Cattle by Age and Purpose
+Female Exotic;2007;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2008;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2008;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2008;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2008;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2008;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2008;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2008;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2008;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2008;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2008;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2008;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2008;Number of Cattle by Age and Purpose
+Total Beef Cattle;2008;Number of Cattle by Age and Purpose
+Male Beef Cattle;2008;Number of Cattle by Age and Purpose
+Female Beef Cattle;2008;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2008;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2008;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2008;Number of Cattle by Age and Purpose
+Total Dairy cows;2008;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2008;Number of Cattle by Age and Purpose
+Total Draft cattle;2008;Number of Cattle by Age and Purpose
+Male Draft cattle;2008;Number of Cattle by Age and Purpose
+Female Draft cattle;2008;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2008;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2008;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2008;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2008;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2008;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2008;Number of Cattle by Age and Purpose
+Total Grand Total;2008;Number of Cattle by Age and Purpose
+Male Grand Total;2008;Number of Cattle by Age and Purpose
+Female Grand Total;2008;Number of Cattle by Age and Purpose
+Total Local breed;2008;Number of Cattle by Age and Purpose
+Male Local breed;2008;Number of Cattle by Age and Purpose
+Female Local breed;2008;Number of Cattle by Age and Purpose
+Total Exotic;2008;Number of Cattle by Age and Purpose
+Male Exotic;2008;Number of Cattle by Age and Purpose
+Female Exotic;2008;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2009;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2009;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2009;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2009;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2009;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2009;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2009;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2009;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2009;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2009;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2009;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2009;Number of Cattle by Age and Purpose
+Total Beef Cattle;2009;Number of Cattle by Age and Purpose
+Male Beef Cattle;2009;Number of Cattle by Age and Purpose
+Female Beef Cattle;2009;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2009;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2009;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2009;Number of Cattle by Age and Purpose
+Total Dairy cows;2009;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2009;Number of Cattle by Age and Purpose
+Total Draft cattle;2009;Number of Cattle by Age and Purpose
+Male Draft cattle;2009;Number of Cattle by Age and Purpose
+Female Draft cattle;2009;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2009;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2009;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2009;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2009;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2009;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2009;Number of Cattle by Age and Purpose
+Total Grand Total;2009;Number of Cattle by Age and Purpose
+Male Grand Total;2009;Number of Cattle by Age and Purpose
+Female Grand Total;2009;Number of Cattle by Age and Purpose
+Total Local breed;2009;Number of Cattle by Age and Purpose
+Male Local breed;2009;Number of Cattle by Age and Purpose
+Female Local breed;2009;Number of Cattle by Age and Purpose
+Total Exotic;2009;Number of Cattle by Age and Purpose
+Male Exotic;2009;Number of Cattle by Age and Purpose
+Female Exotic;2009;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2010;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2010;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2010;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2010;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2010;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2010;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2010;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2010;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2010;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2010;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2010;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2010;Number of Cattle by Age and Purpose
+Total Beef Cattle;2010;Number of Cattle by Age and Purpose
+Male Beef Cattle;2010;Number of Cattle by Age and Purpose
+Female Beef Cattle;2010;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2010;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2010;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2010;Number of Cattle by Age and Purpose
+Total Dairy cows;2010;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2010;Number of Cattle by Age and Purpose
+Total Draft cattle;2010;Number of Cattle by Age and Purpose
+Male Draft cattle;2010;Number of Cattle by Age and Purpose
+Female Draft cattle;2010;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2010;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2010;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2010;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2010;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2010;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2010;Number of Cattle by Age and Purpose
+Total Grand Total;2010;Number of Cattle by Age and Purpose
+Male Grand Total;2010;Number of Cattle by Age and Purpose
+Female Grand Total;2010;Number of Cattle by Age and Purpose
+Total Local breed;2010;Number of Cattle by Age and Purpose
+Male Local breed;2010;Number of Cattle by Age and Purpose
+Female Local breed;2010;Number of Cattle by Age and Purpose
+Total Exotic;2010;Number of Cattle by Age and Purpose
+Male Exotic;2010;Number of Cattle by Age and Purpose
+Female Exotic;2010;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2011;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2011;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2011;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2011;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2011;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2011;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2011;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2011;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2011;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2011;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2011;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2011;Number of Cattle by Age and Purpose
+Total Beef Cattle;2011;Number of Cattle by Age and Purpose
+Male Beef Cattle;2011;Number of Cattle by Age and Purpose
+Female Beef Cattle;2011;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2011;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2011;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2011;Number of Cattle by Age and Purpose
+Total Dairy cows;2011;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2011;Number of Cattle by Age and Purpose
+Total Draft cattle;2011;Number of Cattle by Age and Purpose
+Male Draft cattle;2011;Number of Cattle by Age and Purpose
+Female Draft cattle;2011;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2011;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2011;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2011;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2011;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2011;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2011;Number of Cattle by Age and Purpose
+Total Grand Total;2011;Number of Cattle by Age and Purpose
+Male Grand Total;2011;Number of Cattle by Age and Purpose
+Female Grand Total;2011;Number of Cattle by Age and Purpose
+Total Local breed;2011;Number of Cattle by Age and Purpose
+Male Local breed;2011;Number of Cattle by Age and Purpose
+Female Local breed;2011;Number of Cattle by Age and Purpose
+Total Exotic;2011;Number of Cattle by Age and Purpose
+Male Exotic;2011;Number of Cattle by Age and Purpose
+Female Exotic;2011;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2012;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2012;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2012;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2012;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2012;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2012;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2012;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2012;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2012;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2012;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2012;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2012;Number of Cattle by Age and Purpose
+Total Beef Cattle;2012;Number of Cattle by Age and Purpose
+Male Beef Cattle;2012;Number of Cattle by Age and Purpose
+Female Beef Cattle;2012;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2012;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2012;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2012;Number of Cattle by Age and Purpose
+Total Dairy cows;2012;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2012;Number of Cattle by Age and Purpose
+Total Draft cattle;2012;Number of Cattle by Age and Purpose
+Male Draft cattle;2012;Number of Cattle by Age and Purpose
+Female Draft cattle;2012;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2012;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2012;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2012;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2012;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2012;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2012;Number of Cattle by Age and Purpose
+Total Grand Total;2012;Number of Cattle by Age and Purpose
+Male Grand Total;2012;Number of Cattle by Age and Purpose
+Female Grand Total;2012;Number of Cattle by Age and Purpose
+Total Local breed;2012;Number of Cattle by Age and Purpose
+Male Local breed;2012;Number of Cattle by Age and Purpose
+Female Local breed;2012;Number of Cattle by Age and Purpose
+Total Exotic;2012;Number of Cattle by Age and Purpose
+Male Exotic;2012;Number of Cattle by Age and Purpose
+Female Exotic;2012;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2013;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2013;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2013;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2013;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2013;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2013;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2013;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2013;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2013;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2013;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2013;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2013;Number of Cattle by Age and Purpose
+Total Beef Cattle;2013;Number of Cattle by Age and Purpose
+Male Beef Cattle;2013;Number of Cattle by Age and Purpose
+Female Beef Cattle;2013;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2013;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2013;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2013;Number of Cattle by Age and Purpose
+Total Dairy cows;2013;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2013;Number of Cattle by Age and Purpose
+Total Draft cattle;2013;Number of Cattle by Age and Purpose
+Male Draft cattle;2013;Number of Cattle by Age and Purpose
+Female Draft cattle;2013;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2013;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2013;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2013;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2013;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2013;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2013;Number of Cattle by Age and Purpose
+Total Grand Total;2013;Number of Cattle by Age and Purpose
+Male Grand Total;2013;Number of Cattle by Age and Purpose
+Female Grand Total;2013;Number of Cattle by Age and Purpose
+Total Local breed;2013;Number of Cattle by Age and Purpose
+Male Local breed;2013;Number of Cattle by Age and Purpose
+Female Local breed;2013;Number of Cattle by Age and Purpose
+Total Exotic;2013;Number of Cattle by Age and Purpose
+Male Exotic;2013;Number of Cattle by Age and Purpose
+Female Exotic;2013;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2014;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2014;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2014;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2014;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2014;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2014;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2014;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2014;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2014;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2014;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2014;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2014;Number of Cattle by Age and Purpose
+Total Beef Cattle;2014;Number of Cattle by Age and Purpose
+Male Beef Cattle;2014;Number of Cattle by Age and Purpose
+Female Beef Cattle;2014;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2014;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2014;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2014;Number of Cattle by Age and Purpose
+Total Dairy cows;2014;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2014;Number of Cattle by Age and Purpose
+Total Draft cattle;2014;Number of Cattle by Age and Purpose
+Male Draft cattle;2014;Number of Cattle by Age and Purpose
+Female Draft cattle;2014;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2014;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2014;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2014;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2014;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2014;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2014;Number of Cattle by Age and Purpose
+Total Grand Total;2014;Number of Cattle by Age and Purpose
+Male Grand Total;2014;Number of Cattle by Age and Purpose
+Female Grand Total;2014;Number of Cattle by Age and Purpose
+Total Local breed;2014;Number of Cattle by Age and Purpose
+Male Local breed;2014;Number of Cattle by Age and Purpose
+Female Local breed;2014;Number of Cattle by Age and Purpose
+Total Exotic;2014;Number of Cattle by Age and Purpose
+Male Exotic;2014;Number of Cattle by Age and Purpose
+Female Exotic;2014;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2015;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2015;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2015;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2015;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2015;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2015;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2015;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2015;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2015;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2015;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2015;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2015;Number of Cattle by Age and Purpose
+Total Beef Cattle;2015;Number of Cattle by Age and Purpose
+Male Beef Cattle;2015;Number of Cattle by Age and Purpose
+Female Beef Cattle;2015;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2015;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2015;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2015;Number of Cattle by Age and Purpose
+Total Dairy cows;2015;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2015;Number of Cattle by Age and Purpose
+Total Draft cattle;2015;Number of Cattle by Age and Purpose
+Male Draft cattle;2015;Number of Cattle by Age and Purpose
+Female Draft cattle;2015;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2015;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2015;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2015;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2015;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2015;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2015;Number of Cattle by Age and Purpose
+Total Grand Total;2015;Number of Cattle by Age and Purpose
+Male Grand Total;2015;Number of Cattle by Age and Purpose
+Female Grand Total;2015;Number of Cattle by Age and Purpose
+Total Local breed;2015;Number of Cattle by Age and Purpose
+Male Local breed;2015;Number of Cattle by Age and Purpose
+Female Local breed;2015;Number of Cattle by Age and Purpose
+Total Exotic;2015;Number of Cattle by Age and Purpose
+Male Exotic;2015;Number of Cattle by Age and Purpose
+Female Exotic;2015;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2016;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2016;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2016;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2016;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2016;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2016;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2016;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2016;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2016;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2016;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2016;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2016;Number of Cattle by Age and Purpose
+Total Beef Cattle;2016;Number of Cattle by Age and Purpose
+Male Beef Cattle;2016;Number of Cattle by Age and Purpose
+Female Beef Cattle;2016;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2016;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2016;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2016;Number of Cattle by Age and Purpose
+Total Dairy cows;2016;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2016;Number of Cattle by Age and Purpose
+Total Draft cattle;2016;Number of Cattle by Age and Purpose
+Male Draft cattle;2016;Number of Cattle by Age and Purpose
+Female Draft cattle;2016;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2016;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2016;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2016;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2016;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2016;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2016;Number of Cattle by Age and Purpose
+Total Grand Total;2016;Number of Cattle by Age and Purpose
+Male Grand Total;2016;Number of Cattle by Age and Purpose
+Female Grand Total;2016;Number of Cattle by Age and Purpose
+Total Local breed;2016;Number of Cattle by Age and Purpose
+Male Local breed;2016;Number of Cattle by Age and Purpose
+Female Local breed;2016;Number of Cattle by Age and Purpose
+Total Exotic;2016;Number of Cattle by Age and Purpose
+Male Exotic;2016;Number of Cattle by Age and Purpose
+Female Exotic;2016;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2017;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2017;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2017;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2017;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2017;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2017;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2017;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2017;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2017;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2017;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2017;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2017;Number of Cattle by Age and Purpose
+Total Beef Cattle;2017;Number of Cattle by Age and Purpose
+Male Beef Cattle;2017;Number of Cattle by Age and Purpose
+Female Beef Cattle;2017;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2017;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2017;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2017;Number of Cattle by Age and Purpose
+Total Dairy cows;2017;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2017;Number of Cattle by Age and Purpose
+Total Draft cattle;2017;Number of Cattle by Age and Purpose
+Male Draft cattle;2017;Number of Cattle by Age and Purpose
+Female Draft cattle;2017;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2017;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2017;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2017;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2017;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2017;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2017;Number of Cattle by Age and Purpose
+Total Grand Total;2017;Number of Cattle by Age and Purpose
+Male Grand Total;2017;Number of Cattle by Age and Purpose
+Female Grand Total;2017;Number of Cattle by Age and Purpose
+Total Local breed;2017;Number of Cattle by Age and Purpose
+Male Local breed;2017;Number of Cattle by Age and Purpose
+Female Local breed;2017;Number of Cattle by Age and Purpose
+Total Exotic;2017;Number of Cattle by Age and Purpose
+Male Exotic;2017;Number of Cattle by Age and Purpose
+Female Exotic;2017;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2018;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2018;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2018;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2018;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2018;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2018;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2018;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2018;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2018;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2018;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2018;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2018;Number of Cattle by Age and Purpose
+Total Beef Cattle;2018;Number of Cattle by Age and Purpose
+Male Beef Cattle;2018;Number of Cattle by Age and Purpose
+Female Beef Cattle;2018;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2018;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2018;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2018;Number of Cattle by Age and Purpose
+Total Dairy cows;2018;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2018;Number of Cattle by Age and Purpose
+Total Draft cattle;2018;Number of Cattle by Age and Purpose
+Male Draft cattle;2018;Number of Cattle by Age and Purpose
+Female Draft cattle;2018;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2018;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2018;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2018;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2018;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2018;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2018;Number of Cattle by Age and Purpose
+Total Grand Total;2018;Number of Cattle by Age and Purpose
+Male Grand Total;2018;Number of Cattle by Age and Purpose
+Female Grand Total;2018;Number of Cattle by Age and Purpose
+Total Local breed;2018;Number of Cattle by Age and Purpose
+Male Local breed;2018;Number of Cattle by Age and Purpose
+Female Local breed;2018;Number of Cattle by Age and Purpose
+Total Exotic;2018;Number of Cattle by Age and Purpose
+Male Exotic;2018;Number of Cattle by Age and Purpose
+Female Exotic;2018;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2019;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2019;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2019;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2019;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2019;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2019;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2019;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2019;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2019;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2019;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2019;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2019;Number of Cattle by Age and Purpose
+Total Beef Cattle;2019;Number of Cattle by Age and Purpose
+Male Beef Cattle;2019;Number of Cattle by Age and Purpose
+Female Beef Cattle;2019;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2019;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2019;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2019;Number of Cattle by Age and Purpose
+Total Dairy cows;2019;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2019;Number of Cattle by Age and Purpose
+Total Draft cattle;2019;Number of Cattle by Age and Purpose
+Male Draft cattle;2019;Number of Cattle by Age and Purpose
+Female Draft cattle;2019;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2019;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2019;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2019;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2019;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2019;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2019;Number of Cattle by Age and Purpose
+Total Grand Total;2019;Number of Cattle by Age and Purpose
+Male Grand Total;2019;Number of Cattle by Age and Purpose
+Female Grand Total;2019;Number of Cattle by Age and Purpose
+Total Local breed;2019;Number of Cattle by Age and Purpose
+Male Local breed;2019;Number of Cattle by Age and Purpose
+Female Local breed;2019;Number of Cattle by Age and Purpose
+Total Exotic;2019;Number of Cattle by Age and Purpose
+Male Exotic;2019;Number of Cattle by Age and Purpose
+Female Exotic;2019;Number of Cattle by Age and Purpose
+Total Cattle less than 6 months;2020;Number of Cattle by Age and Purpose
+Male Cattle less than 6 months;2020;Number of Cattle by Age and Purpose
+Female Cattle less than 6 months;2020;Number of Cattle by Age and Purpose
+Total Cattle 6 months and less than 1 year;2020;Number of Cattle by Age and Purpose
+Male Cattle 6 months and less than 1 year;2020;Number of Cattle by Age and Purpose
+Female Cattle 6 months and less than 1 year;2020;Number of Cattle by Age and Purpose
+Total Cattle 1 year and less than 3 years;2020;Number of Cattle by Age and Purpose
+Male Cattle 1 year and less than 3 years;2020;Number of Cattle by Age and Purpose
+Female Cattle 1 year and less than 3 years;2020;Number of Cattle by Age and Purpose
+Total Cattle 3 years and less than 10 years;2020;Number of Cattle by Age and Purpose
+Male Cattle 3 years and less than 10 years;2020;Number of Cattle by Age and Purpose
+Female Cattle 3 years and less than 10 years;2020;Number of Cattle by Age and Purpose
+Total Beef Cattle;2020;Number of Cattle by Age and Purpose
+Male Beef Cattle;2020;Number of Cattle by Age and Purpose
+Female Beef Cattle;2020;Number of Cattle by Age and Purpose
+Total Cattle for breeding;2020;Number of Cattle by Age and Purpose
+Male Cattle for breeding;2020;Number of Cattle by Age and Purpose
+Female Cattle for breeding;2020;Number of Cattle by Age and Purpose
+Total Dairy cows;2020;Number of Cattle by Age and Purpose
+Total Cows that gave milk for the last 12 months;2020;Number of Cattle by Age and Purpose
+Total Draft cattle;2020;Number of Cattle by Age and Purpose
+Male Draft cattle;2020;Number of Cattle by Age and Purpose
+Female Draft cattle;2020;Number of Cattle by Age and Purpose
+Total Cattle for other purposes;2020;Number of Cattle by Age and Purpose
+Male Cattle for other purposes;2020;Number of Cattle by Age and Purpose
+Female Cattle for other purposes;2020;Number of Cattle by Age and Purpose
+Total Cattle 10 years and older;2020;Number of Cattle by Age and Purpose
+Male Cattle 10 years and older;2020;Number of Cattle by Age and Purpose
+Female Cattle 10 years and older;2020;Number of Cattle by Age and Purpose
+Total Grand Total;2020;Number of Cattle by Age and Purpose
+Male Grand Total;2020;Number of Cattle by Age and Purpose
+Female Grand Total;2020;Number of Cattle by Age and Purpose
+Total Local breed;2020;Number of Cattle by Age and Purpose
+Male Local breed;2020;Number of Cattle by Age and Purpose
+Female Local breed;2020;Number of Cattle by Age and Purpose
+Total Exotic;2020;Number of Cattle by Age and Purpose
+Male Exotic;2020;Number of Cattle by Age and Purpose
+Female Exotic;2020;Number of Cattle by Age and Purpose

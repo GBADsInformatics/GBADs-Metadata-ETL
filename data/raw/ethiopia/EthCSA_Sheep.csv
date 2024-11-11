@@ -1,0 +1,649 @@
+species;year;table_name
+Male Sheep less than 6 months;2003;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2003;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2003;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2003;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2003;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2003;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2003;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2003;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2003;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2003;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2003;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2003;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2003;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2003;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2003;Number of Sheep by Age and Purpose
+Male Sheep for wool;2003;Number of Sheep by Age and Purpose
+Female Sheep for wool;2003;Number of Sheep by Age and Purpose
+Total Sheep for wool;2003;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2003;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2003;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2003;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2003;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2003;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2003;Number of Sheep by Age and Purpose
+Male Grand Total;2003;Number of Sheep by Age and Purpose
+Female Grand Total;2003;Number of Sheep by Age and Purpose
+Total Grand Total;2003;Number of Sheep by Age and Purpose
+Male Local breed;2003;Number of Sheep by Age and Purpose
+Female Local breed;2003;Number of Sheep by Age and Purpose
+Total Local breed;2003;Number of Sheep by Age and Purpose
+Male Exotic;2003;Number of Sheep by Age and Purpose
+Female Exotic;2003;Number of Sheep by Age and Purpose
+Total Exotic;2003;Number of Sheep by Age and Purpose
+Male Hybrid;2003;Number of Sheep by Age and Purpose
+Female Hybrid;2003;Number of Sheep by Age and Purpose
+Total Hybrid;2003;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2004;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2004;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2004;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2004;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2004;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2004;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2004;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2004;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2004;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2004;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2004;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2004;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2004;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2004;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2004;Number of Sheep by Age and Purpose
+Male Sheep for wool;2004;Number of Sheep by Age and Purpose
+Female Sheep for wool;2004;Number of Sheep by Age and Purpose
+Total Sheep for wool;2004;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2004;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2004;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2004;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2004;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2004;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2004;Number of Sheep by Age and Purpose
+Male Grand Total;2004;Number of Sheep by Age and Purpose
+Female Grand Total;2004;Number of Sheep by Age and Purpose
+Total Grand Total;2004;Number of Sheep by Age and Purpose
+Male Local breed;2004;Number of Sheep by Age and Purpose
+Female Local breed;2004;Number of Sheep by Age and Purpose
+Total Local breed;2004;Number of Sheep by Age and Purpose
+Male Exotic;2004;Number of Sheep by Age and Purpose
+Female Exotic;2004;Number of Sheep by Age and Purpose
+Total Exotic;2004;Number of Sheep by Age and Purpose
+Male Hybrid;2004;Number of Sheep by Age and Purpose
+Female Hybrid;2004;Number of Sheep by Age and Purpose
+Total Hybrid;2004;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2005;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2005;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2005;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2005;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2005;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2005;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2005;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2005;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2005;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2005;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2005;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2005;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2005;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2005;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2005;Number of Sheep by Age and Purpose
+Male Sheep for wool;2005;Number of Sheep by Age and Purpose
+Female Sheep for wool;2005;Number of Sheep by Age and Purpose
+Total Sheep for wool;2005;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2005;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2005;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2005;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2005;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2005;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2005;Number of Sheep by Age and Purpose
+Male Grand Total;2005;Number of Sheep by Age and Purpose
+Female Grand Total;2005;Number of Sheep by Age and Purpose
+Total Grand Total;2005;Number of Sheep by Age and Purpose
+Male Local breed;2005;Number of Sheep by Age and Purpose
+Female Local breed;2005;Number of Sheep by Age and Purpose
+Total Local breed;2005;Number of Sheep by Age and Purpose
+Male Exotic;2005;Number of Sheep by Age and Purpose
+Female Exotic;2005;Number of Sheep by Age and Purpose
+Total Exotic;2005;Number of Sheep by Age and Purpose
+Male Hybrid;2005;Number of Sheep by Age and Purpose
+Female Hybrid;2005;Number of Sheep by Age and Purpose
+Total Hybrid;2005;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2006;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2006;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2006;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2006;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2006;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2006;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2006;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2006;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2006;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2006;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2006;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2006;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2006;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2006;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2006;Number of Sheep by Age and Purpose
+Male Sheep for wool;2006;Number of Sheep by Age and Purpose
+Female Sheep for wool;2006;Number of Sheep by Age and Purpose
+Total Sheep for wool;2006;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2006;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2006;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2006;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2006;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2006;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2006;Number of Sheep by Age and Purpose
+Male Grand Total;2006;Number of Sheep by Age and Purpose
+Female Grand Total;2006;Number of Sheep by Age and Purpose
+Total Grand Total;2006;Number of Sheep by Age and Purpose
+Male Local breed;2006;Number of Sheep by Age and Purpose
+Female Local breed;2006;Number of Sheep by Age and Purpose
+Total Local breed;2006;Number of Sheep by Age and Purpose
+Male Exotic;2006;Number of Sheep by Age and Purpose
+Female Exotic;2006;Number of Sheep by Age and Purpose
+Total Exotic;2006;Number of Sheep by Age and Purpose
+Male Hybrid;2006;Number of Sheep by Age and Purpose
+Female Hybrid;2006;Number of Sheep by Age and Purpose
+Total Hybrid;2006;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2007;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2007;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2007;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2007;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2007;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2007;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2007;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2007;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2007;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2007;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2007;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2007;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2007;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2007;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2007;Number of Sheep by Age and Purpose
+Male Sheep for wool;2007;Number of Sheep by Age and Purpose
+Female Sheep for wool;2007;Number of Sheep by Age and Purpose
+Total Sheep for wool;2007;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2007;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2007;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2007;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2007;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2007;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2007;Number of Sheep by Age and Purpose
+Male Grand Total;2007;Number of Sheep by Age and Purpose
+Female Grand Total;2007;Number of Sheep by Age and Purpose
+Total Grand Total;2007;Number of Sheep by Age and Purpose
+Male Local breed;2007;Number of Sheep by Age and Purpose
+Female Local breed;2007;Number of Sheep by Age and Purpose
+Total Local breed;2007;Number of Sheep by Age and Purpose
+Male Exotic;2007;Number of Sheep by Age and Purpose
+Female Exotic;2007;Number of Sheep by Age and Purpose
+Total Exotic;2007;Number of Sheep by Age and Purpose
+Male Hybrid;2007;Number of Sheep by Age and Purpose
+Female Hybrid;2007;Number of Sheep by Age and Purpose
+Total Hybrid;2007;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2008;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2008;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2008;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2008;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2008;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2008;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2008;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2008;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2008;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2008;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2008;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2008;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2008;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2008;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2008;Number of Sheep by Age and Purpose
+Male Sheep for wool;2008;Number of Sheep by Age and Purpose
+Female Sheep for wool;2008;Number of Sheep by Age and Purpose
+Total Sheep for wool;2008;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2008;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2008;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2008;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2008;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2008;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2008;Number of Sheep by Age and Purpose
+Male Grand Total;2008;Number of Sheep by Age and Purpose
+Female Grand Total;2008;Number of Sheep by Age and Purpose
+Total Grand Total;2008;Number of Sheep by Age and Purpose
+Male Local breed;2008;Number of Sheep by Age and Purpose
+Female Local breed;2008;Number of Sheep by Age and Purpose
+Total Local breed;2008;Number of Sheep by Age and Purpose
+Male Exotic;2008;Number of Sheep by Age and Purpose
+Female Exotic;2008;Number of Sheep by Age and Purpose
+Total Exotic;2008;Number of Sheep by Age and Purpose
+Male Hybrid;2008;Number of Sheep by Age and Purpose
+Female Hybrid;2008;Number of Sheep by Age and Purpose
+Total Hybrid;2008;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2009;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2009;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2009;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2009;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2009;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2009;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2009;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2009;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2009;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2009;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2009;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2009;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2009;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2009;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2009;Number of Sheep by Age and Purpose
+Male Sheep for wool;2009;Number of Sheep by Age and Purpose
+Female Sheep for wool;2009;Number of Sheep by Age and Purpose
+Total Sheep for wool;2009;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2009;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2009;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2009;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2009;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2009;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2009;Number of Sheep by Age and Purpose
+Male Grand Total;2009;Number of Sheep by Age and Purpose
+Female Grand Total;2009;Number of Sheep by Age and Purpose
+Total Grand Total;2009;Number of Sheep by Age and Purpose
+Male Local breed;2009;Number of Sheep by Age and Purpose
+Female Local breed;2009;Number of Sheep by Age and Purpose
+Total Local breed;2009;Number of Sheep by Age and Purpose
+Male Exotic;2009;Number of Sheep by Age and Purpose
+Female Exotic;2009;Number of Sheep by Age and Purpose
+Total Exotic;2009;Number of Sheep by Age and Purpose
+Male Hybrid;2009;Number of Sheep by Age and Purpose
+Female Hybrid;2009;Number of Sheep by Age and Purpose
+Total Hybrid;2009;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2010;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2010;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2010;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2010;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2010;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2010;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2010;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2010;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2010;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2010;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2010;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2010;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2010;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2010;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2010;Number of Sheep by Age and Purpose
+Male Sheep for wool;2010;Number of Sheep by Age and Purpose
+Female Sheep for wool;2010;Number of Sheep by Age and Purpose
+Total Sheep for wool;2010;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2010;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2010;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2010;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2010;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2010;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2010;Number of Sheep by Age and Purpose
+Male Grand Total;2010;Number of Sheep by Age and Purpose
+Female Grand Total;2010;Number of Sheep by Age and Purpose
+Total Grand Total;2010;Number of Sheep by Age and Purpose
+Male Local breed;2010;Number of Sheep by Age and Purpose
+Female Local breed;2010;Number of Sheep by Age and Purpose
+Total Local breed;2010;Number of Sheep by Age and Purpose
+Male Exotic;2010;Number of Sheep by Age and Purpose
+Female Exotic;2010;Number of Sheep by Age and Purpose
+Total Exotic;2010;Number of Sheep by Age and Purpose
+Male Hybrid;2010;Number of Sheep by Age and Purpose
+Female Hybrid;2010;Number of Sheep by Age and Purpose
+Total Hybrid;2010;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2011;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2011;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2011;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2011;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2011;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2011;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2011;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2011;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2011;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2011;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2011;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2011;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2011;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2011;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2011;Number of Sheep by Age and Purpose
+Male Sheep for wool;2011;Number of Sheep by Age and Purpose
+Female Sheep for wool;2011;Number of Sheep by Age and Purpose
+Total Sheep for wool;2011;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2011;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2011;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2011;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2011;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2011;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2011;Number of Sheep by Age and Purpose
+Male Grand Total;2011;Number of Sheep by Age and Purpose
+Female Grand Total;2011;Number of Sheep by Age and Purpose
+Total Grand Total;2011;Number of Sheep by Age and Purpose
+Male Local breed;2011;Number of Sheep by Age and Purpose
+Female Local breed;2011;Number of Sheep by Age and Purpose
+Total Local breed;2011;Number of Sheep by Age and Purpose
+Male Exotic;2011;Number of Sheep by Age and Purpose
+Female Exotic;2011;Number of Sheep by Age and Purpose
+Total Exotic;2011;Number of Sheep by Age and Purpose
+Male Hybrid;2011;Number of Sheep by Age and Purpose
+Female Hybrid;2011;Number of Sheep by Age and Purpose
+Total Hybrid;2011;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2012;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2012;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2012;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2012;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2012;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2012;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2012;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2012;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2012;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2012;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2012;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2012;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2012;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2012;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2012;Number of Sheep by Age and Purpose
+Male Sheep for wool;2012;Number of Sheep by Age and Purpose
+Female Sheep for wool;2012;Number of Sheep by Age and Purpose
+Total Sheep for wool;2012;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2012;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2012;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2012;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2012;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2012;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2012;Number of Sheep by Age and Purpose
+Male Grand Total;2012;Number of Sheep by Age and Purpose
+Female Grand Total;2012;Number of Sheep by Age and Purpose
+Total Grand Total;2012;Number of Sheep by Age and Purpose
+Male Local breed;2012;Number of Sheep by Age and Purpose
+Female Local breed;2012;Number of Sheep by Age and Purpose
+Total Local breed;2012;Number of Sheep by Age and Purpose
+Male Exotic;2012;Number of Sheep by Age and Purpose
+Female Exotic;2012;Number of Sheep by Age and Purpose
+Total Exotic;2012;Number of Sheep by Age and Purpose
+Male Hybrid;2012;Number of Sheep by Age and Purpose
+Female Hybrid;2012;Number of Sheep by Age and Purpose
+Total Hybrid;2012;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2013;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2013;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2013;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2013;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2013;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2013;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2013;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2013;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2013;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2013;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2013;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2013;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2013;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2013;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2013;Number of Sheep by Age and Purpose
+Male Sheep for wool;2013;Number of Sheep by Age and Purpose
+Female Sheep for wool;2013;Number of Sheep by Age and Purpose
+Total Sheep for wool;2013;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2013;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2013;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2013;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2013;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2013;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2013;Number of Sheep by Age and Purpose
+Male Grand Total;2013;Number of Sheep by Age and Purpose
+Female Grand Total;2013;Number of Sheep by Age and Purpose
+Total Grand Total;2013;Number of Sheep by Age and Purpose
+Male Local breed;2013;Number of Sheep by Age and Purpose
+Female Local breed;2013;Number of Sheep by Age and Purpose
+Total Local breed;2013;Number of Sheep by Age and Purpose
+Male Exotic;2013;Number of Sheep by Age and Purpose
+Female Exotic;2013;Number of Sheep by Age and Purpose
+Total Exotic;2013;Number of Sheep by Age and Purpose
+Male Hybrid;2013;Number of Sheep by Age and Purpose
+Female Hybrid;2013;Number of Sheep by Age and Purpose
+Total Hybrid;2013;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2014;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2014;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2014;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2014;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2014;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2014;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2014;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2014;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2014;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2014;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2014;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2014;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2014;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2014;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2014;Number of Sheep by Age and Purpose
+Male Sheep for wool;2014;Number of Sheep by Age and Purpose
+Female Sheep for wool;2014;Number of Sheep by Age and Purpose
+Total Sheep for wool;2014;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2014;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2014;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2014;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2014;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2014;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2014;Number of Sheep by Age and Purpose
+Male Grand Total;2014;Number of Sheep by Age and Purpose
+Female Grand Total;2014;Number of Sheep by Age and Purpose
+Total Grand Total;2014;Number of Sheep by Age and Purpose
+Male Local breed;2014;Number of Sheep by Age and Purpose
+Female Local breed;2014;Number of Sheep by Age and Purpose
+Total Local breed;2014;Number of Sheep by Age and Purpose
+Male Exotic;2014;Number of Sheep by Age and Purpose
+Female Exotic;2014;Number of Sheep by Age and Purpose
+Total Exotic;2014;Number of Sheep by Age and Purpose
+Male Hybrid;2014;Number of Sheep by Age and Purpose
+Female Hybrid;2014;Number of Sheep by Age and Purpose
+Total Hybrid;2014;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2015;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2015;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2015;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2015;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2015;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2015;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2015;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2015;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2015;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2015;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2015;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2015;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2015;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2015;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2015;Number of Sheep by Age and Purpose
+Male Sheep for wool;2015;Number of Sheep by Age and Purpose
+Female Sheep for wool;2015;Number of Sheep by Age and Purpose
+Total Sheep for wool;2015;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2015;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2015;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2015;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2015;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2015;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2015;Number of Sheep by Age and Purpose
+Male Grand Total;2015;Number of Sheep by Age and Purpose
+Female Grand Total;2015;Number of Sheep by Age and Purpose
+Total Grand Total;2015;Number of Sheep by Age and Purpose
+Male Local breed;2015;Number of Sheep by Age and Purpose
+Female Local breed;2015;Number of Sheep by Age and Purpose
+Total Local breed;2015;Number of Sheep by Age and Purpose
+Male Exotic;2015;Number of Sheep by Age and Purpose
+Female Exotic;2015;Number of Sheep by Age and Purpose
+Total Exotic;2015;Number of Sheep by Age and Purpose
+Male Hybrid;2015;Number of Sheep by Age and Purpose
+Female Hybrid;2015;Number of Sheep by Age and Purpose
+Total Hybrid;2015;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2016;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2016;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2016;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2016;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2016;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2016;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2016;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2016;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2016;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2016;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2016;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2016;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2016;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2016;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2016;Number of Sheep by Age and Purpose
+Male Sheep for wool;2016;Number of Sheep by Age and Purpose
+Female Sheep for wool;2016;Number of Sheep by Age and Purpose
+Total Sheep for wool;2016;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2016;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2016;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2016;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2016;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2016;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2016;Number of Sheep by Age and Purpose
+Male Grand Total;2016;Number of Sheep by Age and Purpose
+Female Grand Total;2016;Number of Sheep by Age and Purpose
+Total Grand Total;2016;Number of Sheep by Age and Purpose
+Male Local breed;2016;Number of Sheep by Age and Purpose
+Female Local breed;2016;Number of Sheep by Age and Purpose
+Total Local breed;2016;Number of Sheep by Age and Purpose
+Male Exotic;2016;Number of Sheep by Age and Purpose
+Female Exotic;2016;Number of Sheep by Age and Purpose
+Total Exotic;2016;Number of Sheep by Age and Purpose
+Male Hybrid;2016;Number of Sheep by Age and Purpose
+Female Hybrid;2016;Number of Sheep by Age and Purpose
+Total Hybrid;2016;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2017;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2017;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2017;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2017;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2017;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2017;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2017;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2017;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2017;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2017;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2017;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2017;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2017;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2017;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2017;Number of Sheep by Age and Purpose
+Male Sheep for wool;2017;Number of Sheep by Age and Purpose
+Female Sheep for wool;2017;Number of Sheep by Age and Purpose
+Total Sheep for wool;2017;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2017;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2017;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2017;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2017;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2017;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2017;Number of Sheep by Age and Purpose
+Male Grand Total;2017;Number of Sheep by Age and Purpose
+Female Grand Total;2017;Number of Sheep by Age and Purpose
+Total Grand Total;2017;Number of Sheep by Age and Purpose
+Male Local breed;2017;Number of Sheep by Age and Purpose
+Female Local breed;2017;Number of Sheep by Age and Purpose
+Total Local breed;2017;Number of Sheep by Age and Purpose
+Male Exotic;2017;Number of Sheep by Age and Purpose
+Female Exotic;2017;Number of Sheep by Age and Purpose
+Total Exotic;2017;Number of Sheep by Age and Purpose
+Male Hybrid;2017;Number of Sheep by Age and Purpose
+Female Hybrid;2017;Number of Sheep by Age and Purpose
+Total Hybrid;2017;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2018;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2018;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2018;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2018;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2018;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2018;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2018;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2018;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2018;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2018;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2018;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2018;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2018;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2018;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2018;Number of Sheep by Age and Purpose
+Male Sheep for wool;2018;Number of Sheep by Age and Purpose
+Female Sheep for wool;2018;Number of Sheep by Age and Purpose
+Total Sheep for wool;2018;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2018;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2018;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2018;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2018;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2018;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2018;Number of Sheep by Age and Purpose
+Male Grand Total;2018;Number of Sheep by Age and Purpose
+Female Grand Total;2018;Number of Sheep by Age and Purpose
+Total Grand Total;2018;Number of Sheep by Age and Purpose
+Male Local breed;2018;Number of Sheep by Age and Purpose
+Female Local breed;2018;Number of Sheep by Age and Purpose
+Total Local breed;2018;Number of Sheep by Age and Purpose
+Male Exotic;2018;Number of Sheep by Age and Purpose
+Female Exotic;2018;Number of Sheep by Age and Purpose
+Total Exotic;2018;Number of Sheep by Age and Purpose
+Male Hybrid;2018;Number of Sheep by Age and Purpose
+Female Hybrid;2018;Number of Sheep by Age and Purpose
+Total Hybrid;2018;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2019;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2019;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2019;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2019;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2019;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2019;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2019;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2019;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2019;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2019;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2019;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2019;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2019;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2019;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2019;Number of Sheep by Age and Purpose
+Male Sheep for wool;2019;Number of Sheep by Age and Purpose
+Female Sheep for wool;2019;Number of Sheep by Age and Purpose
+Total Sheep for wool;2019;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2019;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2019;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2019;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2019;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2019;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2019;Number of Sheep by Age and Purpose
+Male Grand Total;2019;Number of Sheep by Age and Purpose
+Female Grand Total;2019;Number of Sheep by Age and Purpose
+Total Grand Total;2019;Number of Sheep by Age and Purpose
+Male Local breed;2019;Number of Sheep by Age and Purpose
+Female Local breed;2019;Number of Sheep by Age and Purpose
+Total Local breed;2019;Number of Sheep by Age and Purpose
+Male Exotic;2019;Number of Sheep by Age and Purpose
+Female Exotic;2019;Number of Sheep by Age and Purpose
+Total Exotic;2019;Number of Sheep by Age and Purpose
+Male Hybrid;2019;Number of Sheep by Age and Purpose
+Female Hybrid;2019;Number of Sheep by Age and Purpose
+Total Hybrid;2019;Number of Sheep by Age and Purpose
+Male Sheep less than 6 months;2020;Number of Sheep by Age and Purpose
+Female Sheep less than 6 months;2020;Number of Sheep by Age and Purpose
+Total Sheep less than 6 months;2020;Number of Sheep by Age and Purpose
+Male Sheep 6 months and less than 1 year;2020;Number of Sheep by Age and Purpose
+Female Sheep 6 months and less than 1 year;2020;Number of Sheep by Age and Purpose
+Total Sheep 6 months and less than 1 year;2020;Number of Sheep by Age and Purpose
+Male Sheep 1 year and less than 2 years;2020;Number of Sheep by Age and Purpose
+Female Sheep 1 year and less than 2 years;2020;Number of Sheep by Age and Purpose
+Total Sheep 1 year and less than 2 years;2020;Number of Sheep by Age and Purpose
+Male Sheep 2 years and older;2020;Number of Sheep by Age and Purpose
+Female Sheep 2 years and older;2020;Number of Sheep by Age and Purpose
+Total Sheep 2 years and older;2020;Number of Sheep by Age and Purpose
+Male Sheep for mutton;2020;Number of Sheep by Age and Purpose
+Female Sheep for mutton;2020;Number of Sheep by Age and Purpose
+Total Sheep for mutton;2020;Number of Sheep by Age and Purpose
+Male Sheep for wool;2020;Number of Sheep by Age and Purpose
+Female Sheep for wool;2020;Number of Sheep by Age and Purpose
+Total Sheep for wool;2020;Number of Sheep by Age and Purpose
+Male Sheep for breeding;2020;Number of Sheep by Age and Purpose
+Female Sheep for breeding;2020;Number of Sheep by Age and Purpose
+Total Sheep for breeding;2020;Number of Sheep by Age and Purpose
+Male Sheep for other purposes;2020;Number of Sheep by Age and Purpose
+Female Sheep for other purposes;2020;Number of Sheep by Age and Purpose
+Total Sheep for other purposes;2020;Number of Sheep by Age and Purpose
+Male Grand Total;2020;Number of Sheep by Age and Purpose
+Female Grand Total;2020;Number of Sheep by Age and Purpose
+Total Grand Total;2020;Number of Sheep by Age and Purpose
+Male Local breed;2020;Number of Sheep by Age and Purpose
+Female Local breed;2020;Number of Sheep by Age and Purpose
+Total Local breed;2020;Number of Sheep by Age and Purpose
+Male Exotic;2020;Number of Sheep by Age and Purpose
+Female Exotic;2020;Number of Sheep by Age and Purpose
+Total Exotic;2020;Number of Sheep by Age and Purpose
+Male Hybrid;2020;Number of Sheep by Age and Purpose
+Female Hybrid;2020;Number of Sheep by Age and Purpose
+Total Hybrid;2020;Number of Sheep by Age and Purpose

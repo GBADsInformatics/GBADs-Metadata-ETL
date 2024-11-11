@@ -1,0 +1,613 @@
+species;year;table_name
+Total Goats less than 6 months;2003;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2003;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2003;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2003;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2003;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2003;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2003;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2003;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2003;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2003;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2003;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2003;Number of Goats by Age and Purpose
+Total Goats for meat;2003;Number of Goats by Age and Purpose
+Male Goats for meat;2003;Number of Goats by Age and Purpose
+Female Goats for meat;2003;Number of Goats by Age and Purpose
+Total Dairy Goats;2003;Number of Goats by Age and Purpose
+Total Goats for breeding;2003;Number of Goats by Age and Purpose
+Male Goats for breeding;2003;Number of Goats by Age and Purpose
+Female Goats for breeding;2003;Number of Goats by Age and Purpose
+Total Goats for other purposes;2003;Number of Goats by Age and Purpose
+Male Goats for other purposes;2003;Number of Goats by Age and Purpose
+Female Goats for other purposes;2003;Number of Goats by Age and Purpose
+Total Grand Total;2003;Number of Goats by Age and Purpose
+Male Grand Total;2003;Number of Goats by Age and Purpose
+Female Grand Total;2003;Number of Goats by Age and Purpose
+Total Local breed;2003;Number of Goats by Age and Purpose
+Male Local breed;2003;Number of Goats by Age and Purpose
+Female Local breed;2003;Number of Goats by Age and Purpose
+Total Exotic;2003;Number of Goats by Age and Purpose
+Male Exotic;2003;Number of Goats by Age and Purpose
+Female Exotic;2003;Number of Goats by Age and Purpose
+Total Hybrid;2003;Number of Goats by Age and Purpose
+Male Hybrid;2003;Number of Goats by Age and Purpose
+Female Hybrid;2003;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2004;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2004;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2004;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2004;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2004;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2004;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2004;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2004;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2004;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2004;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2004;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2004;Number of Goats by Age and Purpose
+Total Goats for meat;2004;Number of Goats by Age and Purpose
+Male Goats for meat;2004;Number of Goats by Age and Purpose
+Female Goats for meat;2004;Number of Goats by Age and Purpose
+Total Dairy Goats;2004;Number of Goats by Age and Purpose
+Total Goats for breeding;2004;Number of Goats by Age and Purpose
+Male Goats for breeding;2004;Number of Goats by Age and Purpose
+Female Goats for breeding;2004;Number of Goats by Age and Purpose
+Total Goats for other purposes;2004;Number of Goats by Age and Purpose
+Male Goats for other purposes;2004;Number of Goats by Age and Purpose
+Female Goats for other purposes;2004;Number of Goats by Age and Purpose
+Total Grand Total;2004;Number of Goats by Age and Purpose
+Male Grand Total;2004;Number of Goats by Age and Purpose
+Female Grand Total;2004;Number of Goats by Age and Purpose
+Total Local breed;2004;Number of Goats by Age and Purpose
+Male Local breed;2004;Number of Goats by Age and Purpose
+Female Local breed;2004;Number of Goats by Age and Purpose
+Total Exotic;2004;Number of Goats by Age and Purpose
+Male Exotic;2004;Number of Goats by Age and Purpose
+Female Exotic;2004;Number of Goats by Age and Purpose
+Total Hybrid;2004;Number of Goats by Age and Purpose
+Male Hybrid;2004;Number of Goats by Age and Purpose
+Female Hybrid;2004;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2005;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2005;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2005;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2005;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2005;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2005;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2005;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2005;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2005;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2005;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2005;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2005;Number of Goats by Age and Purpose
+Total Goats for meat;2005;Number of Goats by Age and Purpose
+Male Goats for meat;2005;Number of Goats by Age and Purpose
+Female Goats for meat;2005;Number of Goats by Age and Purpose
+Total Dairy Goats;2005;Number of Goats by Age and Purpose
+Total Goats for breeding;2005;Number of Goats by Age and Purpose
+Male Goats for breeding;2005;Number of Goats by Age and Purpose
+Female Goats for breeding;2005;Number of Goats by Age and Purpose
+Total Goats for other purposes;2005;Number of Goats by Age and Purpose
+Male Goats for other purposes;2005;Number of Goats by Age and Purpose
+Female Goats for other purposes;2005;Number of Goats by Age and Purpose
+Total Grand Total;2005;Number of Goats by Age and Purpose
+Male Grand Total;2005;Number of Goats by Age and Purpose
+Female Grand Total;2005;Number of Goats by Age and Purpose
+Total Local breed;2005;Number of Goats by Age and Purpose
+Male Local breed;2005;Number of Goats by Age and Purpose
+Female Local breed;2005;Number of Goats by Age and Purpose
+Total Exotic;2005;Number of Goats by Age and Purpose
+Male Exotic;2005;Number of Goats by Age and Purpose
+Female Exotic;2005;Number of Goats by Age and Purpose
+Total Hybrid;2005;Number of Goats by Age and Purpose
+Male Hybrid;2005;Number of Goats by Age and Purpose
+Female Hybrid;2005;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2006;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2006;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2006;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2006;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2006;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2006;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2006;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2006;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2006;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2006;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2006;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2006;Number of Goats by Age and Purpose
+Total Goats for meat;2006;Number of Goats by Age and Purpose
+Male Goats for meat;2006;Number of Goats by Age and Purpose
+Female Goats for meat;2006;Number of Goats by Age and Purpose
+Total Dairy Goats;2006;Number of Goats by Age and Purpose
+Total Goats for breeding;2006;Number of Goats by Age and Purpose
+Male Goats for breeding;2006;Number of Goats by Age and Purpose
+Female Goats for breeding;2006;Number of Goats by Age and Purpose
+Total Goats for other purposes;2006;Number of Goats by Age and Purpose
+Male Goats for other purposes;2006;Number of Goats by Age and Purpose
+Female Goats for other purposes;2006;Number of Goats by Age and Purpose
+Total Grand Total;2006;Number of Goats by Age and Purpose
+Male Grand Total;2006;Number of Goats by Age and Purpose
+Female Grand Total;2006;Number of Goats by Age and Purpose
+Total Local breed;2006;Number of Goats by Age and Purpose
+Male Local breed;2006;Number of Goats by Age and Purpose
+Female Local breed;2006;Number of Goats by Age and Purpose
+Total Exotic;2006;Number of Goats by Age and Purpose
+Male Exotic;2006;Number of Goats by Age and Purpose
+Female Exotic;2006;Number of Goats by Age and Purpose
+Total Hybrid;2006;Number of Goats by Age and Purpose
+Male Hybrid;2006;Number of Goats by Age and Purpose
+Female Hybrid;2006;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2007;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2007;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2007;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2007;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2007;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2007;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2007;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2007;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2007;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2007;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2007;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2007;Number of Goats by Age and Purpose
+Total Goats for meat;2007;Number of Goats by Age and Purpose
+Male Goats for meat;2007;Number of Goats by Age and Purpose
+Female Goats for meat;2007;Number of Goats by Age and Purpose
+Total Dairy Goats;2007;Number of Goats by Age and Purpose
+Total Goats for breeding;2007;Number of Goats by Age and Purpose
+Male Goats for breeding;2007;Number of Goats by Age and Purpose
+Female Goats for breeding;2007;Number of Goats by Age and Purpose
+Total Goats for other purposes;2007;Number of Goats by Age and Purpose
+Male Goats for other purposes;2007;Number of Goats by Age and Purpose
+Female Goats for other purposes;2007;Number of Goats by Age and Purpose
+Total Grand Total;2007;Number of Goats by Age and Purpose
+Male Grand Total;2007;Number of Goats by Age and Purpose
+Female Grand Total;2007;Number of Goats by Age and Purpose
+Total Local breed;2007;Number of Goats by Age and Purpose
+Male Local breed;2007;Number of Goats by Age and Purpose
+Female Local breed;2007;Number of Goats by Age and Purpose
+Total Exotic;2007;Number of Goats by Age and Purpose
+Male Exotic;2007;Number of Goats by Age and Purpose
+Female Exotic;2007;Number of Goats by Age and Purpose
+Total Hybrid;2007;Number of Goats by Age and Purpose
+Male Hybrid;2007;Number of Goats by Age and Purpose
+Female Hybrid;2007;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2008;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2008;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2008;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2008;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2008;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2008;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2008;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2008;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2008;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2008;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2008;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2008;Number of Goats by Age and Purpose
+Total Goats for meat;2008;Number of Goats by Age and Purpose
+Male Goats for meat;2008;Number of Goats by Age and Purpose
+Female Goats for meat;2008;Number of Goats by Age and Purpose
+Total Dairy Goats;2008;Number of Goats by Age and Purpose
+Total Goats for breeding;2008;Number of Goats by Age and Purpose
+Male Goats for breeding;2008;Number of Goats by Age and Purpose
+Female Goats for breeding;2008;Number of Goats by Age and Purpose
+Total Goats for other purposes;2008;Number of Goats by Age and Purpose
+Male Goats for other purposes;2008;Number of Goats by Age and Purpose
+Female Goats for other purposes;2008;Number of Goats by Age and Purpose
+Total Grand Total;2008;Number of Goats by Age and Purpose
+Male Grand Total;2008;Number of Goats by Age and Purpose
+Female Grand Total;2008;Number of Goats by Age and Purpose
+Total Local breed;2008;Number of Goats by Age and Purpose
+Male Local breed;2008;Number of Goats by Age and Purpose
+Female Local breed;2008;Number of Goats by Age and Purpose
+Total Exotic;2008;Number of Goats by Age and Purpose
+Male Exotic;2008;Number of Goats by Age and Purpose
+Female Exotic;2008;Number of Goats by Age and Purpose
+Total Hybrid;2008;Number of Goats by Age and Purpose
+Male Hybrid;2008;Number of Goats by Age and Purpose
+Female Hybrid;2008;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2009;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2009;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2009;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2009;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2009;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2009;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2009;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2009;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2009;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2009;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2009;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2009;Number of Goats by Age and Purpose
+Total Goats for meat;2009;Number of Goats by Age and Purpose
+Male Goats for meat;2009;Number of Goats by Age and Purpose
+Female Goats for meat;2009;Number of Goats by Age and Purpose
+Total Dairy Goats;2009;Number of Goats by Age and Purpose
+Total Goats for breeding;2009;Number of Goats by Age and Purpose
+Male Goats for breeding;2009;Number of Goats by Age and Purpose
+Female Goats for breeding;2009;Number of Goats by Age and Purpose
+Total Goats for other purposes;2009;Number of Goats by Age and Purpose
+Male Goats for other purposes;2009;Number of Goats by Age and Purpose
+Female Goats for other purposes;2009;Number of Goats by Age and Purpose
+Total Grand Total;2009;Number of Goats by Age and Purpose
+Male Grand Total;2009;Number of Goats by Age and Purpose
+Female Grand Total;2009;Number of Goats by Age and Purpose
+Total Local breed;2009;Number of Goats by Age and Purpose
+Male Local breed;2009;Number of Goats by Age and Purpose
+Female Local breed;2009;Number of Goats by Age and Purpose
+Total Exotic;2009;Number of Goats by Age and Purpose
+Male Exotic;2009;Number of Goats by Age and Purpose
+Female Exotic;2009;Number of Goats by Age and Purpose
+Total Hybrid;2009;Number of Goats by Age and Purpose
+Male Hybrid;2009;Number of Goats by Age and Purpose
+Female Hybrid;2009;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2010;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2010;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2010;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2010;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2010;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2010;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2010;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2010;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2010;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2010;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2010;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2010;Number of Goats by Age and Purpose
+Total Goats for meat;2010;Number of Goats by Age and Purpose
+Male Goats for meat;2010;Number of Goats by Age and Purpose
+Female Goats for meat;2010;Number of Goats by Age and Purpose
+Total Dairy Goats;2010;Number of Goats by Age and Purpose
+Total Goats for breeding;2010;Number of Goats by Age and Purpose
+Male Goats for breeding;2010;Number of Goats by Age and Purpose
+Female Goats for breeding;2010;Number of Goats by Age and Purpose
+Total Goats for other purposes;2010;Number of Goats by Age and Purpose
+Male Goats for other purposes;2010;Number of Goats by Age and Purpose
+Female Goats for other purposes;2010;Number of Goats by Age and Purpose
+Total Grand Total;2010;Number of Goats by Age and Purpose
+Male Grand Total;2010;Number of Goats by Age and Purpose
+Female Grand Total;2010;Number of Goats by Age and Purpose
+Total Local breed;2010;Number of Goats by Age and Purpose
+Male Local breed;2010;Number of Goats by Age and Purpose
+Female Local breed;2010;Number of Goats by Age and Purpose
+Total Exotic;2010;Number of Goats by Age and Purpose
+Male Exotic;2010;Number of Goats by Age and Purpose
+Female Exotic;2010;Number of Goats by Age and Purpose
+Total Hybrid;2010;Number of Goats by Age and Purpose
+Male Hybrid;2010;Number of Goats by Age and Purpose
+Female Hybrid;2010;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2011;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2011;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2011;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2011;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2011;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2011;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2011;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2011;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2011;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2011;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2011;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2011;Number of Goats by Age and Purpose
+Total Goats for meat;2011;Number of Goats by Age and Purpose
+Male Goats for meat;2011;Number of Goats by Age and Purpose
+Female Goats for meat;2011;Number of Goats by Age and Purpose
+Total Dairy Goats;2011;Number of Goats by Age and Purpose
+Total Goats for breeding;2011;Number of Goats by Age and Purpose
+Male Goats for breeding;2011;Number of Goats by Age and Purpose
+Female Goats for breeding;2011;Number of Goats by Age and Purpose
+Total Goats for other purposes;2011;Number of Goats by Age and Purpose
+Male Goats for other purposes;2011;Number of Goats by Age and Purpose
+Female Goats for other purposes;2011;Number of Goats by Age and Purpose
+Total Grand Total;2011;Number of Goats by Age and Purpose
+Male Grand Total;2011;Number of Goats by Age and Purpose
+Female Grand Total;2011;Number of Goats by Age and Purpose
+Total Local breed;2011;Number of Goats by Age and Purpose
+Male Local breed;2011;Number of Goats by Age and Purpose
+Female Local breed;2011;Number of Goats by Age and Purpose
+Total Exotic;2011;Number of Goats by Age and Purpose
+Male Exotic;2011;Number of Goats by Age and Purpose
+Female Exotic;2011;Number of Goats by Age and Purpose
+Total Hybrid;2011;Number of Goats by Age and Purpose
+Male Hybrid;2011;Number of Goats by Age and Purpose
+Female Hybrid;2011;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2012;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2012;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2012;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2012;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2012;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2012;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2012;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2012;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2012;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2012;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2012;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2012;Number of Goats by Age and Purpose
+Total Goats for meat;2012;Number of Goats by Age and Purpose
+Male Goats for meat;2012;Number of Goats by Age and Purpose
+Female Goats for meat;2012;Number of Goats by Age and Purpose
+Total Dairy Goats;2012;Number of Goats by Age and Purpose
+Total Goats for breeding;2012;Number of Goats by Age and Purpose
+Male Goats for breeding;2012;Number of Goats by Age and Purpose
+Female Goats for breeding;2012;Number of Goats by Age and Purpose
+Total Goats for other purposes;2012;Number of Goats by Age and Purpose
+Male Goats for other purposes;2012;Number of Goats by Age and Purpose
+Female Goats for other purposes;2012;Number of Goats by Age and Purpose
+Total Grand Total;2012;Number of Goats by Age and Purpose
+Male Grand Total;2012;Number of Goats by Age and Purpose
+Female Grand Total;2012;Number of Goats by Age and Purpose
+Total Local breed;2012;Number of Goats by Age and Purpose
+Male Local breed;2012;Number of Goats by Age and Purpose
+Female Local breed;2012;Number of Goats by Age and Purpose
+Total Exotic;2012;Number of Goats by Age and Purpose
+Male Exotic;2012;Number of Goats by Age and Purpose
+Female Exotic;2012;Number of Goats by Age and Purpose
+Total Hybrid;2012;Number of Goats by Age and Purpose
+Male Hybrid;2012;Number of Goats by Age and Purpose
+Female Hybrid;2012;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2013;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2013;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2013;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2013;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2013;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2013;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2013;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2013;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2013;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2013;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2013;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2013;Number of Goats by Age and Purpose
+Total Goats for meat;2013;Number of Goats by Age and Purpose
+Male Goats for meat;2013;Number of Goats by Age and Purpose
+Female Goats for meat;2013;Number of Goats by Age and Purpose
+Total Dairy Goats;2013;Number of Goats by Age and Purpose
+Total Goats for breeding;2013;Number of Goats by Age and Purpose
+Male Goats for breeding;2013;Number of Goats by Age and Purpose
+Female Goats for breeding;2013;Number of Goats by Age and Purpose
+Total Goats for other purposes;2013;Number of Goats by Age and Purpose
+Male Goats for other purposes;2013;Number of Goats by Age and Purpose
+Female Goats for other purposes;2013;Number of Goats by Age and Purpose
+Total Grand Total;2013;Number of Goats by Age and Purpose
+Male Grand Total;2013;Number of Goats by Age and Purpose
+Female Grand Total;2013;Number of Goats by Age and Purpose
+Total Local breed;2013;Number of Goats by Age and Purpose
+Male Local breed;2013;Number of Goats by Age and Purpose
+Female Local breed;2013;Number of Goats by Age and Purpose
+Total Exotic;2013;Number of Goats by Age and Purpose
+Male Exotic;2013;Number of Goats by Age and Purpose
+Female Exotic;2013;Number of Goats by Age and Purpose
+Total Hybrid;2013;Number of Goats by Age and Purpose
+Male Hybrid;2013;Number of Goats by Age and Purpose
+Female Hybrid;2013;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2014;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2014;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2014;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2014;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2014;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2014;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2014;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2014;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2014;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2014;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2014;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2014;Number of Goats by Age and Purpose
+Total Goats for meat;2014;Number of Goats by Age and Purpose
+Male Goats for meat;2014;Number of Goats by Age and Purpose
+Female Goats for meat;2014;Number of Goats by Age and Purpose
+Total Dairy Goats;2014;Number of Goats by Age and Purpose
+Total Goats for breeding;2014;Number of Goats by Age and Purpose
+Male Goats for breeding;2014;Number of Goats by Age and Purpose
+Female Goats for breeding;2014;Number of Goats by Age and Purpose
+Total Goats for other purposes;2014;Number of Goats by Age and Purpose
+Male Goats for other purposes;2014;Number of Goats by Age and Purpose
+Female Goats for other purposes;2014;Number of Goats by Age and Purpose
+Total Grand Total;2014;Number of Goats by Age and Purpose
+Male Grand Total;2014;Number of Goats by Age and Purpose
+Female Grand Total;2014;Number of Goats by Age and Purpose
+Total Local breed;2014;Number of Goats by Age and Purpose
+Male Local breed;2014;Number of Goats by Age and Purpose
+Female Local breed;2014;Number of Goats by Age and Purpose
+Total Exotic;2014;Number of Goats by Age and Purpose
+Male Exotic;2014;Number of Goats by Age and Purpose
+Female Exotic;2014;Number of Goats by Age and Purpose
+Total Hybrid;2014;Number of Goats by Age and Purpose
+Male Hybrid;2014;Number of Goats by Age and Purpose
+Female Hybrid;2014;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2015;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2015;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2015;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2015;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2015;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2015;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2015;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2015;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2015;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2015;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2015;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2015;Number of Goats by Age and Purpose
+Total Goats for meat;2015;Number of Goats by Age and Purpose
+Male Goats for meat;2015;Number of Goats by Age and Purpose
+Female Goats for meat;2015;Number of Goats by Age and Purpose
+Total Dairy Goats;2015;Number of Goats by Age and Purpose
+Total Goats for breeding;2015;Number of Goats by Age and Purpose
+Male Goats for breeding;2015;Number of Goats by Age and Purpose
+Female Goats for breeding;2015;Number of Goats by Age and Purpose
+Total Goats for other purposes;2015;Number of Goats by Age and Purpose
+Male Goats for other purposes;2015;Number of Goats by Age and Purpose
+Female Goats for other purposes;2015;Number of Goats by Age and Purpose
+Total Grand Total;2015;Number of Goats by Age and Purpose
+Male Grand Total;2015;Number of Goats by Age and Purpose
+Female Grand Total;2015;Number of Goats by Age and Purpose
+Total Local breed;2015;Number of Goats by Age and Purpose
+Male Local breed;2015;Number of Goats by Age and Purpose
+Female Local breed;2015;Number of Goats by Age and Purpose
+Total Exotic;2015;Number of Goats by Age and Purpose
+Male Exotic;2015;Number of Goats by Age and Purpose
+Female Exotic;2015;Number of Goats by Age and Purpose
+Total Hybrid;2015;Number of Goats by Age and Purpose
+Male Hybrid;2015;Number of Goats by Age and Purpose
+Female Hybrid;2015;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2016;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2016;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2016;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2016;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2016;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2016;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2016;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2016;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2016;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2016;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2016;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2016;Number of Goats by Age and Purpose
+Total Goats for meat;2016;Number of Goats by Age and Purpose
+Male Goats for meat;2016;Number of Goats by Age and Purpose
+Female Goats for meat;2016;Number of Goats by Age and Purpose
+Total Dairy Goats;2016;Number of Goats by Age and Purpose
+Total Goats for breeding;2016;Number of Goats by Age and Purpose
+Male Goats for breeding;2016;Number of Goats by Age and Purpose
+Female Goats for breeding;2016;Number of Goats by Age and Purpose
+Total Goats for other purposes;2016;Number of Goats by Age and Purpose
+Male Goats for other purposes;2016;Number of Goats by Age and Purpose
+Female Goats for other purposes;2016;Number of Goats by Age and Purpose
+Total Grand Total;2016;Number of Goats by Age and Purpose
+Male Grand Total;2016;Number of Goats by Age and Purpose
+Female Grand Total;2016;Number of Goats by Age and Purpose
+Total Local breed;2016;Number of Goats by Age and Purpose
+Male Local breed;2016;Number of Goats by Age and Purpose
+Female Local breed;2016;Number of Goats by Age and Purpose
+Total Exotic;2016;Number of Goats by Age and Purpose
+Male Exotic;2016;Number of Goats by Age and Purpose
+Female Exotic;2016;Number of Goats by Age and Purpose
+Total Hybrid;2016;Number of Goats by Age and Purpose
+Male Hybrid;2016;Number of Goats by Age and Purpose
+Female Hybrid;2016;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2017;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2017;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2017;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2017;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2017;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2017;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2017;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2017;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2017;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2017;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2017;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2017;Number of Goats by Age and Purpose
+Total Goats for meat;2017;Number of Goats by Age and Purpose
+Male Goats for meat;2017;Number of Goats by Age and Purpose
+Female Goats for meat;2017;Number of Goats by Age and Purpose
+Total Dairy Goats;2017;Number of Goats by Age and Purpose
+Total Goats for breeding;2017;Number of Goats by Age and Purpose
+Male Goats for breeding;2017;Number of Goats by Age and Purpose
+Female Goats for breeding;2017;Number of Goats by Age and Purpose
+Total Goats for other purposes;2017;Number of Goats by Age and Purpose
+Male Goats for other purposes;2017;Number of Goats by Age and Purpose
+Female Goats for other purposes;2017;Number of Goats by Age and Purpose
+Total Grand Total;2017;Number of Goats by Age and Purpose
+Male Grand Total;2017;Number of Goats by Age and Purpose
+Female Grand Total;2017;Number of Goats by Age and Purpose
+Total Local breed;2017;Number of Goats by Age and Purpose
+Male Local breed;2017;Number of Goats by Age and Purpose
+Female Local breed;2017;Number of Goats by Age and Purpose
+Total Exotic;2017;Number of Goats by Age and Purpose
+Male Exotic;2017;Number of Goats by Age and Purpose
+Female Exotic;2017;Number of Goats by Age and Purpose
+Total Hybrid;2017;Number of Goats by Age and Purpose
+Male Hybrid;2017;Number of Goats by Age and Purpose
+Female Hybrid;2017;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2018;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2018;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2018;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2018;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2018;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2018;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2018;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2018;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2018;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2018;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2018;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2018;Number of Goats by Age and Purpose
+Total Goats for meat;2018;Number of Goats by Age and Purpose
+Male Goats for meat;2018;Number of Goats by Age and Purpose
+Female Goats for meat;2018;Number of Goats by Age and Purpose
+Total Dairy Goats;2018;Number of Goats by Age and Purpose
+Total Goats for breeding;2018;Number of Goats by Age and Purpose
+Male Goats for breeding;2018;Number of Goats by Age and Purpose
+Female Goats for breeding;2018;Number of Goats by Age and Purpose
+Total Goats for other purposes;2018;Number of Goats by Age and Purpose
+Male Goats for other purposes;2018;Number of Goats by Age and Purpose
+Female Goats for other purposes;2018;Number of Goats by Age and Purpose
+Total Grand Total;2018;Number of Goats by Age and Purpose
+Male Grand Total;2018;Number of Goats by Age and Purpose
+Female Grand Total;2018;Number of Goats by Age and Purpose
+Total Local breed;2018;Number of Goats by Age and Purpose
+Male Local breed;2018;Number of Goats by Age and Purpose
+Female Local breed;2018;Number of Goats by Age and Purpose
+Total Exotic;2018;Number of Goats by Age and Purpose
+Male Exotic;2018;Number of Goats by Age and Purpose
+Female Exotic;2018;Number of Goats by Age and Purpose
+Total Hybrid;2018;Number of Goats by Age and Purpose
+Male Hybrid;2018;Number of Goats by Age and Purpose
+Female Hybrid;2018;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2019;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2019;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2019;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2019;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2019;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2019;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2019;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2019;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2019;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2019;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2019;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2019;Number of Goats by Age and Purpose
+Total Goats for meat;2019;Number of Goats by Age and Purpose
+Male Goats for meat;2019;Number of Goats by Age and Purpose
+Female Goats for meat;2019;Number of Goats by Age and Purpose
+Total Dairy Goats;2019;Number of Goats by Age and Purpose
+Total Goats for breeding;2019;Number of Goats by Age and Purpose
+Male Goats for breeding;2019;Number of Goats by Age and Purpose
+Female Goats for breeding;2019;Number of Goats by Age and Purpose
+Total Goats for other purposes;2019;Number of Goats by Age and Purpose
+Male Goats for other purposes;2019;Number of Goats by Age and Purpose
+Female Goats for other purposes;2019;Number of Goats by Age and Purpose
+Total Grand Total;2019;Number of Goats by Age and Purpose
+Male Grand Total;2019;Number of Goats by Age and Purpose
+Female Grand Total;2019;Number of Goats by Age and Purpose
+Total Local breed;2019;Number of Goats by Age and Purpose
+Male Local breed;2019;Number of Goats by Age and Purpose
+Female Local breed;2019;Number of Goats by Age and Purpose
+Total Exotic;2019;Number of Goats by Age and Purpose
+Male Exotic;2019;Number of Goats by Age and Purpose
+Female Exotic;2019;Number of Goats by Age and Purpose
+Total Hybrid;2019;Number of Goats by Age and Purpose
+Male Hybrid;2019;Number of Goats by Age and Purpose
+Female Hybrid;2019;Number of Goats by Age and Purpose
+Total Goats less than 6 months;2020;Number of Goats by Age and Purpose
+Male Goats less than 6 months;2020;Number of Goats by Age and Purpose
+Female Goats less than 6 months;2020;Number of Goats by Age and Purpose
+Total Goats 6 months and less than 1 year;2020;Number of Goats by Age and Purpose
+Male Goats 6 months and less than 1 year;2020;Number of Goats by Age and Purpose
+Female Goats 6 months and less than 1 year;2020;Number of Goats by Age and Purpose
+Total Goats 1 year and less than 2 years;2020;Number of Goats by Age and Purpose
+Male Goats 1 year and less than 2 years;2020;Number of Goats by Age and Purpose
+Female Goats 1 year and less than 2 years;2020;Number of Goats by Age and Purpose
+Total Goats 2 years and older;2020;Number of Goats by Age and Purpose
+Male Goats 2 years and older;2020;Number of Goats by Age and Purpose
+Female Goats 2 years and older;2020;Number of Goats by Age and Purpose
+Total Goats for meat;2020;Number of Goats by Age and Purpose
+Male Goats for meat;2020;Number of Goats by Age and Purpose
+Female Goats for meat;2020;Number of Goats by Age and Purpose
+Total Dairy Goats;2020;Number of Goats by Age and Purpose
+Total Goats for breeding;2020;Number of Goats by Age and Purpose
+Male Goats for breeding;2020;Number of Goats by Age and Purpose
+Female Goats for breeding;2020;Number of Goats by Age and Purpose
+Total Goats for other purposes;2020;Number of Goats by Age and Purpose
+Male Goats for other purposes;2020;Number of Goats by Age and Purpose
+Female Goats for other purposes;2020;Number of Goats by Age and Purpose
+Total Grand Total;2020;Number of Goats by Age and Purpose
+Male Grand Total;2020;Number of Goats by Age and Purpose
+Female Grand Total;2020;Number of Goats by Age and Purpose
+Total Local breed;2020;Number of Goats by Age and Purpose
+Male Local breed;2020;Number of Goats by Age and Purpose
+Female Local breed;2020;Number of Goats by Age and Purpose
+Total Exotic;2020;Number of Goats by Age and Purpose
+Male Exotic;2020;Number of Goats by Age and Purpose
+Female Exotic;2020;Number of Goats by Age and Purpose
+Total Hybrid;2020;Number of Goats by Age and Purpose
+Male Hybrid;2020;Number of Goats by Age and Purpose
+Female Hybrid;2020;Number of Goats by Age and Purpose

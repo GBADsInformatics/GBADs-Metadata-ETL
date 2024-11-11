@@ -1,0 +1,505 @@
+species;year;table_name
+Total Poultry;2003;Poultry
+Indigenous Poultry;2003;Poultry
+Hybrid Poultry;2003;Poultry
+Exotic Poultry;2003;Poultry
+Total Laying hens;2003;Poultry
+Indigenous Laying hens;2003;Poultry
+Hybrid Laying hens;2003;Poultry
+Exotic Laying hens;2003;Poultry
+Total Non-Laying hens;2003;Poultry
+Indigenous Non-Laying hens;2003;Poultry
+Hybrid Non-Laying hens;2003;Poultry
+Exotic Non-Laying hens;2003;Poultry
+Total Cocks;2003;Poultry
+Indigenous Cocks;2003;Poultry
+Hybrid Cocks;2003;Poultry
+Exotic Cocks;2003;Poultry
+Total Cockerels;2003;Poultry
+Indigenous Cockerels;2003;Poultry
+Hybrid Cockerels;2003;Poultry
+Exotic Cockerels;2003;Poultry
+Total Pullets;2003;Poultry
+Indigenous Pullets;2003;Poultry
+Hybrid Pullets;2003;Poultry
+Exotic Pullets;2003;Poultry
+Total Chicks;2003;Poultry
+Indigenous Chicks;2003;Poultry
+Hybrid Chicks;2003;Poultry
+Exotic Chicks;2003;Poultry
+Total Poultry;2004;Poultry
+Indigenous Poultry;2004;Poultry
+Hybrid Poultry;2004;Poultry
+Exotic Poultry;2004;Poultry
+Total Laying hens;2004;Poultry
+Indigenous Laying hens;2004;Poultry
+Hybrid Laying hens;2004;Poultry
+Exotic Laying hens;2004;Poultry
+Total Non-Laying hens;2004;Poultry
+Indigenous Non-Laying hens;2004;Poultry
+Hybrid Non-Laying hens;2004;Poultry
+Exotic Non-Laying hens;2004;Poultry
+Total Cocks;2004;Poultry
+Indigenous Cocks;2004;Poultry
+Hybrid Cocks;2004;Poultry
+Exotic Cocks;2004;Poultry
+Total Cockerels;2004;Poultry
+Indigenous Cockerels;2004;Poultry
+Hybrid Cockerels;2004;Poultry
+Exotic Cockerels;2004;Poultry
+Total Pullets;2004;Poultry
+Indigenous Pullets;2004;Poultry
+Hybrid Pullets;2004;Poultry
+Exotic Pullets;2004;Poultry
+Total Chicks;2004;Poultry
+Indigenous Chicks;2004;Poultry
+Hybrid Chicks;2004;Poultry
+Exotic Chicks;2004;Poultry
+Total Poultry;2005;Poultry
+Indigenous Poultry;2005;Poultry
+Hybrid Poultry;2005;Poultry
+Exotic Poultry;2005;Poultry
+Total Laying hens;2005;Poultry
+Indigenous Laying hens;2005;Poultry
+Hybrid Laying hens;2005;Poultry
+Exotic Laying hens;2005;Poultry
+Total Non-Laying hens;2005;Poultry
+Indigenous Non-Laying hens;2005;Poultry
+Hybrid Non-Laying hens;2005;Poultry
+Exotic Non-Laying hens;2005;Poultry
+Total Cocks;2005;Poultry
+Indigenous Cocks;2005;Poultry
+Hybrid Cocks;2005;Poultry
+Exotic Cocks;2005;Poultry
+Total Cockerels;2005;Poultry
+Indigenous Cockerels;2005;Poultry
+Hybrid Cockerels;2005;Poultry
+Exotic Cockerels;2005;Poultry
+Total Pullets;2005;Poultry
+Indigenous Pullets;2005;Poultry
+Hybrid Pullets;2005;Poultry
+Exotic Pullets;2005;Poultry
+Total Chicks;2005;Poultry
+Indigenous Chicks;2005;Poultry
+Hybrid Chicks;2005;Poultry
+Exotic Chicks;2005;Poultry
+Total Poultry;2006;Poultry
+Indigenous Poultry;2006;Poultry
+Hybrid Poultry;2006;Poultry
+Exotic Poultry;2006;Poultry
+Total Laying hens;2006;Poultry
+Indigenous Laying hens;2006;Poultry
+Hybrid Laying hens;2006;Poultry
+Exotic Laying hens;2006;Poultry
+Total Non-Laying hens;2006;Poultry
+Indigenous Non-Laying hens;2006;Poultry
+Hybrid Non-Laying hens;2006;Poultry
+Exotic Non-Laying hens;2006;Poultry
+Total Cocks;2006;Poultry
+Indigenous Cocks;2006;Poultry
+Hybrid Cocks;2006;Poultry
+Exotic Cocks;2006;Poultry
+Total Cockerels;2006;Poultry
+Indigenous Cockerels;2006;Poultry
+Hybrid Cockerels;2006;Poultry
+Exotic Cockerels;2006;Poultry
+Total Pullets;2006;Poultry
+Indigenous Pullets;2006;Poultry
+Hybrid Pullets;2006;Poultry
+Exotic Pullets;2006;Poultry
+Total Chicks;2006;Poultry
+Indigenous Chicks;2006;Poultry
+Hybrid Chicks;2006;Poultry
+Exotic Chicks;2006;Poultry
+Total Poultry;2007;Poultry
+Indigenous Poultry;2007;Poultry
+Hybrid Poultry;2007;Poultry
+Exotic Poultry;2007;Poultry
+Total Laying hens;2007;Poultry
+Indigenous Laying hens;2007;Poultry
+Hybrid Laying hens;2007;Poultry
+Exotic Laying hens;2007;Poultry
+Total Non-Laying hens;2007;Poultry
+Indigenous Non-Laying hens;2007;Poultry
+Hybrid Non-Laying hens;2007;Poultry
+Exotic Non-Laying hens;2007;Poultry
+Total Cocks;2007;Poultry
+Indigenous Cocks;2007;Poultry
+Hybrid Cocks;2007;Poultry
+Exotic Cocks;2007;Poultry
+Total Cockerels;2007;Poultry
+Indigenous Cockerels;2007;Poultry
+Hybrid Cockerels;2007;Poultry
+Exotic Cockerels;2007;Poultry
+Total Pullets;2007;Poultry
+Indigenous Pullets;2007;Poultry
+Hybrid Pullets;2007;Poultry
+Exotic Pullets;2007;Poultry
+Total Chicks;2007;Poultry
+Indigenous Chicks;2007;Poultry
+Hybrid Chicks;2007;Poultry
+Exotic Chicks;2007;Poultry
+Total Poultry;2008;Poultry
+Indigenous Poultry;2008;Poultry
+Hybrid Poultry;2008;Poultry
+Exotic Poultry;2008;Poultry
+Total Laying hens;2008;Poultry
+Indigenous Laying hens;2008;Poultry
+Hybrid Laying hens;2008;Poultry
+Exotic Laying hens;2008;Poultry
+Total Non-Laying hens;2008;Poultry
+Indigenous Non-Laying hens;2008;Poultry
+Hybrid Non-Laying hens;2008;Poultry
+Exotic Non-Laying hens;2008;Poultry
+Total Cocks;2008;Poultry
+Indigenous Cocks;2008;Poultry
+Hybrid Cocks;2008;Poultry
+Exotic Cocks;2008;Poultry
+Total Cockerels;2008;Poultry
+Indigenous Cockerels;2008;Poultry
+Hybrid Cockerels;2008;Poultry
+Exotic Cockerels;2008;Poultry
+Total Pullets;2008;Poultry
+Indigenous Pullets;2008;Poultry
+Hybrid Pullets;2008;Poultry
+Exotic Pullets;2008;Poultry
+Total Chicks;2008;Poultry
+Indigenous Chicks;2008;Poultry
+Hybrid Chicks;2008;Poultry
+Exotic Chicks;2008;Poultry
+Total Poultry;2009;Poultry
+Indigenous Poultry;2009;Poultry
+Hybrid Poultry;2009;Poultry
+Exotic Poultry;2009;Poultry
+Total Laying hens;2009;Poultry
+Indigenous Laying hens;2009;Poultry
+Hybrid Laying hens;2009;Poultry
+Exotic Laying hens;2009;Poultry
+Total Non-Laying hens;2009;Poultry
+Indigenous Non-Laying hens;2009;Poultry
+Hybrid Non-Laying hens;2009;Poultry
+Exotic Non-Laying hens;2009;Poultry
+Total Cocks;2009;Poultry
+Indigenous Cocks;2009;Poultry
+Hybrid Cocks;2009;Poultry
+Exotic Cocks;2009;Poultry
+Total Cockerels;2009;Poultry
+Indigenous Cockerels;2009;Poultry
+Hybrid Cockerels;2009;Poultry
+Exotic Cockerels;2009;Poultry
+Total Pullets;2009;Poultry
+Indigenous Pullets;2009;Poultry
+Hybrid Pullets;2009;Poultry
+Exotic Pullets;2009;Poultry
+Total Chicks;2009;Poultry
+Indigenous Chicks;2009;Poultry
+Hybrid Chicks;2009;Poultry
+Exotic Chicks;2009;Poultry
+Total Poultry;2010;Poultry
+Indigenous Poultry;2010;Poultry
+Hybrid Poultry;2010;Poultry
+Exotic Poultry;2010;Poultry
+Total Laying hens;2010;Poultry
+Indigenous Laying hens;2010;Poultry
+Hybrid Laying hens;2010;Poultry
+Exotic Laying hens;2010;Poultry
+Total Non-Laying hens;2010;Poultry
+Indigenous Non-Laying hens;2010;Poultry
+Hybrid Non-Laying hens;2010;Poultry
+Exotic Non-Laying hens;2010;Poultry
+Total Cocks;2010;Poultry
+Indigenous Cocks;2010;Poultry
+Hybrid Cocks;2010;Poultry
+Exotic Cocks;2010;Poultry
+Total Cockerels;2010;Poultry
+Indigenous Cockerels;2010;Poultry
+Hybrid Cockerels;2010;Poultry
+Exotic Cockerels;2010;Poultry
+Total Pullets;2010;Poultry
+Indigenous Pullets;2010;Poultry
+Hybrid Pullets;2010;Poultry
+Exotic Pullets;2010;Poultry
+Total Chicks;2010;Poultry
+Indigenous Chicks;2010;Poultry
+Hybrid Chicks;2010;Poultry
+Exotic Chicks;2010;Poultry
+Total Poultry;2011;Poultry
+Indigenous Poultry;2011;Poultry
+Hybrid Poultry;2011;Poultry
+Exotic Poultry;2011;Poultry
+Total Laying hens;2011;Poultry
+Indigenous Laying hens;2011;Poultry
+Hybrid Laying hens;2011;Poultry
+Exotic Laying hens;2011;Poultry
+Total Non-Laying hens;2011;Poultry
+Indigenous Non-Laying hens;2011;Poultry
+Hybrid Non-Laying hens;2011;Poultry
+Exotic Non-Laying hens;2011;Poultry
+Total Cocks;2011;Poultry
+Indigenous Cocks;2011;Poultry
+Hybrid Cocks;2011;Poultry
+Exotic Cocks;2011;Poultry
+Total Cockerels;2011;Poultry
+Indigenous Cockerels;2011;Poultry
+Hybrid Cockerels;2011;Poultry
+Exotic Cockerels;2011;Poultry
+Total Pullets;2011;Poultry
+Indigenous Pullets;2011;Poultry
+Hybrid Pullets;2011;Poultry
+Exotic Pullets;2011;Poultry
+Total Chicks;2011;Poultry
+Indigenous Chicks;2011;Poultry
+Hybrid Chicks;2011;Poultry
+Exotic Chicks;2011;Poultry
+Total Poultry;2012;Poultry
+Indigenous Poultry;2012;Poultry
+Hybrid Poultry;2012;Poultry
+Exotic Poultry;2012;Poultry
+Total Laying hens;2012;Poultry
+Indigenous Laying hens;2012;Poultry
+Hybrid Laying hens;2012;Poultry
+Exotic Laying hens;2012;Poultry
+Total Non-Laying hens;2012;Poultry
+Indigenous Non-Laying hens;2012;Poultry
+Hybrid Non-Laying hens;2012;Poultry
+Exotic Non-Laying hens;2012;Poultry
+Total Cocks;2012;Poultry
+Indigenous Cocks;2012;Poultry
+Hybrid Cocks;2012;Poultry
+Exotic Cocks;2012;Poultry
+Total Cockerels;2012;Poultry
+Indigenous Cockerels;2012;Poultry
+Hybrid Cockerels;2012;Poultry
+Exotic Cockerels;2012;Poultry
+Total Pullets;2012;Poultry
+Indigenous Pullets;2012;Poultry
+Hybrid Pullets;2012;Poultry
+Exotic Pullets;2012;Poultry
+Total Chicks;2012;Poultry
+Indigenous Chicks;2012;Poultry
+Hybrid Chicks;2012;Poultry
+Exotic Chicks;2012;Poultry
+Total Poultry;2013;Poultry
+Indigenous Poultry;2013;Poultry
+Hybrid Poultry;2013;Poultry
+Exotic Poultry;2013;Poultry
+Total Laying hens;2013;Poultry
+Indigenous Laying hens;2013;Poultry
+Hybrid Laying hens;2013;Poultry
+Exotic Laying hens;2013;Poultry
+Total Non-Laying hens;2013;Poultry
+Indigenous Non-Laying hens;2013;Poultry
+Hybrid Non-Laying hens;2013;Poultry
+Exotic Non-Laying hens;2013;Poultry
+Total Cocks;2013;Poultry
+Indigenous Cocks;2013;Poultry
+Hybrid Cocks;2013;Poultry
+Exotic Cocks;2013;Poultry
+Total Cockerels;2013;Poultry
+Indigenous Cockerels;2013;Poultry
+Hybrid Cockerels;2013;Poultry
+Exotic Cockerels;2013;Poultry
+Total Pullets;2013;Poultry
+Indigenous Pullets;2013;Poultry
+Hybrid Pullets;2013;Poultry
+Exotic Pullets;2013;Poultry
+Total Chicks;2013;Poultry
+Indigenous Chicks;2013;Poultry
+Hybrid Chicks;2013;Poultry
+Exotic Chicks;2013;Poultry
+Total Poultry;2014;Poultry
+Indigenous Poultry;2014;Poultry
+Hybrid Poultry;2014;Poultry
+Exotic Poultry;2014;Poultry
+Total Laying hens;2014;Poultry
+Indigenous Laying hens;2014;Poultry
+Hybrid Laying hens;2014;Poultry
+Exotic Laying hens;2014;Poultry
+Total Non-Laying hens;2014;Poultry
+Indigenous Non-Laying hens;2014;Poultry
+Hybrid Non-Laying hens;2014;Poultry
+Exotic Non-Laying hens;2014;Poultry
+Total Cocks;2014;Poultry
+Indigenous Cocks;2014;Poultry
+Hybrid Cocks;2014;Poultry
+Exotic Cocks;2014;Poultry
+Total Cockerels;2014;Poultry
+Indigenous Cockerels;2014;Poultry
+Hybrid Cockerels;2014;Poultry
+Exotic Cockerels;2014;Poultry
+Total Pullets;2014;Poultry
+Indigenous Pullets;2014;Poultry
+Hybrid Pullets;2014;Poultry
+Exotic Pullets;2014;Poultry
+Total Chicks;2014;Poultry
+Indigenous Chicks;2014;Poultry
+Hybrid Chicks;2014;Poultry
+Exotic Chicks;2014;Poultry
+Total Poultry;2015;Poultry
+Indigenous Poultry;2015;Poultry
+Hybrid Poultry;2015;Poultry
+Exotic Poultry;2015;Poultry
+Total Laying hens;2015;Poultry
+Indigenous Laying hens;2015;Poultry
+Hybrid Laying hens;2015;Poultry
+Exotic Laying hens;2015;Poultry
+Total Non-Laying hens;2015;Poultry
+Indigenous Non-Laying hens;2015;Poultry
+Hybrid Non-Laying hens;2015;Poultry
+Exotic Non-Laying hens;2015;Poultry
+Total Cocks;2015;Poultry
+Indigenous Cocks;2015;Poultry
+Hybrid Cocks;2015;Poultry
+Exotic Cocks;2015;Poultry
+Total Cockerels;2015;Poultry
+Indigenous Cockerels;2015;Poultry
+Hybrid Cockerels;2015;Poultry
+Exotic Cockerels;2015;Poultry
+Total Pullets;2015;Poultry
+Indigenous Pullets;2015;Poultry
+Hybrid Pullets;2015;Poultry
+Exotic Pullets;2015;Poultry
+Total Chicks;2015;Poultry
+Indigenous Chicks;2015;Poultry
+Hybrid Chicks;2015;Poultry
+Exotic Chicks;2015;Poultry
+Total Poultry;2016;Poultry
+Indigenous Poultry;2016;Poultry
+Hybrid Poultry;2016;Poultry
+Exotic Poultry;2016;Poultry
+Total Laying hens;2016;Poultry
+Indigenous Laying hens;2016;Poultry
+Hybrid Laying hens;2016;Poultry
+Exotic Laying hens;2016;Poultry
+Total Non-Laying hens;2016;Poultry
+Indigenous Non-Laying hens;2016;Poultry
+Hybrid Non-Laying hens;2016;Poultry
+Exotic Non-Laying hens;2016;Poultry
+Total Cocks;2016;Poultry
+Indigenous Cocks;2016;Poultry
+Hybrid Cocks;2016;Poultry
+Exotic Cocks;2016;Poultry
+Total Cockerels;2016;Poultry
+Indigenous Cockerels;2016;Poultry
+Hybrid Cockerels;2016;Poultry
+Exotic Cockerels;2016;Poultry
+Total Pullets;2016;Poultry
+Indigenous Pullets;2016;Poultry
+Hybrid Pullets;2016;Poultry
+Exotic Pullets;2016;Poultry
+Total Chicks;2016;Poultry
+Indigenous Chicks;2016;Poultry
+Hybrid Chicks;2016;Poultry
+Exotic Chicks;2016;Poultry
+Total Poultry;2017;Poultry
+Indigenous Poultry;2017;Poultry
+Hybrid Poultry;2017;Poultry
+Exotic Poultry;2017;Poultry
+Total Laying hens;2017;Poultry
+Indigenous Laying hens;2017;Poultry
+Hybrid Laying hens;2017;Poultry
+Exotic Laying hens;2017;Poultry
+Total Non-Laying hens;2017;Poultry
+Indigenous Non-Laying hens;2017;Poultry
+Hybrid Non-Laying hens;2017;Poultry
+Exotic Non-Laying hens;2017;Poultry
+Total Cocks;2017;Poultry
+Indigenous Cocks;2017;Poultry
+Hybrid Cocks;2017;Poultry
+Exotic Cocks;2017;Poultry
+Total Cockerels;2017;Poultry
+Indigenous Cockerels;2017;Poultry
+Hybrid Cockerels;2017;Poultry
+Exotic Cockerels;2017;Poultry
+Total Pullets;2017;Poultry
+Indigenous Pullets;2017;Poultry
+Hybrid Pullets;2017;Poultry
+Exotic Pullets;2017;Poultry
+Total Chicks;2017;Poultry
+Indigenous Chicks;2017;Poultry
+Hybrid Chicks;2017;Poultry
+Exotic Chicks;2017;Poultry
+Total Poultry;2018;Poultry
+Indigenous Poultry;2018;Poultry
+Hybrid Poultry;2018;Poultry
+Exotic Poultry;2018;Poultry
+Total Laying hens;2018;Poultry
+Indigenous Laying hens;2018;Poultry
+Hybrid Laying hens;2018;Poultry
+Exotic Laying hens;2018;Poultry
+Total Non-Laying hens;2018;Poultry
+Indigenous Non-Laying hens;2018;Poultry
+Hybrid Non-Laying hens;2018;Poultry
+Exotic Non-Laying hens;2018;Poultry
+Total Cocks;2018;Poultry
+Indigenous Cocks;2018;Poultry
+Hybrid Cocks;2018;Poultry
+Exotic Cocks;2018;Poultry
+Total Cockerels;2018;Poultry
+Indigenous Cockerels;2018;Poultry
+Hybrid Cockerels;2018;Poultry
+Exotic Cockerels;2018;Poultry
+Total Pullets;2018;Poultry
+Indigenous Pullets;2018;Poultry
+Hybrid Pullets;2018;Poultry
+Exotic Pullets;2018;Poultry
+Total Chicks;2018;Poultry
+Indigenous Chicks;2018;Poultry
+Hybrid Chicks;2018;Poultry
+Exotic Chicks;2018;Poultry
+Total Poultry;2019;Poultry
+Indigenous Poultry;2019;Poultry
+Hybrid Poultry;2019;Poultry
+Exotic Poultry;2019;Poultry
+Total Laying hens;2019;Poultry
+Indigenous Laying hens;2019;Poultry
+Hybrid Laying hens;2019;Poultry
+Exotic Laying hens;2019;Poultry
+Total Non-Laying hens;2019;Poultry
+Indigenous Non-Laying hens;2019;Poultry
+Hybrid Non-Laying hens;2019;Poultry
+Exotic Non-Laying hens;2019;Poultry
+Total Cocks;2019;Poultry
+Indigenous Cocks;2019;Poultry
+Hybrid Cocks;2019;Poultry
+Exotic Cocks;2019;Poultry
+Total Cockerels;2019;Poultry
+Indigenous Cockerels;2019;Poultry
+Hybrid Cockerels;2019;Poultry
+Exotic Cockerels;2019;Poultry
+Total Pullets;2019;Poultry
+Indigenous Pullets;2019;Poultry
+Hybrid Pullets;2019;Poultry
+Exotic Pullets;2019;Poultry
+Total Chicks;2019;Poultry
+Indigenous Chicks;2019;Poultry
+Hybrid Chicks;2019;Poultry
+Exotic Chicks;2019;Poultry
+Total Poultry;2020;Poultry
+Indigenous Poultry;2020;Poultry
+Hybrid Poultry;2020;Poultry
+Exotic Poultry;2020;Poultry
+Total Laying hens;2020;Poultry
+Indigenous Laying hens;2020;Poultry
+Hybrid Laying hens;2020;Poultry
+Exotic Laying hens;2020;Poultry
+Total Non-Laying hens;2020;Poultry
+Indigenous Non-Laying hens;2020;Poultry
+Hybrid Non-Laying hens;2020;Poultry
+Exotic Non-Laying hens;2020;Poultry
+Total Cocks;2020;Poultry
+Indigenous Cocks;2020;Poultry
+Hybrid Cocks;2020;Poultry
+Exotic Cocks;2020;Poultry
+Total Cockerels;2020;Poultry
+Indigenous Cockerels;2020;Poultry
+Hybrid Cockerels;2020;Poultry
+Exotic Cockerels;2020;Poultry
+Total Pullets;2020;Poultry
+Indigenous Pullets;2020;Poultry
+Hybrid Pullets;2020;Poultry
+Exotic Pullets;2020;Poultry
+Total Chicks;2020;Poultry
+Indigenous Chicks;2020;Poultry
+Hybrid Chicks;2020;Poultry
+Exotic Chicks;2020;Poultry
