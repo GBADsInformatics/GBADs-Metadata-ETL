@@ -26,6 +26,14 @@ Information about reports is available below:
 Livestock and Livestock Characteristics(Private Peasant Holdings) 2009-10 (2002 E.C.) | http://www.statsethiopia.gov.et/wp-content/uploads/2019/06/Agricultural-Sample-Survey-Livestock-Poultry-and-Beehives-2009.pdf | 
 | Livestock and Livestock Characteristics(Private Peasant Holdings) 2007-08 (2000 E.C.) | http://www.statsethiopia.gov.et/wp-content/uploads/2019/06/Agricultural-Sample-Survey-Livestock-Poultry-and-Beehives-2007.pdf | 
 
+## Extract
+
+
+
+## Transform
+
+## Load
+
 ## Generating Metadata 
 
 Since data sources are not digitized and metadata was not found to exist at the time of writing, metadata must be generated from scratch. 

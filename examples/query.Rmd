@@ -1,0 +1,48 @@
+---
+title: "Access GBADs Metadata"
+author: "Kassy Raymond"
+date: "2024-11-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Connect to Neo4j Aura using the GBADs API  
+
+The purpose of this script is to use the GBADs Application Programming Interface (API) 
+to get information about the metadata and data sources available in the 
+Neo4j Graph Database instance. 
+
+```{r}
+# include packages for use
+# install.packages(c("httr", "jsonlite"))
+library(httr)
+library(jsonlite)
+```
+
+```{r}
+# Get a list of species available for query 
+res = GET('https://gbadske.org/meta-api/species')
+species = fromJSON(rawToChar(res$content))
+species
+```
+
+Using this list of species, we can use them to query for data of interest. 
+We also need countrys.
+
+```{r}
+# Get a list of countries available for query 
+res = GET('https://gbadske.org/meta-api/countries')
+countries = fromJSON(rawToChar(res$content))
+countries
+```
+
+Using countries and species of interest, we can get data.
+
+```{r}
+res = GET('https://gbadske.org/meta-api/datasets?countries=Canada&species=Cattle')
+data = fromJSON(rawToChar(res$content))
+data
+```
