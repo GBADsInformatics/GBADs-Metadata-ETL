@@ -44,13 +44,14 @@ GBADs is currently using a paid Neo4j Aura instance to host the graph database. 
 
 ### 🧙‍♂️ Interacting with Graph Database in RStudio 
 
-Cool examples coming soon....
-
-## 🔄 ETL Process
+Examples are provided in examples/query.Rmd
 
 ### Directory Structure
 
+Some data files are omitted for the interest of space... 
+
 ```
+.
 ├── LICENSE
 ├── README.md
 ├── config
@@ -58,51 +59,198 @@ Cool examples coming soon....
 │   ├── dumps
 │   ├── processed
 │   │   ├── ethiopia
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Camels_cat_area_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Camels_cat_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Camels_table_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Camels_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Cattle_cat_area_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Cattle_cat_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Cattle_table_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Cattle_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Donkeys_cat_area_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Donkeys_cat_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Donkeys_table_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Donkeys_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Goats_cat_area_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Goats_cat_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Goats_table_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Goats_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Horses_cat_area_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Horses_cat_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Horses_table_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Horses_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Mules_cat_area_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Mules_cat_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Mules_table_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Mules_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Poultry_cat_area_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Poultry_cat_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Poultry_table_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Poultry_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Sheep_cat_area_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Sheep_cat_yr.csv
+│   │   │   ├── Ethiopia Central Statistics Agency Agricultural Sample Survey_Sheep_table_yr.csv
+│   │   │   └── Ethiopia Central Statistics Agency Agricultural Sample Survey_Sheep_yr.csv
+│   │   ├── eurostat
+│   │   │   ├── 20240328_livestock_countries_population_eurostat_Dataset.json
+│   │   │   ├── 20240328_livestock_countries_population_eurostat_area.csv
+│   │   │   └── 20240328_livestock_countries_population_eurostat_category.csv
 │   │   ├── faostat
-│   │   │   ├── node.csv
-│   │   │   └── relationship.csv
+│   │   │   ├── 20240328_livestock_countries_population_faostat_DataDownload.json
+│   │   │   ├── 20240328_livestock_countries_population_faostat_Dataset.json
+│   │   │   ├── 20240328_livestock_countries_population_faostat_Organization.json
+│   │   │   ├── 20240328_livestock_countries_population_unfccc_DataDownload.json
+│   │   │   ├── 20240328_livestock_countries_population_unfccc_Dataset.json
+│   │   │   └── 20240328_livestock_countries_population_unfccc_Organization.json
 │   │   ├── geo
+│   │   ├── s3-gbads-tables.json
 │   │   └── woah
+│   │       ├── 20240403_livestock_countries_population_oie_DataDownload.json
+│   │       ├── 20240403_livestock_countries_population_oie_Dataset.json
+│   │       ├── 20240403_livestock_countries_population_oie_Organization.json
+│   │       ├── 20240403_livestock_countries_population_oie_PropertyValue.csv
+│   │       ├── 20240403_livestock_countries_population_oie_area.csv
+│   │       └── 20240403_livestock_countries_population_oie_category.csv
 │   └── raw
 │       ├── ethiopia
+│       │   ├── 2003_102.csv
+│       │   ├── 2003_103.csv
+│       │   ├── 2003_104.csv
+│       │   ├── 2003_105.csv
+│       │   ├── 2003_106.csv
+│       │   ├── 2004_132.csv
+│       │   ├── 2004_133.csv
+│       │   ├── 2020_186.csv
+│       │   ├── 2020_187.csv
+│       │   ├── 2020_188.csv
+│       │   ├── 2020_189.csv
+│       │   ├── 2020_190.csv
+│       │   ├── EthCSA_Camels.csv
+│       │   ├── EthCSA_Cattle.csv
+│       │   ├── EthCSA_Donkeys.csv
+│       │   ├── EthCSA_Goats.csv
+│       │   ├── EthCSA_Horses.csv
+│       │   ├── EthCSA_Mules.csv
+│       │   ├── EthCSA_Poultry.csv
+│       │   ├── EthCSA_Sheep.csv
+│       │   └── EthCSA_allCats.csv
+│       ├── eurostat
+│       │   └── 20240328_livestock_countries_population_eurostat.csv
 │       ├── faostat
 │       │   ├── 20240226_GLE_itemcodes.json
 │       │   ├── 20240226_GLE_metadata.json
 │       │   ├── 20240226_QCL_itemcodes.json
 │       │   ├── 20240226_QCL_metadata.json
 │       │   ├── 20240226_dump.json
-│       │   └── Y0226_areacodes.json
+│       │   ├── 20240325_GLE_description.txt
+│       │   ├── 20240325_QCL_description.txt
+│       │   ├── S3
+│       │   │   ├── livestock_countries_population_faostat.csv
+│       │   │   └── livestock_countries_population_unfccc.csv
+│       │   ├── Y0226_areacodes.json
+│       │   └── data
+│       │       ├── 20240313_en_GLE_100_filtered.csv
+│       │       ├── 20240313_en_GLE_101_filtered.csv
+│       │       ├── 20240313_en_GLE_102_filtered.csv
+│       │       ├── 20240313_en_GLE_103_filtered.csv
+│       │       ├── 20240313_en_GLE_104_filtered.csv
 │       ├── geo
 │       │   └── 20240309_geo.csv
+│       ├── indonesia
+│       │   ├── 20230824_Indonesia_BeefCattle.xlsx
+│       │   ├── 20230824_Indonesia_Broiler.xlsx
+│       │   ├── 20230824_Indonesia_Buffalo.xlsx
+│       │   └── 20230824_Indonesia_DairyCattle.xlsx
+│       ├── ireland
+│       │   ├── dataset.json
+│       │   ├── datasets.csv
+│       │   ├── meta_AAA01.json
+│       │   ├── meta_AAA02.json
+│       │   ├── meta_AAA03.json
+│       │   ├── meta_AAA04.json
+│       │   ├── meta_AAA05.json
+│       │   ├── meta_AAA06.json
+│       │   ├── meta_AAA07.json
+│       │   ├── meta_AAA08.json
+│       │   ├── meta_AAA09.json
+│       │   ├── meta_AAA10.json
+│       │   ├── meta_AAA11.json
+│       │   ├── meta_ACEN1.json
+│       │   ├── meta_AVA11.json
+│       │   ├── meta_AVA12.json
+│       │   └── meta_FSA14.json
 │       └── woah
+│           ├── 20240320_WOAH_Metadata.json
+│           ├── 20240320_WOAH_Organization.json
+│           └── 20240326_livestock_countries_population_oie.csv
 ├── docs
 │   ├── Countries.md
 │   ├── ETHIOPIA.md
 │   ├── EuroStat.md
 │   ├── FAOSTAT.md
+│   ├── Indonesia.md
 │   ├── Ireland.md
 │   └── WOAH.md
 ├── etl
+│   ├── combine_datasets.sh
 │   ├── etl_country.py
-│   ├── etl_faostat.py
 │   ├── extract
 │   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-312.pyc
+│   │   │   ├── extract_faostat.cpython-312.pyc
+│   │   │   └── extract_helpers.cpython-312.pyc
+│   │   ├── aws-config.txt
+│   │   ├── extract_GBADs_S3.py
 │   │   ├── extract_ess.py
+│   │   ├── extract_eurostat.py
 │   │   ├── extract_faostat.py
-│   │   └── extract_helpers.py
+│   │   ├── extract_helpers.py
+│   │   ├── extract_indonesia.py
+│   │   ├── extract_ireland.R
+│   │   └── extract_woah.py
 │   ├── load
 │   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-312.pyc
+│   │   │   ├── database.cpython-312.pyc
+│   │   │   ├── load.cpython-312.pyc
+│   │   │   ├── load_data.cpython-312.pyc
+│   │   │   └── load_data_helpers.cpython-312.pyc
+│   │   ├── config-test.ini
 │   │   ├── config.ini
 │   │   ├── database.py
-│   │   └── load_data.py
+│   │   ├── load_data.py
+│   │   ├── load_data_helpers.py
+│   │   ├── load_woah.sh
+│   │   └── update_dataset.py
 │   └── transform
 │       ├── __init__.py
+│       ├── __pycache__
+│       │   ├── transform_helpers.cpython-312.pyc
+│       │   └── validate_metadata.cpython-312.pyc
+│       ├── transform_ethiopia.py
 │       ├── transform_faostat.py
-│       └── validations
-│           └── validate_metadata.py
+│       ├── transform_from_file.py
+│       ├── transform_helpers.py
+│       ├── transform_ireland.R
+│       └── validate_metadata.py
 ├── examples
+│   └── query.Rmd
 ├── graph-db-schema.png
-└── tests
+├── tests
+│   ├── __pycache__
+│   │   ├── test_graph_database.cpython-312-pytest-7.4.4.pyc
+│   │   └── test_graph_database.cpython-312.pyc
+│   ├── test_data
+│   │   ├── test_datadownload.json
+│   │   ├── test_dataset.json
+│   │   └── test_organization.json
+│   └── test_graph_database.py
+└── tmp.txt
+
+32 directories, 948 files
+
 
 ```
 
