@@ -4,6 +4,8 @@ import sys
 sys.path.append("../load")
 from database import get_db_driver
 
+# Code adapted from: https://pypi.org/project/neo4j-backup/
+
 if __name__ == "__main__":
 
     driver = get_db_driver()
