@@ -131,7 +131,7 @@ def connect_organization(org_name, dataset_name, driver):
         )
         session.run(query, name=org_name, dataset_name=dataset_name)
 
-def load_DataDownload(data, driver):
+def load_DataDownload(data, driver, return_query = False):
 
     with driver.session() as session:
         query = (
@@ -144,6 +144,19 @@ def load_DataDownload(data, driver):
             """
         )
         session.run(query, **data)
+    
+        if return_query == True:
+            return_query = (
+                """
+                MATCH (a:Dataset)-[r:HAS_DISTRIBUTION]->(d:DataDownload {contentUrl: $contentUrl})
+                WHERE a.name = $name
+                RETURN a.name AS name, d.contentUrl AS contentUrl
+                """
+            )
+            result = session.run(return_query, name = data['name'], contentUrl = data['contentUrl'])
+            record = result.single()
+
+            return(record)
 
 def connect_PropertyValue_Dataset(dataset_name, name, driver):
 
