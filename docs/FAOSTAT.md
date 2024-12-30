@@ -21,7 +21,7 @@ Elements: Stocks
 FAO SOURCE: UNFCCC
 URL: https://www.fao.org/faostat/en/#data/GLE
 
-Each of the datasets from these sources was downloaded and 
+Each of the datasets from these sources was downloaded.
 
 ## Creating Metadata 
 

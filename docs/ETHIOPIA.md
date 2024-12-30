@@ -28,9 +28,13 @@ Livestock and Livestock Characteristics(Private Peasant Holdings) 2009-10 (2002 
 
 ## Extract
 
-
+Data was extracted from the above using scripts adapated from the scraping exercise here: https://github.com/GBADsInformatics/pdfScrapingETHCSA
 
 ## Transform
+
+Scripts are from previous work by Kassy Raymond with the Datasphere Initiative, and were copied from: https://github.com/kassyray/DatasphereGraph/
+
+
 
 ## Load
 
