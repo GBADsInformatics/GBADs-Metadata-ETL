@@ -1,0 +1,2 @@
+Livestock population data was downloaded from https://my.icar.org/stats/list. Metadata was not available from the data portal.
+The user is referred to the website or contact point to find more information about the dataset. 
