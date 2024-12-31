@@ -14,7 +14,7 @@ FAO_GLE_GBADS_API = "https://gbadske.org/api/GBADsPublicQuery/livestock_countrie
 FAO_QCL_GBADS_API = "https://gbadske.org/api/GBADsPublicQuery/livestock_countries_population_faostat?fields=year,population,iso3,country,species,flag&query=&format=text"
 FAO_GLE_TBL = "livestock_countries_population_unfccc"
 FAO_QCL_TBL = "livestock_countries_population_faostat"
-FAO_LISENCE = "https://creativecommons.org/licenses/by-nc-sa/3.0/igo"
+FAO_LICENSE = "https://creativecommons.org/licenses/by-nc-sa/3.0/igo"
 FAO_METADATA_BASE_URL = "https://www.fao.org/faostat/en/#data/"
 
 def get_dataset_name(db_dump, domain_code):
@@ -85,7 +85,7 @@ def create_custom_metadata(dataset_name, domain_code, file_path, description):
     metadata = {
         'name': dataset_name,
         'description': description,
-        'license': FAO_LISENCE,
+        'license': FAO_LICENSE,
         'sourceTable': sourceTable,
         'species': species,
         'temporalCoverage': temporalCoverage,
